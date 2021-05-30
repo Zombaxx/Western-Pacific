@@ -1,0 +1,15 @@
+# 755 - Province0755
+
+# County Title
+title = c_province0755
+
+# Settlements
+max_settlements = 4
+b_barony0755` = tribal
+b_barony0755a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

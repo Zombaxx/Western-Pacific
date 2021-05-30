@@ -1,0 +1,15 @@
+# 145 - Province0145
+
+# County Title
+title = c_province0145
+
+# Settlements
+max_settlements = 5
+b_barony0145` = tribal
+b_barony0145a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

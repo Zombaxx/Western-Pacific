@@ -1,0 +1,15 @@
+# 373 - Province0373
+
+# County Title
+title = c_province0373
+
+# Settlements
+max_settlements = 5
+b_barony0373` = tribal
+b_barony0373a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

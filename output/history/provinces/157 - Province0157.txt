@@ -1,0 +1,15 @@
+# 157 - Province0157
+
+# County Title
+title = c_province0157
+
+# Settlements
+max_settlements = 5
+b_barony0157` = tribal
+b_barony0157a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

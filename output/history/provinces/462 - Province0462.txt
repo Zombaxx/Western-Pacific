@@ -1,0 +1,15 @@
+# 462 - Province0462
+
+# County Title
+title = c_province0462
+
+# Settlements
+max_settlements = 4
+b_barony0462` = tribal
+b_barony0462a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

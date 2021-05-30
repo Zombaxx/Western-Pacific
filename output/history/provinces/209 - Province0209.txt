@@ -1,0 +1,15 @@
+# 209 - Province0209
+
+# County Title
+title = c_province0209
+
+# Settlements
+max_settlements = 5
+b_barony0209` = tribal
+b_barony0209a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

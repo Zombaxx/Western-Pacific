@@ -1,0 +1,15 @@
+# 890 - Province0890
+
+# County Title
+title = c_province0890
+
+# Settlements
+max_settlements = 5
+b_barony0890` = tribal
+b_barony0890a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

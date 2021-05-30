@@ -1,0 +1,15 @@
+# 586 - Province0586
+
+# County Title
+title = c_province0586
+
+# Settlements
+max_settlements = 5
+b_barony0586` = tribal
+b_barony0586a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

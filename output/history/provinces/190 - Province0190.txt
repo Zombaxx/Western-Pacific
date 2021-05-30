@@ -1,0 +1,15 @@
+# 190 - Province0190
+
+# County Title
+title = c_province0190
+
+# Settlements
+max_settlements = 4
+b_barony0190` = tribal
+b_barony0190a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

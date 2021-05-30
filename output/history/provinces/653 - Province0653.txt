@@ -1,0 +1,15 @@
+# 653 - Province0653
+
+# County Title
+title = c_province0653
+
+# Settlements
+max_settlements = 1
+b_barony0653` = tribal
+b_barony0653a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

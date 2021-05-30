@@ -1,0 +1,15 @@
+# 901 - Province0901
+
+# County Title
+title = c_province0901
+
+# Settlements
+max_settlements = 5
+b_barony0901` = tribal
+b_barony0901a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

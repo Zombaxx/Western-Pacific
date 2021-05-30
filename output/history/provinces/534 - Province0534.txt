@@ -1,0 +1,15 @@
+# 534 - Province0534
+
+# County Title
+title = c_province0534
+
+# Settlements
+max_settlements = 5
+b_barony0534` = tribal
+b_barony0534a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

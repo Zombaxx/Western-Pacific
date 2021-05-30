@@ -1,0 +1,15 @@
+# 970 - Province0970
+
+# County Title
+title = c_province0970
+
+# Settlements
+max_settlements = 3
+b_barony0970` = tribal
+b_barony0970a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

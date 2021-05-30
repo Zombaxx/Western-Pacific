@@ -1,0 +1,15 @@
+# 485 - Province0485
+
+# County Title
+title = c_province0485
+
+# Settlements
+max_settlements = 4
+b_barony0485` = tribal
+b_barony0485a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History

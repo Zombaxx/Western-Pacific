@@ -1,0 +1,15 @@
+# 869 - Province0869
+
+# County Title
+title = c_province0869
+
+# Settlements
+max_settlements = 5
+b_barony0869` = tribal
+b_barony0869a = temple
+
+# Misc
+culture = uncultured_swine
+religion = pagan
+
+# History
