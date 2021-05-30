@@ -1,0 +1,163 @@
+#CODE;ENGLISH;FRENCH;GERMAN;SPANISH;;;;;;;;;;;x
+ca_f_citadel;Citadel;;;;;;;;;;;;;;x
+ca_f_citadel_desc;A massive tower on the wall adding great strength to the castle. With its intricate earthwork and defenses, the castle is near impenetrable.;;;;;;;;;;;;;;x
+ca_f_blacksmith;Blacksmith;;;;;;;;;;;;;;x
+ca_f_blacksmith_desc;A Place where new weaponry is made and upgraded. With this building you are able to appoint a court Blacksmith to craft weapons of your choosing.;;;;;;;;;;;;;;x
+ca_f_courtyard;Courtyard;;;;;;;;;;;;;;x
+ca_f_courtyard_desc;A very well decorated courtyard for you and your court to relax and enjoy simple pleasures.;;;;;;;;;;;;;;x
+ca_f_tavern;Grand Tavern;;;;;;;;;;;;;;x
+ca_f_tavern_desc;A tavern which adds a boost to the economy.;;;;;;;;;;;;;;x
+ca_f_moat;Moat;;;;;;;;;;;;;;x
+ca_f_moat_desc;A well dug moat to help slow enimies down.;;;;;;;;;;;;;;x
+ca_f_well;Well;;;;;;;;;;;;;;x
+ca_f_well_desc;A well to provide water throughout the castle.;;;;;;;;;;;;;;x
+ca_f_drydock;Drydock;;;;;;;;;;;;;;x
+ca_f_drydock_desc;A place to craft new ships for your fleet.;;;;;;;;;;;;;;x
+ca_f_crenellations;Improved Crenellations;;;;;;;;;;;;;;x
+ca_f_crenellations_desc;Improved crenellations to aid in the defense of your castle.;;;;;;;;;;;;;;x
+ca_f_re_gate;Reinforced Gate;;;;;;;;;;;;;;x
+ca_f_re_gate_desc;A upgrade to the gates so that it will take longer to be breached.;;;;;;;;;;;;;;x
+ca_f_fireplace;Grand Fireplace;;;;;;;;;;;;;;x
+ca_f_fireplace_desc;A grand fireplace for your dining hall.;;;;;;;;;;;;;;x
+fr_f_barracks_1;Barracks;;;;;;;;;;;;;;x
+fr_f_barracks_1_desc;A place for your men to sleep other than tents;;;;;;;;;;;;;;x
+fr_f_barracks_2;Barracks;;;;;;;;;;;;;;x
+fr_f_barracks_2_desc;An Improved sleeping quarters for your men,;;;;;;;;;;;;;;x
+fr_f_towers;Towers;;;;;;;;;;;;;;x
+fr_f_towers_desc;A set of towers to keep watch and help defend your fort.;;;;;;;;;;;;;;x
+fr_f_cmd_tent;Command Tent;;;;;;;;;;;;;;x
+fr_f_cmd_tent_desc;A Tent for the commanding officer.;;;;;;;;;;;;;;x
+fr_f_cmd_building;Command Building;;;;;;;;;;;;;;x
+fr_f_cmd_building_desc;A much better place for managing the fort and its soldiers.;;;;;;;;;;;;;;x
+ct_f_tavern;Tavern;;;;;;;;;;;;;;x
+ct_f_tavern_desc;A tavern for the city that makes a nice trickle of gold.;;;;;;;;;;;;;;x
+ct_f_prison;Prison;;;;;;;;;;;;;;x
+ct_f_prison_desc;A place to keep the unlawful or well anyone you want.;;;;;;;;;;;;;;x
+ct_f_armory;Armory;;;;;;;;;;;;;;x
+ct_f_armory_desc;A place for the town garrison to store there armor and weapons.;;;;;;;;;;;;;;x
+ct_f_blacksmith;Blacksmith;;;;;;;;;;;;;;x
+ct_f_blacksmith_desc;A place for a smith to forge your armies weapons.;;;;;;;;;;;;;;x
+ct_f_farm_1;Farmland;;;;;;;;;;;;;;x
+ct_f_farm_1_desc; Fields for growing crops for your people and to sell.;;;;;;;;;;;;;;x
+ct_f_farm_2;Greater Farmland;;;;;;;;;;;;;;x
+ct_f_farm_2_desc;A bigger and greater amount of land for farms.;;;;;;;;;;;;;;x
+ca_brothel;Brothel;;;;;;;;;;;;;;x
+ct_f_brothel_desc;A place for the sinful to rest.;;;;;;;;;;;;;;x
+ca_f_dungeon;Dungeon;;;;;;;;;;;;;;x
+ca_f_dungeon_desc;A place for prisoners of all kinds.;;;;;;;;;;;;;;x
+ms_f_courtyard;Courtyard;;;;;;;;;;;;;;x
+ms_f_courtyard_desc;A courtyard with space for a statue or fountain.;;;;;;;;;;;;;;x
+ms_f_fountain;Courtyard and Fountain;;;;;;;;;;;;;;x
+ms_f_fountain_desc;An upgraded courtyard with a nice fountain.;;;;;;;;;;;;;;x
+ca_f_war_room;War Room;;;;;;;;;;;;;;x
+ca_f_war_room_desc;A room made for planning strategies for war.;;;;;;;;;;;;;;x
+tp_f_grave;Graveyard;;;;;;;;;;;;;;x
+tp_f_grave_desc;A place for the dead to rest.;;;;;;;;;;;;;;x
+ct_f_lighthouse;Lighthouse;;;;;;;;;;;;;;x
+ct_f_lighthouse_desc;A nice lighthouse to help ships reach the docks safley.;;;;;;;;;;;;;;x
+# Update 1;;;;;;;;;;;;;;;x
+hs_f_treatment_camps;Treatment camps;;;;;;;;;;;;;;x
+hs_f_treatment_camps_desc;A bunch of camps spread around the county to help the sick.;;;;;;;;;;;;;;x
+tp_f_warehouse;Warehouse;;;;;;;;;;;;;;x
+tp_f_warehouse_desc;A place for merchants to store goods.;;;;;;;;;;;;;;x
+no_f_trade_camp;Trade camp;;;;;;;;;;;;;;x
+no_f_trade_camp_desc;A place for traders to gather from many lands.;;;;;;;;;;;;;;x
+no_f_trade_hall;Trade Hall;;;;;;;;;;;;;;x
+no_f_trade_hall_desc;A place for merchants to oversee the trade camp.;;;;;;;;;;;;;;x
+tp_f_navy_supplies;Navy Supplies;;;;;;;;;;;;;;x
+tp_f_navy_supplies_desc;A place where the fleets supplies can be stored so that they may protect your trade.;;;;;;;;;;;;;;x
+tp_f_soup_kitchen;Soup Kitchen;;;;;;;;;;;;;;x
+tp_f_soup_kitchen_desc;A small building to provide soup to the poor at cost.;;;;;;;;;;;;;;x
+fr_f_stone_walls;Stone Walls;;;;;;;;;;;;;;x
+fr_f_stone_walls_desc;Solid Stone walls that make any fort powerfull.;;;;;;;;;;;;;;x
+fr_f_stone_towers;Stone Towers;;;;;;;;;;;;;;x
+fr_f_stone_towers_desc;Much better than the simple wooden tower these mighty structures will make your foes tremble;;;;;;;;;;;;;;x
+fr_f_barracks_3;Barracks;;;;;;;;;;;;;;x
+fr_f_barracks_3_desc;A much larger barracks to garrison many more troops.;;;;;;;;;;;;;;x
+ms_f_minor_investments;Small Investment;;;;;;;;;;;;;;x
+ms_f_minor_investments_desc;A small investment that will slowly generate the family money.;;;;;;;;;;;;;;x
+ms_f_large_investments;Large Investment;;;;;;;;;;;;;;x
+ms_f_large_investments_desc;A larger investment of money that will make your family rich.;;;;;;;;;;;;;;x
+hs_f_treatment_clinics;Clinics;;;;;;;;;;;;;;x
+hs_f_treatment_clinics_desc;Upgrading all the camps to clinics will help fight disease and epidemics.;;;;;;;;;;;;;;x
+# Update 2;;;;;;;;;;;;;;;x
+hs_f_cremation_site;Cremation Site;;;;;;;;;;;;;;x
+hs_f_cremation_site_desc;Burn the bodies of those who are infected to prevent spreading.;;;;;;;;;;;;;;x
+ca_f_oil;Oil cauldrons;;;;;;;;;;;;;;x
+ca_f_oil_desc;Filled with hot oil that can be set alight these cauldrons are a deadly siege defense.;;;;;;;;;;;;;;x
+ca_f_throne;Throne Room;;;;;;;;;;;;;;x
+ca_f_throne_desc;A Upgraded throne room to impress all.;;;;;;;;;;;;;;x
+tb_f_sacred_ground;Sacred Ground;;;;;;;;;;;;;;x
+tb_f_sacred_ground_desc;A Sacred place for pagans to worship their gods.;;;;;;;;;;;;;;x
+ca_f_re_gate_2;Iron Gates;;;;;;;;;;;;;;x
+ca_f_re_gate_2_desc;Even stronger gates with iron platings;;;;;;;;;;;;;;x
+ms_f_family_tomb;Family Tomb;;;;;;;;;;;;;;x
+ms_f_family_tomb_desc;A place for your entire family to rest;;;;;;;;;;;;;;x
+tp_f_merchant_hall;Merchant Hall;;;;;;;;;;;;;;x
+tp_f_merchant_hall_desc;A outpost for merchants to rest and relax before the next voyage.;;;;;;;;;;;;;;x
+ms_f_guards_hall;Guards Hall;;;;;;;;;;;;;;x
+ct_f_guards_hall;Guards Hall;;;;;;;;;;;;;;x
+ms_f_guards_hall_desc;A place to house a small group of loyal guards.;;;;;;;;;;;;;;x
+ms_f_soldier_hall;Soldiers Hall;;;;;;;;;;;;;;x
+ct_f_soldier_hall;Soldiers Hall;;;;;;;;;;;;;;x
+ms_f_soldier_hall_desc;A hall for some loyal soldiers to eat and sleep.;;;;;;;;;;;;;;x
+# Update 3;;;;;;;;;;;;;;;x
+tb_f_ancesteral_stones;Ancestor Stones;;;;;;;;;;;;;;x
+tb_f_ancesteral_stones_desc;Where markings a left to tell the stories of the dead.;;;;;;;;;;;;;;x
+tb_f_slave_trader;Slave Trader;;;;;;;;;;;;;;x
+tb_f_slave_trader_desc;A place where the darkest of trades takes place.;;;;;;;;;;;;;;x
+tb_f_chieftans_hall;Chieftans Hall;;;;;;;;;;;;;;x
+tb_f_chieftans_hall_desc;A place fit for a chieftan.;;;;;;;;;;;;;;x
+tb_f_kings_hall;Kings Hall;;;;;;;;;;;;;;x
+tb_f_kings_hall_desc;A hall fit for a king.;;;;;;;;;;;;;;x
+# Update 5;;;;;;;;;;;;;;;x
+ca_f_ballista_mounts;Mounted Ballistas;;;;;;;;;;;;;;x
+ca_f_ballista_mounts_desc;A fair amount of ballistas to help defend your walls.;;;;;;;;;;;;;;x
+fr_f_ballista_tower;Ballista Tower;;;;;;;;;;;;;;x
+fr_f_ballista_tower_desc;A single ballista tower to protect the fort.;;;;;;;;;;;;;;x
+ca_f_trebuchet_emplacement;Trebuchets;;;;;;;;;;;;;;x
+ca_f_trebuchet_emplacement_desc;A couple of trebuchets to help stop enemies from getting close.;;;;;;;;;;;;;;x
+ct_f_artist_guild;Artists Guild;;;;;;;;;;;;;;x
+ct_f_artist_guild_desc;A place for artists of all kinds to work.;;;;;;;;;;;;;;x
+tb_f_spiked_ditch;Spiked Ditch;;;;;;;;;;;;;;x
+tb_f_spiked_ditch_desc;A Ditch dug out on the outside of walls and filled with wooden spikes at the bottom.;;;;;;;;;;;;;;x
+tb_f_gathering_spot;Rally Yard;;;;;;;;;;;;;;x
+tb_f_gathering_spot_desc;An ideal area for your troops to gather before marching.;;;;;;;;;;;;;;x
+# Update 6;;;;;;;;;;;;;;;x
+no_f_drinking_tents;Drinking Tents;;;;;;;;;;;;;;x
+no_f_drinking_tents_desc;A group of tents to set up a tavern.;;;;;;;;;;;;;;x
+no_f_tavern_tents;Tavern Tents.;;;;;;;;;;;;;;x
+no_f_tavern_tents_desc;A larger group of tents to set up a travelling tavern.;;;;;;;;;;;;;;x
+tp_f_ballista_emplacement;Ballista Emplacements.;;;;;;;;;;;;;;x
+tp_f_ballista_emplacement_desc;A small amount of ballistas placed around the trade post.;;;;;;;;;;;;;;x
+# Update 7;;;;;;;;;;;;;;;x
+ca_f_household_banners;Household Banners;;;;;;;;;;;;;;x
+ca_f_household_banners_desc;A set of fancy banners to represent your household.;;;;;;;;;;;;;;x
+ct_f_household_banners;Household Banners;;;;;;;;;;;;;;x
+ct_f_household_banners_desc;A set of fancy banners to represent your household.;;;;;;;;;;;;;;x
+tb_f_household_banners;Household Banners;;;;;;;;;;;;;;x
+tb_f_household_banners_desc;A set of fancy banners to represent your household.;;;;;;;;;;;;;;x
+ca_f_road_tolls;Road Tolls;;;;;;;;;;;;;;x
+ca_f_road_tolls_desc;Road tolls in the region to increase profits.;;;;;;;;;;;;;;x
+ct_f_road_tolls;Road Tolls;;;;;;;;;;;;;;x
+ct_f_road_tolls_desc;Road tolls in the region to increase profits.;;;;;;;;;;;;;;x
+tb_f_road_tolls;Road Tolls;;;;;;;;;;;;;;x
+tb_f_road_tolls_desc;Road tolls in the region to increase profits.;;;;;;;;;;;;;;x
+no_f_road_tolls;Road Tolls;;;;;;;;;;;;;;x
+no_f_road_tolls_desc;Road tolls in the region to increase profits.;;;;;;;;;;;;;;x
+ca_f_gallows;Gallows;;;;;;;;;;;;;;x
+ca_f_gallows_desc;A place to hange the law breakers of the region.;;;;;;;;;;;;;;x
+ct_f_gallows;Gallows;;;;;;;;;;;;;;x
+ct_f_gallows_desc;A place to hange the law breakers of the region.;;;;;;;;;;;;;;x
+tb_f_scout_outpost;Scout Outpost;;;;;;;;;;;;;;x
+tb_f_scout_outpost_desc;An outpost to give early warning of hostile armies.;;;;;;;;;;;;;;x
+no_f_scout_outpost;Scout Outpost;;;;;;;;;;;;;;x
+no_f_scout_outpost_desc;An outpost to give early warning of hostile armies.;;;;;;;;;;;;;;x
+tb_f_brawling_arena;Brawling Arena;;;;;;;;;;;;;;x
+tb_f_brawling_arena_desc;A place for the men to spare;;;;;;;;;;;;;;x
+no_f_brawling_arena;Brawling Arena;;;;;;;;;;;;;;x
+no_f_brawling_arena_desc;A place for the men to spare;;;;;;;;;;;;;;x
+tb_f_hunting_grounds;Hunting Grounds;;;;;;;;;;;;;;x
+tb_f_hunting_grounds_desc;A place for archers to hunt food and feed the people.;;;;;;;;;;;;;;x
+no_f_hunting_grounds;Hunting Grounds;;;;;;;;;;;;;;x
+no_f_hunting_grounds_desc;A place for archers to hunt food and feed the people.;;;;;;;;;;;;;;x

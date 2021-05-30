@@ -1,0 +1,18 @@
+RETSML_LINF;Small Militia;;;;;;;;;;;;;x
+RETSML_ARCH;Small Militia;;;;;;;;;;;;;x
+RETSML_HINF;Small Rifleman Regiment;;;;;;;;;;;;;x
+RETSML_PIKE;Small Grenadier Regiment;;;;;;;;;;;;;x
+RETSML_LCAV;Small Motorized Regiment;;;;;;;;;;;;;x
+RETSML_HCAV;Small Armored Regiment;;;;;;;;;;;;;x
+RETMED_LINF;Medium Militia;;;;;;;;;;;;;x
+RETMED_ARCH;Medium Militia;;;;;;;;;;;;;x
+RETMED_HINF;Medium Rifleman Regiment;;;;;;;;;;;;;x
+RETMED_PIKE;Medium Grenadier Regiment;;;;;;;;;;;;;x
+RETMED_LCAV;Medium Motorized Regiment;;;;;;;;;;;;;x
+RETMED_HCAV;Medium Armored Regiment;;;;;;;;;;;;;x
+RETLRG_LINF;Large Militia;;;;;;;;;;;;;x
+RETLRG_ARCH;Large Militia;;;;;;;;;;;;;x
+RETLRG_HINF;Large Rifleman Regiment;;;;;;;;;;;;;x
+RETLRG_PIKE;Large Grenadier Regiment;;;;;;;;;;;;;x
+RETLRG_LCAV;Large Motorized Regiment;;;;;;;;;;;;;x
+RETLRG_HCAV;Large Armored Regiment;;;;;;;;;;;;;x

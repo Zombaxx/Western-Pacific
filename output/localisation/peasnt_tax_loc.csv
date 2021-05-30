@@ -1,0 +1,18 @@
+#CODE;ENGLISH;;;;;;;;;x
+
+peasant_taxing_law;Peasant;;;;;;;;;x
+peasant_taxing_law_desc;This laws defines the amount of taxes extracted from the peasants. It may take a short period for the laws to enter into efffect, but the harsher the taxing, the more discontent the peasantry.;;;;;;;;;;;;;x
+LENIENT;Lenient;;;;;;;;;x
+HARSH;Harsh;;;;;;;;;x
+tax_peasants_law_feudal_0;Lenient Taxing;;;;;;;;;x
+tax_peasants_law_feudal_0_desc;With this law the peasantry aren't made to pay much in taxes.;;;;;;;;;x
+tax_peasants_law_feudal_1;High Taxing;;;;;;;;;x
+tax_peasants_law_feudal_1_desc;With this law the peasants pay a significant amount of their income to the crown. They will not be pleased, but they must contribute like everyone else.;;;;;;;;;x
+tax_peasants_law_feudal_2;Brutal Taxing;;;;;;;;;x
+tax_peasants_law_feudal_2_desc;The peasantry will be obligated to give most of their earnings in taxes to the crown.;;;;;;;;;x
+tax_peasants_law_feudal_3;Outrageous Taxing;;;;;;;;;x
+tax_peasants_law_feudal_3_desc;With this law the peasantry will owe almost all of their earnings to the crown. What do peasants even need money for anyway?;;;;;;;;;x
+peasants_lenient_tax;Lenient Taxes;;;;;;;;;x
+peasants_high_tax;High Taxes;;;;;;;;;x
+peasants_brutal_tax;Brutal Taxes;;;;;;;;;x
+peasants_horrying_tax;Outrageous Taxes;;;;;;;;;x

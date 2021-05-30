@@ -1,0 +1,12 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;;;;;;;;;;;;;;x
+EVTTITroytroops.0;Home From War;;;;;;;;;;;;;;x
+EVTDESCroytroops;Your soldiers, who have fought loyally alongside you for your whole campaign, have finally gone home and are now organizing and requesting compensation for their service to the crown. They claim they deserve this gold and need it to support their kin.;;;;;;;;;;;;;;x
+EVTOPTAroytroops;Of course. You've earned it!;;;;;;;;;;;;;;x
+EVTOPTBroytroops;Sure, I'll "pay" you...;;;;;;;;;;;;;;x
+EVTOPTCroytroops;No. I cannot afford this.;;;;;;;;;;;;;;x
+paytroops1;Compensate your soldiers for fighting your wars.;;;;;;;;;;;;;;x
+paytroops2;Withhold some of your soldiers' payment. They'll be fine without it, right?;;;;;;;;;;;;;;x
+paytroops3;Don't pay them anything. Peasants exist to serve you.;;;;;;;;;;;;;;x
+EVTOPTDroytroops;You deserve this and plenty more!;;;;;;;;;;;;;;x
+paytroops4;Double your soldiers' pay, assuring you their loyalty and a bit of popularity.;;;;;;;;;;;;;;x

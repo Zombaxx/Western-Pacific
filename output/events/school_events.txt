@@ -1,0 +1,243 @@
+namespace = going_school_events
+character_event = {
+	id = going_school_events.0
+	hide_window = yes
+	is_triggered_only = yes
+	trigger = {
+		has_character_flag = gone_school
+		age = 6
+		NOT = { age = 14 }
+	}
+
+	immediate = {
+		employer = { character_event = { id = going_school_events.1 } }
+	}
+}
+character_event = {
+	id = going_school_events.1
+	desc = EVTDESCgoing_school_events.1
+	picture = GFX_school_learn
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAgoing_school_events.1
+		custom_tooltip = { text = TOOLTIPEVTOPTAgoing_school_events.1 }
+		FROM = {
+			remove_trait = stressed
+			change_learning = -1
+			random = {
+				chance = 60
+				add_trait = slothful
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTBgoing_school_events.1
+		custom_tooltip = { text = TOOLTIPEVTOPTBgoing_school_events.1 }
+		hidden_tooltip = {
+			random_list = {
+				5 = { character_event = { id = going_school_events.2 days = 7 random = 7 } }
+				20 = { character_event = { id = going_school_events.3 days = 7 random = 7 } }
+				50 = { character_event = { id = going_school_events.4 days = 7 random = 7 } }
+				20 = { character_event = { id = going_school_events.5 days = 7 random = 7 } }
+				5 = { character_event = { id = going_school_events.6 days = 7 random = 7 } }
+			}
+		}
+	}
+}
+character_event = {
+	id = going_school_events.2
+	desc = EVTDESCgoing_school_events.2
+	picture = GFX_school_learn
+	is_triggered_only = yes
+
+	immediate = {
+		random_courtier = {
+			limit = {
+				prisoner = no
+				age = 6
+				NOT = { age = 14 }
+			}
+			save_event_target_as = school_friend
+		}
+	}
+
+	option = {
+		name = EVTOPTAgoing_school_events.2
+		FROMFROM = {
+		change_learning = 1
+		add_trait = diligent
+		add_friend = event_target:school_friend
+		}
+		clear_event_target = school_friend
+	}
+}
+character_event = {
+	id = going_school_events.3
+	desc = EVTDESCgoing_school_events.3
+	picture = GFX_school_learn
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAgoing_school_events.3
+		FROMFROM = {
+			random = {
+				chance = 40 
+				add_trait = gregarious
+			}
+			random = {
+				chance = 10
+				add_trait = slothful
+			}
+			random = {
+				chance = 60
+				change_diplomacy = 1
+			}
+		}
+	}
+}
+character_event = {
+	id = going_school_events.4
+	desc = EVTDESCgoing_school_events.4
+	picture = GFX_school_learn
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAgoing_school_events.4
+		FROMFROM = {
+		change_stewardship = 1
+		change_diplomacy = 1
+		change_learning = 1
+		}
+	}
+}
+character_event = {
+	id = going_school_events.5
+	desc = EVTDESCgoing_school_events.5
+	picture = GFX_school_learn
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAgoing_school_events.5
+		FROMFROM = {
+			IF = {
+				limit = { has_character_flag = gone_school }
+				change_stewardship = -1
+				change_diplomacy = -1
+				random_list = {
+					75 = { add_trait = stressed }
+					25 = { change_learning = -2 }
+				}
+			}
+		}
+	}
+}
+character_event = {
+	id = going_school_events.6
+	desc = EVTDESCgoing_school_events.6
+	picture = GFX_school_learn
+	is_triggered_only = yes
+
+	immediate = {
+		random_courtier = {
+			limit = {
+				prisoner = no
+				age = 16
+				NOT = { age = 50 }
+			}
+			save_event_target_as = school_teacher
+		}
+	}
+
+	option = {
+		name = EVTOPTAgoing_school_events.6
+		FROMFROM = {
+			change_martial = 1
+			change_intrigue = 1
+			change_stewardship = 1
+			change_learning = 1
+			add_friend = event_target:school_teacher
+			random = {
+				chance = 10
+				add_trait = genius
+			}
+		}
+		clear_event_target = school_teacher
+	}
+}
+character_event = {
+	id = going_school_events.7
+	is_triggered_only = yes
+	hide_window = yes
+	trigger = {
+		has_character_flag = gone_school
+		age = 16
+	}
+
+	immediate = {
+		clr_character_flag = gone_school
+	}
+}
+character_event = {
+	id = going_school_events.8
+	hide_window = yes
+	trigger = {
+		has_character_flag = gone_school
+		age = 15
+		NOT = { age = 16 }
+	}
+
+	mean_time_to_happen = {
+		months = 2
+		modifier = {
+			factor = 0.5
+			has_character_flag = gone_school
+		}
+	}
+
+	immediate = {
+		employer = { character_event = { id = going_school_events.9 } }
+	}
+}
+character_event = {
+	id = going_school_events.9
+	desc = EVTDESCgoing_school_events.9
+	picture = GFX_school_learn
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAgoing_school_events.9
+		custom_tooltip = { text = TOOLTIPEVTOPTAgoing_school_events.9 }
+		FROM = {
+		clr_character_flag = gone_school
+		remove_character_modifier = going_to_school
+			random_list = {
+				20 = { add_trait = bs_history }
+				30 = { add_trait = bs_politics }
+				20 = { add_trait = bs_economics }
+				10 = { add_trait = bs_finance }
+				5 = { add_trait = bs_physics }
+				5 = { add_trait = bs_chemistry }
+				10 = { add_trait = bs_mathematics }
+			}
+		}
+	}
+	option = {
+		name = EVTOPTBgoing_school_events.9
+		custom_tooltip = { text = TOOLTIPEVTOPTBgoing_school_events.9 }
+		FROM = {
+		clr_character_flag = gone_school
+		remove_character_modifier = going_to_school
+			random_list = {
+				5 = { add_trait = bs_literature }
+				15 = { add_trait = bs_cosmology }
+				15 = { add_trait = bs_philosophy }
+				20 = { add_trait = bs_art }
+				20 = { add_trait = bs_psychology }
+				20 = { add_trait = bs_communications }
+				5 = { add_trait = bs_biology }
+			}
+		}
+	}
+}

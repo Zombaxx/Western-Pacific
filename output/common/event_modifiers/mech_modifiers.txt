@@ -1,0 +1,156 @@
+army_professionalism_1 = {
+	retinuesize_perc = 3
+	icon = 1
+}
+
+army_professionalism_2 = {
+	retinuesize_perc = 10
+	icon = 1
+}
+
+conscription_temp_levy = {
+	icon = 41
+}
+
+satiated_troops = {
+	land_morale = 0.15
+	icon = 1
+}
+
+settlement_sacked = {
+	levy_size = -0.75
+	local_tax_modifier = -0.75
+	garrison_size = -0.75
+	local_tax_modifier = -0.75
+	icon = 106
+}
+
+settlement_razed = {
+	levy_size = -2
+	local_tax_modifier = -2
+	garrison_size = -2
+	local_tax_modifier = -2
+	icon = 106
+}
+
+burnt_land = {
+	supply_limit = -2
+	icon = 106
+}
+
+waste_land = {
+	supply_limit = -10
+	icon = 106
+}
+
+char_immunity = {
+	general_opinion = 5
+	icon = 41
+}
+
+visited_brothel = { icon = 39 }
+
+bedded_washerwoman = { icon = 39 }
+
+visited_chambers = {
+	icon = 40
+}
+sinfertile = {
+	icon = 8
+	fertility = -50
+}
+sinfertile2 = {
+	icon = 8
+}
+usedmech = {
+	icon = 109
+	hidden = yes
+}
+recentmechbattle = {
+	icon = 109
+	hidden = yes
+}
+peasants_lenient_tax = {
+	local_tax_modifier = 0.10
+	icon = 6
+}
+peasants_high_tax = {
+	local_tax_modifier = 0.50
+	icon = 6
+}
+peasants_brutal_tax = {
+	local_tax_modifier = 1.50
+	icon = 6
+}
+
+peasants_horrying_tax = {
+	local_tax_modifier = 3.00
+	icon = 6
+}
+going_to_school = { 
+	prestige = 0.1
+	learning = 1
+	icon = 2
+}
+college_educated = {
+	prestige = 1
+	icon = 2
+}
+studying_real_hard = {
+	learning = 1
+	icon = 2
+}
+mta_awaiting_execution = {
+	icon = 1
+	hidden = yes
+}
+paid_troops = {
+	general_opinion = 5
+	levy_reinforce_rate = 0.15
+	icon = 97
+}
+paid_troops_poorly = {
+	general_opinion = -5
+	levy_reinforce_rate = -0.15
+	global_revolt_risk = 0.10
+	icon = 98
+}
+angry_troops = {
+	general_opinion = -15
+	levy_reinforce_rate = -0.20
+	global_revolt_risk = 0.35	
+	icon = 98
+}
+double_paid_troops = {
+	general_opinion = 10
+	levy_reinforce_rate = 0.25
+	global_revolt_risk = -0.05	
+	icon = 97
+}
+sarc_renowned_blacksmith = {
+	icon = 18
+	martial = 1
+	learning = 1
+	stewardship = 1
+	monthly_character_prestige = 0.10
+}
+ca_chapel_2_learning = {
+	learning = 1
+	icon = 3
+}
+war_draft = {
+	icon = 36
+	levy_reinforce_rate = -0.75
+	local_revolt_risk = 0.03
+}
+drafted_peasants = {
+	icon = 36
+	general_opinion = -3
+}
+good_pilot = {
+	icon = 109
+	martial = 2
+	general_opinion = 3
+}
+	
+

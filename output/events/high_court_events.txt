@@ -1,0 +1,60 @@
+#High Court Events
+character_event = {
+	id = high_court_events.4
+	desc = EVTDESChigh_court_events.4
+	is_triggered_only = yes
+	hide_window = yes
+	is_playable = yes
+	
+	trigger = {
+	}
+	
+	option = {
+		name = OPTAhigh_court_events.4
+		any_demesne_province = {
+		
+			if = {
+				limit = {
+					owner = { has_law = high_court_law_0 }
+					NOT = { has_province_modifier = free_speech_law }
+				}
+				add_province_modifier = { name = free_speech_law duration = -1 }
+				remove_province_modifier = restricted_law
+				remove_province_modifier = oppressive_law
+				remove_province_modifier = martial_law					
+			}
+						
+			if = {
+				limit = {
+					owner = { has_law = high_court_law_1 }
+					NOT = { has_province_modifier = restricted_law }
+				}
+				add_province_modifier = { name = restricted_law duration = -1 }
+				remove_province_modifier = free_speech_law
+				remove_province_modifier = oppressive_law
+				remove_province_modifier = martial_law				
+			}
+
+			if = {
+				limit = {
+					owner = { has_law = high_court_law_2 }
+					NOT = { has_province_modifier = oppressive_law }
+				}
+				add_province_modifier = { name = oppressive_law duration = -1 }
+				remove_province_modifier = free_speech_law
+				remove_province_modifier = martial_law
+				remove_province_modifier = restricted_law				
+			}
+			if = {
+				limit = {
+					owner = { has_law = high_court_law_3 }
+					NOT = { has_province_modifier = martial_law }
+				}
+				add_province_modifier = { name = martial_law duration = -1 }
+				remove_province_modifier = free_speech_law
+				remove_province_modifier = oppressive_law
+				remove_province_modifier = restricted_law					
+			}
+		}
+	}
+}

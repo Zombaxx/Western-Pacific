@@ -1,0 +1,18 @@
+#CODE;ENGLISH;;;;;;;;;x
+
+title_grand_judge;Grand Judge;;x
+title_grand_judge_desc;The Grand Judge arbitrates all high profile trials that happen in the capital. Once they are appointed, they serve for life.;;;x
+high_court_laws;High Court Laws;;;;;;;;;;;;x
+high_court_laws_desc;These laws define how fair or harsh miscreants in your realm are punished, and expands what a "miscreant" may happen to be.;;;;;;;;;;;;;x
+high_court_law_0;Free Speech;;;;;;;;;;;;;x
+high_court_law_0_desc;Every man and woman in your realm is free to live and express themselves as they please without much interference from you.;;;;;;;;;;;;;;;x
+high_court_law_1;Restricted Freedom;;;;;;;;;;;;;x
+high_court_law_1_desc;Order in your realm is more aggressively pursued. Lawmen around your realm are dispatched to keep order and suppress potential rebellion.;x
+high_court_law_2;Oppressive Regime;;;;;;;;;;;;;;;x
+high_court_law_2_desc;Your vassals and lawmen are given more authority to arrest and otherwise interrupt anyone they suspect of treasounous activity. Their methods can often be heavy-handed.;x
+high_court_law_3;Martial Law;;;;;;;;;;;;;x
+high_court_law_3_desc;Every movement, conversation, and message in your realm is being tracked by your vast network of spys and lawmen. Life in your realm is hard, as any man can be accused of being a rebel or heretic and taken away, but at least you need not fear insurrection.;x
+more_order_good;More order in the realm is a good thing.;x
+less_power_good;The people deserve some respite.;x
+too_much_power;Perhaps that would be a bit much.;x
+priest_say_no;The people deserve freedom and autonomy;x

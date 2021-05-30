@@ -1,0 +1,44 @@
+blacksmith_experience;Blacksmith Experience;;;x
+title_sarc_blacksmith;Blacksmith;;;;;;;;;;;;;x
+title_sarc_blacksmith_desc;A title given to someone to make them the court's blacksmith. Give someone this title to be able to forge weapons and armor for your treasury;;;;;;;;;;;;;x
+forge_weapons_sarc;Forge Weapon;;;;;;;;;;;;;x
+forge_weapons_sarc_desc;Have your blacksmith forge a weapon for you.;;;;;;;;;;;;;x
+forge_armor_sarc;Forge Armor;;;;;;;;;;;;;x
+forge_armor_sarc_desc;Have your blacksmith forge an armor set for you.;;;;;;;;;;;;;x
+BUSYCRAFTING;[Root.GetFirstName] is not busy crafting an item.;;;;;;;;;;;;;x
+BLCKSMTHEVNT100_desc;Your liege, [Liege.GetBestName], has asked for your services in making a weapon for [Liege.GetHerHim].;;;;;;;;;;;;;x
+BLCKSMTHEVNT100_opt;Well first I'll need [Liege.GetBestName]'s specifications.;;;;;;;;;;;;;x
+BLCKSMTHEVNT101_desc;Your blacksmith has asked you for specifications on the weapon you requested. First, what type of weapon do you want?;;;;;;;;;;;;;x
+BLCKSMTHEVNT101_optSword;A sword, to strike fear into my enemies.;;;;;;;;;;;;;x
+BLCKSMTHEVNT101_optScim;A scimitar, to strike fear into my enemies.;;;;;;;;;;;;;x
+BLCKSMTHEVNT101_optMace;A mace, to strike through my enemies' armor.;;;;;;;;;;;;;x
+BLCKSMTHEVNT101_optAxe;An axe, to make short work of enemies' defenses.;;;;;;;;;;;;;x
+BLCKSMTHEVNT101_optOther;More options;;;;;;;;;;;;;x
+BLCKSMTHEVNT102_optLance;A lance, to pierce my enemies from horseback.;;;;;;;;;;;;;x
+BLCKSMTHEVNT102_optBow;A bow, to shoot my enemies from afar.;;;;;;;;;;;;;x
+BLCKSMTHEVNT105_desc;Next, what quality do you want your weapon to be?;;;;;;;;;;;;;x
+BLCKSMTHEVNT105_optTier1;A common weapon will do.;;;;;;;;;;;;;x
+BLCKSMTHEVNT105_optTier2;A better than average weapon.;;;;;;;;;;;;;x
+BLCKSMTHEVNT105_optTier3;A well-crafted or masterwork weapon.;;;;;;;;;;;;;x
+BLCKSMTHEVNT105_optTier4;A truly legendary weapon.;;;;;;;;;;;;;x
+BLCKSMTHEVNT105_optOther;More options;;;;;;;;;;;;;x
+BLCKSMTHEVNT110_desc;You have received your liege's specifications for their weapon.;;;;;;;;;;;;;x
+BLCKSMTHEVNT110_opt;Time to get to work.;;;;;;;;;;;;;x
+BLCKSMTHEVNT111_desc;Your blacksmith has finished the weapon you requested. It is a fine work.;;;;;;;;;;;;;x
+BLCKSMTHEVNT111_opt;Finally;;;;;;;;;;;;;x
+BLCKSMTHEVNT112_desc;Choose the name of your weapon.;;;;;;;;;;;;;x
+BLCKSMTHEVNT200_desc;Your liege, [Liege.GetBestName], has asked for your services in making a set of armor for [Liege.GetHerHim].;;;;;;;;;;;;;x
+BLCKSMTHEVNT200_opt;Well first I'll need [Liege.GetBestName]'s specifications.;;;;;;;;;;;;;x
+BLCKSMTHEVNT205_desc;What quality do you want your armor to be?;;;;;;;;;;;;;x
+BLCKSMTHEVNT205_optTier1;Common armor will do.;;;;;;;;;;;;;x
+BLCKSMTHEVNT205_optTier2;Well-crafted armor should do fine.;;;;;;;;;;;;;x
+BLCKSMTHEVNT205_optTier3;Expensive armor would be best.;;;;;;;;;;;;;x
+BLCKSMTHEVNT205_optTier4;The highest quality armor you can make.;;;;;;;;;;;;;x
+BLCKSMTHEVNT205_optOther;More options;;;;;;;;;;;;;x
+BLCKSMTHEVNT210_desc;You have received your liege's specifications for their armorpiece.;;;;;;;;;;;;;x
+BLCKSMTHEVNT210_opt;Time to get to work.;;;;;;;;;;;;;x
+BLCKSMTHEVNT211_desc;Your blacksmith has finished the armor set you requested. It is a fine work.;;;;;;;;;;;;;x
+BLCKSMTHEVNT211_opt;Finally;;;;;;;;;;;;;x
+BLCKSMTHEVNT212_desc;Choose the name of your armor.;;;;;;;;;;;;;x
+sarc_renowned_blacksmith;Renowned Blacksmith;;;;;;;;;;;;;x
+sarc_renowned_blacksmith_desc;This person is a well known blacksmith who smiths quality items;;;;;;;;;;;;;x

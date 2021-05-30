@@ -1,0 +1,13 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+army_professionalism_law;National Army Law;National Army Law;National Army Law;;National Army Law;;;;;;;;;x
+army_professionalism_law_0;Levy Based Army;Levy Based Army;Levy Based Army;;Levy Based Army;;;;;;;;;x
+army_professionalism_law_0_desc;Like any feudal lord, your army is composed by soldiers called upon to your service directly from your realm, or those in your vassals ranks that are sent according to their vassalage.;;;;;;;;;x
+army_professionalism_law_0_option;Levy;;;;;;;;;x
+army_professionalism_law_1;Semi-Professional Army;;;;;;;;;x
+army_professionalism_law_1_desc;While uncommon, your army is partailly composed by troops that serve the crown directly and in a professional matter, instead of being called in times of war. This removes power from your vassals, but also makes them feel less powerful in realm affairs.;;;;;;;;;x
+army_professionalism_law_1_option;Partial;Partial;Partial;;Partial;;;;;;;;;x
+army_professionalism_law_2;Fully Professional Army;;;;;;;;;x
+army_professionalism_law_2_desc;Organizing a fully professional force loyal to the crown is seemingly impossible work, but maybe with a genious and organized hand, a professional army can be fully organized. However, this may also lead to discontent vassals, who may find the rulers power of his army to be to powerful.;;;;;;;;;x
+army_professionalism_law_2_option;Full;Full;Full;;Full;;;;;;;;;x
+army_professionalism_1;Semi-Professional Army;Semi-Professional Army;Semi-Professional Army;;Semi-Professional Army;;;;;;;;;x
+army_professionalism_2;Fully-Professional Army;Fully-Professional Army;Fully-Professional Army;;Fully-Professional Army;;;;;;;;;x

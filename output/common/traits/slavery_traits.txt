@@ -1,0 +1,46 @@
+trait_slave = {
+	opposites = {
+		trait_slaver
+	}
+	customizer = no
+	random = no
+	cached = yes
+	cannot_marry = yes
+	cannot_inherit = yes
+	can_hold_titles = no
+	general_opinion = -10
+
+	diplomacy = -2
+	combat_rating = -2
+
+	opposite_opinion = -50
+}
+trait_slaver = {
+	potential = {
+		is_ruler = yes
+	}
+	opposites = {
+		trait_slave
+	}
+	customizer = no
+	random = no
+
+	diplomacy = -1
+
+	opposite_opinion = -10
+}
+former_slave = {
+	cached = yes
+	diplomacy = -2
+}
+
+liberator = {
+	opposites = { 
+		trait_slaver 
+	}
+	opposite_opinion = -20
+	same_opinion = 20
+	ai_ambition = 10
+	ai_honor = 10
+	ruler_designer_cost = 15
+}

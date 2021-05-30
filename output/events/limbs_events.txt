@@ -1,0 +1,100 @@
+namespace = roy_torture_events
+character_event = {
+	id = roy_torture_events.001
+	desc = "torture_events_desc.1"
+	picture = GFX_evt_torture
+	is_triggered_only = yes
+	option = {
+		name = roy_torture_events.001.1
+		}
+
+	option = {
+		name = roy_torture_events.001.2
+		ai_chance = {
+			factor = 100
+		}
+		FROM = {
+			add_trait = one_eyed
+			add_trait = wounded
+			ROOT = { add_trait = cruel }
+			opinion = { 
+				modifier = opinion_mutilated_me
+				who = ROOT 
+			}
+			mother = {
+				opinion = {
+					modifier = opinion_mutilated_close_kin
+					who = ROOT
+				}
+			}
+			father = {
+				opinion = {
+					modifier = opinion_mutilated_close_kin
+					who = ROOT
+				}
+			}
+			spouse = {
+				opinion = {
+					modifier = opinion_mutilated_close_kin
+					who = ROOT
+				}
+			}
+			any_child = {
+				opinion = {
+					modifier = opinion_mutilated_close_kin
+					who = ROOT
+				}
+			}
+		}
+	}
+}
+
+character_event = {
+	id = roy_torture_events.002
+	desc = "torture_events_desc.2"
+	picture = GFX_evt_torture
+	is_triggered_only = yes
+	option = {
+		name = roy_torture_events.001.1
+		}
+
+	option = {
+		name = roy_torture_events.002.1
+		ai_chance = {
+			factor = 100
+		}
+		FROM = {
+			add_trait = one_handed
+			add_trait = wounded
+			ROOT = { add_trait = cruel }
+			opinion = { 
+				modifier = opinion_mutilated_me
+				who = ROOT 
+			}
+			mother = {
+				opinion = {
+					modifier = opinion_mutilated_close_kin
+					who = ROOT
+				}
+			}
+			father = {
+				opinion = {
+					modifier = opinion_mutilated_close_kin
+					who = ROOT
+				}
+			}
+			spouse = {
+				opinion = {
+					modifier = opinion_mutilated_close_kin
+					who = ROOT
+				}
+			}
+			any_child = {
+				opinion = {
+					modifier = opinion_mutilated_close_kin
+					who = ROOT
+				}
+			}
+		}
+	}
+}

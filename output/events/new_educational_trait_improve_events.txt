@@ -1,0 +1,278 @@
+namespace = eduimp
+#Diplo edu ping
+character_event = {
+	id = eduimp.1
+	hide_window = yes
+	is_triggered_only = yes
+	option = {
+		set_character_flag = chancellor_library_tutor
+		name = OK
+		liege = {
+			character_event = { id = eduimp.2 }
+		}
+	}
+}
+#Diplomatical Improve starts
+character_event = {
+id = eduimp.2
+desc = "EVTDESCEDUIMP2"
+picture = GFX_evt_library
+border = GFX_event_normal_frame_diplomacy
+
+is_triggered_only = yes
+
+	option = {
+		name = eduimp2opt
+		hidden_tooltip = {
+			FROM = {
+				character_event = { id = eduimp.3 days = 350 random = 50 }
+			}
+		}
+	}
+}
+character_event = {
+id = eduimp.3
+hide_window = yes
+
+is_triggered_only = yes
+		
+	trigger = {
+		liege = {
+			has_character_flag = improving_diplomatical_education
+		}
+	}
+	option = {
+		name = OK
+		liege = {
+			character_event = { id = eduimp.4 }
+		}
+	}
+}
+#Diplomatical Improve ends
+character_event = {
+id = eduimp.4
+desc = "EVTDESCEDUIMP4"
+picture = GFX_evt_library
+border = GFX_event_normal_frame_diplomacy
+
+is_triggered_only = yes
+
+	option = {
+		clr_character_flag = improving_diplomatical_education
+		name = eduimp4opt
+		remove_trait = naive_appeaser
+		add_trait = underhanded_rogue
+		FROM = {
+			clr_character_flag = chancellor_library_tutor
+		}
+	}
+}
+#Diplomatical Improve ends abruplty
+character_event = {
+id = eduimp.5
+desc = "EVTDESCEDUIMP5"
+picture = GFX_evt_library
+border = GFX_event_normal_frame_diplomacy
+
+	ai = no
+	only_rulers = yes
+	min_age = 16
+	
+	trigger = {
+		any_courtier = {
+			has_job_title = job_chancellor
+			NOT = { has_character_flag = chancellor_library_tutor }
+		}
+		has_character_flag = improving_diplomatical_education
+	}
+	option = {
+		clr_character_flag = improving_diplomatical_education
+		name = eduimp5opt
+	}
+}
+#Intrigue edu ping
+character_event = {
+	id = eduimp.6
+	hide_window = yes
+	
+	is_triggered_only = yes
+	
+	option = {
+		set_character_flag = spymaster_secretpassages_tutor
+		name = OK
+		liege = {
+			character_event = { id = eduimp.7 }
+		}
+	}
+}
+#Intrigue Improve starts
+character_event = {
+id = eduimp.7
+desc = "EVTDESCEDUIMP7"
+picture = GFX_evt_spymaster
+border = GFX_event_normal_frame_intrigue
+	
+	is_triggered_only = yes
+
+	option = {
+		name = eduimp7opt
+		hidden_tooltip = {
+			FROM = {
+				character_event = { id = eduimp.8 days = 350 random = 50 }
+			}
+		}
+	}
+}
+character_event = {
+id = eduimp.8
+hide_window = yes
+	
+	is_triggered_only = yes
+
+	trigger = {
+		liege = {
+			has_character_flag = improving_intrigue_education
+		}
+	}
+	option = {
+		name = OK
+		liege = {
+			character_event = { id = eduimp.9 }
+		}
+	}
+}
+#Intrigue Improve ends
+character_event = {
+id = eduimp.9
+desc = "EVTDESCEDUIMP9"
+picture = GFX_evt_spymaster
+border = GFX_event_normal_frame_intrigue
+
+	is_triggered_only = yes
+
+	option = {
+		clr_character_flag = improving_intrigue_education
+		name = eduimp9opt
+		remove_trait = amateurish_plotter
+		add_trait = flamboyant_schemer
+		FROM = {
+			clr_character_flag = spymaster_secretpassages_tutor
+		}
+	}
+}
+#Intrigue Improve ends abruplty
+character_event = {
+id = eduimp.10
+desc = "EVTDESCEDUIMP10"
+picture = GFX_evt_spymaster
+border = GFX_event_normal_frame_intrigue
+
+	ai = no
+	only_rulers = yes
+	min_age = 16
+	
+	trigger = {
+		any_courtier = {
+			has_job_title = job_spymaster
+			NOT = { has_character_flag = spymaster_secretpassages_tutor }
+		}
+		has_character_flag = improving_intrigue_education
+	}
+	option = {
+		clr_character_flag = improving_intrigue_education
+		name = eduimp10opt
+	}
+}
+#Stewardship edu ping
+character_event = {
+	id = eduimp.11
+	hide_window = yes
+	
+	is_triggered_only = yes
+	
+	option = {
+		set_character_flag = steward_study_tutor
+		name = OK
+		liege = {
+			character_event = { id = eduimp.12 }
+		}
+	}
+}
+#Stewardship edu starts
+character_event = {
+id = eduimp.12
+desc = "EVTDESCEDUIMP12"
+picture = GFX_event_write
+border = GFX_event_normal_frame_economy
+	
+	is_triggered_only = yes
+
+	option = {
+		name = eduimp12opt
+		hidden_tooltip = {
+			FROM = {
+				character_event = { id = eduimp.13 days = 350 random = 50 }
+			}
+		}
+	}
+}
+character_event = {
+id = eduimp.13
+hide_window = yes
+	
+	is_triggered_only = yes
+
+	trigger = {
+		liege = {
+			has_character_flag = improving_stewardship_education
+		}
+	}
+	option = {
+		name = OK
+		liege = {
+			character_event = { id = eduimp.14 }
+		}
+	}
+}
+#Stewardship Improve ends
+character_event = {
+id = eduimp.14
+desc = "EVTDESCEDUIMP14"
+picture = GFX_event_write
+border = GFX_event_normal_frame_economy
+
+	is_triggered_only = yes
+
+	option = {
+		clr_character_flag = improving_stewardship_education
+		name = eduimp14opt
+		remove_trait = indulgent_wastrel
+		add_trait = thrifty_clerk
+		FROM = {
+			clr_character_flag = steward_study_tutor
+		}
+	}
+}
+#Stewardship Improve ends abruplty
+character_event = {
+id = eduimp.15
+desc = "EVTDESCEDUIMP15"
+picture = GFX_event_write
+border = GFX_event_normal_frame_economy
+
+	ai = no
+	only_rulers = yes
+	min_age = 16
+	
+	trigger = {
+		any_courtier = {
+			has_job_title = job_treasurer
+			NOT = { has_character_flag = steward_study_tutor }
+		}
+		has_character_flag = improving_stewardship_education
+	}
+	option = {
+		clr_character_flag = improving_stewardship_education
+		name = eduimp15opt
+	}
+}

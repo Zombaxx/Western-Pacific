@@ -1,0 +1,20 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+Take_a_Hostage;Take a Hostage;Prendre un otage;;;;;;;;;;;;x
+Take_a_Hostage_desc;You have captured a child of your once enemy and can take them as a hostage.;Vous avez capturé un enfant de votre cible et vous pouvez à présent l'utiliser comme otage;;;;;;;;;;;;x
+Take_a_Hostage_named;Take [Root.GetFirstName] Hostage;Vous pouvez prendre un otage;;;;;;;;;;;;x
+EVTDESCtake_hostage_events.1;[From.GetFirstName] is having trouble adapting to our culture. Being from elsewhere, [From.GetSheHe] is having trouble befriending the other children of the court. Perhaps I should help [From.GetHerHim].;[From.GetFirstName] a de la difficulté à s'adapter à notre culture, peut-être devrais-je l'aider à se faire des amis;;;;;;;;;;;;x
+EVTOPTAtake_hostage_events.1;Bring [From.GetFirstName] to meet with some other children.;Amener [From.GetFirstName] à rencontrer d'autres enfants;;;;;;;;;;;;x
+EVTOPTBtake_hostage_events.1;I'm sure [From.GetFirstName] will do fine on [From.GetHerHis] own.;Je suis sûr que [From.GetFirstName] fera de son mieux pour [From.GetHerHis];;;;;;;;;;;;x
+EVTDESCtake_hostage_events.2;[FromFrom.GetFirstName] seems to have a natural talent for charming others and has even made friends with some of the other children in the court!;[FromFrom.GetFirstName] est incroyable, [From.GetSheHe] a un talent naturel pour charmer les autres;;;;;;;;;;;;x
+EVTOPTAtake_hostage_events.2;That's good.;[FromFrom.GetFirstName] est absolument génial;;;;;;;;;;;;x
+EVTDESCtake_hostage_events.3;[FromFrom.GetFirstName] is having some success in [FromFrom.GetHerHis] endeavors, even making some friends;[FromFrom.GetFirstName] est certain d'avoir un certain succès avec [From.GetHerHis], et même quelques accointances;;;;;;;;;;;;x
+EVTOPTAtake_hostage_events.3;I'm proud of [FromFrom.GetHerHim].;Je suis fier de [FromFrom.GetFirstName];;;;;;;;;;;;x
+EVTDESCtake_hostage_events.4;[FromFrom.GetFirstName] is still unable to make friends, despite [FromFrom.GetHerHis] efforts. The other children at court still keep their distance from [FromFrom.GetHerHim].;[FromFrom.GetFirstName] essaie de faire de son mieux mais n'arrive à rien;;;;;;;;;;;;x
+EVTOPTAtake_hostage_events.4;Perhaps [FromFrom.GetFirstName] will manage in time.;Peut être que [FromFrom.GetFirstName] va y arriver avec le temps;;;;;;;;;;;;x
+EVTDESCtake_hostage_events.5;[FromFrom.GetFirstName] is being bullied by [FromFrom.GetHerHis] peers and has taken to hiding away in [FromFrom.GetHerHis] room.;[FromFrom.GetFirstName] passe un moment difficile et a pris pour pour résolution de se cacher loin dans sa chambre [FromFrom.GetHerHis];;;;;;;;;;;;;;;;;;;;;;;;;x
+EVTOPTAtake_hostage_events.5;Maybe this was a bad idea.;Peut être que c'était une mauvaise idée;;;;;;;;;;;;x
+EVTDESCtake_hostage_events.6;[FromFrom.GetFirstName]'s attempts to make friends has had the opposite effect. [FromFrom.GetFirstName] has made fast enemies with a number of the children at court.;[FromFrom.GetFirstName] a effectué plusieurs tentatives d'évasions, [FromFrom.GetSheHe] a été démasqué et retourne au château dans un piteux état;;;;;;;;;;;;x
+EVTOPTAtake_hostage_events.6;I should have stepped in.;Je suis intervenu;;;;;;;;;;;;x
+EVTDESCtake_hostage_events.9;For seemingly the hundredth time this year, [From.GetFirstName] has approached you asking when, if ever, [From.GetSheHe] will get to return home.;;;;;;;;;;;;x
+EVTOPTAtake_hostage_events.9;I don't have time for this.;;;;;;;;;;;;x
+EVTOPTBtake_hostage_events.9;But [From.GetFirstName], you ARE home!;;;;;;;;;;;;x

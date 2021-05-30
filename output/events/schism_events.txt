@@ -1,0 +1,300 @@
+#######################################
+#
+# Schism Events
+#
+# Event ID ID LoR.200 - LoR.399 reserved
+#
+#######################################
+
+namespace = LoR
+
+### The Pentarchy
+
+# Patriarchate of Kena
+character_event = {
+	id = LoR.200
+	desc = EVTDESCLoR.200
+	picture = GFX_evt_bishop_byzantine
+	
+	ai = no
+	religion = orthodox
+	
+	trigger = {
+		has_dlc = "Legacy of Rome"
+		NOT = { has_global_flag = pat_antioch }
+		OR = {
+			has_landed_title = e_byzantium
+			has_landed_title = e_roman_empire
+			has_landed_title = e_hre
+		}
+		completely_controls = c_kena
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = EVTOPTALoR.200
+		set_global_flag = pat_antioch
+		piety = 100
+	}
+}
+
+# Patriarchate of Kupine
+character_event = {
+	id = LoR.201
+	desc = EVTDESCLoR.201
+	picture = GFX_evt_bishop_byzantine
+	
+	ai = no
+	religion = orthodox
+	
+	trigger = {
+		has_dlc = "Legacy of Rome"
+		NOT = { has_global_flag = pat_jerusalem }
+		OR = {
+			has_landed_title = e_byzantium
+			has_landed_title = e_roman_empire
+			has_landed_title = e_hre
+		}
+		completely_controls = c_kupine
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = EVTOPTALoR.200
+		set_global_flag = pat_jerusalem
+		piety = 100
+	}
+}
+
+# Patriarchate of Tezude
+character_event = {
+	id = LoR.202
+	desc = EVTDESCLoR.202
+	picture = GFX_evt_bishop_byzantine
+	
+	ai = no
+	religion = orthodox
+	
+	trigger = {
+		has_dlc = "Legacy of Rome"
+		NOT = { has_global_flag = pat_alexandria }
+		OR = {
+			has_landed_title = e_byzantium
+			has_landed_title = e_roman_empire
+			has_landed_title = e_hre
+		}
+		completely_controls = c_tezude
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = EVTOPTALoR.200
+		set_global_flag = pat_alexandria
+		piety = 100
+	}
+}
+
+# Patriarchate of Laning
+character_event = {
+	id = LoR.203
+	desc = EVTDESCLoR.203
+	picture = GFX_evt_bishop_byzantine
+	
+	ai = no
+	religion = orthodox
+	
+	trigger = {
+		has_dlc = "Legacy of Rome"
+		NOT = { has_global_flag = pat_rome }
+		OR = {
+			has_landed_title = e_byzantium
+			has_landed_title = e_roman_empire
+			has_landed_title =  e_hre
+		}
+		completely_controls = c_laning
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = EVTOPTALoR.200
+		set_global_flag = pat_rome
+		piety = 100
+	}
+}
+
+### The Great Schism Mended
+
+# The Schism Mended
+narrative_event = {
+	id = LoR.210
+	title = EVTNAMELoR.210
+	desc = EVTDESCLoR.210
+	
+	picture = GFX_evt_icon
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTALoR.200
+
+		if = {
+			limit = { religion = cathar }
+			set_parent_religion = { religion = catholic parent = cathar }
+		}
+		if = {
+			limit = { religion = fraticelli }
+			set_parent_religion = { religion = catholic parent = fraticelli }
+		}
+		if = {
+			limit = { religion = lollard }
+			set_parent_religion = { religion = catholic parent = lollard }
+		}
+		if = {
+			limit = { religion = messalian }
+			set_parent_religion = { religion = catholic parent = messalian }
+		}
+		if = {
+			limit = { religion = miaphysite }
+			set_parent_religion = { religion = catholic parent = miaphysite }
+		}
+		if = {
+			limit = { religion = monophysite }
+			set_parent_religion = { religion = catholic parent = monophysite }
+		}
+		if = {
+			limit = { religion = monothelite }
+			set_parent_religion = { religion = catholic parent = monothelite }
+		}
+		if = {
+			limit = { religion = nestorian }
+			set_parent_religion = { religion = catholic parent = nestorian }
+		}
+		if = {
+			limit = { religion = orthodox }
+			set_parent_religion = { religion = catholic parent = orthodox }
+		}
+		if = {
+			limit = { religion = paulician }
+			set_parent_religion = { religion = catholic parent = paulician }
+		}
+		if = {
+			limit = { religion = waldensian }
+			set_parent_religion = { religion = catholic parent = waldensian }
+		}
+		if = {
+			limit = { religion = bogomilist }
+			set_parent_religion = { religion = catholic parent = bogomilist }
+		}
+		if = {
+			limit = { religion = iconoclast }
+			set_parent_religion = { religion = orthodox parent = iconoclast }
+		}
+		if = {
+			limit = { religion = cathar }
+			set_parent_religion = { religion = orthodox parent = cathar }
+		}
+		if = {
+			limit = { religion = catholic }
+			set_parent_religion = { religion = orthodox parent = catholic }
+		}
+		if = {
+			limit = { religion = fraticelli }
+			set_parent_religion = { religion = orthodox parent = fraticelli }
+		}
+		if = {
+			limit = { religion = lollard }
+			set_parent_religion = { religion = orthodox parent = lollard }
+		}
+		if = {
+			limit = { religion = messalian }
+			set_parent_religion = { religion = orthodox parent = messalian }
+		}
+		if = {
+			limit = { religion = miaphysite }
+			set_parent_religion = { religion = orthodox parent = miaphysite }
+		}
+		if = {
+			limit = { religion = monophysite }
+			set_parent_religion = { religion = orthodox parent = monophysite }
+		}
+		if = {
+			limit = { religion = monothelite }
+			set_parent_religion = { religion = orthodox parent = monothelite }
+		}
+		if = {
+			limit = { religion = nestorian }
+			set_parent_religion = { religion = orthodox parent = nestorian }
+		}
+		if = {
+			limit = { religion = paulician }
+			set_parent_religion = { religion = orthodox parent = paulician }
+		}
+		if = {
+			limit = { religion = waldensian }
+			set_parent_religion = { religion = orthodox parent = waldensian }
+		}
+		if = {
+			limit = { religion = bogomilist }
+			set_parent_religion = { religion = orthodox parent = bogomilist }
+		}
+
+
+		set_global_flag = schism_mended
+		give_nickname = nick_the_saint
+		hidden_tooltip = {
+			any_playable_ruler = {
+				limit = {
+					religion = catholic
+					controls_religion = no
+				}
+				narrative_event = { id = LoR.211 }
+			}
+		}
+	}
+}
+
+# Convert or Not?
+narrative_event = {
+	id = LoR.211
+	title = EVTNAMELoR.210
+	desc = EVTDESCLoR.210
+	
+	picture = GFX_evt_icon
+	
+	is_triggered_only = yes
+	
+	option = { # Yes
+		name = EVTOPTALoR.211
+		ai_chance = { factor = 75 }
+		religion = FROM
+		any_courtier = {
+			limit = {
+				OR = { 
+					religion = catholic
+					religion = orthodox
+				}
+				liege = { character = ROOT }
+			}
+			religion = FROM
+		}
+		capital_scope = {
+			religion = FROM
+		}
+	}
+	option = { # No
+		name = EVTOPTBLoR.211
+		ai_chance = { factor = 25 }
+	}
+}
