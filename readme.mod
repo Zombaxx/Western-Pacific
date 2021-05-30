@@ -1,3 +1,3 @@
 This mod currently only works with the Random World game mode available through the Holy Fury DLC (at the bookmark screen choose Custom Game Setup, and select the Randomize World button (between the Year and the Merchant Republic list).
 
-If you would like to use the provided save file instead of Random World, take Duchy08021069_04_30 from the mod file in Crusader Kings II->mod->output and place it into Crusader Kings II->save games.
+If you would like to use the provided save file instead of Random World, take Leonen1066_09_15.ck2 from the mod file in Crusader Kings II->mod->output and place it into Crusader Kings II->save games.
