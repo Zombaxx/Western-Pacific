@@ -1,4 +1,0 @@
-opinion_supported_war_effort = {
-	opinion = 15
-	months = 36
-}

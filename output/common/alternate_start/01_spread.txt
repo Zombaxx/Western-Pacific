@@ -1,4 +1,69 @@
 adjacencies = {
+	1 = 4 #Province0001 - Province0004
+	496 = 521 #Province0496 - Province0521
+	6 = 23 #Province0006 - Province0023
+	10 = 14 #Province0010 - Province0014
+	12 = 22 #Province0012 - Province0022
+	14 = 10 #Province0014 - Province0010
+	68 = 80 #Province0068 - Province0080
+	38 = 34 #Province0038 - Province0034
+	43 = 55 #Province0043 - Province0055
+	49 = 44 #Province0049 - Province0044
+	55 = 43 #Province0055 - Province0043
+	56 = 51 #Province0056 - Province0051
+	92 = 103 #Province0092 - Province0103
+	102 = 122 #Province0102 - Province0122
+	152 = 146 #Province0152 - Province0146
+	114 = 92 #Province0114 - Province0092
+	122 = 132 #Province0122 - Province0132
+	151 = 149 #Province0151 - Province0149
+	187 = 189 #Province0187 - Province0189
+	189 = 205 #Province0189 - Province0205
+	192 = 206 #Province0192 - Province0206
+	205 = 189 #Province0205 - Province0189
+	225 = 234 #Province0225 - Province0234
+	243 = 219 #Province0243 - Province0219
+	311 = 304 #Province0311 - Province0304
+	320 = 335 #Province0320 - Province0335
+	370 = 384 #Province0370 - Province0384
+	387 = 350 #Province0387 - Province0350
+	410 = 379 #Province0410 - Province0379
+	430 = 431 #Province0430 - Province0431
+	453 = 438 #Province0453 - Province0438
+	515 = 504 #Province0515 - Province0504
+	736 = 740 #Province0736 - Province0740
+	535 = 543 #Province0535 - Province0543
+	578 = 610 #Province0578 - Province0610
+	630 = 626 #Province0630 - Province0626
+	636 = 630 #Province0636 - Province0630
+	670 = 679 #Province0670 - Province0679
+	720 = 727 #Province0720 - Province0727
+	726 = 722 #Province0726 - Province0722
+	781 = 785 #Province0781 - Province0785
+	787 = 781 #Province0787 - Province0781
+	812 = 803 #Province0812 - Province0803
+	823 = 836 #Province0823 - Province0836
+	836 = 823 #Province0836 - Province0823
+	841 = 801 #Province0841 - Province0801
+	916 = 936 #Province0916 - Province0936
+	942 = 922 #Province0942 - Province0922
+	947 = 933 #Province0947 - Province0933
+	953 = 952 #Province0953 - Province0952
+	955 = 963 #Province0955 - Province0963
+	961 = 959 #Province0961 - Province0959
+	960 = 908 #Province0960 - Province0908
+	967 = 961 #Province0967 - Province0961
+	973 = 975 #Province0973 - Province0975
+	983 = 987 #Province0983 - Province0987
+	987 = 993 #Province0987 - Province0993
+	993 = 987 #Province0993 - Province0987
+	1000 = 959 #Province1000 - Province0959
+	1005 = 1001 #Province1005 - Province1001
+	1006 = 1004 #Province1006 - Province1004
+	1009 = 1010 #Province1009 - Province1010
+	1010 = 936 #Province1010 - Province0936
+	1011 = 1014 #Province1011 - Province1014
+	1018 = 1011 #Province1018 - Province1011
 }
 
 
@@ -6,43 +71,43 @@ culture_group_spread = {
 	factor = 100
 	modifier = {
 		factor = 10
-		num_culture_provinces < 0
+		num_culture_provinces < 10
 	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 0
+		num_culture_provinces > 15
 	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 0
+		num_culture_provinces > 20
 	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 0
+		num_culture_provinces > 25
 	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 0
+		num_culture_provinces > 30
 	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 0
+		num_culture_provinces > 35
 	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 0
+		num_culture_provinces > 40
 	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 0
+		num_culture_provinces > 45
 	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 0
+		num_culture_provinces > 50
 	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 0
+		num_culture_provinces > 55
 	}
 	#TODO: Add culture_group specific modifiers here
 }
@@ -101,43 +166,43 @@ religion_group_spread = {
 	factor = 100
 	modifier = {
 		factor = 10
-		num_religion_provinces < 0
+		num_religion_provinces < 10
 	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 0
+		num_religion_provinces > 15
 	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 0
+		num_religion_provinces > 20
 	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 0
+		num_religion_provinces > 25
 	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 0
+		num_religion_provinces > 30
 	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 0
+		num_religion_provinces > 35
 	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 0
+		num_religion_provinces > 40
 	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 0
+		num_religion_provinces > 45
 	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 0
+		num_religion_provinces > 50
 	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 0
+		num_religion_provinces > 55
 	}
 	#TODO: Add religion_group specific modifiers here
 }

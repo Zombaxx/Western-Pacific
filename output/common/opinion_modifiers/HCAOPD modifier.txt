@@ -1,4 +1,0 @@
-opinion_made_child_adopt_my_dynasty = {
-	opinion = 30
-	months = 70
-}
