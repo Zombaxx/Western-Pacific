@@ -1,0 +1,442 @@
+# Title decisions are possible vs _all_ titles and are shown in the Title Diplomacy View, not the Intrigue View. The taker is in the FROM scope.
+#
+# filter = [capital/primary_title/owned/vassal_owned/sub_realm_owned/realm_owned/dynasty_owned/all]
+# ai_target_filter = [capital/primary_title/owned/vassal_owned/sub_realm_owned/realm_owned/dynasty_owned/all] (which titles for which the AI evaluates the decision.)
+#	owned: all titles owned by the AI
+#	vassal_owned: all titles owned by direct vassal rulers of the AI's employer
+#	sub_realm_owned: all titles below the AI's employer
+#	realm_owned: all titles in the same top realm as the AI
+#	dynasty_owned: all titles owned by members of the same dynasty
+#	all: all titles (Avoid if possible. VERY CPU-HEAVY!)
+#	
+
+title_decisions = {
+	recruit_local_diplomat = {
+		filter = owned
+		ai_target_filter = owned
+		
+		potential = {
+			owner = {
+				ai = no
+				character = FROM
+			}
+		}
+		allow = {
+			owner = {
+				prestige = 10
+				scaled_wealth = 0.2
+			}
+		}
+		effect = {
+			owner = {
+				prestige = 0
+				scaled_wealth = -0.05
+			}
+			location = {
+				create_random_diplomat = {
+					random_traits = yes
+					dynasty = random
+					female = no
+				}				
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	recruit_local_diplomat_female = {
+		filter = owned
+		ai_target_filter = owned
+		
+		potential = {
+			owner = {
+				ai = no
+				character = FROM
+			}
+		}
+		allow = {
+			owner = {
+				prestige = 10
+				scaled_wealth = 0.02
+			}
+		}
+		effect = {
+			owner = {
+				prestige = 0
+				scaled_wealth = -0.05
+			}
+			location = {
+				create_random_diplomat = {
+					random_traits = yes
+					dynasty = random
+					female = yes
+				}				
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	recruit_local_soldier = {
+		filter = owned
+		ai_target_filter = owned
+		
+		potential = {
+			owner = {
+				ai = no
+				character = FROM
+			}
+		}
+		allow = {
+			owner = {
+				prestige = 20
+				scaled_wealth = 0.2
+			}
+		}
+		effect = {
+			owner = {
+				prestige = 0
+				scaled_wealth = -0.05
+			}
+			location = {
+				create_random_soldier = {
+					random_traits = yes
+					dynasty = random
+					female = no
+				}				
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	recruit_local_soldier_female = {
+		filter = owned
+		ai_target_filter = owned
+		
+		potential = {
+			owner = {
+				ai = no
+				character = FROM
+			}
+		}
+		allow = {
+			owner = {
+				prestige = 20
+				scaled_wealth = 0.2
+			}
+		}
+		effect = {
+			owner = {
+				prestige = 0
+				scaled_wealth = -0.02
+			}
+			location = {
+				create_random_soldier = {
+					random_traits = yes
+					dynasty = random
+					female = yes
+				}				
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	recruit_local_steward = {
+		filter = owned
+		ai_target_filter = owned
+		
+		potential = {
+			owner = {
+				ai = no
+				character = FROM
+			}
+		}
+		allow = {
+			owner = {
+				prestige = 10
+				scaled_wealth = 0.2
+			}
+		}
+		effect = {
+			owner = {
+				prestige = 0
+				scaled_wealth = -0.05
+			}
+			location = {
+				create_random_steward = {
+					random_traits = yes
+					dynasty = random
+					female = no
+				}				
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	recruit_local_steward_female = {
+		filter = owned
+		ai_target_filter = owned
+		
+		potential = {
+			owner = {
+				ai = no
+				character = FROM
+			}
+		}
+		allow = {
+			owner = {
+				prestige = 10
+				scaled_wealth = 0.02
+			}
+		}
+		effect = {
+			owner = {
+				prestige = 0
+				scaled_wealth = -0.02
+			}
+			location = {
+				create_random_steward = {
+					random_traits = yes
+					dynasty = random
+					female = yes
+				}				
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	recruit_local_intriguer = {
+		filter = owned
+		ai_target_filter = owned
+		
+		potential = {
+			owner = {
+				ai = no
+				character = FROM
+			}
+		}
+		allow = {
+			owner = {
+				prestige = 10
+				scaled_wealth = 0.02
+			}
+		}
+		effect = {
+			owner = {
+				prestige = 0
+				scaled_wealth = -0.05
+			}
+			location = {
+				create_random_intriguer = {
+					random_traits = yes
+					dynasty = random
+					female = no
+				}				
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	recruit_local_intriguer_female = {
+		filter = owned
+		ai_target_filter = owned
+		
+		potential = {
+			owner = {
+				ai = no
+				character = FROM
+			}
+		}
+		allow = {
+			owner = {
+				prestige = 10
+				scaled_wealth = 0.04
+			}
+		}
+		effect = {
+			owner = {
+				prestige = 0
+				scaled_wealth = -0.04
+			}
+			location = {
+				create_random_intriguer = {
+					random_traits = yes
+					dynasty = random
+					female = yes
+				}				
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	recruit_local_priest = {
+		filter = owned
+		ai_target_filter = owned
+		
+		potential = {
+			owner = {
+				ai = no
+				character = FROM
+			}
+		}
+		allow = {
+			owner = {
+				OR = {
+					AND = {
+						religion = ROOT
+						piety = 50
+					}
+					AND = {
+						NOT = {
+							religion = ROOT
+						}
+						piety = 100
+					}
+				}
+			}
+		}
+		effect = {
+			owner = {
+				if = {
+					limit = {
+						religion = ROOT
+					}
+					piety = -10
+				}
+				if = {
+					limit = {
+						NOT = {
+							religion = ROOT
+						}
+					}
+					piety = -100
+				}
+			}
+			location = {
+				create_random_priest = {
+					random_traits = yes
+					dynasty = random
+					female = no
+				}				
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	recruit_local_priest_female = {
+		filter = owned
+		ai_target_filter = owned
+		
+		potential = {
+			owner = {
+				ai = no
+				character = FROM
+			}
+		}
+		allow = {
+			owner = {
+				OR = {
+					AND = {
+						religion = ROOT
+						piety = 50
+					}
+					AND = {
+						NOT = {
+							religion = ROOT
+						}
+						piety = 100
+					}
+				}
+			}
+		}
+		effect = {
+			owner = {
+				if = {
+					limit = {
+						religion = ROOT
+					}
+					piety = -50
+				}
+				if = {
+					limit = {
+						NOT = {
+							religion = ROOT
+						}
+					}
+					piety = -100
+				}
+			}
+			location = {
+				create_random_priest = {
+					random_traits = yes
+					dynasty = random
+					female = yes
+				}				
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	recruit_local_woman = {
+		filter = owned
+		ai_target_filter = owned
+		
+		potential = {
+			owner = {
+				ai = no
+				character = FROM
+			}
+		}
+		allow = {
+			owner = {
+				NOR = {
+					religion = cathar
+					religion = messalian
+				}
+				OR= {
+					AND = {
+						is_female = yes
+						prestige = 10
+					}
+					AND = {
+						NOT = {
+							is_female = yes
+						}
+						prestige = 20
+						piety = 20
+					}
+				}
+			}
+		}
+		effect = {
+			owner = {
+				scaled_wealth = -0.05
+			}
+			location = {
+				create_character = {
+					female = yes
+					random_traits = yes
+					dynasty = random
+				}
+			}
+		}
+	}
+}

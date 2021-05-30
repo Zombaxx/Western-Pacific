@@ -1,0 +1,23 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+steal_spouse_title_dec;Steal Spouse's Title;;;;;;;;;;;;;x
+steal_spouse_title_dec_desc;I shall gather some loyal men to help me take my wife's title.;;;;;;;;;;;;;x
+EVTDESCsteal_spouse_title.1;I have gathered enough support form my loyal followers to try and take control of my wife's title! My men have [From.Capital.GetName] surrounded, but she has meekly surrendered.;;;;;;;;;;;;;x
+opinion_stolen_title;Usurped My Title!;;;x
+EVTOPTAsteal_spouse_title.1;A woman is unfit to rule these lands!;;;;;;;;;;;;;x
+TOOLTIPEVTOPTAsteal_spouse_title.1;Take your wife's title and have her rejoin your court, where she belongs.;;;x
+EVTOPTCsteal_spouse_title.1;On second thoughts I shall leave her be...;;;;;;;;;;;;;x
+son_merc_company_dec;Send [Root.GetTitledFirstName] to a Mercenary Company;;;;;;;;;;;;;x
+bro_merc_company_dec;Send [Root.GetFirstName] to a Mercenary Company;;;;;;;;;;;;;x
+bro_merc_company_dec_desc;Pay for your kinsman to train with a mercenary company where he can seek his own glory.;;;;;;;;;;;;;x
+son_merc_company_dec_desc;Send your son to train with a mercenary company for some years and hope they return as a hardened soldier.;;;;;;;;;;;;;x
+EVTDESCson_merc_company.1;You have decided to send your son to a mercenary company to train. His belongs are packed, are you sure you want him to go?;;;;;;;;;;;;;x
+EVTOPTBson_merc_company.1;I hope he returns a great man!;;;x
+EVTOPTAson_merc_company.1;On second thought no, he shall remain with me.;;;;;;;;;;;;;x
+
+EVTDESCson_merc_company.2;You have decided to send [From.GetTitledFirstName] to a mercenary company. You have made sure he is well armed and he is now ready to depart after saying his final goodbyes.;;;x
+EVTOPTAson_merc_company.2;On second thought, your place is here.;;;x
+EVTOPTBson_merc_company.2;Good luck, [From.GetFirstName].;;;x
+
+EVTDESCcourtier_mercenary_events.1;[From.GetBestName] has requested an audience with you. He says he has no place here at court and asks that he be allowed to join a mercenary company. He will pay for his own arms and armaments.;;;x
+EVTOPTAcourtier_mercenary_events.1;No. You belong here.;;;x
+EVTOPTBcourtier_mercenary_events.1;You have my blessing.;;;x

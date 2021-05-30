@@ -1,0 +1,110 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+### TOOLTIPS ###
+opinion_executed_kinsman;Executed my kinsman;;;;;;;;;;;;;x
+opinion_scared_straight;Scared straight;;;;;;;;;;;;;x
+opinion_beaten_submission;Beaten into submission;;;;;;;;;;;;;x
+mta_vassal_tyranny_TT;This is viewed as tyrannical, and will lower your vassals' opinion of you by §R-10§!.;;;;;;;;;x
+mta_executed_countrymen_TT;This will upset the lords of §Y[mta_executed.TopLiege.PrimaryTitle.GetFullName]§!, lowering their opinion of you by §R-10§!.;;;;;;;;;x
+mta_executed_enemy_country_TT;Since §Y[From.GetTitledFirstName]§! is from an enemy country, no one will object.;;;;;;;;;x
+mta_killed_close_kin_crime_TT;Any close family of §Y[From.GetTitledFirstName]§! will view this as a crime and be very upset.;;;;;;;;;x
+mta_killed_close_kin_TT;Any close family of §Y[From.GetTitledFirstName]§! will be upset.;;;;;;;;;x
+mta_execution_death_TT;§Y[mta_executed.GetBestName]§! dies!;;;;;;;;;x
+mta_feed_to_beasts_TT;§Y[From.GetTitledFirstName]§!: §Y[From.GetBestName]§! will be killed by an animal of your choice.;;;;;;;;;x
+mta_left_in_the_wilds_TT;§Y[mta_executed.GetBestName]§! dies!;;;;;;;;;x
+#Option reason: Misc
+mta_REASON_IN_AFRICA;This option is available because your capital county is in §YAfrica§!;;;;;;;;;x
+mta_REASON_IN_AFRICA_GOVERNMENT;This option is available because your capital county is in §YAfrica§! and you are §Y[Root.Government.GetName]§!;;;;;;;;;x
+mta_REASON_IN_INDIA;This option is available because your capital county is in §YIndia§!;;;;;;;;;x
+mta_REASON_IN_EUROPE_NORTH;This option is available because your capital county is in §YNorthern Europe§!;;;;;;;;;x
+mta_REASON_INDIA_TIER;This option is available because your capital county is in §YIndia§! and you are a §Y[Root.PrimaryTitle.GetRulerTitle]§!;;;;;;;;;x
+mta_REASON_PERSIA_TIER;This option is available because your capital county is in §YPersia§! and you are a §Y[Root.PrimaryTitle.GetRulerTitle]§!;;;;;;;;;x
+mta_REASON_ARABIA_TIER;This option is available because your capital county is in §YArabia§! and you are a §Y[Root.PrimaryTitle.GetRulerTitle]§!;;;;;;;;;x
+mta_REASON_EAST_AFRICA_TIER;This option is available because your capital county is in §YEast Africa§! and you are a §Y[Root.PrimaryTitle.GetRulerTitle]§!;;;;;;;;;x
+mta_REASON_FROM_IS_LOWBORN;This option is available because §Y[From.GetTitledFirstName]§! is §YLowborn§!;;;;;;;;;x
+mta_REASON_CULTURE_FROM_IS_LOWBORN;This option is available because you are §Y[Root.Culture.GetName]§! and §Y[From.GetTitledFirstName]§! is §YLowborn§!;;;;;;;;;x
+mta_REASON_GOVERNMENT_TYPE;This option is available because you are §Y[Root.Government.GetName]§!;;;;;;;;;x
+mta_REASON_IS_NOMADIC;This option is available because you are §YNomadic§!;;;;;;;;;x
+#Option reason: Traits
+mta_REASON_CRUEL_HUNTER;This option is available because you have the §YCruel§! and §YHunter§! traits;;;;;;;;;x
+mta_REASON_CRUEL_ARCHITECT;This option is available because you have the §YCruel§! and §YArchitect§! traits;;;;;;;;;x
+mta_REASON_CRUEL_GARDENER;This option is available because you have the §YCruel§! and §YGardener§! traits;;;;;;;;;x
+mta_REASON_CRUEL_CULTURE_GROUP;This option is available because you are §Y[Root.Culture.GetGroupName]§! and §YCruel§!;;;;;;;;;x
+mta_REASON_CRUEL_CULTURE;This option is available because you are §Y[Root.Culture.GetName]§! and §YCruel§!;;;;;;;;;x
+mta_REASON_CRUEL_RELIGION;This option is available because you are §Y[Root.Religion.GetName]§! and §YCruel§!;;;;;;;;;x
+mta_REASON_CRUEL;This option is available because you have the §YCruel§! trait;;;;;;;;;x
+mta_REASON_WROTH;This option is available because you have the §YWroth§! trait;;;;;;;;;x
+#Option reason: Cultures
+mta_REASON_CULTURE;This option is available because you are §Y[Root.Culture.GetName]§!;;;;;;;;;x
+mta_REASON_IS_A_CAT;This option is available because you are a §Y[cat.GetName]§!;;;;;;;;;x
+mta_REASON_IS_A_HORSE;This option is available because you are a §Y[horse.GetName]§!;;;;;;;;;x
+mta_REASON_IS_PERSIAN;This option is available because you are §Y[persian.GetName]§!;;;;;;;;;x
+#Option reason: Culture groups
+mta_REASON_CULTURE_GROUP;This option is available because you are §Y[Root.Culture.GetGroupName]§!;;;;;;;;;x
+mta_REASON_CULTURE_GROUP_GOVERNMENT;This option is available because you are §Y[Root.Culture.GetGroupName]§! and §Y[Root.Government.GetName]§!;;;;;;;;;x
+mta_REASON_IS_CELTIC;This option is available because you are §Y[celtic.GetGroupName]§!;;;;;;;;;x
+mta_REASON_IS_IBERIAN;This option is available because you are §Y[iberian.GetGroupName]§!;;;;;;;;;x
+mta_REASON_IS_NORTH_GERMANIC;This option is available because you are §Y[north_germanic.GetGroupName]§!;;;;;;;;;x
+mta_REASON_IS_WEST_GERMANIC;This option is available because you are §Y[west_germanic.GetGroupName]§!;;;;;;;;;x
+#Option reason: Religion
+mta_REASON_RELIGION;This option is available because you are §Y[Root.Religion.GetName]§!;;;;;;;;;x
+mta_REASON_RELIGION_GROUP;This option is available because you are §Y[Root.Religion.GetGroupName]§!;;;;;;;;;x
+mta_REASON_IS_NORSE_PAGAN;This option is available because you are §Y[norse_pagan.GetName]§!;;;;;;;;;x
+mta_REASON_IS_CHRISTIAN;This option is available because you are §Y[christian.GetGroupName]§!;;;;;;;;;x
+mta_REASON_IS_MUSLIM;This option is available because you are §Y[muslim.GetGroupName]§!;;;;;;;;;x
+mta_REASON_IS_PETS;This option is available because you have §YExotic Pets§! in your capital.;;;;;;;;;x
+### EVENTS ###
+#Specific Mutilation
+mta.2.desc;You order the jailor to drag [From.GetTitledFirstName] from [From.GetHerHis] cell while you methodically prepare your tools. No one crosses you unscathed and [From.GetFirstName] will become a living example of this. At least that's the plan, but who knows? You could... slip.;;;;;;;;;x
+mta.2.z;Actually, take them back to their cell for now.;;;;;;;;;x
+mta.2.a;Your face could use a touch up!;;;;;;;;;x
+mta.2.b;Keep one eye open, or I will for you while I cut it out.;;;;;;;;;x
+mta.2.c;A hand will do. Stay still!;;;;;;;;;x
+mta.2.d;Let's see how you manage with one leg, shall we?;;;;;;;;;x
+mta.2.e;I'm getting rid of your manhood.;;;;;;;;;x
+#Specific Execution
+mta.3.desc;The order is to be given on your command for [From.GetTitledFirstName] to be executed, as soon as you decide on a fitting way for [From.GetHerHim] to die.;;;;;;;;;x
+mta.3.z;Actually, I need to think about this first.;;;;;;;;;x
+mta.3.a;Off with [From.GetHerHis] head!;;;;;;;;;x
+mta.3.b;[From.GetSheHeCap] is to be hanged.;;;;;;;;;x
+mta.3.c;Burn [From.GetHerHim] at the stake!;;;;;;;;;x
+mta.3.d;Carve [From.GetHerHis] lungs out [From.GetHerHis] back and make [From.GetHerHim] into a blood eagle, for [norse_pagan.GetHighGodName]!;;;;;;;;;x
+mta.3.e;Have this [From.GetManWoman] hanged, drawn, and quartered.;;;;;;;;;x
+mta.3.j;Time for the garrote.;;;;;;;;;x
+mta.3.f;Nail [From.GetHerHim] to a cross.;;;;;;;;;x
+mta.3.k;Stone [From.GetHerHim] to death.;;;;;;;;;x
+mta.3.g;Coat [From.GetHerHim] in sweet things between boats to be eaten alive by insects!;;;;;;;;;x
+mta.3.y;Have [From.GetHerHim] trampled by horses!;;;;;;;;;x
+mta.3.h;Let's watch [From.GetHerHim] get mauled to death by a bear!;;;;;;;;;x
+mta.3.l;Slowly impale [From.GetHerHim] on sharp growing bamboo.;;;;;;;;;x
+mta.3.i;Feed [From.GetHerHim] to the lions!;;;;;;;;;x
+mta.3.m;[From.GetSheHeCap] will be my prey in a great hunt. Meow.;;;;;;;;;x
+mta.3.n;Throw [From.GetHerHim] into the drowning-pit.;;;;;;;;;x
+mta.3.o;Impale [From.GetHerHim]!;;;;;;;;;x
+mta.3.p;Get [From.GetHerHim] in the brazen bull and start the fire.;;;;;;;;;x
+mta.3.q;Flay [From.GetHerHim] like an animal!;;;;;;;;;x
+mta.3.r;[From.GetSheHeCap]'s going to make great tiger food!;;;;;;;;;x
+mta.3.s;Let our elephants toy with [From.GetHerHim].;;;;;;;;;x
+mta.3.t;Slowly crush [From.GetHerHim] under stone.;;;;;;;;;x
+mta.3.u;Wall [From.GetHerHim] up alive!;;;;;;;;;x
+mta.3.v;Out with [From.GetHerHis] intestines!;;;;;;;;;x
+mta.3.w;Break [From.GetHerHis] back!;;;;;;;;;x
+mta.3.x;Leave [From.GetHerHim] in the wilds to be eaten.;;;;;;;;;x
+mta.3.1.a;I have a spot in my garden just for [From.GetHerHim]!;;;;;;;;;x
+mta.3.1.b;[From.GetSheHeCap] is to be publicly devoured by animals.;;;;;;;;;x
+#Feed to beasts execution
+mta.15.desc;[FromFrom.GetTitledFirstName] is hereby condemned to death by beasts—a popular form of entertainment among the [roman.GetName] lower class.;;;;;;;;;x
+mta.15.a;Away with [FromFrom.GetHerHim] to the lions!;;;;;;;;;x
+mta.15.b;I wonder how long [FromFrom.GetSheHe] will last against a bear?;;;;;;;;;x
+mta.15.c;Let's make this magnificent and bring the elephants!;;;;;;;;;x
+mta.15.d;Bring a fine boar with great tusks to have its way with [FromFrom.GetHerHim].;;;;;;;;;x
+### DECISIONS ###
+mta_specific_mutilation;Specific Mutilation;;;;;;;;;;;;;x
+mta_specific_mutilation_desc;As §Y[Root.GetTitledFirstName]§! is your prisoner, you may give the order to mutilate [Root.GetHerHim] as a punishment. While §Y[Root.GetTitledFirstName]§! will probably survive, the injuries will be permanent.;;;;;;;;;;;;;x
+mta_specific_execution;Specific Execution;;;;;;;;;;;;;x
+mta_specific_execution_desc;As §Y[Root.GetTitledFirstName]§! is your prisoner, you may give the order to execute [Root.GetHerHim] as a punishment.;;;;;;;;;;;;;x
+### OPINION MODIFIERS ###
+opinion_executed_close_kin;Executed Close Kin;;;;;;;;;;;;;x
+opinion_executed_kin;Executed Kin;;;;;;;;;;;;;x
+opinion_executed_close_kin_unjust;Unjustly Executed Close Kin;;;;;;;;;;;;;x
+opinion_executed_kin_unjust;Unjustly Executed Kin;;;;;;;;;;;;;x
+opinion_executing_me;Executing Me;;;;;;;;;;;;;x

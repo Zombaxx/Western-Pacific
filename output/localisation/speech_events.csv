@@ -1,0 +1,56 @@
+#modifiers
+impressed_speech;Impressed by Speech;;;x
+inspired_faithfuls;Inspired Faithfuls;;;x
+inspired_faithfuls_desc;The peasants of this realm are inspired by their leader's faith.;;;x
+embarrassing_speech;Embarrassing Speech;;;x
+revered_military;Revered Military;;;x
+revered_military_desc;Military Service is heavily promoted in this realm. Many young men dream of fighting for their ruler.;;;x
+despise_immigrants;Foreigner Pogrom;;;x
+despise_immigrants_desc;The minorites of this realm have been scapegoated for all of the people's problems and are being persecuted.;;;x
+strong_ruler;Respected Ruler;;;x
+strong_ruler;The ruler of this realm has gained the love and respect of their countrymen.;;;x
+pious_leader;Pious Leader;;;x
+pious_leader_desc;This ruler is revered by members of their religion.;;;x
+army_disarray;Army Disarray;;;x
+army_disarray_desc;This ruler has little command over their own troops.;;;x
+respect_leader;Respected Leader;;;x
+respect_leader_desc;This ruler commands love and respect from their people of their realm.;;;x
+give_speech;Gave Speech;;;x
+commander_appreciated;Appreciated;;;x
+
+#decisions
+prepare_speech;Host Event;;;x
+prepare_speech_desc;Gather your lords in the Assembly chamber to discuss holding an event.;;;x
+
+#events
+speech1;Event is successful;;;x
+speech2;Event doesn't go as planned;;;x
+EVTDESCroyspeech.7;You gather all the lords of your realm to the Assembly Chamber in [Root.Capital.GetName]. Together, you have many discussions and disagreements about what event to hold to boost your standing in the realm.;;;x
+EVTOPTAroyspeech.7;Arrange a Holy Sermon;;;x
+speechholy;Prepare to make a great speech to the people of your realm.;;;x
+EVTOPTBroyspeech.7;Organize a Military Parade;;;x
+speechmilit;Prepare a celebration of your realm's great fighters.;;;x
+EVTOPTCroyspeech.7;Define State Policy;;;x
+speechtalk;Prepare a speech addressing both your policy for your people going forward and your intentions for your enemies.;;;x
+EVTOPTDroyspeech.7;Cancel the Event;;;x
+speechcancel;Send your vassals home and do this another day;;;x
+
+EVTDESCroyspeech.1;Your speech was a rousing success! Many people from all corners of your realm gathered in [Root.Capital.GetName]'s Assembly Chamber to hear you speak of your undying devotion to [Root.Religion.GetHighGodName]. The masses were impressed by your prayers, some even fainting in the stands. Soon, word of this event will spread across the entire realm!;;;x
+EVTOPTAroyspeech.1;[Root.Religion.GetHighGodName] be praised!;;;x
+
+EVTDESCroyspeech.2;Your speech did not go as planned. Barely anyone showed up, and the guests that did arrive were unattentive during your speech, even laughing and talking over you.;;;x
+EVTOPTAroyspeech.2;I'm so embarrassed!;;;x
+
+EVTDESCroyspeech.3;Your Military Parade was a success! You started the day with a Parade March that proceeded all around [Root.PrimaryTitle.GetFullName]. Then, you addressed the troops in formation before handing out golden rewards at a pre-planned ceremony. Your commanders and the peasantry alike greatly admired the spectacle and there is now no shortage of men willing to serve the crown.;;;x
+EVTOPTAroyspeech.3;To Victory!;;;x
+
+EVTDESCroyspeech.4;You managed to botch the Military Parade spectacularly. Nearly every event was behind schedule, men deserted, believing they were on their way to fight, and some even turned up to the Assembly Chamber drunk and causing havoc. In the end, the event had to be cancelled prematurely.;;;x
+EVTOPTAroyspeech.4;This is all my fault...;;;x
+
+EVTDESCroyspeech.5;Your speech was a success! You were able to clearly and reasonably define your expectations from your vassals and people. Most, you feel, are on the same page as you while many more could not deny your oratory skill.;;;x
+EVTOPTAroyspeech.5;United We Stand!;;;x
+
+EVTDESCroyspeech.6;Your speech on realm policy was a failure. The day was plagued by bad weather, causing great complaint from your vassals. When it was time for you to speak, many showed little interest, few even left early. The peasants seem to have taken your message in an unexpectedly odd way.;;;x
+EVTOPTAroyspeech.6;Maybe this was a mistake...;;;x
+
+

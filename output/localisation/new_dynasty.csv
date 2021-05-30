@@ -1,0 +1,6 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+EVT_DESC_FDY_2;In your wisdom you have founded your own dynasty and a new noble house has been born. All your fiefs and estates now show your new banners and colors, and all the titles you hold have now left your former dynasty.As you watch your new banner flutter in the wind you feel a sense of a new era approaching! (Go to your dynasty screen and edit your Coat Of Arms and name if need be);;;;;;;;;;;;x
+EVT_NAME_FDY_2;A New Noble House;;;;;;;;;;;;x
+EVTOPTA_FDY_2;To glory and greatness;;;;;;;;;;;;x
+form_cadet_branch;Create a Branch of House [Root.GetOnlyDynastyName];;;;;;;;;;;;x
+form_cadet_branch_desc;Forge your own dynasty and part with your old family;;;;;;;;;;;;x

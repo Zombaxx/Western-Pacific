@@ -1,0 +1,140 @@
+namespace = more_prisoners
+character_event = {
+	id = more_prisoners.0
+	desc = EVTDESCmore_prisoners.0
+	picture = GFX_evt_courier
+
+	is_triggered_only = yes
+
+	trigger = {
+		ai = no
+	}
+	
+	option = {
+		name = EVTOPTAmore_prisoners.0
+	}
+
+	option = {
+		name = EVTOPTBmore_prisoners.0
+		FROM = {
+			holder_scope = {
+				any_courtier = {
+					IF = {
+						limit = {
+							prisoner = no
+							at_location = ROOT
+							OR = {
+								dynasty = PREV
+								is_married = yes
+								has_job_title = yes
+								has_minor_title = yes
+								is_landed = yes
+								is_adult = no
+							}
+						}
+						imprison = ROOT
+						opinion = { modifier = opinion_kidnapped who = ROOT years= 10 }
+					}
+				}
+			}
+		}
+	}
+	
+	option = {
+		name = EVTOPTCmore_prisoners.0
+		trigger = {
+			any_courtier = {
+				is_female = no
+				prisoner = no
+				is_ill = no
+				age = 14
+				at_location = ROOT
+				NOR = {
+					trait = chaste
+					trait = honorable
+					trait = infirm
+					trait = incapable
+				}
+			}
+			FROM = {
+				holder_scope = {
+					any_courtier = {
+						is_female = yes
+						is_pregnant = no
+						prisoner = no
+						NOR = {
+							trait = infirm
+							trait = incapable
+						}
+					}
+				}
+			}
+		}
+		character_event = { id = more_prisoners.1 }
+	}
+}
+character_event = {
+	id = more_prisoners.1
+	desc = EVTDESCmore_prisoners.1
+	picture = GFX_evt_courier
+
+	is_triggered_only = yes
+
+	immediate = {
+		random_courtier = {
+			limit = {
+				is_female = no
+				prisoner = no
+				age = 14
+				is_ill = no
+				at_location = ROOT
+				NOR = {
+					trait = chaste
+					trait = honorable
+					trait = infirm
+					trait = incapable
+				}
+			}
+			save_event_target_as = raper
+		}
+	}
+	option = {
+		name = EVTOPTAmore_prisoners.1
+		FROMFROM = {
+			holder_scope = {
+				random_courtier = {
+					limit = {
+						is_female = yes
+						is_pregnant = no
+						prisoner = no
+						age = 14
+						at_location = ROOT
+						NOR = {
+							trait = infirm
+							trait = incapable
+						}
+					}
+					random = {
+						chance = 45
+						event_target:raper = { impregnate = PREV }
+					}
+					opinion = { modifier = opinion_furious who = event_target:raper years = 50 }
+					opinion = { modifier = opinion_furious who = ROOT years = 20 }
+					character_event = { id = more_prisoners.2 }
+				}
+			}
+		}
+		clear_event_target = raper
+	}
+}
+character_event = {
+	id = more_prisoners.2
+	desc = EVTDESCmore_prisoners.2
+	picture = GFX_evt_courier
+
+	is_triggered_only = yes
+	
+	option = {
+		name = EVTOPTAmore_prisoners.2
+	}
+}

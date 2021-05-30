@@ -1,0 +1,72 @@
+#Slavery Opinions
+opinion_slave = {
+	opinion = -10
+	months = 2400
+	inherit = yes
+}
+opinion_master = {
+	opinion = -10
+	months = 2400
+	inherit = yes
+	stacking = no
+}
+opinion_runaway = {
+	opinion = -25
+	years = 150
+}
+opinion_slaves_freed = {
+	opinion = -30
+	years = 25
+}
+opinion_freed_slave = {
+	opinion = 25
+	years = 150
+}
+opinion_slave_bred_with = {
+	opinion = -5
+	months = 6
+}
+opinion_slave_bred = {
+	opinion = -10
+	months = 6
+}
+opinion_slave_raped = {
+	opinion = -25
+	years = 15
+}
+opinion_threatened = {
+	opinion = -5
+	months = 6
+}
+opinion_lashed = {
+	opinion = -5
+	years = 10
+}
+opinion_tortured = {
+	opinion = -15
+	years = 10
+}
+opinion_brutally_tortured = {
+	opinion = -50
+	years = 150
+}
+opinion_enslaved_me = {
+	opinion = -50
+	months = 240
+	prison_reason = yes
+	crime = yes
+}
+opinion_enslaved_close_relative = {
+	opinion = -40
+	months = 240
+	inherit = yes
+	prison_reason = yes
+	crime = yes
+}
+opinion_granted_freedom = {
+	opinion = 25
+	months = 3650
+}
+opinion_launched_slave_raid = {
+	opinion = -10
+}

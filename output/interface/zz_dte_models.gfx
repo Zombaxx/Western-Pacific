@@ -1,0 +1,109 @@
+objectTypes = {
+
+	pdxmesh = {
+		name = "chinesegfx_LIGHT_INFANTRY"
+		file = "gfx/models/militia.mesh"
+		scale = 925.00f
+	}
+
+	pdxmesh = {
+		name = "chinesegfx_HEAVY_INFANTRY"
+		file = "gfx/models/riflemen.mesh"
+		scale = 750.00f
+	}
+	pdxmesh = {
+		name = "chinesegfx_ARCHERS"
+		file = "gfx/models/marksman.mesh"
+		scale = 900.00f
+	}
+	pdxmesh = {
+		name = "chinesegfx_PIKEMEN"
+		file = "gfx/models/demolitions.mesh"
+		scale = 750.00f
+	}
+	pdxmesh = {
+		name = "chinesegfx_LIGHT_CAVALRY"
+		file = "gfx/models/motorized.mesh"
+		scale = 600.00f
+	}
+	pdxmesh = {
+		name = "chinesegfx_KNIGHTS"
+		file = "gfx/models/motorized.mesh"
+		scale = 15.00f
+	}
+	pdxmesh = {
+		name = "chinesegfx_war_elephants"
+		file = "gfx/models/artillery.mesh"
+		scale = 300.00f
+	}
+
+	pdxmesh = {
+		name = "tribalgfx_tribal_1"
+		file = "gfx\models\camp.mesh"
+		scale = 10.0f
+		cull_distance = 550.0f
+	}
+	EMFXActorType = {
+		name = "muslimgfx_count_shield"
+		actorfile = "gfx\models\Shields\norse_count_shield.xac"
+		scale = 0.5f
+		use_animation = no
+	}
+	
+	EMFXActorType = {
+		name = "muslimgfx_duke_shield"
+		actorfile = "gfx\models\Shields\norse_count_shield.xac"
+		scale = 0.5f
+		use_animation = no
+	}
+	
+	EMFXActorType = {
+		name = "muslimgfx_king_shield"
+		actorfile = "gfx\models\Shields\norse_count_shield.xac"
+		scale = 0.5f
+		use_animation = no
+	}
+	
+	EMFXActorType = {
+		name = "muslimgfx_emperor_shield"
+		actorfile = "gfx\models\Shields\norse_count_shield.xac"
+		scale = 0.5f
+		use_animation = no
+	}
+	#pdxmesh = {	#acts bizarrely for some reason
+	#	name = "muslimgfx_port"
+	#	file = "gfx\models\port.mesh"
+	#	scale = 5.0f
+	#	cull_distance = 550.0f
+	#}
+	#pdxmesh = {
+	#	name = "tribalgfx_port"
+	#	file = "gfx\models\port.mesh"
+	#	scale = 5.0f
+	#	cull_distance = 550.0f
+	#}
+	#below isn't working for some reason - suspect have wrong tags
+#	pdxmesh = {
+#		name = "tribalgfx_castle_1"
+#		actorfile = "gfx\models\base.mesh"
+#		scale = 5.0f
+#		cull_distance = 550.0f
+#	}
+#	pdxmesh = {
+#		name = "muslimgfx_temple_1"
+#		actorfile = "gfx\models\shrine.mesh"
+#		scale = 5.0f
+#		cull_distance = 550.0f
+#	}
+#	pdxmesh = {
+#		name = "muslimgfx_city_1"
+#		actorfile = "gfx\models\city.mesh"
+#		scale = 5.0f
+#		cull_distance = 550.0f
+#	}
+#	pdxmesh = {
+#		name = "muslimgfx_port"
+#		file = "gfx\models\port.mes"
+#		scale = 15.0f
+#	}
+}

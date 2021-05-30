@@ -1,0 +1,17 @@
+namespace = slavery
+character_event = {
+	id = slavery.1
+	desc = "EVTDESCSLAVERY1"
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTASLAVERY1"
+		FROM = { 
+		remove_trait = trait_slave
+		add_trait = former_slave
+		any_spouse = { remove_spouse = ROOT }
+		consort = { remove_consort = ROOT }	
+		opinion = { who = ROOT modifier = opinion_granted_freedom }
+		}
+	}
+}

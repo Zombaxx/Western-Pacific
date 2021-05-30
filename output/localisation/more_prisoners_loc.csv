@@ -1,0 +1,8 @@
+EVTDESCmore_prisoners.0;You've taken the walls and the castle is yours..;;;;;;;;;;;;;x
+EVTOPTAmore_prisoners.0;Be magnaimous.;;;;;;;;;;;;;x
+EVTOPTBmore_prisoners.0;Lock up everyone.;;;;;;;;;;;;;x
+EVTOPTCmore_prisoners.0;Unleash the men.;;;;;;;;;;;;;x
+EVTDESCmore_prisoners.1;As the daylight fades from the grounds, your men loot the homes of the populace and rape the women they capture.;;;;;;;;;;;;;x
+EVTOPTAmore_prisoners.1;I'm sure some women will have bastards in their bellies before the day is through.;;;;;;;;;;;;;x
+EVTDESCmore_prisoners.2;You were raped.;;;;;;;;;;;;;x
+EVTOPTAmore_prisoners.2;Damn him!;;;;;;;;;;;;;x

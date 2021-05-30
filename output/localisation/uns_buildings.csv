@@ -1,0 +1,31 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+ca_recruit_1;Small Recruitment Center;;;;;;;;;;;;;x
+ca_recruit_1_desc;Prepare training grounds and living quarters for a small standing force;;;;;;;;;;;;;x
+ca_recruit_2;Moderate Recruitment Center;;;;;;;;;;;;;x
+ca_recruit_2_desc;Improve the infrastructure to accomodate a moderate standing force;;;;;;;;;;;;;x
+ca_recruit_3;Large Military Base;;;;;;;;;;;;x
+ca_recruit_3_desc;Improve the infrastructure to accomodate a large standing force;;;;;;;;;;;;;x
+ca_recruit_4;Huge Military Base;;;;;;;;;;;;;x
+ca_recruit_4_desc;Improve the infrastructure to accomodate a huge standing force;;;;;;;;;;;;;x
+ca_recruit_5;Massive Military Base;;;;;;;;;;;;;x
+ca_recruit_5_desc;Improve the infrastructure to accomodate a massive standing force;;;;;;;;;;;;;x
+fp_pmc_1;Personal Standing Military I;;;;;;;;;;;;;x
+fp_pmc_1_desc;Recruit a personal standing army;;;;;;;;;;;;;x
+fp_pmc_2;Personal Standing Military II;;;;;;;;;;;;;x
+fp_pmc_2_desc;Recruit a personal standing army;;;;;;;;;;;;;x
+fp_pmc_3;Personal Standing Military III;;;;;;;;;;;;;x
+fp_pmc_3_desc;Recruit a personal standing army;;;;;;;;;;;;;x
+fp_pmc_4;Personal Standing Military IV;;;;;;;;;;;;;x
+fp_pmc_4_desc;Recruit a personal standing army;;;;;;;;;;;;;x
+fp_officer_lounge_1;Officer's Barracks;;;;;;;;;;;;;x
+fp_officer_lounge_1_desc;Recruit Officers to better handle a larger force;;;;;;;;;;;;;x
+fp_officer_lounge_2;Veteran Officers;;;;;;;;;;;;;x
+fp_officer_lounge_2_desc;Better training for your Officers increase morale and allows them to effectively maintain larger forces;;;;;;;;;;;;;x
+fp_officer_lounge_3;Elite Officers;;;;;;;;;;;;;x
+fp_officer_lounge_3_desc;Better training for your Officers increase morale and allows them to effectively maintain larger forces;;;;;;;;;;;;;x
+tr_recruit_1;Recruitment Office I;;;;;;;;;;;;;x
+tr_recruit_1_desc;An Office, recruiting men for your personal forces.;;;;;;;;;;;;;x
+tr_recruit_2;Recruitment Office II;;;;;;;;;;;;;x
+tr_recruit_2_desc;An Office, recruiting men for your personal forces.;;;;;;;;;;;;;x
+tr_recruit_3;Recruitment Office III;;;;;;;;;;;;;x
+tr_recruit_3_desc;An Office, recruiting men for your personal forces.;;;;;;;;;;;;;x

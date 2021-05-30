@@ -1,0 +1,14 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_evt_slave_market"
+		texturefile = "gfx\\event_pictures\\slave_market.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_slavery"
+		texturefile = "gfx\\event_pictures\\slavery.dds"
+		allwaystransparent = yes
+	}
+}
+
+

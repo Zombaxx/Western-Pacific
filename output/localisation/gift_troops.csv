@@ -1,0 +1,16 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+player_gift_troops;Gift Troops;;;;;;;;;;;;;x
+player_gift_troops_desc;[Root.GetBestName] is at war and you can gift them troops.;;;;;;;;;;;;;x
+EVTDESCgift_troops_ai.0;[From.GetBestName] is at war and you can gift them troops. You meet with an envoy from [From.Capital.GetName] to discuss how many men you will send.;;;;;;;;;;;;;x
+EVTOPTAgift_troops_ai.0;1000 troops;;;;;;;;;;;;;x
+EVTOPTBgift_troops_ai.0;2000 troops;;;;;;;;;;;;;x
+EVTOPTCgift_troops_ai.0;3000 troops;;;;;;;;;;;;;x
+EVTOPTDgift_troops_ai.0;5000 troops;;;;;;;;;;;;;x
+EVTOPTEgift_troops_ai.0;10000 troops;;;;;;;;;;;;;x
+EVTOPTFgift_troops_ai.0;15000 troops;;;;;;;;;;;;;x
+EVTOPTGgift_troops_ai.0;Next;;;;;;;;;;;;;x
+EVTDESCgift_troops_ai.1;[From.GetBestName] has gifted you troops for your war.;;;;;;;;;;;;;x
+EVTOPTAgift_troops_ai.1;Ah ok.;;;;;;;;;;;;;x
+EVTOPTBgift_troops_ai.1;Thanks!;;;;;;;;;;;;;x
+EVTOPTCgift_troops_ai.1;You are a God!;;;;;;;;;;;;;x
+opinion_supported_war_effort;Supported My War Effort;;;;;;;;;;;;;x

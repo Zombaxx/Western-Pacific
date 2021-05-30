@@ -1,0 +1,33 @@
+targetted_decisions = {
+	send_to_school = {
+		is_high_prio = yes
+		filter = dynasty
+		ai_target_filter = dynasty
+
+		potential = { 
+			age = 5
+			NOT = { age = 14 }
+			is_child_of = FROM 
+                	dynasty = FROM
+			host = { character = FROM }
+			NOT = { has_character_flag = gone_school }
+		}
+		allow = {
+			capital_holding = {
+			has_building = ca_public_schools
+				}
+		}
+
+		effect = {
+			set_character_flag = gone_school
+			add_character_modifier = {
+			name = going_to_school
+			duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+}

@@ -1,0 +1,106 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+
+#Unit stuff
+riflemen_brigade;Riflemen;;;;;;;;;;;;;x
+riflemen_brigade_offensive;Riflemen Offensive;;;;;;;;;;;;;x
+riflemen_brigade_defensive;Riflemen Defensive;;;;;;;;;;;;;x
+riflemen_brigade_morale;Riflemen Morale;;;;;;;;;;;;;x
+riflemen_brigade_modifier;Combat Modifier boost to Riflemen Troops: $PERC$;;;;;;;;;;;;;x
+
+artillery_unit;Artillery;;;;;;;;;;;;;x
+artillery_unit_offensive;Artillery Offensive;;;;;;;;;;;;;x
+artillery_unit_defensive;Artillery Defensive;;;;;;;;;;;;;x
+artillery_unit_morale;Artillery Morale;;;;;;;;;;;;;x
+artillery_unit_modifier;Combat Modifier boost to Artillery Troops: $PERC$;;;;;;;;;;;;;x
+
+motorized_unit;Motorized Cavalry;;;;;;;;;;;;;x
+motorized_unit_offensive;Motorized Cavalry Offensive;;;;;;;;;;;;;x
+motorized_unit_defensive;Motorized Cavalry Defensive;;;;;;;;;;;;;x
+motorized_unit_morale;Motorized Cavalry Morale;;;;;;;;;;;;;x
+motorized_unit_modifier;Combat Modifier boost to Cavalry Troops: $PERC$;;;;;;;;;;;;;x
+
+demolitions_unit;Demolitions Unit;;;;;;;;;;;;;x
+demolitions_unit_offensive;Demolitions Offensive;;;;;;;;;;;;;x
+demolitions_unit_defensive;Demolitions Defensive;;;;;;;;;;;;;x
+demolitions_unit_morale;Demolitions Morale;;;;;;;;;;;;;x
+demolitions_unit_modifier;Combat Modifier boost to Demolition Troops: $PERC$;;;;;;;;;;;;;x
+
+
+#Tactics
+probe_defenses;Probe Defenses;x
+decapitation_strikes;Decapitation Strikes;x
+misdirection;Misdirection;x
+artillery_barrage;Artillery Barrage;x
+night_attack;Night Attack;x
+hit_and_run;Hit and Run;x
+artillery_off_mark;Artillery Off Mark;x
+failed_night_attack;Failed Night Attack;x
+mobile_troops_anticipated;Mobile Troops Anticipated;x
+marksmen_poor_visibility;Visibility Lacking;x
+blunder_into_enemy;Blunder into Enemy;x
+entrench;Entrench;x
+prepare_ambush;Prepare Ambush;x
+suppressive_barrage;Suppressing Barrage;x
+motorized_screen;Motorized Screen;x
+marksman_screen;Marksmen Screen;x
+space_for_time;Trade Space for Time;x
+withdrawal_intercepted;Withdrawal Intercepted;x
+motor_screen_overwhelmed;Motor Screen Overwhelmed;x
+marksman_screen_overwhelmed;Marksmen Screen Overwhelmed;x
+shock_and_awe;Shock and Awe;x
+human_wave;Human Wave;x
+blitz_spearhead;Blitz Spearhead;x
+stormtrooper_assault;Stormtrooper Assault;x
+carpet_artillery;Line-Fire Artillery;x
+keypoint_artillery;Called Artillery;x
+motorized_swarm;Mobile Swarm;x
+strongpoint_breach;Breach Strongpoint;x
+encirclement;Encirclement;x
+dange_close_succ;Danger Close Artillery;x
+fanatic_charge;For the Cause!;x
+broad_assault;NCO Discretion;x
+we_have_reserves;We Have Reserves;x
+danger_close_fail;Danger Close Disaster;x
+house_to_house_off;House-to-House Offense;x
+unguarded_armor;Unescorted Armor;x
+uncoordinated_charge;Uncoordinated Offensive;x
+outrun_supply_lines;Overextended Troops;x
+detached_pocket;Detached Pocket;x
+overwhelming_fire;Overwhelming Fire;x
+improvised_traps;Improvised Traps;x
+deploy_minefield;Deploy Minefield;x
+house_to_house_def;House-to_House Defense;x
+elastic_defense;Elastic Defense;x
+trench_defense;Trench Defense;x
+guerilla_warfare;Guerilla Warfare;x
+strongpoint_defense;Strongpoint Defense;x
+lure_into_ambush;Lure into Ambush;x
+overlapping_fire;Overlapping Fields of Fire;x
+fanatic_defense;Not One Step Back!;x
+broad_defense;Holding Positions;x
+artillery_overshoots;Artillery Overshoots;x
+misplaced_minefield;Misplaced Minefield;x
+cowards_and_traitors;Cowards and Traitors!;x
+vanguard_too_ahead;Vanguard Too Forward;x
+holes_in_line;Holes in Defensive Line;x
+incomplete_coverage;Incomplete Coverage;x
+reserves_too_back;Reserves Too Rearward;x
+
+
+#Other holding/building/province
+CITY_TAX_MODIFIER;Civilian Revenue;x
+CASTLE_TAX_MODIFIER;Military Revenue;x
+TEMPLE_TAX_MODIFIER;Landmark Revenue;x
+TRIBAL_TAX_MODIFIER;Tribal Revenue;x
+CITY_VASSAL_TAX_MODIFIER;Civilian Tax;x
+CASTLE_VASSAL_TAX_MODIFIER;Military Tax;x
+TEMPLE_VASSAL_TAX_MODIFIER;Landmark Tax;x
+TRIBAL_VASSAL_TAX_MODIFIER;Tribal Tax;x
+CITY_VASSAL_MIN_LEVY;Civilian Min Levy;x
+CASTLE_VASSAL_MIN_LEVY;Military Min Levy;x
+TEMPLE_VASSAL_MIN_LEVY;Church Min Levy;x
+TRIBAL_VASSAL_MIN_LEVY;Camp Min Levy;x
+CITY_VASSAL_MAX_LEVY;Civilian Max Levy;x
+CASTLE_VASSAL_MAX_LEVY;Military Max Lev;x
+TEMPLE_VASSAL_MAX_LEVY;Church Max Levy;x
+TRIBAL_VASSAL_MAX_LEVY;Tribal Max Levy;x

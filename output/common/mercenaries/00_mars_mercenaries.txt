@@ -1,0 +1,52 @@
+# Define mercenary types here now instead of in the static_composition.txt file
+# Also remember to tell the landed title to use this mercenary type instead.
+# Several titles can refer to the same type as well now.
+
+### Generic
+generic_massive_composition = {
+	levy_size = 6
+	heavy_infantry = 150
+	pikemen = 205
+	archers = 200
+	light_cavalry = 175
+	knights = 30
+}
+
+generic_mid_composition = {
+	levy_size = 3
+	archers = 200
+	light_infantry = 320
+	heavy_infantry = 150
+	pikemen = 120
+	light_cavalry = 75
+}
+
+generic_low_1_composition = {
+	levy_size = 2
+	light_infantry = 250
+	heavy_infantry = 200
+	pikemen = 100
+	light_cavalry = 75
+	archers = 250
+}
+
+generic_low_composition = {
+	levy_size = 1
+	light_infantry = 250
+	heavy_infantry = 100
+	pikemen = 100
+	light_cavalry = 100
+	archers = 150
+}
+
+generic_tiny_composition_1 = {
+	levy_size = 1
+	archers = 260
+	light_infantry = 360
+	pikemen = 80
+}
+generic_spacer_1_composition = {
+	levy_size = 1
+	riflemen_brigade = 1000
+}
+### 

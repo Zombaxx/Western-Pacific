@@ -1,0 +1,162 @@
+namespace = percas
+character_event = {
+id = percas.0
+desc = "EVTDESCPERCAS0"
+picture = GFX_school_learn
+border = GFX_event_normal_frame_diplomacy
+
+only_rulers = yes
+prisoner = no
+min_age = 16
+only_capable = yes
+
+	mean_time_to_happen = {
+		months = 3 
+	}
+	trigger = {
+		OR = {
+			tier = KING
+			tier = EMPEROR
+			ai = no
+		}
+		capital_holding = {
+			has_building = ca_research_library
+		}
+		any_courtier = {
+			learning = 8
+			prisoner = no
+			age = 16
+		}
+		NOT = { has_character_flag = library_obtained_1 }
+	}
+	immediate = {
+		set_character_flag = library_obtained_1
+	}
+	option = {
+		name = allow_library
+		economy_techpoints = 15
+		culture_techpoints = 15
+		military_techpoints = 15
+		any_courtier = {
+			limit = {
+				learning = 8
+				prisoner = no
+				age = 16
+			}
+			opinion = {
+				modifier = library_pos
+				who = ROOT
+				years = 2
+			}
+		
+		}
+	}
+	option = {
+		name = dont_allow_library
+		add_trait = proud
+		any_courtier = {
+			limit = {
+				learning = 8
+				prisoner = no
+				age = 16
+			}
+			opinion = {
+				modifier = library_neg
+				who = ROOT
+				years = 2
+			}
+		}
+	}
+
+}
+
+character_event = {
+id = percas.1
+desc = "EVTDESCPERCAS1"
+picture = GFX_school_learn
+border = GFX_event_normal_frame_religion
+
+only_rulers = yes
+prisoner = no
+min_age = 16
+only_capable = yes
+
+	mean_time_to_happen = {
+		months = 2 
+	}
+	trigger = {
+		OR = {
+			tier = KING
+			tier = EMPEROR
+			ai = no
+		}
+		capital_holding = {
+			has_building = ca_research_library
+		}
+		NOT = { has_character_flag = library_obtained_2 }
+	}
+	immediate = {
+		set_character_flag = library_obtained_2
+	}
+	option = {
+		name = use_library_much
+		tooltip_info = learning
+		change_learning = 2
+		fertility = -0.10
+		trigger = {
+			OR ={
+				learning = 7
+				trait = scholarly_theologian
+				trait = mastermind_theologian
+				trait = detached_priest
+				trait = martial_cleric
+				trait = scholar
+			}
+		}
+	}
+	option = {
+		name = use_library_some
+		change_learning = 1
+	}
+	option = {
+		name = use_library_wrong
+		tooltip_info = lunatic
+		custom_tooltip = { text = throw_book_tooltip }
+		trigger = {
+			trait = lunatic
+		}
+		random_courtier = {
+			limit = {
+				learning = 3
+				prisoner = no
+			}
+			opinion = {
+				modifier = throw_book_neg
+				who = ROOT
+				years = 5
+			}
+		}
+	}
+	option = {
+		name = use_library_wrong
+		custom_tooltip = { text = throw_book_tooltip_stupid }
+		trigger = {
+			OR = {
+				trait = inbred
+				trait = imbecile
+				trait = slow
+			}
+			NOT = { trait = lunatic }
+		}
+		random_courtier = {
+			limit = {
+				prisoner = no
+			}
+			opinion = {
+				modifier = throw_book_neg
+				who = ROOT
+				years = 5
+			}
+		}
+	}
+}

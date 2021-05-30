@@ -1,0 +1,68 @@
+EVTDESC_Trib_02;To [Root.GetTitledFirstName],\n\nTimes have been hard lately. Unfortunately we can no longer guarantee the prosperity and faithful execution of laws in your lands under our name. With that said, we can offer you the governance of these lands which rightfully belong to you, independent of our meddling. We will of course protect you and yours in case of great need. In return, you will provide us with levies and taxes for protection. \n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTOPT_Trib_4041A;Of course, I accept!;;;;;;;;;;;;;x
+EVTOPTB_Trib_02;W...What do you mean, on my own?!;;;;;;;;;;;;;x
+EVTOPTB_Trib_02_desc;Try to offer a favor instead of being expelled from the realm.;;;;;;;;;;;;;x
+
+EVTDESC_Trib_03;To my former liege [Root.GetTitledFirstName],\n\nWe accept and hold you responsible for the treaty signed.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTDESC_Trib_04;To [Root.GetTitledFirstName],\n\nWe reject your ridiculous proposal.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
+# EVTOPT_Trib_4002A;Now we wait;;;;;;;;;;;;;x
+TRIBUTARY_FOR_10_YEARS;Dependent State for 10 years;;;;;;;;;;;;;x
+holy_truce_timer;You have a Holy Truce;;;;;;;;;;;;;x
+tributary_timer;Tributary Timer;;;;;;;;;;;;;x
+tributary_timer_desc;This character cannot make another tributary action until this timer expires.;;;;;;;;;;;;;x
+EVTDESC_Trib_3206;[Root.PrimaryTitle.GetFOA],\n I beseech you to let me remain as a loyal subject of [Root.GetFullBaseName]. I am afraid I wouldn't be able to help [Root.PrimaryTitle.GetFOA] out in case a need suddenly arises. \n[From.GetBestName];;;;;;;;;;;;;x
+EVTOPTA_Trib_3206;I will change my mind for a favor;;;;;;;;;;;;;x
+EVTOPTB_Trib_3206;I have no need of a favor from [From.GetHerHim];;;;;;;;;;;;;x
+EVTDESC_Trib_3207;To the [GetFromRootCompliment] [Root.GetTitledFirstName],\nThinking about it, you are of course correct. I was hasty in my decision. Your services as the ruler of the [Root.GetFullName] will be yet required in this realm.\n\nSincerely,\n[From.GetBestName];;;;;;;;;;;;;x
+EVTDESC_Trib_3208;To the [GetFromRootInsult] [Root.GetTitledFirstName],\nBah, favors! I offer you independence and control of your own realm, and you offer me trinkets. I have no need of your favors!\n\n[From.GetBestName];;;;;;;;;;;;;x
+EVTOPTA_Trib_3204;Accept [From.GetHerHis] decision;;;;;;;;;;;;;x
+EVTOPTE_Trib_3204;[From.GetSheHeCap] can expel us from the underworld!;;;;;;;;;;;;;x
+release_as_protectorate;Release as Dependent State;;;;;;;;;;;;;x
+release_as_protectorate_desc;Release this person as an Tributary State. In exchange you must protect them.;;;;;;;;;;;;;x
+ask_autonomous;Pay Tribute;;;;;;;;;;;;x
+ask_autonomous_desc;Ask to become an Tributary State of this realm. In exchange this realm will protect you.;;;;;;;;;;;;x
+IS_NOTIFIED;Is notified of your decision;;;;;;;;;;;;;x
+EVTDESC_Trib_3214;To the [GetFromRootInsult] [Root.GetTitledFirstName],\nI will not be expelled from the realm I have been serving faithfully for years! I shall send you to the underworld myself! \n\n[From.GetBestName];;;;;;;;;;;;;x
+EVTDESC_Trib_3205;To the [GetFromRootInsult] [Root.GetTitledFirstName],\nPerhaps I was hasty. Of course my liege. We accept your offer, and hold you to the offer of protection. \n\n[From.GetBestName];;;;;;;;;;;;;x
+EVTDESC_Trib_998;To [Root.GetTitledFirstName],\n\nTimes are hard. We would be better served with you protecting us, and we swearing fealty to you as our protector.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTOPT_Trib_4041A;Accept;;;;;;;;;;;;;x
+EVTOPT_Trib_4003B;Perhaps...Not Right Now;;;;;;;;;;;;;x
+EVTOPT_Trib_4041C;It is a ship with a great deal of sail but a very shallow keel.;;;;;;;;;;;;;x
+EVTDESC_Trib_4042;To [Root.GetTitledFirstName],\n\nLet us celebrate the occasion with wine and sweet words. I love the name of honor, more than I fear death.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTOPT_Trib_4002A;Excellent!;;;;;;;;;;;;;x
+EVTDESC_Trib_4043;To [Root.GetTitledFirstName],\n\nThe drops of rain make a hole in the stone, not by violence, but by oft falling.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTOPT_Trib_4005A;An alliance with a powerful person is never safe.!;;;;;;;;;;;;;x
+EVTDESC_Trib_4044;To [Root.GetTitledFirstName],\n\nWe don't think it's in our best interest to protect you for now, however we offer a non-agression pact for a small compensation. \n Endure the present, and watch for better things. \n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTOPT_Trib_4004A;Very well!;;;;;;;;;;;;;x
+EVTOPT_Trib_4004B;It is difficult not to read this as satire.;;;;;;;;;;;;;x
+EVTDESC_Trib_4045;To [Root.GetTitledFirstName],\n\nWe accept your non-aggression offer, you should receive our thanks shortly.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTDESC_Trib_4046;To [Root.GetTitledFirstName],\n\nA fraudulent intent, however carefully concealed at the outset, will generally, in the end, betray itself. \nWe reject your offer.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTOPTA_Trib_1327;Too bad...;;;;;;;;;;;;;x
+
+EVTDESC_Trib_4021;To [Root.GetTitledFirstName],\n\nTime has come for you to end your autonomous rule and submit under our supreme authority. \n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTDESC_Trib_4022;To [Root.GetTitledFirstName],\n\nOf course my liege, we are always loyal.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTOPT_Trib_4000A;Of course, we are loyal aren't we?;;;;;;;;;;;;;x
+EVTOPT_Trib_4000B;I shit in the milk of your family.;;;;;;;;;;;;;x
+EVTDESC_Trib_4003;To [GetFromRootInsult] [Root.GetTitledFirstName],\n\nGod wasted a good buttock when he put teeth in your mouth. Prepare for war!\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;xEVTDESC_Trib_4003;To [GetFromRootInsult] [Root.GetTitledFirstName],\n\nIf you truly desire war, we are ready.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;xEVTDESC_Trib_4003;To [GetFromRootInsult] [Root.GetTitledFirstName],\n\nIf you truly desire war, we are ready.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTOPT_Trib_4003A;I doubt it.;;;;;;;;;;;;;x
+EVTDESC_Trib_4005;To [GetFromRootInsult] [Root.GetTitledFirstName],\n\nWith what manner of speech did you address me, rake? Be informed that I was peerless among squires during my education. I have aided his majesty the king in numerous campaigns against the Saracens and I have laid low thrice fivescore opponents. I have mastered the delicate art of the night-raid and am the superlative archer in the realm. You, meanwhile, are wholly without worth. Let it be known that I will bring such artifice to your ignominious end as none have yet witnessed within the Lord’s creation. You believe you can volley such insults by way of anonymous missive? My hunters and their keen hounds have already discerned your location, so it is best you hasten preparations for the ensuing tumult, wretch, the species of tumult that will spill your life essences into the gaping maw of Hades. Perhaps if wisdom guided you to see the repercussions of your knavish harangue, you would remained silent. You were unable to do so, however, and now punishment will be exacted on you. I will excrete biliously upon you and in such bilious excretion shall you be overcome. Your time on this earth shall soon cease, peasant.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTOPT_Trib_4005A;That little...;;;;;;;;;;;;;x
+EVTDESC_Trib_4006;To [GetFromRootCompliment] [Root.GetTitledFirstName],\n\nWe agree to your proposal and look forward to receiving the payment for it.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTOPT_Trib_4006A;I knew they would cave!;;;;;;;;;;;;;x
+EVTDESC_Trib_4004;To [GetFromRootCompliment] [Root.GetTitledFirstName],\n\nI believe it would be mutually beneficial if we came to a different sort of an arrangement. We offer to pay a tribute in exchange for us keeping our autonomy.\n\nSigned,\n[From.GetTitledName];;;;;;;;;;;;;x
+EVTOPT_Trib_4004A;Very well!;;;;;;;;;;;;;x
+EVTOPT_Trib_4004B;Nice try.;;;;;;;;;;;;;x
+EVTOPT_Trib_4000C;Do you...like bribes?;;;;;;;;;;;;;x
+EVTOPT_Trib_4000C_desc;Offer to pay them some money instead. They can reject and in that case you'll be at war.;;;;;;;;;;;;;x
+
+
+EVTTOOLTIP001;Accept becoming their autonomous dependent state. You will be indenpendent but will provide 25% money and levies;;;;;;;;;;;;;x
+EVTTOOLTIP002;Offer a favor instead of being expelled from the realm.;;;;;;;;;;;;;x
+EVTTOOLTIP003;Time for some good old rebellion. You have too much invested in this realm, perhaps even a throne in future!;;;;;;;;;;;;;x
+EVTTOOLTIP004;Accept the reannexation;;;;;;;;;;;;;x
+EVTTOOLTIP005;We'd rather have war than to go do their bidding!;;;;;;;;;;;;;x
+EVTTOOLTIP006;Offer to pay a tribute in exchange for remaining autonomous;;;;;;;;;;;;;x
+EVTTOOLTIP007;We'd rather have war than to go do their bidding!;;;;;;;;;;;;;x
+
+CB_NAME_FORCE_AUTONOMOUS;Force Autonomous Integration;;;;;;;;;;;;;x
+WAR_NAME_FORCE_AUTONOMOUS;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Integration War;;;;;;;;;;;;;;x

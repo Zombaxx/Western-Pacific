@@ -1,0 +1,260 @@
+law_groups = {
+	slavery_laws = {
+		law_type = slavery
+	}
+}
+de_jure_laws = {
+	slavery_0 = { #No Slavery
+		group = slavery
+		show_as_title = yes
+
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					has_law = slavery_1
+					has_law = slavery_2
+					has_law = slavery_3
+				}
+			}
+		}
+		default_selection = {
+			factor = 1
+			additive_modifier = { 
+				value = 10
+				holder_scope = {
+				OR = {
+					has_antislavery_culture_trigger = yes
+					has_antislavery_religion_trigger = yes
+					}
+				}
+			}		
+		}
+		ai_will_do = {
+			factor = 0.5
+			modifier = {
+				factor = 0
+				holder_scope = { 
+					trait = trait_slaver
+					NOT = { has_antislavery_culture_trigger = yes }
+					NOT = { has_antislavery_religion_trigger = yes }
+					NOT = { trait = lunatic }
+				}
+			}
+		}
+		pass_effect = {
+			hidden_effect = {
+				any_vassal = {
+					limit = {
+						has_any_opinion_modifier = opinion_slave
+					}
+					opinion = { who = ROOT modifier = opinion_slaves_freed }
+					character_event = {
+						id = slavery_mt_events.3
+					}
+				}
+			}
+			clr_title_flag = lost_anti_slave_war
+		}
+		effect = {
+			hidden_tooltip = {
+				revoke_law = slavery_1
+				revoke_law = slavery_2
+				revoke_law = slavery_3
+			}
+		}
+	}
+
+	slavery_1 = { #Indentured
+		group = slavery
+		show_as_title = yes
+
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					has_law = slavery_0
+					has_law = slavery_2
+					has_law = slavery_3
+				}
+			}
+			OR = {
+				NOT = {
+					has_title_flag = lost_anti_slave_war
+				}
+				had_title_flag = {
+					flag = lost_anti_slave_war
+					years = 20
+				}
+			}
+		}
+		default_selection = {
+			factor = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				holder_scope = { 
+					trait = trait_slaver
+				OR = {
+					culture = han
+					trait = kind
+					culture_group = byzantine
+					culture_group = iberian
+					}
+				}
+			}
+			modifier = {
+				factor = 1
+			}
+		}
+		pass_effect = {
+			clr_title_flag = lost_anti_slave_war
+		}
+		effect = {
+			hidden_tooltip = {
+				revoke_law = slavery_0
+				revoke_law = slavery_2
+				revoke_law = slavery_3
+			}
+		}
+	}
+	
+	slavery_2 = { #Thralldom
+		group = slavery
+		show_as_title = yes
+
+		allow = {
+			NOT = { culture = han }
+			hidden_tooltip = {
+				OR = {
+					has_law = slavery_0
+					has_law = slavery_1
+					has_law = slavery_3
+				}
+			}
+			OR = {
+				NOT = {
+					has_title_flag = lost_anti_slave_war
+				}
+				had_title_flag = {
+					flag = lost_anti_slave_war
+					years = 20
+				}
+			}
+		}
+		default_selection = {
+			factor = 1
+			additive_modifier = { 
+				value = 10
+				holder_scope = {
+				OR = {
+					culture = norse
+					religion_group = pagan_group
+					}
+				}
+			}		
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				holder_scope = { 
+					trait = trait_slaver			
+				OR = {
+					culture = han
+					trait = kind
+					culture_group = byzantine
+					culture_group = iberian
+					}
+				}
+			}
+			modifier = {
+				factor = 1
+			}
+		}
+		pass_effect = {
+			clr_title_flag = lost_anti_slave_war
+		}
+		effect = {
+			hidden_tooltip = {
+				revoke_law = slavery_0
+				revoke_law = slavery_1
+				revoke_law = slavery_3
+			}
+		}
+	}
+	
+	slavery_3 = { #Chattel
+		group = slavery
+		show_as_title = yes
+
+		allow = {
+			NOT = { culture = han }
+			hidden_tooltip = {
+				OR = {
+					has_law = slavery_0
+					has_law = slavery_1
+					has_law = slavery_2
+				}
+			}
+			OR = {
+				NOT = {
+					has_title_flag = lost_anti_slave_war
+				}
+				had_title_flag = {
+					flag = lost_anti_slave_war
+					years = 20
+				}
+			}
+		}
+		default_selection = {
+			factor = 1
+			additive_modifier = { 
+				value = 10
+				holder_scope = {
+				OR = {
+					has_slavery_religion_trigger = yes
+					has_slavery_culture_trigger = yes
+					}
+				}
+			}		
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				holder_scope = { 
+					NOT = {
+						trait = trait_slaver
+					}
+				OR = {
+					culture = han
+					trait = kind
+					culture_group = byzantine
+					culture_group = iberian
+					}
+				}
+			}
+			modifier = {
+				factor = 1
+				holder_scope = { 
+				OR = {
+					trait = cruel
+					has_slavery_religion_trigger = yes
+					has_slavery_culture_trigger = yes
+					}
+				}
+			}
+		}
+		pass_effect = {
+			clr_title_flag = lost_anti_slave_war
+		}
+		effect = {
+			hidden_tooltip = {
+				revoke_law = slavery_0
+				revoke_law = slavery_1
+				revoke_law = slavery_2
+			}
+		}
+	}
+}
