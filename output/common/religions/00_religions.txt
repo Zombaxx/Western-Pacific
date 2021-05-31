@@ -2519,6 +2519,7 @@ zoroastrian_group = {
 
 jewish_group = {
 	
+	has_coa_on_barony_only = no
 	graphical_culture = jewishgfx
 	crusade_cb = crusade
 	playable = yes
