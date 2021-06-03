@@ -1,6 +1,7 @@
-To install, place the Western-Pacific folder and western-pacific.mod file and place them into Documents->Paradox Interactive->Crusader Kings II->mod. Now launch Crusader Kings 2, and select Western Pacific in the mod options.
+To install, place the Western-Pacific folder and western-pacific.mod file into Documents->Paradox Interactive->Crusader Kings II->mod. Now launch Crusader Kings 2, and select Western Pacific in the mod options.
+Trying to launch the mod without using the Random World setting or the provided save file will crash the game.
 
-This mod currently only works with the Random World game mode available through the Holy Fury DLC (at the bookmark screen choose Custom Game Setup, and select the Randomize World button (between the Year and the Merchant Republic list).
+Cyber Kings - Western Pacific currently only works with the provided save file, or with the Random World game mode available through the Holy Fury DLC (at the bookmark screen choose Custom Game Setup, and select the Randomize World button between the Year and the Merchant Republic list).
 
 If you would like to use the provided save file instead of Random World, take Leonen1066_09_15.ck2 from the mod file in Documents->Paradox Interactive->Crusader Kings II->mod->western-pacific and place it into Crusader Kings II->Western-Pacific->save games (so this is the Western-Pacific folder one level above the mod folder, not the one inside the mod folder).
 
@@ -8,9 +9,6 @@ This version is not compatible with multiplayer, for the multiplayer compatible 
 
 Join us at this Discord link if you would like to discuss the mod.
 https://discord.gg/QDKFFdR
-
-Cyber Kings - Western Pacific can currently only be used with the Random World setting which requires the Holy Fury DLC, or with the provided save file. 
-Trying to launch the mod without using the Random World setting or save file will crash the game.
 
 Backstory:
 Long ago, Earth went dark on the same day all existing electronics in the solar system stopped working. All ships not in orbit fell from the sky.
