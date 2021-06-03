@@ -1,5 +1,6 @@
-name="Output"
-path="mod/output"
+name="Western Pacific"
+path="mod/western-pacific"
+user_dir = "Western-Pacific"
 #replace_path = "history/characters"
 #replace_path = "history/offmap_powers"
 #replace_path = "history/provinces"
@@ -15,8 +16,8 @@ path="mod/output"
 ##replace_path = "events"
 ##replace_path = "decisions"
 #
-#tags={ "Mars" "Map" "Fantasy" "Sci-Fi "Total Conversion" "Holy Fury" "Random World" }
-#picture="MiddleMars.jpg"
+#tags={ "Australia" "Asia" "Random World" "Map" }
+#picture="WP.jpg"
 
 
 replace_path = "history/characters"
