@@ -3,7 +3,7 @@ Trying to launch the mod without using the Random World setting or the provided 
 
 Cyber Kings - Western Pacific currently only works with the provided save file, or with the Random World game mode available through the Holy Fury DLC (at the bookmark screen choose Custom Game Setup, and select the Randomize World button between the Year and the Merchant Republic list).
 
-If you would like to use the provided save file instead of Random World, take Leonen1066_09_15.ck2 from the mod file in Documents->Paradox Interactive->Crusader Kings II->mod->western-pacific and place it into Crusader Kings II->Western-Pacific->save games (so this is the Western-Pacific folder one level above the mod folder, not the one inside the mod folder).
+If you would like to use the provided save file instead of Random World, take the random_657941809.ck2 and Byiga1089_01_21.ck2 files from within mod folder in Documents->Paradox Interactive->Crusader Kings II->mod->western-pacific and place it into Crusader Kings II->Western-Pacific->save games (so this is the Western-Pacific folder one level above the mod folder, not the one inside the mod folder).
 
 This version is not compatible with multiplayer, for the multiplayer compatible version that does not contain the extra events and decisions please view https://github.com/PerculiarJard/RandomWorld-WesternPacific
 
@@ -34,4 +34,4 @@ Cipher's More Realm Laws (Army Professionalism and tax laws)
 Nuubialainen- Personal Castle Mod (training yard, library events )
 DaMonkey- Knights and Squires
 
-tags:Australia, South East Asia, Pacific, Islands, Asia, Oceania, New Zealand,  New Guinea, Thailand, Vietnam, Malaysia, Indonesia, Phillipines, Hawaii, Cybernetics
+tags:Australia, South East Asia, Pacific, Islands, Asia, Oceania, New Zealand,  New Guinea, Thailand, Vietnam, Malaysia, Indonesia, Philippines, Hawaii, Cybernetics
