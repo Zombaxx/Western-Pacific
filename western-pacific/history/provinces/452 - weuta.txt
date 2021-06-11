@@ -1,0 +1,5 @@
+	title = c_weuta
+	max_settlements = 2
+	culture = maghreb_arabic
+	religion = finnish_pagan
+	b_walekali = tribal

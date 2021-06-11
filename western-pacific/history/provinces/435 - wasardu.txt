@@ -1,0 +1,5 @@
+	title = c_wasardu
+	max_settlements = 2
+	culture = lombard
+	religion = jewish
+	b_kobutas = tribal

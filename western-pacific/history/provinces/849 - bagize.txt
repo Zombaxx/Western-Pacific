@@ -1,0 +1,5 @@
+	title = c_bagize
+	max_settlements = 2
+	culture = mordvin
+	religion = miaphysite
+	b_kyunalda = tribal

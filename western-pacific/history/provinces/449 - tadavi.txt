@@ -1,0 +1,5 @@
+	title = c_tadavi
+	max_settlements = 2
+	culture = lithuanian
+	religion = khurmazta
+	b_bamaday = tribal

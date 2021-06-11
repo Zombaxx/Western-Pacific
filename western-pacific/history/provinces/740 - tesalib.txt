@@ -1,0 +1,5 @@
+	title = c_tesalib
+	max_settlements = 2
+	culture = greek
+	religion = druze
+	b_selar = tribal

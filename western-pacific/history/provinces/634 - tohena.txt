@@ -1,0 +1,5 @@
+	title = c_tohena
+	max_settlements = 2
+	culture = han
+	religion = baltic_pagan_reformed
+	b_rinena = tribal

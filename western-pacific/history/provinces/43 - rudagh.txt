@@ -1,0 +1,5 @@
+	title = c_rudagh
+	max_settlements = 2
+	culture = manden
+	religion = monothelite
+	b_kernat = tribal

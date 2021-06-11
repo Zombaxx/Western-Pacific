@@ -1,0 +1,5 @@
+	title = c_ryuva
+	max_settlements = 2
+	culture = afghan
+	religion = pagan
+	b_rekoakim = tribal

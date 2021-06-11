@@ -1,0 +1,5 @@
+	title = c_dusaham
+	max_settlements = 2
+	culture = frankish
+	religion = buddhist
+	b_kozala = tribal

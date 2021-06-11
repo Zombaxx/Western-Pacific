@@ -1,0 +1,5 @@
+	title = c_tanan
+	max_settlements = 2
+	culture = roman
+	religion = buddhist
+	b_dekann = tribal

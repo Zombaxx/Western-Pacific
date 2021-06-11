@@ -1,0 +1,5 @@
+	title = c_tubughur
+	max_settlements = 2
+	culture = frankish
+	religion = nestorian
+	b_atregin = tribal

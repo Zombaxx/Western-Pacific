@@ -1,0 +1,5 @@
+	title = c_wereth
+	max_settlements = 2
+	culture = saka
+	religion = west_african_pagan_reformed
+	b_anaroa = tribal

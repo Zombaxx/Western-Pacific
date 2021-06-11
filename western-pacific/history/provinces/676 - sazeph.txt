@@ -1,0 +1,5 @@
+	title = c_sazeph
+	max_settlements = 2
+	culture = basque
+	religion = karaite
+	b_tyaa = tribal

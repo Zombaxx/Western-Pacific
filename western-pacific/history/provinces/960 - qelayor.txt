@@ -1,0 +1,5 @@
+	title = c_qelayor
+	max_settlements = 2
+	culture = suebi
+	religion = monothelite
+	b_nenayor = tribal

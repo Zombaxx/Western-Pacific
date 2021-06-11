@@ -1,0 +1,5 @@
+	title = c_taut
+	max_settlements = 2
+	culture = roman
+	religion = color
+	b_banavi = tribal

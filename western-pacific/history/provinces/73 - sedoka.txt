@@ -1,0 +1,5 @@
+	title = c_sedoka
+	max_settlements = 2
+	culture = tamil
+	religion = tengri_pagan_reformed
+	b_redela = tribal

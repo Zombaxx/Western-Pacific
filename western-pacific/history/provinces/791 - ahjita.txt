@@ -1,0 +1,5 @@
+	title = c_ahjita
+	max_settlements = 2
+	culture = zaghawa
+	religion = pagan
+	b_baleuta = tribal

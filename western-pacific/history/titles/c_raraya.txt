@@ -1,0 +1,150 @@
+758.2.1 = {
+	holder = 1000061
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1001481
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_dinarka
+}
+
+758.2.4 = {
+	holder = 1001480
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1001583
+}
+
+794.2.1 = {
+	liege = d_eparalku
+}
+
+794.2.2 = {
+	holder = 1002447
+}
+
+794.2.3 = {
+	liege = k_lianisa
+}
+
+817.2.1 = {
+	liege = d_eparalku
+}
+
+817.2.2 = {
+	liege = d_dinarka
+}
+
+817.2.3 = {
+	holder = 1003202
+}
+
+840.2.1 = {
+	holder = 1004482
+}
+
+876.2.1 = {
+	liege = d_tabenzu
+}
+
+876.2.2 = {
+	holder = 1005454
+}
+
+885.2.1 = {
+	liege = d_dinarka
+}
+
+885.2.2 = {
+	liege = d_ryidory
+}
+
+885.2.3 = {
+	holder = 1006258
+}
+
+918.2.1 = {
+	liege = d_dinarka
+}
+
+918.2.2 = {
+	liege = d_tabenzu
+}
+
+918.2.3 = {
+	holder = 1006482
+}
+
+931.2.1 = {
+	liege = d_dinarka
+}
+
+931.2.2 = {
+	liege = d_ryidory
+}
+
+931.2.3 = {
+	holder = 1007058
+}
+
+934.2.1 = {
+	holder = 1007170
+}
+
+935.2.1 = {
+	holder = 1007192
+}
+
+938.2.1 = {
+	holder = 1007227
+}
+
+997.2.1 = {
+	liege = d_dinarka
+}
+
+997.2.2 = {
+	liege = d_tabenzu
+}
+
+997.2.3 = {
+	holder = 1007659
+}
+
+1020.2.1 = {
+	holder = 1008553
+}
+
+1047.2.1 = {
+	liege = d_dinarka
+}
+
+1047.2.2 = {
+	liege = d_ryidory
+}
+
+1047.2.3 = {
+	holder = 1008584
+}
+
+1060.2.1 = {
+	liege = d_dinarka
+}
+
+1060.2.2 = {
+	liege = d_tabenzu
+}
+
+1060.2.3 = {
+	holder = 1009049
+}
+

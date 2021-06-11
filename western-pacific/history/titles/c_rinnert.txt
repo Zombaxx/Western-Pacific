@@ -1,0 +1,224 @@
+758.2.1 = {
+	holder = 1000002
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000249
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_qeof
+}
+
+758.2.4 = {
+	holder = 1000250
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1000247
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+760.2.1 = {
+	holder = 1000203
+}
+
+802.2.1 = {
+	liege = d_sanda
+}
+
+802.2.2 = {
+	liege = d_qasus
+}
+
+802.2.3 = {
+	liege = d_woriy
+}
+
+802.2.4 = {
+	liege = d_diemaka
+}
+
+802.2.5 = {
+	liege = d_regala
+}
+
+802.2.6 = {
+	holder = 1002188
+}
+
+820.2.1 = {
+	holder = 1004292
+}
+
+820.2.2 = {
+	liege = k_aluceph
+}
+
+855.2.1 = {
+	liege = d_nagaret
+}
+
+855.2.2 = {
+	liege = d_lararet
+}
+
+855.2.3 = {
+	liege = d_qeof
+}
+
+855.2.4 = {
+	liege = d_belayla
+}
+
+855.2.5 = {
+	liege = d_sanda
+}
+
+855.2.6 = {
+	liege = d_qasus
+}
+
+855.2.7 = {
+	liege = d_woriy
+}
+
+855.2.8 = {
+	liege = d_diemaka
+}
+
+855.2.9 = {
+	liege = d_regala
+}
+
+855.2.10 = {
+	holder = 1004898
+}
+
+859.2.1 = {
+	holder = 1005731
+}
+
+867.2.1 = {
+	holder = 1005819
+}
+
+867.2.2 = {
+	liege = k_aluceph
+}
+
+924.2.1 = {
+	liege = d_nagaret
+}
+
+924.2.2 = {
+	liege = d_lararet
+}
+
+924.2.3 = {
+	liege = d_qeof
+}
+
+924.2.4 = {
+	liege = d_belayla
+}
+
+924.2.5 = {
+	liege = d_sanda
+}
+
+924.2.6 = {
+	liege = d_qasus
+}
+
+924.2.7 = {
+	liege = d_woriy
+}
+
+924.2.8 = {
+	liege = d_diemaka
+}
+
+924.2.9 = {
+	liege = d_regala
+}
+
+924.2.10 = {
+	holder = 1006221
+}
+
+973.2.1 = {
+	holder = 1007233
+}
+
+981.2.1 = {
+	holder = 1007927
+}
+
+981.2.2 = {
+	liege = k_aluceph
+}
+
+1011.2.1 = {
+	liege = d_nagaret
+}
+
+1011.2.2 = {
+	liege = d_lararet
+}
+
+1011.2.3 = {
+	liege = d_qeof
+}
+
+1011.2.4 = {
+	liege = d_reidadu
+}
+
+1011.2.5 = {
+	liege = d_belayla
+}
+
+1011.2.6 = {
+	liege = d_sanda
+}
+
+1011.2.7 = {
+	liege = d_qasus
+}
+
+1011.2.8 = {
+	liege = d_woriy
+}
+
+1011.2.9 = {
+	liege = d_diemaka
+}
+
+1011.2.10 = {
+	liege = d_regala
+}
+
+1011.2.11 = {
+	holder = 1008175
+}
+
+1012.2.1 = {
+	holder = 1008439
+}
+
+1019.2.1 = {
+	holder = 1008455
+}
+
+1047.2.1 = {
+	holder = 1008811
+}
+

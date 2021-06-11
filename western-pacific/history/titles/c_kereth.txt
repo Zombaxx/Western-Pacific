@@ -1,0 +1,458 @@
+758.2.1 = {
+	holder = 1000000
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000009
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_bineuta
+}
+
+758.2.4 = {
+	holder = 1000101
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+805.2.1 = {
+	holder = 1002279
+}
+
+815.2.1 = {
+	holder = 1001683
+}
+
+820.2.1 = {
+	liege = d_aluin
+}
+
+820.2.2 = {
+	holder = 1003577
+}
+
+845.2.1 = {
+	liege = d_bineuta
+}
+
+845.2.2 = {
+	holder = 1005049
+}
+
+849.2.1 = {
+	holder = 1003578
+}
+
+853.2.1 = {
+	holder = 1004671
+}
+
+864.2.1 = {
+	holder = 1005721
+}
+
+872.2.1 = {
+	holder = 1005646
+}
+
+902.2.1 = {
+	liege = d_emahilal
+}
+
+902.2.2 = {
+	liege = d_emaheteh
+}
+
+902.2.3 = {
+	liege = d_tashir
+}
+
+902.2.4 = {
+	liege = d_kaisilay
+}
+
+902.2.5 = {
+	liege = d_dairacco
+}
+
+902.2.6 = {
+	liege = d_qadali
+}
+
+902.2.7 = {
+	liege = d_kusar
+}
+
+902.2.8 = {
+	liege = d_sidime
+}
+
+902.2.9 = {
+	holder = 1005988
+}
+
+923.2.1 = {
+	holder = 1006219
+}
+
+923.2.2 = {
+	liege = k_taneuta
+}
+
+927.2.1 = {
+	liege = d_aluin
+}
+
+927.2.2 = {
+	liege = d_kaleuta
+}
+
+927.2.3 = {
+	liege = d_sarilia
+}
+
+927.2.4 = {
+	liege = d_nyila
+}
+
+927.2.5 = {
+	liege = d_sine
+}
+
+927.2.6 = {
+	liege = d_talann
+}
+
+927.2.7 = {
+	liege = d_dairacco
+}
+
+927.2.8 = {
+	liege = d_kaisilay
+}
+
+927.2.9 = {
+	liege = d_tashir
+}
+
+927.2.10 = {
+	liege = d_emaheteh
+}
+
+927.2.11 = {
+	liege = d_emahilal
+}
+
+927.2.12 = {
+	liege = d_sidime
+}
+
+927.2.13 = {
+	holder = 1007033
+}
+
+927.2.14 = {
+	liege = k_taneuta
+}
+
+935.2.1 = {
+	liege = d_aluin
+}
+
+935.2.2 = {
+	liege = d_kaleuta
+}
+
+935.2.3 = {
+	liege = d_sarilia
+}
+
+935.2.4 = {
+	liege = d_nyila
+}
+
+935.2.5 = {
+	liege = d_sine
+}
+
+935.2.6 = {
+	liege = d_talann
+}
+
+935.2.7 = {
+	liege = d_dairacco
+}
+
+935.2.8 = {
+	liege = d_kaisilay
+}
+
+935.2.9 = {
+	liege = d_tashir
+}
+
+935.2.10 = {
+	liege = d_emaheteh
+}
+
+935.2.11 = {
+	liege = d_emahilal
+}
+
+935.2.12 = {
+	liege = d_sidime
+}
+
+935.2.13 = {
+	holder = 1007061
+}
+
+935.2.14 = {
+	liege = k_taneuta
+}
+
+968.2.1 = {
+	liege = d_aluin
+}
+
+968.2.2 = {
+	liege = d_kaleuta
+}
+
+968.2.3 = {
+	liege = d_sarilia
+}
+
+968.2.4 = {
+	liege = d_nyila
+}
+
+968.2.5 = {
+	liege = d_sine
+}
+
+968.2.6 = {
+	liege = d_talann
+}
+
+968.2.7 = {
+	liege = d_dairacco
+}
+
+968.2.8 = {
+	liege = d_kaisilay
+}
+
+968.2.9 = {
+	liege = d_tashir
+}
+
+968.2.10 = {
+	liege = d_emaheteh
+}
+
+968.2.11 = {
+	liege = d_emahilal
+}
+
+968.2.12 = {
+	liege = d_sidime
+}
+
+968.2.13 = {
+	holder = 1007555
+}
+
+968.2.14 = {
+	liege = k_taneuta
+}
+
+975.2.1 = {
+	liege = d_aluin
+}
+
+975.2.2 = {
+	liege = d_kaleuta
+}
+
+975.2.3 = {
+	liege = d_sarilia
+}
+
+975.2.4 = {
+	liege = d_nyila
+}
+
+975.2.5 = {
+	liege = d_sine
+}
+
+975.2.6 = {
+	liege = d_talann
+}
+
+975.2.7 = {
+	liege = d_dairacco
+}
+
+975.2.8 = {
+	liege = d_kaisilay
+}
+
+975.2.9 = {
+	liege = d_tashir
+}
+
+975.2.10 = {
+	liege = d_emaheteh
+}
+
+975.2.11 = {
+	liege = d_emahilal
+}
+
+975.2.12 = {
+	liege = d_sidime
+}
+
+975.2.13 = {
+	holder = 1007848
+}
+
+975.2.14 = {
+	liege = k_taneuta
+}
+
+984.2.1 = {
+	liege = d_sine
+}
+
+984.2.2 = {
+	liege = d_nyila
+}
+
+984.2.3 = {
+	liege = d_sarilia
+}
+
+984.2.4 = {
+	liege = d_kaleuta
+}
+
+984.2.5 = {
+	liege = d_aluin
+}
+
+984.2.6 = {
+	liege = d_bineuta
+}
+
+984.2.7 = {
+	liege = d_emahilal
+}
+
+984.2.8 = {
+	liege = d_emaheteh
+}
+
+984.2.9 = {
+	liege = d_tashir
+}
+
+984.2.10 = {
+	liege = d_kaisilay
+}
+
+984.2.11 = {
+	liege = d_dairacco
+}
+
+984.2.12 = {
+	liege = d_qadali
+}
+
+984.2.13 = {
+	liege = d_kusar
+}
+
+984.2.14 = {
+	liege = d_sidime
+}
+
+984.2.15 = {
+	holder = 1007964
+}
+
+995.2.1 = {
+	holder = 1008157
+}
+
+1001.2.1 = {
+	holder = 1008251
+}
+
+1001.2.2 = {
+	liege = k_taneuta
+}
+
+1058.2.1 = {
+	liege = d_aluin
+}
+
+1058.2.2 = {
+	liege = d_kaleuta
+}
+
+1058.2.3 = {
+	liege = d_sarilia
+}
+
+1058.2.4 = {
+	liege = d_nyila
+}
+
+1058.2.5 = {
+	liege = d_sine
+}
+
+1058.2.6 = {
+	liege = d_talann
+}
+
+1058.2.7 = {
+	liege = d_dairacco
+}
+
+1058.2.8 = {
+	liege = d_kaisilay
+}
+
+1058.2.9 = {
+	liege = d_tashir
+}
+
+1058.2.10 = {
+	liege = d_emaheteh
+}
+
+1058.2.11 = {
+	liege = d_emahilal
+}
+
+1058.2.12 = {
+	liege = d_sidime
+}
+
+1058.2.13 = {
+	holder = 1009112
+}
+
+1058.2.14 = {
+	liege = k_taneuta
+}
+

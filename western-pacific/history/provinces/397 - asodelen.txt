@@ -1,0 +1,5 @@
+	title = c_asodelen
+	max_settlements = 2
+	culture = baloch
+	religion = hurufi
+	b_neuna = tribal

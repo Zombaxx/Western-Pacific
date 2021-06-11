@@ -1,0 +1,5 @@
+	title = c_tanomas
+	max_settlements = 2
+	culture = alan
+	religion = hurufi
+	b_ebategin = tribal

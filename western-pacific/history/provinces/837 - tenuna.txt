@@ -1,0 +1,5 @@
+	title = c_tenuna
+	max_settlements = 2
+	culture = zhangzhung
+	religion = jain
+	b_teneuta = tribal

@@ -1,0 +1,5 @@
+	title = c_nanuluk
+	max_settlements = 2
+	culture = castillan
+	religion = bogomilist
+	b_ratone = tribal

@@ -1,0 +1,5 @@
+	title = c_rayna
+	max_settlements = 2
+	culture = zaghawa
+	religion = fraticelli
+	b_rautas = tribal

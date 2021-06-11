@@ -1,0 +1,5 @@
+	title = c_kanida
+	max_settlements = 2
+	culture = rajput
+	religion = baltic_pagan
+	b_ranory = tribal

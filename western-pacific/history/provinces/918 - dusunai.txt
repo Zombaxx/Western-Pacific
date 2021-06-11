@@ -1,0 +1,5 @@
+	title = c_dusunai
+	max_settlements = 2
+	culture = ilmenian
+	religion = zikri
+	b_rareuba = tribal

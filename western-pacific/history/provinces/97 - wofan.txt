@@ -1,0 +1,5 @@
+	title = c_wofan
+	max_settlements = 2
+	culture = sumpa
+	religion = bogomilist
+	b_telan = tribal

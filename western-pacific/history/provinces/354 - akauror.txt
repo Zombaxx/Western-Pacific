@@ -1,0 +1,5 @@
+	title = c_akauror
+	max_settlements = 2
+	culture = old_frankish
+	religion = color
+	b_nasotan = tribal

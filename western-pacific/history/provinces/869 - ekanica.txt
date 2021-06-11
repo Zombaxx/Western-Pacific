@@ -1,0 +1,5 @@
+	title = c_ekanica
+	max_settlements = 2
+	culture = polish
+	religion = taoist
+	b_echae = tribal

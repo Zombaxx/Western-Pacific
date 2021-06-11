@@ -1,0 +1,5 @@
+	title = c_ajaja
+	max_settlements = 2
+	culture = zhangzhung
+	religion = samaritan
+	b_raveva = tribal

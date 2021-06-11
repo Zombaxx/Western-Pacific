@@ -1,0 +1,5 @@
+	title = c_seonizo
+	max_settlements = 2
+	culture = han
+	religion = monothelite
+	b_kail = tribal

@@ -1,0 +1,5 @@
+	title = c_qavua
+	max_settlements = 2
+	culture = lappish
+	religion = color
+	b_kizutta = tribal

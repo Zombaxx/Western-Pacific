@@ -1,0 +1,5 @@
+	title = c_lama
+	max_settlements = 2
+	culture = tangut
+	religion = khurmazta
+	b_reyneer = tribal

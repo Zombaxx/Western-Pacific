@@ -1,0 +1,5 @@
+	title = c_areinura
+	max_settlements = 2
+	culture = khitan
+	religion = color
+	b_qoreuta = tribal

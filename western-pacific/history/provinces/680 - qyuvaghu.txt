@@ -1,0 +1,5 @@
+	title = c_qyuvaghu
+	max_settlements = 2
+	culture = sardinian
+	religion = tengri_pagan
+	b_rezatsi = tribal

@@ -1,0 +1,5 @@
+	title = c_wataham
+	max_settlements = 2
+	culture = avar
+	religion = buddhist
+	b_kilenzu = tribal

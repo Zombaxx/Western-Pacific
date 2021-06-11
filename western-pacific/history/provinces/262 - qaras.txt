@@ -1,0 +1,5 @@
+	title = c_qaras
+	max_settlements = 2
+	culture = pictish
+	religion = bogomilist
+	b_ramaz = tribal

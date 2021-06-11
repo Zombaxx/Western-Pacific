@@ -1,0 +1,5 @@
+	title = c_tasara
+	max_settlements = 2
+	culture = ilmenian
+	religion = qarmatian
+	b_tasira = tribal

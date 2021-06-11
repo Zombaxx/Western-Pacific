@@ -1,0 +1,5 @@
+	title = c_kutayen
+	max_settlements = 2
+	culture = afghan
+	religion = color
+	b_akilayen = tribal

@@ -1,0 +1,5 @@
+	title = c_rinnekel
+	max_settlements = 2
+	culture = basque
+	religion = khurmazta
+	b_eneof = tribal

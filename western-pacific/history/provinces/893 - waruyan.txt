@@ -1,0 +1,5 @@
+	title = c_waruyan
+	max_settlements = 2
+	culture = serbian
+	religion = slavic_pagan_reformed
+	b_toshi = tribal

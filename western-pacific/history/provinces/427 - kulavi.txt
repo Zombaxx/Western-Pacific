@@ -1,0 +1,5 @@
+	title = c_kulavi
+	max_settlements = 2
+	culture = welsh
+	religion = norse_pagan
+	b_nicooma = tribal

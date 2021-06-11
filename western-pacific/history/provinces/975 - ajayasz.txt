@@ -1,0 +1,5 @@
+	title = c_ajayasz
+	max_settlements = 2
+	culture = somali
+	religion = khurmazta
+	b_dayalia = tribal

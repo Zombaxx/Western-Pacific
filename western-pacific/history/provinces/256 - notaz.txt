@@ -1,0 +1,5 @@
+	title = c_notaz
+	max_settlements = 2
+	culture = castillan
+	religion = norse_pagan
+	b_kyhan = tribal

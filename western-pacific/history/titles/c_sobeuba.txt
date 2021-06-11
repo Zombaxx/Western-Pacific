@@ -1,0 +1,60 @@
+758.2.1 = {
+	holder = 1000013
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000690
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_kanayn
+}
+
+758.2.4 = {
+	holder = 1000691
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1000688
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+900.2.1 = {
+	holder = 1005578
+}
+
+904.2.1 = {
+	holder = 1006322
+}
+
+915.2.1 = {
+	holder = 1006097
+}
+
+921.2.1 = {
+	holder = 1006646
+}
+
+932.2.1 = {
+	holder = 1006980
+}
+
+967.2.1 = {
+	holder = 1007360
+}
+
+997.2.1 = {
+	holder = 1008195
+}
+
+1019.2.1 = {
+	holder = 1008319
+}
+

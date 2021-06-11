@@ -1,0 +1,5 @@
+	title = c_ephaola
+	max_settlements = 2
+	culture = swedish
+	religion = bon
+	b_amanudra = tribal

@@ -1,0 +1,5 @@
+	title = c_kyaaq
+	max_settlements = 2
+	culture = bosnian
+	religion = lollard
+	b_rulagol = tribal

@@ -1,0 +1,5 @@
+	title = c_wubigid
+	max_settlements = 2
+	culture = irish
+	religion = west_african_pagan_reformed
+	b_runann = tribal

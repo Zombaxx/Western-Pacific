@@ -1,0 +1,5 @@
+	title = c_tara
+	max_settlements = 2
+	culture = assyrian
+	religion = orthodox
+	b_bulanda = tribal

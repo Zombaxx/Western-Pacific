@@ -1,0 +1,5 @@
+	title = c_balim
+	max_settlements = 2
+	culture = romanian
+	religion = shiite
+	b_sasardu = tribal

@@ -1,0 +1,5 @@
+	title = c_solava
+	max_settlements = 2
+	culture = komi
+	religion = finnish_pagan_reformed
+	b_edharava = tribal

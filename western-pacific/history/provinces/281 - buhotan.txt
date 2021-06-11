@@ -1,0 +1,5 @@
+	title = c_buhotan
+	max_settlements = 2
+	culture = assyrian
+	religion = finnish_pagan
+	b_tuholun = tribal

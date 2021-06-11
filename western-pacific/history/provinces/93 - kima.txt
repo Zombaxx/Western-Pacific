@@ -1,0 +1,5 @@
+	title = c_kima
+	max_settlements = 2
+	culture = karluk
+	religion = bogomilist
+	b_kabeva = tribal

@@ -1,0 +1,5 @@
+	title = c_nuseusz
+	max_settlements = 2
+	culture = alan
+	religion = yazidi
+	b_domea = tribal

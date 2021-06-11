@@ -1,0 +1,164 @@
+758.2.1 = {
+	holder = 1000005
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000373
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_egyeh
+}
+
+758.2.4 = {
+	holder = 1000374
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1000371
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+760.2.1 = {
+	holder = 1000380
+}
+
+795.2.1 = {
+	liege = d_sikara
+}
+
+795.2.2 = {
+	holder = 1002657
+}
+
+799.2.1 = {
+	holder = 1003916
+}
+
+855.2.1 = {
+	holder = 1004560
+}
+
+870.2.1 = {
+	liege = d_kanara
+}
+
+870.2.2 = {
+	holder = 1005640
+}
+
+870.2.3 = {
+	liege = k_tizafur
+}
+
+941.2.1 = {
+	liege = d_kanara
+}
+
+941.2.2 = {
+	liege = d_tanda
+}
+
+941.2.3 = {
+	liege = d_sikara
+}
+
+941.2.4 = {
+	liege = d_raaqedar
+}
+
+941.2.5 = {
+	holder = 1006037
+}
+
+941.2.6 = {
+	liege = k_tizafur
+}
+
+946.2.1 = {
+	liege = d_kanara
+}
+
+946.2.2 = {
+	liege = d_tanda
+}
+
+946.2.3 = {
+	liege = d_sikara
+}
+
+946.2.4 = {
+	liege = d_raaqedar
+}
+
+946.2.5 = {
+	holder = 1007390
+}
+
+946.2.6 = {
+	liege = k_tizafur
+}
+
+952.2.1 = {
+	liege = d_kanara
+}
+
+952.2.2 = {
+	liege = d_tanda
+}
+
+952.2.3 = {
+	liege = d_sikara
+}
+
+952.2.4 = {
+	liege = d_raaqedar
+}
+
+952.2.5 = {
+	holder = 1007450
+}
+
+952.2.6 = {
+	liege = k_tizafur
+}
+
+1001.2.1 = {
+	liege = d_kanara
+}
+
+1001.2.2 = {
+	liege = d_egyeh
+}
+
+1001.2.3 = {
+	liege = d_sikara
+}
+
+1001.2.4 = {
+	liege = d_raaqedar
+}
+
+1001.2.5 = {
+	holder = 1007697
+}
+
+1005.2.1 = {
+	holder = 1008306
+}
+
+1040.2.1 = {
+	holder = 1008534
+}
+
+1043.2.1 = {
+	holder = 1008885
+}
+

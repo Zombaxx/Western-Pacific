@@ -1,0 +1,5 @@
+	title = c_walias
+	max_settlements = 2
+	culture = georgian
+	religion = monothelite
+	b_senna = tribal

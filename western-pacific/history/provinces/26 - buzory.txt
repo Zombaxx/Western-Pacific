@@ -1,0 +1,5 @@
+	title = c_buzory
+	max_settlements = 2
+	culture = nahuatl
+	religion = paulician
+	b_rion = tribal

@@ -1,0 +1,5 @@
+	title = c_qainuin
+	max_settlements = 2
+	culture = bengali
+	religion = yazidi
+	b_kisine = tribal

@@ -1,0 +1,5 @@
+	title = c_nenoila
+	max_settlements = 2
+	culture = lombard
+	religion = tengri_pagan_reformed
+	b_kevayor = tribal

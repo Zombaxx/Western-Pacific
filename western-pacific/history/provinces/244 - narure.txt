@@ -1,0 +1,5 @@
+	title = c_narure
+	max_settlements = 2
+	culture = persian
+	religion = finnish_pagan
+	b_epara = tribal

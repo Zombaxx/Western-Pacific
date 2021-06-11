@@ -1,0 +1,5 @@
+	title = c_toladay
+	max_settlements = 2
+	culture = saka
+	religion = west_african_pagan_reformed
+	b_nadulam = tribal

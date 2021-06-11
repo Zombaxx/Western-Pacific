@@ -1,0 +1,5 @@
+	title = c_keas
+	max_settlements = 2
+	culture = nahuatl
+	religion = hellenic_pagan_reformed
+	b_qiemayn = tribal

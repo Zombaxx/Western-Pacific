@@ -1,0 +1,5 @@
+	title = c_ragipp
+	max_settlements = 2
+	culture = bolghar
+	religion = miaphysite
+	b_kaylard = tribal

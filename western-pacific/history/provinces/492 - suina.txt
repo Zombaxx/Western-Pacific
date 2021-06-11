@@ -1,0 +1,5 @@
+	title = c_suina
+	max_settlements = 2
+	culture = basque
+	religion = hellenic_pagan_reformed
+	b_asuvizo = tribal

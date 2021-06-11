@@ -1,0 +1,5 @@
+	title = c_ralim
+	max_settlements = 2
+	culture = khanty
+	religion = bon_reformed
+	b_warqan = tribal

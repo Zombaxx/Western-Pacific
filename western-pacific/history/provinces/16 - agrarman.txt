@@ -1,0 +1,5 @@
+	title = c_agrarman
+	max_settlements = 2
+	culture = samoyed
+	religion = fraticelli
+	b_keisant = tribal

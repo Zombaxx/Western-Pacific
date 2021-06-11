@@ -1,0 +1,5 @@
+	title = c_dyunert
+	max_settlements = 2
+	culture = mongol
+	religion = cathar
+	b_etimeof = tribal

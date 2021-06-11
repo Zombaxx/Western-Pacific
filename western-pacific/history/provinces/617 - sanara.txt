@@ -1,0 +1,5 @@
+	title = c_sanara
+	max_settlements = 2
+	culture = sephardi
+	religion = manichean
+	b_kaulaga = tribal

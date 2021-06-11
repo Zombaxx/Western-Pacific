@@ -1,0 +1,5 @@
+	title = c_tusafur
+	max_settlements = 2
+	culture = catalan
+	religion = messalian
+	b_tavayn = tribal

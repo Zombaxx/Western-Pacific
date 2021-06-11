@@ -1,0 +1,5 @@
+	title = c_kasemba
+	max_settlements = 2
+	culture = bengali
+	religion = baltic_pagan_reformed
+	b_tivaiti = tribal

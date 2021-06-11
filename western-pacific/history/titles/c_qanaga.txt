@@ -1,0 +1,142 @@
+758.2.1 = {
+	holder = 1000053
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1001374
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_bijohn
+}
+
+758.2.4 = {
+	holder = 1001372
+	law = succ_primogeniture
+	law = agnatic_succession
+}
+
+783.2.1 = {
+	holder = 1002551
+}
+
+815.2.1 = {
+	holder = 1003678
+}
+
+848.2.1 = {
+	holder = 1004652
+}
+
+852.2.1 = {
+	holder = 1005545
+}
+
+866.2.1 = {
+	holder = 1004635
+}
+
+880.2.1 = {
+	liege = d_keisida
+}
+
+880.2.2 = {
+	liege = d_ezaig
+}
+
+880.2.3 = {
+	liege = d_renda
+}
+
+880.2.4 = {
+	holder = 1005829
+}
+
+880.2.5 = {
+	liege = k_tamaria
+}
+
+901.2.1 = {
+	liege = d_bijohn
+}
+
+901.2.2 = {
+	liege = d_ezaig
+}
+
+901.2.3 = {
+	liege = d_renda
+}
+
+901.2.4 = {
+	holder = 1006171
+}
+
+905.2.1 = {
+	holder = 1006630
+}
+
+951.2.1 = {
+	holder = 1006660
+}
+
+956.2.1 = {
+	holder = 1007563
+}
+
+978.2.1 = {
+	holder = 1007588
+}
+
+978.2.2 = {
+	liege = k_tamaria
+}
+
+1020.2.1 = {
+	liege = d_bijohn
+}
+
+1020.2.2 = {
+	liege = d_ezaig
+}
+
+1020.2.3 = {
+	liege = d_renda
+}
+
+1020.2.4 = {
+	holder = 1007934
+}
+
+1051.2.1 = {
+	holder = 1008647
+}
+
+1051.2.2 = {
+	liege = k_tamaria
+}
+
+1053.2.1 = {
+	liege = d_keisida
+}
+
+1053.2.2 = {
+	liege = d_ezaig
+}
+
+1053.2.3 = {
+	liege = d_renda
+}
+
+1053.2.4 = {
+	holder = 1009042
+}
+
+1053.2.5 = {
+	liege = k_tamaria
+}
+

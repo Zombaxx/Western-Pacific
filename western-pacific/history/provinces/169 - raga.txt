@@ -1,0 +1,5 @@
+	title = c_raga
+	max_settlements = 2
+	culture = karluk
+	religion = bon
+	b_ricela = tribal

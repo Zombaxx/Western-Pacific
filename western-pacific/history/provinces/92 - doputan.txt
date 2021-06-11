@@ -1,0 +1,5 @@
+	title = c_doputan
+	max_settlements = 2
+	culture = old_saxon
+	religion = jewish
+	b_kaz = tribal

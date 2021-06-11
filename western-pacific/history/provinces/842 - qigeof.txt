@@ -1,0 +1,5 @@
+	title = c_qigeof
+	max_settlements = 2
+	culture = afghan
+	religion = taoist
+	b_kucert = tribal

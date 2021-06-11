@@ -1,0 +1,5 @@
+	title = c_sigold
+	max_settlements = 2
+	culture = norwegian
+	religion = mazdaki
+	b_digekel = tribal

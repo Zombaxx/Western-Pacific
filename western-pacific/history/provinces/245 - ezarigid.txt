@@ -1,0 +1,5 @@
+	title = c_ezarigid
+	max_settlements = 2
+	culture = sephardi
+	religion = tengri_pagan
+	b_edelerin = tribal

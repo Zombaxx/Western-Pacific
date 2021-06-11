@@ -1,0 +1,5 @@
+	title = c_tekone
+	max_settlements = 2
+	culture = outremer
+	religion = norse_pagan_reformed
+	b_bobine = tribal

@@ -1,0 +1,5 @@
+	title = c_tian
+	max_settlements = 2
+	culture = sindhi
+	religion = shiite
+	b_tesind = tribal

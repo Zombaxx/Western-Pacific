@@ -1,0 +1,5 @@
+	title = c_kiralp
+	max_settlements = 2
+	culture = sindhi
+	religion = interface_skin
+	b_ramateh = tribal

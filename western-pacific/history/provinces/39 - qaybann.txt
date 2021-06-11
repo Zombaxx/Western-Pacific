@@ -1,0 +1,5 @@
+	title = c_qaybann
+	max_settlements = 2
+	culture = sardinian
+	religion = west_african_pagan
+	b_lurerin = tribal

@@ -1,0 +1,5 @@
+	title = c_tanert
+	max_settlements = 2
+	culture = ilmenian
+	religion = hindu
+	b_kajekel = tribal

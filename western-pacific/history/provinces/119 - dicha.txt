@@ -1,0 +1,5 @@
+	title = c_dicha
+	max_settlements = 2
+	culture = hausa
+	religion = slavic_pagan_reformed
+	b_akrra = tribal

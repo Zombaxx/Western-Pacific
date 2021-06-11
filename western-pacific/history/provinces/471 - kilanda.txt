@@ -1,0 +1,5 @@
+	title = c_kilanda
+	max_settlements = 2
+	culture = danish
+	religion = hindu
+	b_reratar = tribal

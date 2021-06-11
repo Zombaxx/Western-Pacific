@@ -1,0 +1,5 @@
+	title = c_lubyuva
+	max_settlements = 2
+	culture = hindustani
+	religion = west_african_pagan_reformed
+	b_tolya = tribal

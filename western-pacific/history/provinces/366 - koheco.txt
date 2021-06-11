@@ -1,0 +1,5 @@
+	title = c_koheco
+	max_settlements = 2
+	culture = assyrian
+	religion = west_african_pagan_reformed
+	b_lirek = tribal

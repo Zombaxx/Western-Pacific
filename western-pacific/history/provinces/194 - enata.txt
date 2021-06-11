@@ -1,0 +1,5 @@
+	title = c_enata
+	max_settlements = 2
+	culture = hausa
+	religion = jewish
+	b_daguna = tribal

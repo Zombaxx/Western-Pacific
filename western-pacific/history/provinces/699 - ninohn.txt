@@ -1,0 +1,5 @@
+	title = c_ninohn
+	max_settlements = 2
+	culture = outremer
+	religion = zun_pagan
+	b_akeneka = tribal

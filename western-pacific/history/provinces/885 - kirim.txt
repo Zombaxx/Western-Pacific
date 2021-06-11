@@ -1,0 +1,5 @@
+	title = c_kirim
+	max_settlements = 2
+	culture = pecheneg
+	religion = aztec
+	b_seleuta = tribal

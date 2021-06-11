@@ -1,0 +1,5 @@
+	title = c_lecatra
+	max_settlements = 2
+	culture = bodpa
+	religion = norse_pagan
+	b_damayita = tribal

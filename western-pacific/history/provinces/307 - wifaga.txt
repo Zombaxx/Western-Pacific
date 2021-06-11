@@ -1,0 +1,5 @@
+	title = c_wifaga
+	max_settlements = 2
+	culture = sumpa
+	religion = zikri
+	b_aserhi = tribal

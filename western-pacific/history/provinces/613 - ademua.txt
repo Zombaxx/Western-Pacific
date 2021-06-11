@@ -1,0 +1,5 @@
+	title = c_ademua
+	max_settlements = 2
+	culture = pommeranian
+	religion = jewish
+	b_kusala = tribal

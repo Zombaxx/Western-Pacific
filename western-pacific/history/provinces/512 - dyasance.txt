@@ -1,0 +1,5 @@
+	title = c_dyasance
+	max_settlements = 2
+	culture = nubian
+	religion = fraticelli
+	b_bumatevi = tribal

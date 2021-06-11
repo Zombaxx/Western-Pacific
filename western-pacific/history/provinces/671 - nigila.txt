@@ -1,0 +1,5 @@
+	title = c_nigila
+	max_settlements = 2
+	culture = arberian
+	religion = finnish_pagan
+	b_tohislav = tribal

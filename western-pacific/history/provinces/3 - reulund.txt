@@ -1,0 +1,5 @@
+	title = c_reulund
+	max_settlements = 2
+	culture = levantine_arabic
+	religion = aztec
+	b_ehjua = tribal

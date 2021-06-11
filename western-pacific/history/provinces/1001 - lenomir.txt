@@ -1,0 +1,5 @@
+	title = c_lenomir
+	max_settlements = 2
+	culture = italian
+	religion = baltic_pagan
+	b_lenarna = tribal

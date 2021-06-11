@@ -1,0 +1,5 @@
+	title = c_tawala
+	max_settlements = 2
+	culture = tamil
+	religion = bon
+	b_tawaga = tribal

@@ -1,0 +1,5 @@
+	title = c_tasabi
+	max_settlements = 2
+	culture = danish
+	religion = samaritan
+	b_rasera = tribal

@@ -1,0 +1,5 @@
+	title = c_azhonas
+	max_settlements = 2
+	culture = karluk
+	religion = jain
+	b_relulam = tribal

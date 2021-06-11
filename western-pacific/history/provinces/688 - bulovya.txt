@@ -1,0 +1,5 @@
+	title = c_bulovya
+	max_settlements = 2
+	culture = slovieni
+	religion = bon
+	b_katalku = tribal

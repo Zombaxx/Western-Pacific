@@ -1,0 +1,134 @@
+758.2.1 = {
+	holder = 1000004
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000005
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_dumatevi
+}
+
+758.2.4 = {
+	liege = d_echophia
+}
+
+758.2.5 = {
+	holder = 1000390
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+799.2.1 = {
+	liege = d_tifaul
+}
+
+799.2.2 = {
+	liege = d_lenar
+}
+
+799.2.3 = {
+	liege = d_ajulara
+}
+
+799.2.4 = {
+	holder = 1003552
+}
+
+807.2.1 = {
+	holder = 1003065
+}
+
+822.2.1 = {
+	liege = d_asabafur
+}
+
+822.2.2 = {
+	holder = 1004195
+}
+
+850.2.1 = {
+	liege = d_lusafur
+}
+
+850.2.2 = {
+	holder = 1004997
+}
+
+869.2.1 = {
+	liege = d_asabafur
+}
+
+869.2.2 = {
+	liege = d_ajulara
+}
+
+869.2.3 = {
+	holder = 1005586
+}
+
+877.2.1 = {
+	holder = 1006081
+}
+
+931.2.1 = {
+	liege = d_asabafur
+}
+
+931.2.2 = {
+	liege = d_lusafur
+}
+
+931.2.3 = {
+	holder = 1006425
+}
+
+942.2.1 = {
+	liege = d_asabafur
+}
+
+942.2.2 = {
+	liege = d_ajulara
+}
+
+942.2.3 = {
+	holder = 1007135
+}
+
+985.2.1 = {
+	holder = 1007496
+}
+
+994.2.1 = {
+	holder = 1008131
+}
+
+1042.2.1 = {
+	liege = d_asabafur
+}
+
+1042.2.2 = {
+	liege = d_lusafur
+}
+
+1042.2.3 = {
+	holder = 1008448
+}
+
+1065.2.1 = {
+	liege = d_asabafur
+}
+
+1065.2.2 = {
+	liege = d_ajulara
+}
+
+1065.2.3 = {
+	holder = 1009136
+}
+

@@ -1,0 +1,5 @@
+	title = c_dalulay
+	max_settlements = 2
+	culture = oriya
+	religion = tengri_pagan_reformed
+	b_kenous = tribal

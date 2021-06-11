@@ -1,0 +1,5 @@
+	title = c_kigid
+	max_settlements = 2
+	culture = lettigallish
+	religion = nestorian
+	b_ekralvor = tribal

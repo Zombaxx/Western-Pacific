@@ -1,0 +1,5 @@
+	title = c_kofyuva
+	max_settlements = 2
+	culture = marathi
+	religion = bon_reformed
+	b_awinur = tribal

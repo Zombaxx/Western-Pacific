@@ -1,0 +1,5 @@
+	title = c_wagert
+	max_settlements = 2
+	culture = baloch
+	religion = khurmazta
+	b_najaret = tribal

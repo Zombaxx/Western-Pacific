@@ -1,0 +1,5 @@
+	title = c_tayen
+	max_settlements = 2
+	culture = bohemian
+	religion = ibadi
+	b_wokotte = tribal

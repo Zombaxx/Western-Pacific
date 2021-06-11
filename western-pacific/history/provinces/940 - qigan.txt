@@ -1,0 +1,5 @@
+	title = c_qigan
+	max_settlements = 2
+	culture = welsh
+	religion = iconoclast
+	b_rold = tribal

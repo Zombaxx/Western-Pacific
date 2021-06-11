@@ -1,0 +1,5 @@
+	title = c_wadavi
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = karaite
+	b_ruleka = tribal

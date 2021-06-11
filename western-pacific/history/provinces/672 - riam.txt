@@ -1,0 +1,5 @@
+	title = c_riam
+	max_settlements = 2
+	culture = prussian
+	religion = messalian
+	b_soyaary = tribal

@@ -1,0 +1,5 @@
+	title = c_wune
+	max_settlements = 2
+	culture = english
+	religion = slavic_pagan
+	b_elabet = tribal

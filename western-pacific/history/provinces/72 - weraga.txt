@@ -1,0 +1,5 @@
+	title = c_weraga
+	max_settlements = 2
+	culture = kanuri
+	religion = tengri_pagan
+	b_kunara = tribal

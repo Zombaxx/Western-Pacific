@@ -1,0 +1,5 @@
+	title = c_danuyan
+	max_settlements = 2
+	culture = assamese
+	religion = tengri_pagan_reformed
+	b_qoboshi = tribal

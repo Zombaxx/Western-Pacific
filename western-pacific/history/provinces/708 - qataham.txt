@@ -1,0 +1,5 @@
+	title = c_qataham
+	max_settlements = 2
+	culture = soninke
+	religion = interface_skin
+	b_salku = tribal

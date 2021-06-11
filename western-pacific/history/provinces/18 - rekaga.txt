@@ -1,0 +1,5 @@
+	title = c_rekaga
+	max_settlements = 2
+	culture = pictish
+	religion = jain
+	b_daihn = tribal

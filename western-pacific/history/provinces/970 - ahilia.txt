@@ -1,0 +1,5 @@
+	title = c_ahilia
+	max_settlements = 2
+	culture = occitan
+	religion = monophysite
+	b_asatenzu = tribal

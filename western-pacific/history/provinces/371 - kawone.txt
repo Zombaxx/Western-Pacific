@@ -1,0 +1,5 @@
+	title = c_kawone
+	max_settlements = 2
+	culture = outremer
+	religion = hindu
+	b_kelutas = tribal

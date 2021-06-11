@@ -1,0 +1,5 @@
+	title = c_aruoxun
+	max_settlements = 2
+	culture = severian
+	religion = fraticelli
+	b_niruyan = tribal

@@ -1,0 +1,5 @@
+	title = c_efreka
+	max_settlements = 2
+	culture = old_saxon
+	religion = bon
+	b_apetodu = tribal

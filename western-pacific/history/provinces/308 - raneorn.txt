@@ -1,0 +1,5 @@
+	title = c_raneorn
+	max_settlements = 2
+	culture = english
+	religion = finnish_pagan_reformed
+	b_talutan = tribal

@@ -1,0 +1,5 @@
+	title = c_telulam
+	max_settlements = 2
+	culture = sumpa
+	religion = hellenic_pagan_reformed
+	b_seloald = tribal

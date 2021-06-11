@@ -1,0 +1,5 @@
+	title = c_wanert
+	max_settlements = 2
+	culture = hungarian
+	religion = nestorian
+	b_atheoret = tribal

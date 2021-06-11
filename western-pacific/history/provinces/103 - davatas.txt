@@ -1,0 +1,5 @@
+	title = c_davatas
+	max_settlements = 2
+	culture = songhay
+	religion = kharijite
+	b_bamonn = tribal

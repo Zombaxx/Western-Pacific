@@ -1,0 +1,5 @@
+	title = c_rikeva
+	max_settlements = 2
+	culture = frankish
+	religion = pagan
+	b_kabahu = tribal

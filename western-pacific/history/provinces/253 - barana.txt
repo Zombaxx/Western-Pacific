@@ -1,0 +1,5 @@
+	title = c_barana
+	max_settlements = 2
+	culture = karluk
+	religion = aztec_reformed
+	b_saraide = tribal

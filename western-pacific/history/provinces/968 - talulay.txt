@@ -1,0 +1,5 @@
+	title = c_talulay
+	max_settlements = 2
+	culture = bohemian
+	religion = messalian
+	b_nelaham = tribal

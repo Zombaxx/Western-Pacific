@@ -1,0 +1,5 @@
+	title = c_narilay
+	max_settlements = 2
+	culture = bolghar
+	religion = hellenic_pagan_reformed
+	b_bunara = tribal

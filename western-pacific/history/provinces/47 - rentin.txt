@@ -1,0 +1,5 @@
+	title = c_rentin
+	max_settlements = 2
+	culture = pictish
+	religion = lollard
+	b_biling = tribal

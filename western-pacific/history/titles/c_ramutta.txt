@@ -1,0 +1,110 @@
+758.2.1 = {
+	holder = 1000002
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000261
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_sameph
+}
+
+758.2.4 = {
+	holder = 1000260
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+785.2.1 = {
+	holder = 1002585
+}
+
+811.2.1 = {
+	holder = 1004155
+}
+
+829.2.1 = {
+	holder = 1004677
+}
+
+835.2.1 = {
+	holder = 1004447
+}
+
+853.2.1 = {
+	liege = d_akalica
+}
+
+853.2.2 = {
+	liege = d_kodilay
+}
+
+853.2.3 = {
+	holder = 1004976
+}
+
+869.2.1 = {
+	liege = d_akalica
+}
+
+869.2.2 = {
+	liege = d_sameph
+}
+
+869.2.3 = {
+	holder = 1005762
+}
+
+873.2.1 = {
+	holder = 1006007
+}
+
+906.2.1 = {
+	holder = 1006036
+}
+
+941.2.1 = {
+	holder = 1006728
+}
+
+948.2.1 = {
+	holder = 1007373
+}
+
+1000.2.1 = {
+	liege = d_akalica
+}
+
+1000.2.2 = {
+	liege = d_kodilay
+}
+
+1000.2.3 = {
+	holder = 1008117
+}
+
+1013.2.1 = {
+	holder = 1008365
+}
+
+1019.2.1 = {
+	holder = 1008522
+}
+
+1063.2.1 = {
+	liege = d_akalica
+}
+
+1063.2.2 = {
+	liege = d_sameph
+}
+
+1063.2.3 = {
+	holder = 1008532
+}
+

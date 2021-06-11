@@ -1,0 +1,5 @@
+	title = c_asochi
+	max_settlements = 2
+	culture = persian
+	religion = qarmatian
+	b_tayuin = tribal

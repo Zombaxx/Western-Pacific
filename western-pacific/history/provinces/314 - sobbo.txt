@@ -1,0 +1,5 @@
+	title = c_sobbo
+	max_settlements = 2
+	culture = tamil
+	religion = hurufi
+	b_lekobbo = tribal

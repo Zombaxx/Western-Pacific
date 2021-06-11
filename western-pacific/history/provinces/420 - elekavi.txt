@@ -1,0 +1,5 @@
+	title = c_elekavi
+	max_settlements = 2
+	culture = croatian
+	religion = orthodox
+	b_tezavi = tribal

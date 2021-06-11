@@ -1,0 +1,5 @@
+	title = c_afageuba
+	max_settlements = 2
+	culture = frisian
+	religion = jain
+	b_lemian = tribal

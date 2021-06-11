@@ -1,0 +1,5 @@
+	title = c_wagayn
+	max_settlements = 2
+	culture = manden
+	religion = jewish
+	b_epeleuba = tribal

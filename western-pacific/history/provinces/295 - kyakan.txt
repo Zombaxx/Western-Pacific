@@ -1,0 +1,5 @@
+	title = c_kyakan
+	max_settlements = 2
+	culture = kurdish
+	religion = mazdaki
+	b_nasardu = tribal

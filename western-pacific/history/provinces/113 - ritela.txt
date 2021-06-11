@@ -1,0 +1,5 @@
+	title = c_ritela
+	max_settlements = 2
+	culture = cuman
+	religion = monophysite
+	b_dedeva = tribal

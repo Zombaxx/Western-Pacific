@@ -1,0 +1,5 @@
+	title = c_raidara
+	max_settlements = 2
+	culture = severian
+	religion = zun_pagan
+	b_larone = tribal

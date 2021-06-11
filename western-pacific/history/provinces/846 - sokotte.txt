@@ -1,0 +1,5 @@
+	title = c_sokotte
+	max_settlements = 2
+	culture = polish
+	religion = interface_skin
+	b_bimon = tribal

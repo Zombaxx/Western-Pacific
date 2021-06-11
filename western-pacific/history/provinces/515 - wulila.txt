@@ -1,0 +1,5 @@
+	title = c_wulila
+	max_settlements = 2
+	culture = german
+	religion = hindu
+	b_regali = tribal

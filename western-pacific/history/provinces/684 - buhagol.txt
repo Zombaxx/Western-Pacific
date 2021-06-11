@@ -1,0 +1,5 @@
+	title = c_buhagol
+	max_settlements = 2
+	culture = old_saxon
+	religion = manichean
+	b_emyu = tribal

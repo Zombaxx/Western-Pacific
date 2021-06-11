@@ -1,0 +1,5 @@
+	title = c_tubaud
+	max_settlements = 2
+	culture = kannada
+	religion = sunni
+	b_naud = tribal

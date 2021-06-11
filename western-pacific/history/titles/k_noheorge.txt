@@ -1,0 +1,38 @@
+758.2.1 = {
+	holder = 1001563
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = e_lekanai
+}
+
+758.2.3 = {
+	liege = e_kakuyan
+}
+
+758.2.4 = {
+	liege = e_kezardus
+}
+
+758.2.5 = {
+	liege = e_enera
+}
+
+758.2.6 = {
+	liege = e_sagoshi
+}
+
+795.2.1 = {
+	holder = 1002891
+}
+
+900.2.1 = {
+	holder = 1006529
+}
+
+1000.2.1 = {
+	holder = 1008226
+}
+

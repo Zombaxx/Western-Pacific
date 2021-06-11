@@ -1,0 +1,5 @@
+	title = c_kaiseph
+	max_settlements = 2
+	culture = meshchera
+	religion = samaritan
+	b_kageph = tribal

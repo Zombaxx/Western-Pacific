@@ -1,0 +1,276 @@
+758.2.1 = {
+	holder = 1000002
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000010
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	holder = 1000584
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.4 = {
+	liege = d_enari
+}
+
+758.2.5 = {
+	holder = 1000583
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+778.2.1 = {
+	holder = 1002662
+}
+
+782.2.1 = {
+	holder = 1003219
+}
+
+806.2.1 = {
+	liege = d_tarold
+}
+
+806.2.2 = {
+	holder = 1003894
+}
+
+856.2.1 = {
+	liege = d_enari
+}
+
+856.2.2 = {
+	holder = 1004472
+}
+
+857.2.1 = {
+	holder = 1005005
+}
+
+862.2.1 = {
+	liege = d_tarold
+}
+
+862.2.2 = {
+	liege = d_qanit
+}
+
+862.2.3 = {
+	liege = d_kahra
+}
+
+862.2.4 = {
+	liege = d_nazouz
+}
+
+862.2.5 = {
+	liege = d_ramaret
+}
+
+862.2.6 = {
+	holder = 1005744
+}
+
+862.2.7 = {
+	liege = k_syunan
+}
+
+866.2.1 = {
+	liege = d_enari
+}
+
+866.2.2 = {
+	liege = d_tarold
+}
+
+866.2.3 = {
+	liege = d_qanit
+}
+
+866.2.4 = {
+	liege = d_kahra
+}
+
+866.2.5 = {
+	liege = d_nazouz
+}
+
+866.2.6 = {
+	liege = d_ramaret
+}
+
+866.2.7 = {
+	holder = 1005154
+}
+
+866.2.8 = {
+	liege = k_syunan
+}
+
+875.2.1 = {
+	liege = d_dareuta
+}
+
+875.2.2 = {
+	liege = d_qanekel
+}
+
+875.2.3 = {
+	liege = d_enari
+}
+
+875.2.4 = {
+	liege = d_tarold
+}
+
+875.2.5 = {
+	liege = d_qanit
+}
+
+875.2.6 = {
+	liege = d_kahra
+}
+
+875.2.7 = {
+	liege = d_nazouz
+}
+
+875.2.8 = {
+	liege = d_ramaret
+}
+
+875.2.9 = {
+	holder = 1005841
+}
+
+875.2.10 = {
+	liege = k_syunan
+}
+
+881.2.1 = {
+	liege = d_tarold
+}
+
+881.2.2 = {
+	liege = d_enari
+}
+
+881.2.3 = {
+	liege = d_keiruna
+}
+
+881.2.4 = {
+	liege = d_karohn
+}
+
+881.2.5 = {
+	liege = d_damaret
+}
+
+881.2.6 = {
+	liege = d_qanit
+}
+
+881.2.7 = {
+	liege = d_qanekel
+}
+
+881.2.8 = {
+	liege = d_dareuta
+}
+
+881.2.9 = {
+	liege = d_kigalda
+}
+
+881.2.10 = {
+	liege = d_nazouz
+}
+
+881.2.11 = {
+	liege = d_kahra
+}
+
+881.2.12 = {
+	holder = 1006165
+}
+
+885.2.1 = {
+	holder = 1006245
+}
+
+889.2.1 = {
+	holder = 1005560
+}
+
+893.2.1 = {
+	holder = 1006407
+}
+
+943.2.1 = {
+	liege = d_nazouz
+}
+
+943.2.2 = {
+	liege = d_kigalda
+}
+
+943.2.3 = {
+	holder = 1006491
+}
+
+946.2.1 = {
+	holder = 1007386
+}
+
+988.2.1 = {
+	holder = 1007428
+}
+
+1014.2.1 = {
+	liege = d_nazouz
+}
+
+1014.2.2 = {
+	liege = d_kahra
+}
+
+1014.2.3 = {
+	holder = 1007676
+}
+
+1020.2.1 = {
+	liege = d_nazouz
+}
+
+1020.2.2 = {
+	liege = d_kigalda
+}
+
+1020.2.3 = {
+	holder = 1008529
+}
+
+1037.2.1 = {
+	holder = 1008610
+}
+
+1052.2.1 = {
+	liege = d_nazouz
+}
+
+1052.2.2 = {
+	liege = d_kahra
+}
+
+1052.2.3 = {
+	holder = 1009012
+}
+

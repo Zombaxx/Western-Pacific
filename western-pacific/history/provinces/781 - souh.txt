@@ -1,0 +1,5 @@
+	title = c_souh
+	max_settlements = 2
+	culture = kirghiz
+	religion = manichean
+	b_wajuyan = tribal

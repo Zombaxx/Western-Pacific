@@ -1,0 +1,5 @@
+	title = c_lyasafur
+	max_settlements = 2
+	culture = norman
+	religion = khurmazta
+	b_savafur = tribal

@@ -1,0 +1,5 @@
+	title = c_wesinluo
+	max_settlements = 2
+	culture = danish
+	religion = baltic_pagan
+	b_rabutta = tribal

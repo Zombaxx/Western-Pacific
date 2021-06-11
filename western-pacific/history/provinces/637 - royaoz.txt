@@ -1,0 +1,5 @@
+	title = c_royaoz
+	max_settlements = 2
+	culture = lithuanian
+	religion = hurufi
+	b_egyao = tribal

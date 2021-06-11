@@ -1,0 +1,5 @@
+	title = c_kairar
+	max_settlements = 2
+	culture = lombard
+	religion = buddhist
+	b_bomier = tribal

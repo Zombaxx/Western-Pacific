@@ -1,0 +1,5 @@
+	title = c_reroka
+	max_settlements = 2
+	culture = sumpa
+	religion = hellenic_pagan
+	b_waratag = tribal

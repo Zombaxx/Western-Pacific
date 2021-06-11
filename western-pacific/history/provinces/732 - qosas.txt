@@ -1,0 +1,5 @@
+	title = c_qosas
+	max_settlements = 2
+	culture = croatian
+	religion = zikri
+	b_wiam = tribal

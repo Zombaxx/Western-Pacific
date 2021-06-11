@@ -1,0 +1,5 @@
+	title = c_nophia
+	max_settlements = 2
+	culture = pecheneg
+	religion = hurufi
+	b_qaulara = tribal

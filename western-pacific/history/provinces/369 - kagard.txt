@@ -1,0 +1,5 @@
+	title = c_kagard
+	max_settlements = 2
+	culture = manden
+	religion = aztec_reformed
+	b_eticobbo = tribal

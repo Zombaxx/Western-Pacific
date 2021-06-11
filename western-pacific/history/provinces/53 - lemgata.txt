@@ -1,0 +1,5 @@
+	title = c_lemgata
+	max_settlements = 2
+	culture = pictish
+	religion = buddhist
+	b_ryaveva = tribal

@@ -1,0 +1,5 @@
+	title = c_tonijah
+	max_settlements = 2
+	culture = khitan
+	religion = druze
+	b_tuoras = tribal

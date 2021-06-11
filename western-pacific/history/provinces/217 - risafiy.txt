@@ -1,0 +1,5 @@
+	title = c_risafiy
+	max_settlements = 2
+	culture = sogdian
+	religion = interface_skin
+	b_kaleer = tribal

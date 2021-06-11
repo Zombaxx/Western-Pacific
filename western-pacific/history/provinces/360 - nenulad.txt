@@ -1,0 +1,5 @@
+	title = c_nenulad
+	max_settlements = 2
+	culture = sindhi
+	religion = karaite
+	b_nawani = tribal

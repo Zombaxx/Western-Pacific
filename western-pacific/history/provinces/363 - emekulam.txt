@@ -1,0 +1,5 @@
+	title = c_emekulam
+	max_settlements = 2
+	culture = roman
+	religion = west_african_pagan_reformed
+	b_basutas = tribal

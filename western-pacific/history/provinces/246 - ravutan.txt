@@ -1,0 +1,5 @@
+	title = c_ravutan
+	max_settlements = 2
+	culture = alan
+	religion = karaite
+	b_ravoid = tribal

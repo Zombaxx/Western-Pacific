@@ -1,0 +1,5 @@
+	title = c_seridha
+	max_settlements = 2
+	culture = levantine_arabic
+	religion = west_african_pagan_reformed
+	b_emiel = tribal

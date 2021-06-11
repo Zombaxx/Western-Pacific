@@ -1,0 +1,5 @@
+	title = c_baling
+	max_settlements = 2
+	culture = sardinian
+	religion = zikri
+	b_aroham = tribal

@@ -1,0 +1,5 @@
+	title = c_duriku
+	max_settlements = 2
+	culture = coptic
+	religion = waldensian
+	b_diegiku = tribal

@@ -1,0 +1,5 @@
+	title = c_arize
+	max_settlements = 2
+	culture = assyrian
+	religion = hurufi
+	b_rajekel = tribal

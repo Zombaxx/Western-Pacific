@@ -1,0 +1,5 @@
+	title = c_keodohn
+	max_settlements = 2
+	culture = khitan
+	religion = zoroastrian
+	b_qadigun = tribal

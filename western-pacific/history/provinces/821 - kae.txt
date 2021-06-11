@@ -1,0 +1,5 @@
+	title = c_kae
+	max_settlements = 2
+	culture = bodpa
+	religion = sunni
+	b_rinnalda = tribal

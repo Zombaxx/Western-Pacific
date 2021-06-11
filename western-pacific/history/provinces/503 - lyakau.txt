@@ -1,0 +1,5 @@
+	title = c_lyakau
+	max_settlements = 2
+	culture = frankish
+	religion = kharijite
+	b_lutas = tribal

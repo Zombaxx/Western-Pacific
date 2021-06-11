@@ -1,0 +1,5 @@
+	title = c_korilay
+	max_settlements = 2
+	culture = nahuatl
+	religion = samaritan
+	b_dotonn = tribal

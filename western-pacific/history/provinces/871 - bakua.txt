@@ -1,0 +1,5 @@
+	title = c_bakua
+	max_settlements = 2
+	culture = assyrian
+	religion = norse_pagan_reformed
+	b_delutta = tribal

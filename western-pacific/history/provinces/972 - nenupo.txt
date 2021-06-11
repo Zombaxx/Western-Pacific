@@ -1,0 +1,5 @@
+	title = c_nenupo
+	max_settlements = 2
+	culture = lombard
+	religion = cathar
+	b_layasz = tribal

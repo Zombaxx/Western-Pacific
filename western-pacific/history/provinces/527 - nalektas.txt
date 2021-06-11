@@ -1,0 +1,5 @@
+	title = c_nalektas
+	max_settlements = 2
+	culture = bodpa
+	religion = slavic_pagan
+	b_dyoroald = tribal

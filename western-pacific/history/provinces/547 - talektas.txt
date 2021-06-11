@@ -1,0 +1,5 @@
+	title = c_talektas
+	max_settlements = 2
+	culture = bohemian
+	religion = taoist
+	b_kaya = tribal

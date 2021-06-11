@@ -1,0 +1,5 @@
+	title = c_tine
+	max_settlements = 2
+	culture = slovieni
+	religion = ibadi
+	b_dainuin = tribal

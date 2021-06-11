@@ -1,0 +1,5 @@
+	title = c_wereo
+	max_settlements = 2
+	culture = swedish
+	religion = druze
+	b_kenacob = tribal

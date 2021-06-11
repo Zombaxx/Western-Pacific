@@ -1,0 +1,5 @@
+	title = c_qenit
+	max_settlements = 2
+	culture = roman
+	religion = baltic_pagan_reformed
+	b_woruin = tribal

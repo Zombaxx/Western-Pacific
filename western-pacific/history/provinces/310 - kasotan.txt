@@ -1,0 +1,5 @@
+	title = c_kasotan
+	max_settlements = 2
+	culture = afghan
+	religion = nestorian
+	b_notana = tribal

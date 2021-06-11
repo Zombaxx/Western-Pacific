@@ -1,0 +1,5 @@
+	title = c_ecekalf
+	max_settlements = 2
+	culture = komi
+	religion = interface_skin
+	b_ecekanai = tribal

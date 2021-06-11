@@ -1,0 +1,144 @@
+758.2.1 = {
+	holder = 1000032
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000033
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	holder = 1001021
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+758.2.4 = {
+	liege = d_tausalc
+}
+
+758.2.5 = {
+	holder = 1001020
+	law = succ_primogeniture
+	law = cognatic_succession
+}
+
+772.2.1 = {
+	holder = 1002322
+}
+
+781.2.1 = {
+	holder = 1003238
+}
+
+783.2.1 = {
+	holder = 1001571
+}
+
+813.2.1 = {
+	liege = d_tuber
+}
+
+813.2.2 = {
+	liege = d_kulias
+}
+
+813.2.3 = {
+	holder = 1002443
+}
+
+829.2.1 = {
+	liege = d_tuber
+}
+
+829.2.2 = {
+	liege = d_tausalc
+}
+
+829.2.3 = {
+	holder = 1004872
+}
+
+853.2.1 = {
+	liege = d_tuber
+}
+
+853.2.2 = {
+	liege = d_kulias
+}
+
+853.2.3 = {
+	holder = 1005308
+}
+
+875.2.1 = {
+	liege = d_tuber
+}
+
+875.2.2 = {
+	liege = d_tausalc
+}
+
+875.2.3 = {
+	holder = 1004637
+}
+
+891.2.1 = {
+	liege = d_tuber
+}
+
+891.2.2 = {
+	liege = d_kulias
+}
+
+891.2.3 = {
+	holder = 1006093
+}
+
+919.2.1 = {
+	liege = d_tuber
+}
+
+919.2.2 = {
+	liege = d_tausalc
+}
+
+919.2.3 = {
+	holder = 1006419
+}
+
+957.2.1 = {
+	holder = 1007579
+}
+
+975.2.1 = {
+	liege = d_tuber
+}
+
+975.2.2 = {
+	liege = d_kulias
+}
+
+975.2.3 = {
+	holder = 1007735
+}
+
+1020.2.1 = {
+	liege = d_tuber
+}
+
+1020.2.2 = {
+	liege = d_tausalc
+}
+
+1020.2.3 = {
+	holder = 1008022
+}
+
+1034.2.1 = {
+	holder = 1008764
+}
+

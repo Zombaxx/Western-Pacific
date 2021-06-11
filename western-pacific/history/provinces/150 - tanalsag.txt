@@ -1,0 +1,5 @@
+	title = c_tanalsag
+	max_settlements = 2
+	culture = assamese
+	religion = buddhist
+	b_kavura = tribal

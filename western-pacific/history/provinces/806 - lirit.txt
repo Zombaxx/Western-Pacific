@@ -1,0 +1,5 @@
+	title = c_lirit
+	max_settlements = 2
+	culture = bodpa
+	religion = zoroastrian
+	b_lereth = tribal

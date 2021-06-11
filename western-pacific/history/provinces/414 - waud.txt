@@ -1,0 +1,5 @@
+	title = c_waud
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = qarmatian
+	b_keralim = tribal

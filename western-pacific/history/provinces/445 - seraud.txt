@@ -1,0 +1,5 @@
+	title = c_seraud
+	max_settlements = 3
+	culture = andalusian_arabic
+	religion = catholic
+	b_wunaud = tribal

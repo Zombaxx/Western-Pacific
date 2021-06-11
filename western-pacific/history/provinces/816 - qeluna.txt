@@ -1,0 +1,5 @@
+	title = c_qeluna
+	max_settlements = 2
+	culture = levantine_arabic
+	religion = monophysite
+	b_wanuna = tribal

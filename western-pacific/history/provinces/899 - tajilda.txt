@@ -1,0 +1,5 @@
+	title = c_tajilda
+	max_settlements = 2
+	culture = portuguese
+	religion = jain
+	b_qulayen = tribal

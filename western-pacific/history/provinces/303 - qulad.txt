@@ -1,0 +1,5 @@
+	title = c_qulad
+	max_settlements = 2
+	culture = kirghiz
+	religion = slavic_pagan_reformed
+	b_tabani = tribal

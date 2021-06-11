@@ -1,0 +1,5 @@
+	title = c_neridha
+	max_settlements = 2
+	culture = lombard
+	religion = finnish_pagan
+	b_qumira = tribal

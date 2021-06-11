@@ -1,0 +1,5 @@
+	title = c_demgeva
+	max_settlements = 2
+	culture = pommeranian
+	religion = bon_reformed
+	b_tiebata = tribal

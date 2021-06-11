@@ -1,0 +1,5 @@
+	title = c_rimeph
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = jewish
+	b_kyunekel = tribal

@@ -1,164 +1,476 @@
 adjacencies = {
-	1 = 4 #Province0001 - Province0004
-	496 = 521 #Province0496 - Province0521
-	6 = 23 #Province0006 - Province0023
-	10 = 14 #Province0010 - Province0014
-	12 = 22 #Province0012 - Province0022
-	14 = 10 #Province0014 - Province0010
-	68 = 80 #Province0068 - Province0080
-	38 = 34 #Province0038 - Province0034
-	43 = 55 #Province0043 - Province0055
-	49 = 44 #Province0049 - Province0044
-	55 = 43 #Province0055 - Province0043
-	56 = 51 #Province0056 - Province0051
-	92 = 103 #Province0092 - Province0103
-	102 = 122 #Province0102 - Province0122
-	152 = 146 #Province0152 - Province0146
-	114 = 92 #Province0114 - Province0092
-	122 = 132 #Province0122 - Province0132
-	151 = 149 #Province0151 - Province0149
-	187 = 189 #Province0187 - Province0189
-	189 = 205 #Province0189 - Province0205
-	192 = 206 #Province0192 - Province0206
-	205 = 189 #Province0205 - Province0189
-	225 = 234 #Province0225 - Province0234
-	243 = 219 #Province0243 - Province0219
-	311 = 304 #Province0311 - Province0304
-	320 = 335 #Province0320 - Province0335
-	370 = 384 #Province0370 - Province0384
-	387 = 350 #Province0387 - Province0350
-	410 = 379 #Province0410 - Province0379
-	430 = 431 #Province0430 - Province0431
-	453 = 438 #Province0453 - Province0438
-	515 = 504 #Province0515 - Province0504
-	736 = 740 #Province0736 - Province0740
-	535 = 543 #Province0535 - Province0543
-	578 = 610 #Province0578 - Province0610
-	630 = 626 #Province0630 - Province0626
-	636 = 630 #Province0636 - Province0630
-	670 = 679 #Province0670 - Province0679
-	720 = 727 #Province0720 - Province0727
-	726 = 722 #Province0726 - Province0722
-	781 = 785 #Province0781 - Province0785
-	787 = 781 #Province0787 - Province0781
-	812 = 803 #Province0812 - Province0803
-	823 = 836 #Province0823 - Province0836
-	836 = 823 #Province0836 - Province0823
-	841 = 801 #Province0841 - Province0801
-	916 = 936 #Province0916 - Province0936
-	942 = 922 #Province0942 - Province0922
-	947 = 933 #Province0947 - Province0933
-	953 = 952 #Province0953 - Province0952
-	955 = 963 #Province0955 - Province0963
-	961 = 959 #Province0961 - Province0959
-	960 = 908 #Province0960 - Province0908
-	967 = 961 #Province0967 - Province0961
-	973 = 975 #Province0973 - Province0975
-	983 = 987 #Province0983 - Province0987
-	987 = 993 #Province0987 - Province0993
-	993 = 987 #Province0993 - Province0987
-	1000 = 959 #Province1000 - Province0959
-	1005 = 1001 #Province1005 - Province1001
-	1006 = 1004 #Province1006 - Province1004
-	1009 = 1010 #Province1009 - Province1010
-	1010 = 936 #Province1010 - Province0936
-	1011 = 1014 #Province1011 - Province1014
-	1018 = 1011 #Province1018 - Province1011
-}
-
+			736=740
+942=922
+500=529
+538=505
+916=925
+329=370
+515=522
+219=249
+12=22
+440=379
+225=253
+841=916
+578=610
+948=942
+6=50
+957=952
+967=961
+959=967
+1002=967
+1006=1004
+984=956
+955=963
+1005=999
+993=1000
+987=993
+983=987
+1018=1007
+1011=1018
+1014=1011
+1009=1010
+6=50
+6=12
+6=225
+6=253
+6=515
+6=431
+12=22
+12=6
+12=225
+12=253
+12=413
+12=515
+225=253
+225=137
+225=413
+225=12
+225=550
+225=6
+515=522
+515=505
+515=550
+515=529
+515=431
+515=235
+578=610
+578=604
+578=510
+578=467
+578=535
+578=329
+841=916
+841=835
+841=942
+841=740
+841=947
+841=578
+916=925
+916=841
+916=942
+916=947
+916=740
+916=578
+942=922
+942=948
+942=916
+942=841
+942=740
+942=957
+955=963
+955=1005
+955=874
+955=956
+955=967
+955=961
+967=959
+967=961
+967=1002
+967=952
+967=984
+967=875
+983=987
+983=993
+983=951
+983=957
+983=1000
+983=967
+987=993
+987=983
+987=1000
+987=951
+987=957
+987=967
+993=987
+993=983
+993=1000
+993=951
+993=957
+993=967
+1005=999
+1005=955
+1005=1002
+1005=1006
+1005=874
+1005=956
+1011=1014
+1011=1009
+1011=1018
+1011=983
+1011=1007
+1011=987
+1018=1007
+1018=1011
+1018=1004
+1018=1017
+1018=961
+1018=967
+961=967
+961=959
+957=952
+961=1000
+957=942
+957=918
+1006=1004
+1006=957
+1006=967
+1006=993
+1007=1018
+1006=987
+1009=1010
+1009=1011
+1008=983
+1008=1007
+1008=987
+1008=993
+1002=967
+1004=1006
+1000=961
+1002=959
+1000=993
+1002=1003
+959=967
+959=961
+953=952
+959=1002
+954=937
+956=984
+440=379
+431=423
+431=515
+431=437
+431=550
+431=529
+538=505
+539=575
+550=509
+550=515
+535=578
+535=510
+948=942
+947=933
+952=957
+947=916
+952=953
+947=841
+1010=1009
+1014=1011
+1017=1018
+1010=983
+1010=1007
+1010=987
+505=538
+500=529
+370=329
+388=399
+505=515
+467=578
+963=955
+999=1005
+984=956
+984=967
+1003=1002
+958=874
+522=515
+249=219
+253=225
+329=370
+423=431
+509=550
+922=942
+736=740
+529=500
+575=539
+925=916
+610=578
+22=12
+219=249
+379=440
+399=388
+137=225
+50=6
+740=736
+604=578
+521=510
+470=467
+740=942
+740=841}
 
 culture_group_spread = {
 	factor = 100
 	modifier = {
 		factor = 10
-		num_culture_provinces < 10
-	}
+			num_culture_provinces < 20	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 15
-	}
+			num_culture_provinces > 30	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 20
-	}
+			num_culture_provinces > 40	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 25
-	}
+			num_culture_provinces > 50	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 30
-	}
+			num_culture_provinces > 60	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 35
-	}
+			num_culture_provinces > 70	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 40
-	}
+			num_culture_provinces > 80	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 45
-	}
+			num_culture_provinces > 90	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 50
-	}
+			num_culture_provinces > 100	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 55
+			num_culture_provinces > 110	}
+	modifier = {
+		factor = 8
+		culture_group = altaic
+		NOT = {
+			has_alternate_start_setting = {
+				setting = culture
+				option = full_random
+			}
+		}
 	}
-	#TODO: Add culture_group specific modifiers here
+	modifier = {
+		factor = 0.05
+		culture_group = chinese_group
+		NOT = {
+			has_alternate_start_setting = {
+				setting = culture
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 3
+		culture_group = latin
+		year = 1000
+		NOT = {
+			has_alternate_start_setting = {
+				setting = culture
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 1.5
+		OR = {
+			culture_group = byzantine
+			culture_group = celtic
+			culture_group = baltic
+			culture_group = arabic
+			culture_group = dravidian_group
+		}
+		NOT = {
+			has_alternate_start_setting = {
+				setting = culture
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 3
+		OR = {
+			culture_group = byzantine
+			culture_group = finno_ugric
+			culture_group = iranian
+			culture_group = indo_aryan_group
+		}
+		NOT = {
+			has_alternate_start_setting = {
+				setting = culture
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 0.5
+		OR = {
+			province = 31
+			province = 103
+			province = 73
+			province = 74
+		}
+		FROM = {
+			OR = {
+				province = 31
+				province = 103
+				province = 73
+				province = 74
+			}
+		}
+	}
+	modifier = {
+		factor = 14
+		OR = {
+			culture_group = horse_group
+			culture_group = cat_group
+			culture_group = bear_group
+			culture_group = hedgehog_group
+			culture_group = duck_group
+			culture_group = dog_group
+			culture_group = dragon_group
+			culture_group = elephant_group
+			culture_group = panda_group
+		}
+		has_alternate_start_parameter = {
+			key = special_culture
+			value = animal_kingdoms
+		}
+	}
+	modifier = {
+		factor = 0.5
+		NOR = {
+			culture_group = horse_group
+			culture_group = cat_group
+			culture_group = bear_group
+			culture_group = hedgehog_group
+			culture_group = duck_group
+			culture_group = dog_group
+			culture_group = dragon_group
+			culture_group = elephant_group
+			culture_group = panda_group
+		}
+		has_alternate_start_parameter = {
+			key = special_culture
+			value = animal_kingdoms
+		}
+	}
 }
 
 culture_spread = {
 	factor = 100
 	modifier = {
 		factor = 10
-		num_culture_provinces < 3
-	}
+			num_culture_provinces < 3	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 5
-	}
+			num_culture_provinces > 5	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 10
-	}
+			num_culture_provinces > 10	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 15
-	}
+			num_culture_provinces > 15	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 20
-	}
+			num_culture_provinces > 20	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 25
-	}
+			num_culture_provinces > 25	}
 	modifier = {
 		factor = 0.8
-		num_culture_provinces > 30
+			num_culture_provinces > 30	}
+	modifier = {
+		factor = 0.1
+		culture = crimean_gothic
+		NOT = {
+			has_alternate_start_setting = {
+				setting = culture
+				option = full_random
+			}
+		}
 	}
-	#TODO: Add culture specific modifiers here
+	modifier = {
+		factor = 0.3
+		culture = dalmatian
+		NOT = {
+			has_alternate_start_setting = {
+				setting = culture
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 0.3
+		culture = khitan
+		NOT = {
+			has_alternate_start_setting = {
+				setting = culture
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 0.3
+		culture = norman
+		NOT = {
+			has_alternate_start_setting = {
+				setting = culture
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 0.6
+		culture = occitan
+		NOT = {
+			has_alternate_start_setting = {
+				setting = culture
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 0.05
+		OR = {
+			province = 31
+			province = 103
+			province = 73
+			province = 74
+		}
+		FROM = {
+			OR = {
+				province = 31
+				province = 103
+				province = 73
+				province = 74
+			}
+		}
+	}
 }
-
 
 religion_group_spawn = {
 	factor = 100
 	modifier = {
 		factor = 0.001
-		any_religion_distance < 420
-	}
+			any_religion_distance < 200	}
 	modifier = {
 		factor = 0.1
-		any_religion_distance < 735
-	}
-	modifier = { # Avoid starting on islands
-		factor = 0.1
+			any_religion_distance < 350	}
+	modifier = {
+		factor = 0
 		is_island = yes
+		NOT = {
+			region = world_europe_west_brittania
+		}
 	}
 }
 
@@ -166,133 +478,362 @@ religion_group_spread = {
 	factor = 100
 	modifier = {
 		factor = 10
-		num_religion_provinces < 10
-	}
+			num_religion_provinces < 5	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 15
-	}
+			num_religion_provinces > 20	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 20
-	}
+			num_religion_provinces > 40	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 25
-	}
+			num_religion_provinces > 60	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 30
-	}
+			num_religion_provinces > 80	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 35
-	}
+			num_religion_provinces > 100	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 40
-	}
+			num_religion_provinces > 120	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 45
-	}
+			num_religion_provinces > 140	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 50
-	}
+			num_religion_provinces > 160	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 55
+			num_religion_provinces > 180	}
+	modifier = {
+		factor = 0.035
+		religion_group = jewish_group
+		NOT = {
+			has_alternate_start_setting = {
+				setting = religion
+				option = full_random
+			}
+		}
 	}
-	#TODO: Add religion_group specific modifiers here
+	modifier = {
+		factor = 0.25
+		religion_group = zoroastrian_group
+		year = 1000
+		NOT = {
+			has_alternate_start_setting = {
+				setting = religion
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 5
+		religion_group = pagan_group
+		NOT = {
+			year = 1000
+		}
+		NOT = {
+			has_alternate_start_setting = {
+				setting = religion
+				option = full_random
+			}
+		}
+		NOT = {
+			has_alternate_start_setting = {
+				setting = random_scenario_more_pagans
+				option = checked
+			}
+		}
+	}
+	modifier = {
+		factor = 2.25
+		religion_group = muslim
+		NOT = {
+			has_alternate_start_setting = {
+				setting = religion
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 2.75
+		religion_group = christian
+		NOT = {
+			has_alternate_start_setting = {
+				setting = religion
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 1.75
+		religion_group = indian_group
+		NOT = {
+			has_alternate_start_setting = {
+				setting = religion
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 0.5
+		OR = {
+			province = 31
+			province = 103
+			province = 73
+			province = 74
+		}
+		FROM = {
+			OR = {
+				province = 31
+				province = 103
+				province = 73
+				province = 74
+			}
+		}
+	}
+	modifier = {
+		factor = 25
+		religion_group = pagan_group
+		has_alternate_start_setting = {
+			setting = random_scenario_more_pagans
+			option = checked
+		}
+	}
 }
 
 religion_spread = {
 	factor = 100
 	modifier = {
 		factor = 10
-		num_religion_provinces < 3
-	}
+			num_religion_provinces < 2	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 5
-	}
+			num_religion_provinces > 10	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 10
-	}
+			num_religion_provinces > 20	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 15
-	}
+			num_religion_provinces > 30	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 20
-	}
+			num_religion_provinces > 40	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 25
-	}
+			num_religion_provinces > 50	}
 	modifier = {
 		factor = 0.8
-		num_religion_provinces > 30
+			num_religion_provinces > 60	}
+	modifier = {
+		factor = 0.6
+		religion = jain
+		year = 1000
+		NOT = {
+			has_alternate_start_setting = {
+				setting = religion
+				option = full_random
+			}
+		}
 	}
-	#TODO: Add religion specific modifiers here
+	modifier = {
+		factor = 0.3
+		religion = shiite
+		NOT = {
+			has_alternate_start_setting = {
+				setting = religion
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 0.2
+		religion = ibadi
+		NOT = {
+			has_alternate_start_setting = {
+				setting = religion
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 0.65
+		religion = orthodox
+		NOT = {
+			has_alternate_start_setting = {
+				setting = religion
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 0.2
+		religion = miaphysite
+		NOT = {
+			has_alternate_start_setting = {
+				setting = religion
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 0.15
+		religion = nestorian
+		NOT = {
+			has_alternate_start_setting = {
+				setting = religion
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 0.05
+		religion = taoist
+		NOT = {
+			has_alternate_start_setting = {
+				setting = religion
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 0.2
+		religion = manichean
+		NOT = {
+			has_alternate_start_setting = {
+				setting = religion
+				option = full_random
+			}
+		}
+	}
+	modifier = {
+		factor = 0.2
+		religion = zun_pagan
+		NOT = {
+			has_alternate_start_setting = {
+				setting = religion
+				option = full_random
+			}
+		}
+		NOT = {
+			has_alternate_start_setting = {
+				setting = random_scenario_more_pagans
+				option = checked
+			}
+		}
+	}
+	modifier = {
+		factor = 0.5
+		religion = bon
+		NOT = {
+			has_alternate_start_setting = {
+				setting = religion
+				option = full_random
+			}
+		}
+		NOT = {
+			has_alternate_start_setting = {
+				setting = random_scenario_more_pagans
+				option = checked
+			}
+		}
+	}
+	modifier = {
+		factor = 0.05
+		OR = {
+			province = 31
+			province = 103
+			province = 73
+			province = 74
+		}
+		FROM = {
+			OR = {
+				province = 31
+				province = 103
+				province = 73
+				province = 74
+			}
+		}
+	}
 }
-
 
 dejure_kingdom_spread = {
 	factor = 100
 	modifier = {
-		factor = 10
-		distance = { where = FROM value < 100 }
+		factor = 5
+		distance = {
+			where = FROM
+			value < 100		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 200 }
+		distance = {
+			where = FROM
+			value > 200		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 300 }
+		distance = {
+			where = FROM
+			value > 300		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 400 }
+		distance = {
+			where = FROM
+			value > 400		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 500 }
+		distance = {
+			where = FROM
+			value > 500		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 600 }
+		distance = {
+			where = FROM
+			value > 600		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 700 }
+		distance = {
+			where = FROM
+			value > 700		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 800 }
+		distance = {
+			where = FROM
+			value > 800		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 900 }
+		distance = {
+			where = FROM
+			value > 900		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 1000 }
+		distance = {
+			where = FROM
+			value > 1000		}
 	}
-	modifier = { #Island kingdoms should stick to islands
+	modifier = {
 		factor = 0.01
 		OR = {
-			AND = {
-				is_island = yes
-				FROMFROM = { is_island = no }
-			AND = {
-			}
-				is_island = no
-				FROMFROM = { is_island = yes }
+			province = 31
+			province = 103
+			province = 73
+			province = 74
+		}
+		FROMFROM = {
+			OR = {
+				province = 31
+				province = 103
+				province = 73
+				province = 74
 			}
 		}
 	}
@@ -302,123 +843,190 @@ dejure_empire_spread = {
 	factor = 100
 	modifier = {
 		factor = 5
-		distance = { where = FROM value < 100 }
+		distance = {
+			where = FROM
+			value < 100		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 200 }
+		distance = {
+			where = FROM
+			value > 200		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 300 }
+		distance = {
+			where = FROM
+			value > 300		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 400 }
+		distance = {
+			where = FROM
+			value > 400		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 500 }
+		distance = {
+			where = FROM
+			value > 500		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 600 }
+		distance = {
+			where = FROM
+			value > 600		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 700 }
+		distance = {
+			where = FROM
+			value > 700		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 800 }
+		distance = {
+			where = FROM
+			value > 800		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 900 }
+		distance = {
+			where = FROM
+			value > 900		}
 	}
 	modifier = {
 		factor = 0.6
-		distance = { where = FROM value > 1000 }
+		distance = {
+			where = FROM
+			value > 1000		}
 	}
-	modifier = { #Island empires should stick to islands
-		factor = 0.01
+	modifier = {
+		factor = 0.1
 		OR = {
-			AND = {
-				is_island = yes
-				FROMFROM = { is_island = no }
-			AND = {
-			}
-				is_island = no
-				FROMFROM = { is_island = yes }
+			province = 31
+			province = 103
+			province = 73
+			province = 74
+		}
+		FROMFROM = {
+			OR = {
+				province = 31
+				province = 103
+				province = 73
+				province = 74
 			}
 		}
 	}
 }
 
-
 holy_site_spread = {
 	factor = 100
-	# We want three holy sites within the religion's borders, and two outside
 	modifier = {
 		factor = 0
-		NOT = { religion = FROM }
-		FROM = { num_holy_sites_generated < 1 }
+		NOT = {
+			religion = FROM
+		}
+		FROM = {
+			num_holy_sites_generated < 1		}
 	}
 	modifier = {
 		factor = 0.01
-		NOT = { religion = FROM }
-		NOT = { parent_religion = { religion = FROM } }
-		FROM = { num_holy_sites_generated < 3 }
+		NOT = {
+			religion = FROM
+		}
+		NOT = {
+			parent_religion = {
+				religion = FROM
+			}
+		}
+		FROM = {
+			num_holy_sites_generated < 3		}
 	}
 	modifier = {
 		factor = 0.001
-		NOT = { religion_group = FROM }
-		FROM = { num_holy_sites_generated < 3 }
+		NOT = {
+			religion_group = FROM
+		}
+		FROM = {
+			num_holy_sites_generated < 3		}
 	}
 	modifier = {
 		factor = 0.001
+		FROM = {
+			num_holy_sites_generated >= 3
+		}
 		religion = FROM
-		FROM = { num_holy_sites_generated >= 3 }
 	}
-	# Stay near our borders
 	modifier = {
 		factor = 2
 		religion_group = FROM
 	}
-	# Avoid clustering
 	modifier = {
-		factor = 0 # We simply never want to be adjacent to a holy site
+		factor = 0
 		any_neighbor_province = {
 			is_holy_site = FROM
 		}
 	}
 	modifier = {
 		factor = 0
-		holy_site_distance = { target = FROM value < 210 }
+		holy_site_distance = {
+			target = FROM
+			value < 100		}
 	}
 	modifier = {
 		factor = 0.01
-		holy_site_distance = { target = FROM value < 420 }
+		holy_site_distance = {
+			target = FROM
+			value < 200		}
 	}
 	modifier = {
 		factor = 0.1
-		holy_site_distance = { target = FROM value < 630 }
+		holy_site_distance = {
+			target = FROM
+			value < 300		}
+		FROM = {
+			NOT = {
+				religion_group = pagan_group
+			}
+		}
 	}
 	modifier = {
 		factor = 20
-		holy_site_distance = { target = FROM value > 1050 }
+		holy_site_distance = {
+			target = FROM
+			value > 500		}
+		FROM = {
+			num_holy_sites_generated > 0		}
 	}
 	modifier = {
-		factor = 0 # We use this as a proxy for religion distance, because religion distance is expensive to calculate
-		NOT = { religion = FROM }
-		NAND = {
-			parent_religion = { religion = FROM }
-			FROM = { num_holy_sites_generated >= 3 } # Heresies can put their 3rd holy site in their parent religion
+		factor = 30
+		holy_site_distance = {
+			target = FROM
+			value < 350		}
+		FROM = {
+			religion_group = pagan_group
 		}
-		FROM = { num_holy_sites_generated > 0 }
-		holy_site_distance = { target = FROM value > 840 }
 	}
-	# Sharing some holy sites with parent religion is neat
+	modifier = {
+		factor = 0
+		NOT = {
+			religion = FROM
+		}
+		NAND = {
+			parent_religion = {
+				religion = FROM
+			}
+			FROM = {
+				num_holy_sites_generated >= 3
+			}
+		}
+		FROM = {
+			num_holy_sites_generated > 0		}
+		holy_site_distance = {
+			target = FROM
+			value > 400		}
+	}
 	modifier = {
 		factor = 100
 		FROM = {
@@ -431,7 +1039,24 @@ holy_site_spread = {
 	}
 }
 
-
 holding_spread = {
 	factor = 100
+	modifier = {
+		factor = 0.1
+		OR = {
+			province = 31
+			province = 103
+			province = 73
+			province = 74
+		}
+		FROMFROM = {
+			OR = {
+				province = 31
+				province = 103
+				province = 73
+				province = 74
+			}
+		}
+	}
 }
+

@@ -1,0 +1,5 @@
+	title = c_narert
+	max_settlements = 2
+	culture = songhay
+	religion = druze
+	b_reorize = tribal

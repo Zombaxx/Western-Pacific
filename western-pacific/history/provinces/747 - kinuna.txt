@@ -1,0 +1,5 @@
+	title = c_kinuna
+	max_settlements = 2
+	culture = kurdish
+	religion = bon
+	b_rageka = tribal

@@ -1,0 +1,5 @@
+	title = c_kekaria
+	max_settlements = 2
+	culture = portuguese
+	religion = samaritan
+	b_kida = tribal

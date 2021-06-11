@@ -1,0 +1,5 @@
+	title = c_dalogan
+	max_settlements = 2
+	culture = karluk
+	religion = lollard
+	b_amsian = tribal

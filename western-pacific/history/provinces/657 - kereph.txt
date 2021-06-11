@@ -1,0 +1,5 @@
+	title = c_kereph
+	max_settlements = 2
+	culture = arberian
+	religion = tengri_pagan_reformed
+	b_razein = tribal

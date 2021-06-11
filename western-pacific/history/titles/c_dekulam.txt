@@ -1,0 +1,64 @@
+758.2.1 = {
+	holder = 1000007
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000505
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_ranine
+}
+
+758.2.4 = {
+	holder = 1000506
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1000503
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+900.2.1 = {
+	holder = 1005913
+}
+
+923.2.1 = {
+	holder = 1006330
+}
+
+946.2.1 = {
+	holder = 1007035
+}
+
+966.2.1 = {
+	holder = 1007485
+}
+
+1002.2.1 = {
+	holder = 1007794
+}
+
+1033.2.1 = {
+	holder = 1008290
+}
+
+1034.2.1 = {
+	holder = 1008757
+}
+
+1036.2.1 = {
+	holder = 1008239
+}
+
+1041.2.1 = {
+	holder = 1008867
+}
+

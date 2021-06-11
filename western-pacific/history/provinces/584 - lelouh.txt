@@ -1,0 +1,5 @@
+	title = c_lelouh
+	max_settlements = 2
+	culture = nahuatl
+	religion = taoist
+	b_nusinluo = tribal

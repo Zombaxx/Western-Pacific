@@ -1,0 +1,5 @@
+	title = c_tamas
+	max_settlements = 2
+	culture = hungarian
+	religion = finnish_pagan
+	b_nogara = tribal

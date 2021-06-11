@@ -1,0 +1,5 @@
+	title = c_kobalim
+	max_settlements = 2
+	culture = italian
+	religion = ibadi
+	b_nintas = tribal

@@ -1,0 +1,5 @@
+	title = c_kumita
+	max_settlements = 2
+	culture = italian
+	religion = jain
+	b_kaleuta = tribal

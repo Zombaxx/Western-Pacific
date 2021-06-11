@@ -1,0 +1,5 @@
+	title = c_tobian
+	max_settlements = 2
+	culture = portuguese
+	religion = west_african_pagan
+	b_weloshi = tribal

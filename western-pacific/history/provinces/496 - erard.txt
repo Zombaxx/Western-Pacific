@@ -1,0 +1,5 @@
+	title = c_erard
+	max_settlements = 2
+	culture = kirghiz
+	religion = bon_reformed
+	b_quracob = tribal

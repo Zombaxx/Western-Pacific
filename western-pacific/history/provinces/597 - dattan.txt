@@ -1,0 +1,5 @@
+	title = c_dattan
+	max_settlements = 2
+	culture = khanty
+	religion = paulician
+	b_ajimulam = tribal

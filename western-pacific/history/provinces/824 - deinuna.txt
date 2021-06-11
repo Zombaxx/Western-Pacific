@@ -1,0 +1,5 @@
+	title = c_deinuna
+	max_settlements = 2
+	culture = catalan
+	religion = west_african_pagan
+	b_reraud = tribal

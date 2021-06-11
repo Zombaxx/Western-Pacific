@@ -1,0 +1,5 @@
+	title = c_ephata
+	max_settlements = 2
+	culture = hausa
+	religion = samaritan
+	b_ephtag = tribal

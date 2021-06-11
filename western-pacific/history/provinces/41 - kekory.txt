@@ -1,0 +1,5 @@
+	title = c_kekory
+	max_settlements = 2
+	culture = panjabi
+	religion = sunni
+	b_tohn = tribal

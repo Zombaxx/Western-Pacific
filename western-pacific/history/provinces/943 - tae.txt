@@ -1,0 +1,5 @@
+	title = c_tae
+	max_settlements = 2
+	culture = kanuri
+	religion = bon_reformed
+	b_reorani = tribal

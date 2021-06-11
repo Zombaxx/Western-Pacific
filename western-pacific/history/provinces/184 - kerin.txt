@@ -1,0 +1,5 @@
+	title = c_kerin
+	max_settlements = 2
+	culture = afghan
+	religion = samaritan
+	b_ekoakim = tribal

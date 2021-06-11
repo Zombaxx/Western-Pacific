@@ -1,0 +1,5 @@
+	title = c_wavong
+	max_settlements = 2
+	culture = hungarian
+	religion = pagan
+	b_teseas = tribal

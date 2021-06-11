@@ -1,0 +1,5 @@
+	title = c_ragou
+	max_settlements = 2
+	culture = danish
+	religion = baltic_pagan_reformed
+	b_rekaji = tribal

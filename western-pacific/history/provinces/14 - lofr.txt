@@ -1,0 +1,5 @@
+	title = c_lofr
+	max_settlements = 2
+	culture = komi
+	religion = norse_pagan_reformed
+	b_beised = tribal

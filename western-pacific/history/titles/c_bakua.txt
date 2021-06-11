@@ -1,0 +1,130 @@
+758.2.1 = {
+	holder = 1000013
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000712
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_kusunai
+}
+
+758.2.4 = {
+	holder = 1000711
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+767.2.1 = {
+	holder = 1000707
+}
+
+773.2.1 = {
+	holder = 1001822
+}
+
+794.2.1 = {
+	liege = d_basudis
+}
+
+794.2.2 = {
+	holder = 1003401
+}
+
+794.2.3 = {
+	liege = k_azunai
+}
+
+851.2.1 = {
+	liege = d_kusunai
+}
+
+851.2.2 = {
+	liege = d_tekashu
+}
+
+851.2.3 = {
+	liege = d_kekaji
+}
+
+851.2.4 = {
+	holder = 1004698
+}
+
+855.2.1 = {
+	holder = 1005618
+}
+
+890.2.1 = {
+	holder = 1005733
+}
+
+912.2.1 = {
+	liege = d_tekashu
+}
+
+912.2.2 = {
+	liege = d_kusunai
+}
+
+912.2.3 = {
+	liege = d_basudis
+}
+
+912.2.4 = {
+	holder = 1006772
+}
+
+958.2.1 = {
+	holder = 1006973
+}
+
+999.2.1 = {
+	holder = 1007780
+}
+
+1037.2.1 = {
+	holder = 1008254
+}
+
+1040.2.1 = {
+	liege = d_kusunai
+}
+
+1040.2.2 = {
+	liege = d_tekashu
+}
+
+1040.2.3 = {
+	liege = d_kekaji
+}
+
+1040.2.4 = {
+	holder = 1008846
+}
+
+1043.2.1 = {
+	holder = 1008901
+}
+
+1064.2.1 = {
+	liege = d_tekashu
+}
+
+1064.2.2 = {
+	liege = d_kusunai
+}
+
+1064.2.3 = {
+	liege = d_basudis
+}
+
+1064.2.4 = {
+	holder = 1008919
+}
+

@@ -1,0 +1,5 @@
+	title = c_kahra
+	max_settlements = 2
+	culture = sogdian
+	religion = iconoclast
+	b_reraad = tribal

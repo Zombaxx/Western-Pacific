@@ -1,0 +1,5 @@
+	title = c_kekida
+	max_settlements = 2
+	culture = saka
+	religion = interface_skin
+	b_qory = tribal

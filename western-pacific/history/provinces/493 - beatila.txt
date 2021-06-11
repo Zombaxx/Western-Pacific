@@ -1,0 +1,5 @@
+	title = c_beatila
+	max_settlements = 2
+	culture = bosnian
+	religion = taoist
+	b_ranafa = tribal

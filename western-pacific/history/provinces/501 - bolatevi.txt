@@ -1,0 +1,5 @@
+	title = c_bolatevi
+	max_settlements = 2
+	culture = ashkenazi
+	religion = pagan
+	b_qegavi = tribal

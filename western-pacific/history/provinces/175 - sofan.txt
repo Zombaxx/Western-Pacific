@@ -1,0 +1,5 @@
+	title = c_sofan
+	max_settlements = 2
+	culture = levantine_arabic
+	religion = slavic_pagan
+	b_rofyuva = tribal

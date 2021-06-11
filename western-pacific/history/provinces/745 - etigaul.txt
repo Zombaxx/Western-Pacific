@@ -1,0 +1,5 @@
+	title = c_etigaul
+	max_settlements = 2
+	culture = castillan
+	religion = samaritan
+	b_tezeorge = tribal

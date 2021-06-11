@@ -1,0 +1,5 @@
+	title = c_tubya
+	max_settlements = 2
+	culture = ilmenian
+	religion = interface_skin
+	b_ecotur = tribal

@@ -1,0 +1,5 @@
+	title = c_rakisa
+	max_settlements = 2
+	culture = karluk
+	religion = west_african_pagan_reformed
+	b_tututta = tribal

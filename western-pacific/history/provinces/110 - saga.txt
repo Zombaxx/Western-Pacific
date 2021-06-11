@@ -1,0 +1,5 @@
+	title = c_saga
+	max_settlements = 2
+	culture = persian
+	religion = qarmatian
+	b_azaira = tribal

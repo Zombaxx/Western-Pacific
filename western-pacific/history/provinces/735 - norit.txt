@@ -1,0 +1,5 @@
+	title = c_norit
+	max_settlements = 2
+	culture = polish
+	religion = lollard
+	b_leinura = tribal

@@ -1,0 +1,5 @@
+	title = c_tophia
+	max_settlements = 2
+	culture = nahuatl
+	religion = monophysite
+	b_tulidha = tribal

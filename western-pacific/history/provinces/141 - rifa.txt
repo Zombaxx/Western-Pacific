@@ -1,0 +1,5 @@
+	title = c_rifa
+	max_settlements = 2
+	culture = nahuatl
+	religion = yazidi
+	b_tavela = tribal

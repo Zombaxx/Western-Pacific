@@ -1,0 +1,5 @@
+	title = c_ryouz
+	max_settlements = 2
+	culture = scottish
+	religion = fraticelli
+	b_suhanca = tribal

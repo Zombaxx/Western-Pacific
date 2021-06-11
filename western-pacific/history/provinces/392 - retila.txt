@@ -1,0 +1,5 @@
+	title = c_retila
+	max_settlements = 2
+	culture = dalmatian
+	religion = monothelite
+	b_kadara = tribal

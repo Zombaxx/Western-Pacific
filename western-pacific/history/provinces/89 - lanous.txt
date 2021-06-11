@@ -1,0 +1,5 @@
+	title = c_lanous
+	max_settlements = 2
+	culture = bedouin_arabic
+	religion = nestorian
+	b_notyuva = tribal

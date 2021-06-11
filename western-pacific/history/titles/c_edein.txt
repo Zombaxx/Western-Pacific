@@ -1,0 +1,152 @@
+758.2.1 = {
+	holder = 1000001
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000145
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_lamahra
+}
+
+758.2.4 = {
+	holder = 1000146
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1000143
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+796.2.1 = {
+	holder = 1002649
+}
+
+797.2.1 = {
+	holder = 1000128
+}
+
+820.2.1 = {
+	holder = 1003580
+}
+
+835.2.1 = {
+	holder = 1004768
+}
+
+854.2.1 = {
+	holder = 1005236
+}
+
+912.2.1 = {
+	holder = 1005636
+}
+
+914.2.1 = {
+	holder = 1006198
+}
+
+941.2.1 = {
+	liege = d_qunoor
+}
+
+941.2.2 = {
+	liege = d_sadonas
+}
+
+941.2.3 = {
+	liege = d_rinnani
+}
+
+941.2.4 = {
+	liege = d_redeph
+}
+
+941.2.5 = {
+	holder = 1006542
+}
+
+968.2.1 = {
+	liege = d_rinnani
+}
+
+968.2.2 = {
+	liege = d_sadonas
+}
+
+968.2.3 = {
+	liege = d_qunoor
+}
+
+968.2.4 = {
+	holder = 1006311
+}
+
+971.2.1 = {
+	holder = 1007778
+}
+
+974.2.1 = {
+	holder = 1007838
+}
+
+1008.2.1 = {
+	holder = 1007941
+}
+
+1032.2.1 = {
+	liege = d_sadonas
+}
+
+1032.2.2 = {
+	liege = d_rinnani
+}
+
+1032.2.3 = {
+	liege = d_redeph
+}
+
+1032.2.4 = {
+	holder = 1008419
+}
+
+1042.2.1 = {
+	liege = d_rinnani
+}
+
+1042.2.2 = {
+	liege = d_sadonas
+}
+
+1042.2.3 = {
+	liege = d_qunoor
+}
+
+1042.2.4 = {
+	holder = 1008732
+}
+
+1062.2.1 = {
+	liege = d_sadonas
+}
+
+1062.2.2 = {
+	liege = d_rinnani
+}
+
+1062.2.3 = {
+	liege = d_redeph
+}
+
+1062.2.4 = {
+	holder = 1008985
+}
+

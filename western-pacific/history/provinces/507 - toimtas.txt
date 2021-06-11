@@ -1,0 +1,5 @@
+	title = c_toimtas
+	max_settlements = 2
+	culture = sumpa
+	religion = norse_pagan
+	b_rabonas = tribal

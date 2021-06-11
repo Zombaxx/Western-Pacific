@@ -1,0 +1,5 @@
+	title = c_eraising
+	max_settlements = 2
+	culture = serbian
+	religion = karaite
+	b_qering = tribal

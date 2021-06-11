@@ -1,0 +1,174 @@
+758.2.1 = {
+	holder = 1000030
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000031
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	holder = 1000913
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.4 = {
+	liege = d_notan
+}
+
+758.2.5 = {
+	holder = 1000914
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.6 = {
+	holder = 1000911
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+762.2.1 = {
+	holder = 1001536
+}
+
+782.2.1 = {
+	liege = d_awinicha
+}
+
+782.2.2 = {
+	holder = 1002937
+}
+
+785.2.1 = {
+	liege = d_tolous
+}
+
+785.2.2 = {
+	holder = 1003462
+}
+
+785.2.3 = {
+	liege = k_tichay
+}
+
+792.2.1 = {
+	liege = d_notan
+}
+
+792.2.2 = {
+	liege = d_awinicha
+}
+
+792.2.3 = {
+	liege = d_tolous
+}
+
+792.2.4 = {
+	holder = 1003719
+}
+
+792.2.5 = {
+	liege = k_tichay
+}
+
+795.2.1 = {
+	liege = d_notan
+}
+
+795.2.2 = {
+	liege = d_awinicha
+}
+
+795.2.3 = {
+	liege = d_tolous
+}
+
+795.2.4 = {
+	holder = 1003829
+}
+
+795.2.5 = {
+	liege = k_tichay
+}
+
+796.2.1 = {
+	liege = d_notan
+}
+
+796.2.2 = {
+	liege = d_awinicha
+}
+
+796.2.3 = {
+	liege = d_tolous
+}
+
+796.2.4 = {
+	holder = 1003874
+}
+
+796.2.5 = {
+	liege = k_tichay
+}
+
+835.2.1 = {
+	liege = d_botobbo
+}
+
+835.2.2 = {
+	liege = d_notan
+}
+
+835.2.3 = {
+	liege = d_awinicha
+}
+
+835.2.4 = {
+	liege = d_tolous
+}
+
+835.2.5 = {
+	holder = 1004092
+}
+
+870.2.1 = {
+	holder = 1005188
+}
+
+872.2.1 = {
+	holder = 1005970
+}
+
+934.2.1 = {
+	holder = 1006547
+}
+
+950.2.1 = {
+	holder = 1007203
+}
+
+981.2.1 = {
+	holder = 1007530
+}
+
+996.2.1 = {
+	holder = 1008072
+}
+
+1000.2.1 = {
+	holder = 1008243
+}
+
+1010.2.1 = {
+	holder = 1008349
+}
+
+1064.2.1 = {
+	holder = 1008988
+}
+

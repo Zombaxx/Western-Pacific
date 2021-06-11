@@ -1,0 +1,5 @@
+	title = c_atimaret
+	max_settlements = 2
+	culture = ilmenian
+	religion = shiite
+	b_ligert = tribal

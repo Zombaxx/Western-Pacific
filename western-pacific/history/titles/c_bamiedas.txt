@@ -1,0 +1,182 @@
+758.2.1 = {
+	holder = 1000006
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000457
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_salekdas
+}
+
+758.2.4 = {
+	holder = 1000456
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+773.2.1 = {
+	liege = d_reconas
+}
+
+773.2.2 = {
+	holder = 1002110
+}
+
+773.2.3 = {
+	liege = d_salekdas
+}
+
+791.2.1 = {
+	liege = d_bonas
+}
+
+791.2.2 = {
+	holder = 1002659
+}
+
+791.2.3 = {
+	liege = k_kyasaud
+}
+
+824.2.1 = {
+	liege = d_reconas
+}
+
+824.2.2 = {
+	liege = d_salekdas
+}
+
+824.2.3 = {
+	liege = d_bonas
+}
+
+824.2.4 = {
+	holder = 1003443
+}
+
+837.2.1 = {
+	holder = 1004900
+}
+
+842.2.1 = {
+	liege = d_salekdas
+}
+
+842.2.2 = {
+	liege = d_reconas
+}
+
+842.2.3 = {
+	liege = d_kulam
+}
+
+842.2.4 = {
+	holder = 1004964
+}
+
+846.2.1 = {
+	holder = 1005397
+}
+
+848.2.1 = {
+	holder = 1005441
+}
+
+855.2.1 = {
+	holder = 1005615
+}
+
+890.2.1 = {
+	holder = 1005953
+}
+
+899.2.1 = {
+	holder = 1006518
+}
+
+906.2.1 = {
+	liege = d_reconas
+}
+
+906.2.2 = {
+	liege = d_salekdas
+}
+
+906.2.3 = {
+	liege = d_bonas
+}
+
+906.2.4 = {
+	holder = 1006591
+}
+
+912.2.1 = {
+	holder = 1006770
+}
+
+931.2.1 = {
+	liege = d_salekdas
+}
+
+931.2.2 = {
+	liege = d_reconas
+}
+
+931.2.3 = {
+	liege = d_kulam
+}
+
+931.2.4 = {
+	holder = 1006853
+}
+
+934.2.1 = {
+	holder = 1007157
+}
+
+956.2.1 = {
+	liege = d_reconas
+}
+
+956.2.2 = {
+	liege = d_salekdas
+}
+
+956.2.3 = {
+	liege = d_bonas
+}
+
+956.2.4 = {
+	holder = 1007257
+}
+
+1003.2.1 = {
+	liege = d_salekdas
+}
+
+1003.2.2 = {
+	liege = d_reconas
+}
+
+1003.2.3 = {
+	liege = d_kulam
+}
+
+1003.2.4 = {
+	holder = 1007631
+}
+
+1018.2.1 = {
+	holder = 1008509
+}
+
+1056.2.1 = {
+	holder = 1008576
+}
+

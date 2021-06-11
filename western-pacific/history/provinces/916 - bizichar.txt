@@ -1,0 +1,5 @@
+	title = c_bizichar
+	max_settlements = 2
+	culture = hindustani
+	religion = aztec
+	b_tagushu = tribal

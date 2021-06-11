@@ -1,0 +1,5 @@
+	title = c_bous
+	max_settlements = 2
+	culture = german
+	religion = sunni
+	b_salekavi = tribal

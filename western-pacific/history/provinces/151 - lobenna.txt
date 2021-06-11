@@ -1,0 +1,5 @@
+	title = c_lobenna
+	max_settlements = 2
+	culture = gujurati
+	religion = buddhist
+	b_roboid = tribal

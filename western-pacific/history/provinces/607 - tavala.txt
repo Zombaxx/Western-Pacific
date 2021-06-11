@@ -1,0 +1,5 @@
+	title = c_tavala
+	max_settlements = 2
+	culture = khanty
+	religion = bon_reformed
+	b_egiemala = tribal

@@ -1,0 +1,5 @@
+	title = c_talick
+	max_settlements = 2
+	culture = ethiopian
+	religion = zikri
+	b_lolirma = tribal

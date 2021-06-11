@@ -1,0 +1,5 @@
+	title = c_bogarid
+	max_settlements = 2
+	culture = catalan
+	religion = slavic_pagan_reformed
+	b_tererek = tribal

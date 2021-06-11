@@ -1,0 +1,5 @@
+	title = c_tukaaq
+	max_settlements = 2
+	culture = songhay
+	religion = kharijite
+	b_acyeh = tribal

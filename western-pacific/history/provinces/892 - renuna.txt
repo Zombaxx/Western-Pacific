@@ -1,0 +1,5 @@
+	title = c_renuna
+	max_settlements = 2
+	culture = mordvin
+	religion = iconoclast
+	b_karoa = tribal

@@ -1,0 +1,5 @@
+	title = c_kanan
+	max_settlements = 2
+	culture = bolghar
+	religion = finnish_pagan
+	b_wanyuva = tribal

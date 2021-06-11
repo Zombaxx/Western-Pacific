@@ -1,0 +1,5 @@
+	title = c_latur
+	max_settlements = 2
+	culture = severian
+	religion = aztec
+	b_esofann = tribal

@@ -1,0 +1,5 @@
+	title = c_aleth
+	max_settlements = 2
+	culture = visigothic
+	religion = baltic_pagan
+	b_qikiel = tribal

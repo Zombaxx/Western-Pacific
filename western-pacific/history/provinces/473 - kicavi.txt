@@ -1,0 +1,5 @@
+	title = c_kicavi
+	max_settlements = 2
+	culture = maghreb_arabic
+	religion = bogomilist
+	b_wolulam = tribal

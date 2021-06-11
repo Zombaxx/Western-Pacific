@@ -1,0 +1,5 @@
+	title = c_relupo
+	max_settlements = 2
+	culture = crimean_gothic
+	religion = bon
+	b_kilous = tribal

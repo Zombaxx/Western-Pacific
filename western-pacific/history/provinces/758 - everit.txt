@@ -1,0 +1,5 @@
+	title = c_everit
+	max_settlements = 2
+	culture = volhynian
+	religion = aztec_reformed
+	b_talita = tribal

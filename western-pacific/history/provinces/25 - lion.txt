@@ -1,0 +1,5 @@
+	title = c_lion
+	max_settlements = 2
+	culture = mongol
+	religion = waldensian
+	b_nehida = tribal

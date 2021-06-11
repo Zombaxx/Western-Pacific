@@ -1,0 +1,132 @@
+758.2.1 = {
+	holder = 1000055
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000056
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	holder = 1001457
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+758.2.4 = {
+	liege = d_qomez
+}
+
+758.2.5 = {
+	holder = 1001456
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+799.2.1 = {
+	holder = 1002338
+}
+
+820.2.1 = {
+	holder = 1004175
+}
+
+836.2.1 = {
+	holder = 1004864
+}
+
+852.2.1 = {
+	liege = d_sucho
+}
+
+852.2.2 = {
+	holder = 1005317
+}
+
+852.2.3 = {
+	liege = d_qomez
+}
+
+860.2.1 = {
+	holder = 1004034
+}
+
+887.2.1 = {
+	holder = 1004732
+}
+
+893.2.1 = {
+	holder = 1006417
+}
+
+941.2.1 = {
+	liege = d_sucho
+}
+
+941.2.2 = {
+	liege = d_nirek
+}
+
+941.2.3 = {
+	holder = 1006438
+}
+
+945.2.1 = {
+	holder = 1007316
+}
+
+973.2.1 = {
+	liege = d_sucho
+}
+
+973.2.2 = {
+	liege = d_qomez
+}
+
+973.2.3 = {
+	holder = 1007754
+}
+
+981.2.1 = {
+	liege = d_sucho
+}
+
+981.2.2 = {
+	liege = d_nirek
+}
+
+981.2.3 = {
+	holder = 1007955
+}
+
+1019.2.1 = {
+	liege = d_sucho
+}
+
+1019.2.2 = {
+	liege = d_qomez
+}
+
+1019.2.3 = {
+	holder = 1007341
+}
+
+1026.2.1 = {
+	liege = d_sucho
+}
+
+1026.2.2 = {
+	liege = d_nirek
+}
+
+1026.2.3 = {
+	holder = 1008621
+}
+
+1035.2.1 = {
+	holder = 1008779
+}
+

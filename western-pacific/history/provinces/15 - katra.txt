@@ -1,0 +1,5 @@
+	title = c_katra
+	max_settlements = 2
+	culture = basque
+	religion = slavic_pagan_reformed
+	b_banaga = tribal

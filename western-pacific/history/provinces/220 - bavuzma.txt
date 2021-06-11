@@ -1,0 +1,5 @@
+	title = c_bavuzma
+	max_settlements = 2
+	culture = castillan
+	religion = monophysite
+	b_ramela = tribal

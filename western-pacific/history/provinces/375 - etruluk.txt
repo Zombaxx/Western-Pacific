@@ -1,0 +1,5 @@
+	title = c_etruluk
+	max_settlements = 2
+	culture = alan
+	religion = norse_pagan
+	b_wamutas = tribal

@@ -1,0 +1,5 @@
+	title = c_belohn
+	max_settlements = 2
+	culture = assyrian
+	religion = slavic_pagan
+	b_ahjuna = tribal

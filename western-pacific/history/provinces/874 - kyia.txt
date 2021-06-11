@@ -1,0 +1,5 @@
+	title = c_kyia
+	max_settlements = 2
+	culture = gujurati
+	religion = interface_skin
+	b_teth = tribal

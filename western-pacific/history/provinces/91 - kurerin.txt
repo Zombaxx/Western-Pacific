@@ -1,0 +1,5 @@
+	title = c_kurerin
+	max_settlements = 2
+	culture = mordvin
+	religion = jewish
+	b_nayla = tribal

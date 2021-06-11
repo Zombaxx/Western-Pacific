@@ -1,0 +1,5 @@
+	title = c_qisafur
+	max_settlements = 2
+	culture = ashkenazi
+	religion = catholic
+	b_royazhi = tribal

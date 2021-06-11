@@ -1,0 +1,5 @@
+	title = c_timaud
+	max_settlements = 2
+	culture = sogdian
+	religion = karaite
+	b_roimaya = tribal

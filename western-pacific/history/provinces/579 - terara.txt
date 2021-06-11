@@ -1,0 +1,5 @@
+	title = c_terara
+	max_settlements = 2
+	culture = outremer
+	religion = west_african_pagan
+	b_afira = tribal

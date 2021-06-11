@@ -1,0 +1,5 @@
+	title = c_bedanca
+	max_settlements = 2
+	culture = khitan
+	religion = tengri_pagan
+	b_tedouz = tribal

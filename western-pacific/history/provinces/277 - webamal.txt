@@ -1,0 +1,5 @@
+	title = c_webamal
+	max_settlements = 2
+	culture = alan
+	religion = pagan
+	b_nyigka = tribal

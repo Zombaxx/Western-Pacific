@@ -1,0 +1,5 @@
+	title = c_tatupo
+	max_settlements = 2
+	culture = crimean_gothic
+	religion = karaite
+	b_raleusz = tribal

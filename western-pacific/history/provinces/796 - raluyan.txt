@@ -1,0 +1,5 @@
+	title = c_raluyan
+	max_settlements = 2
+	culture = tangut
+	religion = zun_pagan_reformed
+	b_raresind = tribal

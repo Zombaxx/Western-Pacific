@@ -1,0 +1,5 @@
+	title = c_lucert
+	max_settlements = 2
+	culture = tocharian
+	religion = cathar
+	b_syunekel = tribal

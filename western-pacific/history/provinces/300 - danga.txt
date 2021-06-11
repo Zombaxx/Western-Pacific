@@ -1,0 +1,5 @@
+	title = c_danga
+	max_settlements = 2
+	culture = zhangzhung
+	religion = bon_reformed
+	b_ahvinga = tribal

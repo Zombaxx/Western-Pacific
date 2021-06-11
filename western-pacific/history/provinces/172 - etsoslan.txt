@@ -1,0 +1,5 @@
+	title = c_etsoslan
+	max_settlements = 2
+	culture = nahuatl
+	religion = interface_skin
+	b_dohim = tribal

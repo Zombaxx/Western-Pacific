@@ -1,0 +1,5 @@
+	title = c_lumayita
+	max_settlements = 2
+	culture = hungarian
+	religion = tengri_pagan_reformed
+	b_qiel = tribal

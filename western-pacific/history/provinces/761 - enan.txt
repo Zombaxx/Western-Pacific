@@ -1,0 +1,5 @@
+	title = c_enan
+	max_settlements = 2
+	culture = khazar
+	religion = buddhist
+	b_qeorine = tribal

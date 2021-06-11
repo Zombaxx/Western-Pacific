@@ -1,0 +1,5 @@
+	title = c_tuhas
+	max_settlements = 2
+	culture = levantine_arabic
+	religion = interface_skin
+	b_apoyaen = tribal

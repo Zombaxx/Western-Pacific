@@ -1,0 +1,5 @@
+	title = c_bamiedas
+	max_settlements = 2
+	culture = dutch
+	religion = shiite
+	b_qitram = tribal

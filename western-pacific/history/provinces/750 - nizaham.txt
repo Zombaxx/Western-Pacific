@@ -1,0 +1,5 @@
+	title = c_nizaham
+	max_settlements = 2
+	culture = khitan
+	religion = finnish_pagan
+	b_resouh = tribal

@@ -1,0 +1,5 @@
+	title = c_rinoa
+	max_settlements = 2
+	culture = old_saxon
+	religion = pagan
+	b_sanita = tribal

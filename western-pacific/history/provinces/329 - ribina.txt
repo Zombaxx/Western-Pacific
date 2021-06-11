@@ -1,0 +1,5 @@
+	title = c_ribina
+	max_settlements = 2
+	culture = serbian
+	religion = khurmazta
+	b_eguinse = tribal

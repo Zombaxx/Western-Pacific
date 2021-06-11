@@ -1,0 +1,5 @@
+	title = c_wira
+	max_settlements = 2
+	culture = nepali
+	religion = samaritan
+	b_rifeth = tribal

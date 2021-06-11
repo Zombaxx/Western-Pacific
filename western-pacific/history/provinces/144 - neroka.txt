@@ -1,0 +1,5 @@
+	title = c_neroka
+	max_settlements = 2
+	culture = telugu
+	religion = hellenic_pagan_reformed
+	b_savoka = tribal

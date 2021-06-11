@@ -1,0 +1,5 @@
+	title = c_nyuvila
+	max_settlements = 2
+	culture = ilmenian
+	religion = bon_reformed
+	b_duasz = tribal

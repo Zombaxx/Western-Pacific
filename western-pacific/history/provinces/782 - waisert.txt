@@ -1,0 +1,5 @@
+	title = c_waisert
+	max_settlements = 2
+	culture = greek
+	religion = bon_reformed
+	b_syunaret = tribal

@@ -1,0 +1,5 @@
+	title = c_korinor
+	max_settlements = 2
+	culture = bosnian
+	religion = monothelite
+	b_nalura = tribal

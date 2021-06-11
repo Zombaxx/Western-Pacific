@@ -1,0 +1,5 @@
+	title = c_natkim
+	max_settlements = 2
+	culture = bolghar
+	religion = fraticelli
+	b_ropya = tribal

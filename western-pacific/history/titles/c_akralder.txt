@@ -1,0 +1,128 @@
+758.2.1 = {
+	holder = 1000032
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1001018
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_layla
+}
+
+758.2.4 = {
+	holder = 1001019
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1001016
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+785.2.1 = {
+	holder = 1000989
+}
+
+786.2.1 = {
+	holder = 1003198
+}
+
+814.2.1 = {
+	holder = 1003783
+}
+
+825.2.1 = {
+	holder = 1004562
+}
+
+835.2.1 = {
+	holder = 1003283
+}
+
+848.2.1 = {
+	liege = d_tunima
+}
+
+848.2.2 = {
+	holder = 1004907
+}
+
+877.2.1 = {
+	liege = d_layla
+}
+
+877.2.2 = {
+	holder = 1006089
+}
+
+889.2.1 = {
+	liege = d_tunima
+}
+
+889.2.2 = {
+	liege = d_apauling
+}
+
+889.2.3 = {
+	liege = d_rayban
+}
+
+889.2.4 = {
+	holder = 1004779
+}
+
+891.2.1 = {
+	holder = 1006371
+}
+
+942.2.1 = {
+	liege = d_apauling
+}
+
+942.2.2 = {
+	liege = d_tunima
+}
+
+942.2.3 = {
+	liege = d_layla
+}
+
+942.2.4 = {
+	holder = 1006752
+}
+
+979.2.1 = {
+	liege = d_tunima
+}
+
+979.2.2 = {
+	liege = d_apauling
+}
+
+979.2.3 = {
+	liege = d_rayban
+}
+
+979.2.4 = {
+	holder = 1007456
+}
+
+1001.2.1 = {
+	holder = 1008259
+}
+
+1050.2.1 = {
+	holder = 1008293
+}
+
+1054.2.1 = {
+	holder = 1009003
+}
+

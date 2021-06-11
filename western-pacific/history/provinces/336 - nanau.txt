@@ -1,0 +1,5 @@
+	title = c_nanau
+	max_settlements = 2
+	culture = basque
+	religion = paulician
+	b_beralim = tribal

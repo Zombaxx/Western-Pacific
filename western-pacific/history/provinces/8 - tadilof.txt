@@ -1,0 +1,5 @@
+	title = c_tadilof
+	max_settlements = 2
+	culture = hausa
+	religion = norse_pagan_reformed
+	b_baideph = tribal

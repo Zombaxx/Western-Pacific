@@ -1,0 +1,5 @@
+	title = c_riran
+	max_settlements = 2
+	culture = italian
+	religion = mazdaki
+	b_nuhunia = tribal

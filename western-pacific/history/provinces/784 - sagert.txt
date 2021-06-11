@@ -1,0 +1,5 @@
+	title = c_sagert
+	max_settlements = 2
+	culture = lombard
+	religion = zikri
+	b_enajekel = tribal

@@ -1,0 +1,5 @@
+	title = c_abegin
+	max_settlements = 2
+	culture = basque
+	religion = pagan
+	b_akelan = tribal

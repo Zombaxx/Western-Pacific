@@ -1,0 +1,5 @@
+	title = c_norann
+	max_settlements = 2
+	culture = serbian
+	religion = messalian
+	b_torita = tribal

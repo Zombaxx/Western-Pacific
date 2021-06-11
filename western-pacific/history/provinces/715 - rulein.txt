@@ -1,0 +1,5 @@
+	title = c_rulein
+	max_settlements = 2
+	culture = italian
+	religion = interface_skin
+	b_dagol = tribal

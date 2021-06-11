@@ -1,0 +1,5 @@
+	title = c_kyema
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = yazidi
+	b_wenua = tribal

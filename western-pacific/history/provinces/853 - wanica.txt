@@ -1,0 +1,5 @@
+	title = c_wanica
+	max_settlements = 2
+	culture = finnish
+	religion = messalian
+	b_tajekel = tribal

@@ -1,0 +1,5 @@
+	title = c_enamatra
+	max_settlements = 2
+	culture = meshchera
+	religion = iconoclast
+	b_witya = tribal

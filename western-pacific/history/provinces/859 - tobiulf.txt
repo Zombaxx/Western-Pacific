@@ -1,0 +1,5 @@
+	title = c_tobiulf
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = interface_skin
+	b_acekarou = tribal

@@ -1,0 +1,5 @@
+	title = c_raleer
+	max_settlements = 2
+	culture = rajput
+	religion = hellenic_pagan
+	b_qiruna = tribal

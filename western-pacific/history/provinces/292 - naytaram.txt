@@ -1,0 +1,5 @@
+	title = c_naytaram
+	max_settlements = 2
+	culture = russian
+	religion = baltic_pagan
+	b_alouune = tribal

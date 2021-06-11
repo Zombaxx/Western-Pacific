@@ -1,0 +1,5 @@
+	title = c_qasara
+	max_settlements = 2
+	culture = welsh
+	religion = sunni
+	b_amangir = tribal

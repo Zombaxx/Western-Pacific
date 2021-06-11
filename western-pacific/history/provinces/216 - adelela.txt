@@ -1,0 +1,5 @@
+	title = c_adelela
+	max_settlements = 2
+	culture = tocharian
+	religion = interface_skin
+	b_tuduna = tribal

@@ -1,0 +1,5 @@
+	title = c_kotegen
+	max_settlements = 2
+	culture = polish
+	religion = jewish
+	b_roanaka = tribal

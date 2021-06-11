@@ -1,0 +1,120 @@
+758.2.1 = {
+	holder = 1000050
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1001241
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_nalim
+}
+
+758.2.4 = {
+	holder = 1001242
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1001239
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+782.2.1 = {
+	holder = 1002484
+}
+
+795.2.1 = {
+	holder = 1003376
+}
+
+833.2.1 = {
+	holder = 1004095
+}
+
+864.2.1 = {
+	holder = 1005224
+}
+
+884.2.1 = {
+	holder = 1005907
+}
+
+931.2.1 = {
+	holder = 1006342
+}
+
+946.2.1 = {
+	holder = 1007114
+}
+
+1010.2.1 = {
+	holder = 1007507
+}
+
+1024.2.1 = {
+	holder = 1008404
+}
+
+1032.2.1 = {
+	holder = 1008425
+}
+
+1044.2.1 = {
+	liege = d_epaveva
+}
+
+1044.2.2 = {
+	liege = d_kamuslan
+}
+
+1044.2.3 = {
+	liege = d_kajeva
+}
+
+1044.2.4 = {
+	liege = d_baverdi
+}
+
+1044.2.5 = {
+	liege = d_kereva
+}
+
+1044.2.6 = {
+	liege = d_tikabahu
+}
+
+1044.2.7 = {
+	liege = d_kaverdi
+}
+
+1044.2.8 = {
+	liege = d_kaguin
+}
+
+1044.2.9 = {
+	liege = d_kaline
+}
+
+1044.2.10 = {
+	holder = 1008788
+}
+
+1065.2.1 = {
+	liege = d_kaguin
+}
+
+1065.2.2 = {
+	liege = d_kaverdi
+}
+
+1065.2.3 = {
+	holder = 1009231
+}
+

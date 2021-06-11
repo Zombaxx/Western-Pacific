@@ -1,0 +1,5 @@
+	title = c_sous
+	max_settlements = 2
+	culture = visigothic
+	religion = manichean
+	b_qaran = tribal

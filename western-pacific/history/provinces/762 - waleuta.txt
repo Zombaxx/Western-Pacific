@@ -1,0 +1,5 @@
+	title = c_waleuta
+	max_settlements = 2
+	culture = oriya
+	religion = hellenic_pagan_reformed
+	b_ayi = tribal

@@ -1,0 +1,5 @@
+	title = c_reuba
+	max_settlements = 2
+	culture = sindhi
+	religion = jain
+	b_nuoxun = tribal

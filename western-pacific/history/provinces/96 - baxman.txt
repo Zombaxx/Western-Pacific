@@ -1,0 +1,5 @@
+	title = c_baxman
+	max_settlements = 2
+	culture = hungarian
+	religion = bon_reformed
+	b_tekann = tribal

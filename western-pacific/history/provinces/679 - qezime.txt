@@ -1,0 +1,5 @@
+	title = c_qezime
+	max_settlements = 2
+	culture = scottish
+	religion = orthodox
+	b_kajumna = tribal

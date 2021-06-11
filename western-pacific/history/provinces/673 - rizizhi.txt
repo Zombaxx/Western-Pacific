@@ -1,0 +1,5 @@
+	title = c_rizizhi
+	max_settlements = 2
+	culture = norwegian
+	religion = pagan
+	b_tishan = tribal

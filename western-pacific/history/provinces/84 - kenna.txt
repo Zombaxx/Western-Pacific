@@ -1,0 +1,5 @@
+	title = c_kenna
+	max_settlements = 2
+	culture = basque
+	religion = karaite
+	b_wienna = tribal

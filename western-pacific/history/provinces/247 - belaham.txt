@@ -1,0 +1,5 @@
+	title = c_belaham
+	max_settlements = 2
+	culture = egyptian_arabic
+	religion = miaphysite
+	b_esya = tribal

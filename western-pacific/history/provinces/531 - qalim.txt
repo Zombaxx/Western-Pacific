@@ -1,0 +1,5 @@
+	title = c_qalim
+	max_settlements = 2
+	culture = marathi
+	religion = taoist
+	b_raisaya = tribal

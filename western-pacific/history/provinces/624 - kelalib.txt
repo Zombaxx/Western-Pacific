@@ -1,0 +1,5 @@
+	title = c_kelalib
+	max_settlements = 2
+	culture = sephardi
+	religion = aztec
+	b_riemayn = tribal

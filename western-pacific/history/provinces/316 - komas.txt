@@ -1,0 +1,5 @@
+	title = c_komas
+	max_settlements = 2
+	culture = khazar
+	religion = sunni
+	b_waruq = tribal

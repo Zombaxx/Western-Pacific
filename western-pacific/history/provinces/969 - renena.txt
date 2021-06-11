@@ -1,0 +1,5 @@
+	title = c_renena
+	max_settlements = 2
+	culture = severian
+	religion = shiite
+	b_akafisa = tribal

@@ -1,0 +1,5 @@
+	title = c_lemayn
+	max_settlements = 2
+	culture = zaghawa
+	religion = monophysite
+	b_tipaila = tribal

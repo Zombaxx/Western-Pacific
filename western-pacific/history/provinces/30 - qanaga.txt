@@ -1,0 +1,5 @@
+	title = c_qanaga
+	max_settlements = 2
+	culture = serbian
+	religion = qarmatian
+	b_qohn = tribal

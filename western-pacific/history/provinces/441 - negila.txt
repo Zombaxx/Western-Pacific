@@ -1,0 +1,5 @@
+	title = c_negila
+	max_settlements = 2
+	culture = daju
+	religion = bon
+	b_ezhali = tribal

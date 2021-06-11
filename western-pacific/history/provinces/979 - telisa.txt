@@ -1,0 +1,5 @@
+	title = c_telisa
+	max_settlements = 2
+	culture = roman
+	religion = orthodox
+	b_qilayor = tribal

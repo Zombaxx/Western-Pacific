@@ -1,0 +1,5 @@
+	title = c_terand
+	max_settlements = 2
+	culture = prussian
+	religion = cathar
+	b_walathi = tribal

@@ -1,0 +1,5 @@
+	title = c_ravohn
+	max_settlements = 2
+	culture = english
+	religion = aztec
+	b_waratas = tribal

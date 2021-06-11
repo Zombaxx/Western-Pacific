@@ -1,0 +1,5 @@
+	title = c_ranita
+	max_settlements = 2
+	culture = coptic
+	religion = interface_skin
+	b_eyeh = tribal

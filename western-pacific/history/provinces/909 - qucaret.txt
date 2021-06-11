@@ -1,0 +1,5 @@
+	title = c_qucaret
+	max_settlements = 2
+	culture = bosnian
+	religion = waldensian
+	b_dimize = tribal

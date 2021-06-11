@@ -1,0 +1,5 @@
+	title = c_liketh
+	max_settlements = 2
+	culture = baloch
+	religion = interface_skin
+	b_achiel = tribal

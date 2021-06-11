@@ -1,0 +1,5 @@
+	title = c_ezayn
+	max_settlements = 2
+	culture = uyghur
+	religion = norse_pagan
+	b_asamouh = tribal

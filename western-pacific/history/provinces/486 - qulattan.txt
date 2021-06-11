@@ -1,0 +1,5 @@
+	title = c_qulattan
+	max_settlements = 2
+	culture = alan
+	religion = druze
+	b_etiel = tribal

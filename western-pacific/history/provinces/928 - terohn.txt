@@ -1,0 +1,5 @@
+	title = c_terohn
+	max_settlements = 2
+	culture = lettigallish
+	religion = shiite
+	b_weneka = tribal

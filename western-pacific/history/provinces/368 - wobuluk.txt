@@ -1,0 +1,5 @@
+	title = c_wobuluk
+	max_settlements = 2
+	culture = bengali
+	religion = iconoclast
+	b_kawine = tribal

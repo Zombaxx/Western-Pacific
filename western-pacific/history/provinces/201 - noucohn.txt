@@ -1,0 +1,5 @@
+	title = c_noucohn
+	max_settlements = 2
+	culture = portuguese
+	religion = waldensian
+	b_atamba = tribal

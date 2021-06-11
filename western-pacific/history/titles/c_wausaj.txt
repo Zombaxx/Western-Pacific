@@ -1,0 +1,184 @@
+758.2.1 = {
+	holder = 1000041
+	law = succ_gavelkind
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000044
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	holder = 1001201
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.4 = {
+	liege = d_bouhi
+}
+
+758.2.5 = {
+	holder = 1001199
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+799.2.1 = {
+	holder = 1003788
+}
+
+811.2.1 = {
+	holder = 1002624
+}
+
+819.2.1 = {
+	holder = 1001899
+}
+
+825.2.1 = {
+	liege = d_tideuta
+}
+
+825.2.2 = {
+	liege = d_waraht
+}
+
+825.2.3 = {
+	holder = 1004370
+}
+
+825.2.4 = {
+	liege = k_darotan
+}
+
+827.2.1 = {
+	liege = d_tulida
+}
+
+827.2.2 = {
+	liege = d_bouhi
+}
+
+827.2.3 = {
+	liege = d_tideuta
+}
+
+827.2.4 = {
+	liege = d_waraht
+}
+
+827.2.5 = {
+	holder = 1002239
+}
+
+827.2.6 = {
+	liege = k_darotan
+}
+
+844.2.1 = {
+	liege = d_bouhi
+}
+
+844.2.2 = {
+	liege = d_buhyla
+}
+
+844.2.3 = {
+	liege = d_tideuta
+}
+
+844.2.4 = {
+	liege = d_waraht
+}
+
+844.2.5 = {
+	holder = 1004281
+}
+
+867.2.1 = {
+	holder = 1005398
+}
+
+867.2.2 = {
+	liege = k_darotan
+}
+
+908.2.1 = {
+	liege = d_buhyla
+}
+
+908.2.2 = {
+	liege = d_bouhi
+}
+
+908.2.3 = {
+	liege = d_tideuta
+}
+
+908.2.4 = {
+	liege = d_waraht
+}
+
+908.2.5 = {
+	holder = 1006105
+}
+
+908.2.6 = {
+	liege = k_darotan
+}
+
+928.2.1 = {
+	liege = d_bouhi
+}
+
+928.2.2 = {
+	liege = d_buhyla
+}
+
+928.2.3 = {
+	liege = d_tideuta
+}
+
+928.2.4 = {
+	liege = d_waraht
+}
+
+928.2.5 = {
+	holder = 1006802
+}
+
+965.2.1 = {
+	holder = 1007561
+}
+
+999.2.1 = {
+	holder = 1008124
+}
+
+999.2.2 = {
+	liege = k_darotan
+}
+
+1052.2.1 = {
+	liege = d_bouhi
+}
+
+1052.2.2 = {
+	liege = d_buhyla
+}
+
+1052.2.3 = {
+	liege = d_tideuta
+}
+
+1052.2.4 = {
+	liege = d_waraht
+}
+
+1052.2.5 = {
+	holder = 1009019
+}
+

@@ -1,0 +1,5 @@
+	title = c_alucaret
+	max_settlements = 2
+	culture = lappish
+	religion = baltic_pagan_reformed
+	b_kajaret = tribal

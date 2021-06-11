@@ -1,0 +1,5 @@
+	title = c_wogaz
+	max_settlements = 2
+	culture = bulgarian
+	religion = baltic_pagan
+	b_dogavur = tribal

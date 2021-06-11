@@ -1,0 +1,5 @@
+	title = c_wetila
+	max_settlements = 2
+	culture = croatian
+	religion = tengri_pagan
+	b_betili = tribal

@@ -1,0 +1,5 @@
+	title = c_eterobbo
+	max_settlements = 2
+	culture = croatian
+	religion = baltic_pagan_reformed
+	b_ricig = tribal

@@ -1,0 +1,5 @@
+	title = c_rarushu
+	max_settlements = 2
+	culture = castillan
+	religion = shiite
+	b_lirushu = tribal

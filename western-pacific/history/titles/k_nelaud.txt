@@ -1,0 +1,74 @@
+758.2.1 = {
+	holder = 1001523
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = e_bakayn
+}
+
+758.2.3 = {
+	liege = e_woimdas
+}
+
+758.2.4 = {
+	liege = e_asoiming
+}
+
+758.2.5 = {
+	liege = e_teralim
+}
+
+758.2.6 = {
+	liege = e_neral
+}
+
+758.2.7 = {
+	liege = e_kelattan
+}
+
+793.2.1 = {
+	holder = 1002345
+}
+
+805.2.1 = {
+	holder = 1004218
+}
+
+849.2.1 = {
+	holder = 1004346
+}
+
+869.2.1 = {
+	holder = 1005519
+}
+
+873.2.1 = {
+	holder = 1006011
+}
+
+908.2.1 = {
+	holder = 1006367
+}
+
+929.2.1 = {
+	holder = 1006891
+}
+
+976.2.1 = {
+	holder = 1007180
+}
+
+1003.2.1 = {
+	holder = 1008055
+}
+
+1016.2.1 = {
+	holder = 1008310
+}
+
+1057.2.1 = {
+	holder = 1008866
+}
+

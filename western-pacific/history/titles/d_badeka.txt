@@ -1,0 +1,62 @@
+758.2.1 = {
+	holder = 1001151
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = k_nezizo
+}
+
+758.2.3 = {
+	liege = k_rolulam
+}
+
+758.2.4 = {
+	liege = k_badaya
+}
+
+765.2.1 = {
+	holder = 1002139
+}
+
+810.2.1 = {
+	holder = 1003199
+}
+
+831.2.1 = {
+	holder = 1004404
+}
+
+854.2.1 = {
+	holder = 1005589
+}
+
+888.2.1 = {
+	holder = 1005741
+}
+
+907.2.1 = {
+	holder = 1006361
+}
+
+918.2.1 = {
+	holder = 1006747
+}
+
+958.2.1 = {
+	holder = 1007593
+}
+
+1010.2.1 = {
+	holder = 1007712
+}
+
+1014.2.1 = {
+	holder = 1008465
+}
+
+1063.2.1 = {
+	holder = 1008624
+}
+

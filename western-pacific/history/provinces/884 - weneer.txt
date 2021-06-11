@@ -1,0 +1,5 @@
+	title = c_weneer
+	max_settlements = 2
+	culture = ashkenazi
+	religion = shiite
+	b_selit = tribal

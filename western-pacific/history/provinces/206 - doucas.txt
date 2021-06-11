@@ -1,0 +1,5 @@
+	title = c_doucas
+	max_settlements = 2
+	culture = croatian
+	religion = kharijite
+	b_qatas = tribal

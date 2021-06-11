@@ -1,0 +1,5 @@
+	title = c_teiruin
+	max_settlements = 2
+	culture = swedish
+	religion = zikri
+	b_kareth = tribal

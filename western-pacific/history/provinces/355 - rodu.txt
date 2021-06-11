@@ -1,0 +1,5 @@
+	title = c_rodu
+	max_settlements = 2
+	culture = dutch
+	religion = slavic_pagan
+	b_nalekara = tribal

@@ -1,0 +1,5 @@
+	title = c_eguared
+	max_settlements = 2
+	culture = avar
+	religion = baltic_pagan_reformed
+	b_qairy = tribal

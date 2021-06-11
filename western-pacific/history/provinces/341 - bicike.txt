@@ -1,0 +1,5 @@
+	title = c_bicike
+	max_settlements = 2
+	culture = ethiopian
+	religion = jain
+	b_ebenor = tribal

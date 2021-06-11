@@ -1,0 +1,5 @@
+	title = c_tujochi
+	max_settlements = 2
+	culture = sinhala
+	religion = zun_pagan
+	b_rarilge = tribal

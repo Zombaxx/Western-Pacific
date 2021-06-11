@@ -1,0 +1,5 @@
+	title = c_lelelen
+	max_settlements = 2
+	culture = german
+	religion = fraticelli
+	b_keerin = tribal

@@ -1,0 +1,5 @@
+	title = c_tavine
+	max_settlements = 2
+	culture = lappish
+	religion = pagan
+	b_tisuzma = tribal

@@ -1,0 +1,5 @@
+	title = c_kitya
+	max_settlements = 2
+	culture = sogdian
+	religion = interface_skin
+	b_weisant = tribal

@@ -1,0 +1,5 @@
+	title = c_dedim
+	max_settlements = 2
+	culture = bulgarian
+	religion = druze
+	b_temgeva = tribal

@@ -1,0 +1,5 @@
+	title = c_naroa
+	max_settlements = 2
+	culture = finnish
+	religion = mazdaki
+	b_ageireka = tribal

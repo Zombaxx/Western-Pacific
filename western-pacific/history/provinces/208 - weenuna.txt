@@ -1,0 +1,5 @@
+	title = c_weenuna
+	max_settlements = 2
+	culture = bolghar
+	religion = taoist
+	b_beynim = tribal

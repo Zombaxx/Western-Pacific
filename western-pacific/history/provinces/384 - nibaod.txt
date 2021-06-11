@@ -1,0 +1,5 @@
+	title = c_nibaod
+	max_settlements = 2
+	culture = nahuatl
+	religion = slavic_pagan_reformed
+	b_wibedo = tribal

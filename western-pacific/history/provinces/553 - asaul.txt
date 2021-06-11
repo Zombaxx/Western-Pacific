@@ -1,0 +1,5 @@
+	title = c_asaul
+	max_settlements = 2
+	culture = avar
+	religion = yazidi
+	b_sulaul = tribal

@@ -1,0 +1,5 @@
+	title = c_ronau
+	max_settlements = 2
+	culture = coptic
+	religion = fraticelli
+	b_rine = tribal

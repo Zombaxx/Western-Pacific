@@ -1,0 +1,5 @@
+	title = c_keloshi
+	max_settlements = 2
+	culture = bohemian
+	religion = jain
+	b_asakou = tribal

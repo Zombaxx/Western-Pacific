@@ -1,0 +1,5 @@
+	title = c_qanak
+	max_settlements = 2
+	culture = tocharian
+	religion = finnish_pagan_reformed
+	b_wodak = tribal

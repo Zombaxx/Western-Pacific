@@ -1,0 +1,5 @@
+	title = c_qanudis
+	max_settlements = 2
+	culture = daju
+	religion = zikri
+	b_adielian = tribal

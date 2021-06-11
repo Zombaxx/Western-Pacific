@@ -1,0 +1,5 @@
+	title = c_rading
+	max_settlements = 2
+	culture = slovieni
+	religion = norse_pagan
+	b_loimaud = tribal

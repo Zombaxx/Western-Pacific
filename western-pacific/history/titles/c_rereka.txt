@@ -1,0 +1,144 @@
+758.2.1 = {
+	holder = 1000000
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000009
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	holder = 1000570
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+758.2.4 = {
+	liege = d_sanira
+}
+
+758.2.5 = {
+	holder = 1000569
+	law = succ_seniority
+	law = cognatic_succession
+}
+
+760.2.1 = {
+	holder = 1000257
+}
+
+773.2.1 = {
+	holder = 1002005
+}
+
+817.2.1 = {
+	liege = d_nenaraya
+}
+
+817.2.2 = {
+	liege = d_nigica
+}
+
+817.2.3 = {
+	liege = d_luceph
+}
+
+817.2.4 = {
+	holder = 1003247
+}
+
+844.2.1 = {
+	holder = 1005347
+}
+
+890.2.1 = {
+	holder = 1005494
+}
+
+905.2.1 = {
+	liege = d_nigica
+}
+
+905.2.2 = {
+	liege = d_neslav
+}
+
+905.2.3 = {
+	holder = 1006409
+}
+
+928.2.1 = {
+	liege = d_nigica
+}
+
+928.2.2 = {
+	liege = d_luceph
+}
+
+928.2.3 = {
+	holder = 1007046
+}
+
+943.2.1 = {
+	liege = d_nigica
+}
+
+943.2.2 = {
+	liege = d_neslav
+}
+
+943.2.3 = {
+	holder = 1007083
+}
+
+956.2.1 = {
+	holder = 1007406
+}
+
+961.2.1 = {
+	liege = d_nigica
+}
+
+961.2.2 = {
+	liege = d_luceph
+}
+
+961.2.3 = {
+	holder = 1007629
+}
+
+969.2.1 = {
+	holder = 1007763
+}
+
+1027.2.1 = {
+	liege = d_nigica
+}
+
+1027.2.2 = {
+	liege = d_neslav
+}
+
+1027.2.3 = {
+	holder = 1007790
+}
+
+1035.2.1 = {
+	holder = 1008769
+}
+
+1045.2.1 = {
+	liege = d_nigica
+}
+
+1045.2.2 = {
+	liege = d_luceph
+}
+
+1045.2.3 = {
+	holder = 1008897
+}
+

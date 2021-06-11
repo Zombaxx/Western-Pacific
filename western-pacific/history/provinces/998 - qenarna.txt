@@ -1,0 +1,5 @@
+	title = c_qenarna
+	max_settlements = 2
+	culture = khitan
+	religion = manichean
+	b_lalelme = tribal

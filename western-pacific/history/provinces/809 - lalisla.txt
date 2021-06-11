@@ -1,0 +1,5 @@
+	title = c_lalisla
+	max_settlements = 2
+	culture = persian
+	religion = zun_pagan
+	b_ekrouh = tribal

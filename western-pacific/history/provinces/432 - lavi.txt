@@ -1,0 +1,5 @@
+	title = c_lavi
+	max_settlements = 2
+	culture = pictish
+	religion = orthodox
+	b_wideka = tribal

@@ -1,0 +1,5 @@
+	title = c_tayala
+	max_settlements = 2
+	culture = somali
+	religion = zun_pagan_reformed
+	b_weleusz = tribal

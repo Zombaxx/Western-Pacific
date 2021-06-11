@@ -1,0 +1,5 @@
+	title = c_akinaud
+	max_settlements = 2
+	culture = kirghiz
+	religion = ibadi
+	b_anareuta = tribal

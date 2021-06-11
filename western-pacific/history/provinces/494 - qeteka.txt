@@ -1,0 +1,5 @@
+	title = c_qeteka
+	max_settlements = 2
+	culture = nubian
+	religion = bon_reformed
+	b_saleki = tribal

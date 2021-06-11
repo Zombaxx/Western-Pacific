@@ -1,0 +1,5 @@
+	title = c_tekur
+	max_settlements = 2
+	culture = afghan
+	religion = slavic_pagan
+	b_tyuva = tribal

@@ -1,0 +1,5 @@
+	title = c_qoputan
+	max_settlements = 2
+	culture = ashkenazi
+	religion = interface_skin
+	b_tobaig = tribal

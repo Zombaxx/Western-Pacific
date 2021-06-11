@@ -1,0 +1,5 @@
+	title = c_bekuluk
+	max_settlements = 2
+	culture = georgian
+	religion = orthodox
+	b_sanau = tribal

@@ -1,0 +1,5 @@
+	title = c_rinnert
+	max_settlements = 2
+	culture = ashkenazi
+	religion = slavic_pagan
+	b_lyunine = tribal

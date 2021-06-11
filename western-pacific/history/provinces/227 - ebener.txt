@@ -1,0 +1,5 @@
+	title = c_ebener
+	max_settlements = 2
+	culture = frankish
+	religion = miaphysite
+	b_recerin = tribal

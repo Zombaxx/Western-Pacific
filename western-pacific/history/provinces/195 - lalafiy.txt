@@ -1,0 +1,5 @@
+	title = c_lalafiy
+	max_settlements = 2
+	culture = samoyed
+	religion = waldensian
+	b_tudafiy = tribal

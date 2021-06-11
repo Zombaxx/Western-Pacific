@@ -1,0 +1,5 @@
+	title = c_ditim
+	max_settlements = 2
+	culture = pecheneg
+	religion = yazidi
+	b_sata = tribal

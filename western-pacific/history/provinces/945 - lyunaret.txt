@@ -1,0 +1,5 @@
+	title = c_lyunaret
+	max_settlements = 2
+	culture = crimean_gothic
+	religion = paulician
+	b_lamold = tribal

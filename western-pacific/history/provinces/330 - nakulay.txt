@@ -1,0 +1,5 @@
+	title = c_nakulay
+	max_settlements = 2
+	culture = assamese
+	religion = sunni
+	b_kalerfn = tribal

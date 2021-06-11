@@ -1,0 +1,5 @@
+	title = c_kanion
+	max_settlements = 2
+	culture = russian
+	religion = tengri_pagan_reformed
+	b_taint = tribal

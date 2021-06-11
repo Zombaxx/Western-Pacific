@@ -1,0 +1,5 @@
+	title = c_kadarin
+	max_settlements = 2
+	culture = romanian
+	religion = monophysite
+	b_wyaosian = tribal

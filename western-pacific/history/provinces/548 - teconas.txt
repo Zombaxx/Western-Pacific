@@ -1,0 +1,5 @@
+	title = c_teconas
+	max_settlements = 2
+	culture = lithuanian
+	religion = sunni
+	b_tamonas = tribal

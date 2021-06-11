@@ -1,0 +1,5 @@
+	title = c_tya
+	max_settlements = 2
+	culture = daju
+	religion = color
+	b_toakim = tribal

@@ -1,0 +1,5 @@
+	title = c_dobutan
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = color
+	b_davohn = tribal

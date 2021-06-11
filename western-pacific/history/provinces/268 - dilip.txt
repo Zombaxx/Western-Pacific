@@ -1,0 +1,5 @@
+	title = c_dilip
+	max_settlements = 2
+	culture = croatian
+	religion = buddhist
+	b_bawigid = tribal

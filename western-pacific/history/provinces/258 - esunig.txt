@@ -1,0 +1,5 @@
+	title = c_esunig
+	max_settlements = 2
+	culture = hungarian
+	religion = samaritan
+	b_nunilip = tribal

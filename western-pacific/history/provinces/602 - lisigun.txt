@@ -1,0 +1,5 @@
+	title = c_lisigun
+	max_settlements = 2
+	culture = german
+	religion = interface_skin
+	b_neostun = tribal

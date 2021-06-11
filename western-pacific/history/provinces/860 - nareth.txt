@@ -1,0 +1,5 @@
+	title = c_nareth
+	max_settlements = 2
+	culture = bodpa
+	religion = mazdaki
+	b_ryaud = tribal

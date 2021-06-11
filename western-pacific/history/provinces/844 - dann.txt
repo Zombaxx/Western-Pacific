@@ -1,0 +1,5 @@
+	title = c_dann
+	max_settlements = 2
+	culture = pictish
+	religion = cathar
+	b_laleth = tribal

@@ -1,0 +1,5 @@
+	title = c_qedor
+	max_settlements = 2
+	culture = outremer
+	religion = finnish_pagan_reformed
+	b_kikike = tribal

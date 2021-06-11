@@ -1,0 +1,5 @@
+	title = c_qoteytn
+	max_settlements = 2
+	culture = maghreb_arabic
+	religion = paulician
+	b_kogure = tribal

@@ -1,0 +1,5 @@
+	title = c_wuvunno
+	max_settlements = 2
+	culture = karluk
+	religion = tengri_pagan
+	b_teonune = tribal

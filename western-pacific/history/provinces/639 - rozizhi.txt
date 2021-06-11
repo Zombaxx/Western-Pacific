@@ -1,0 +1,5 @@
+	title = c_rozizhi
+	max_settlements = 2
+	culture = nubian
+	religion = sunni
+	b_eboyaar = tribal

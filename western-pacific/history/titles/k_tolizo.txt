@@ -1,0 +1,46 @@
+758.2.1 = {
+	holder = 1001575
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	liege = e_damali
+}
+
+758.2.3 = {
+	liege = e_ketavi
+}
+
+758.2.4 = {
+	liege = e_dolavi
+}
+
+758.2.5 = {
+	liege = e_kalekara
+}
+
+758.2.6 = {
+	liege = e_tolavi
+}
+
+758.2.7 = {
+	liege = e_nelili
+}
+
+758.2.8 = {
+	liege = e_qetila
+}
+
+768.2.1 = {
+	holder = 1002573
+}
+
+900.2.1 = {
+	holder = 1006527
+}
+
+1000.2.1 = {
+	holder = 1008224
+}
+

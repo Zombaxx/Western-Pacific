@@ -1,0 +1,5 @@
+	title = c_diluzma
+	max_settlements = 2
+	culture = slovieni
+	religion = jain
+	b_derafiy = tribal

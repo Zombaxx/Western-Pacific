@@ -1,0 +1,5 @@
+	title = c_leranda
+	max_settlements = 2
+	culture = occitan
+	religion = hindu
+	b_dikanda = tribal

@@ -1,0 +1,5 @@
+	title = c_lyasaud
+	max_settlements = 2
+	culture = khitan
+	religion = pagan
+	b_ling = tribal

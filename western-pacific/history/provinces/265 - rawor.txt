@@ -1,0 +1,5 @@
+	title = c_rawor
+	max_settlements = 2
+	culture = bosnian
+	religion = ibadi
+	b_bedolun = tribal

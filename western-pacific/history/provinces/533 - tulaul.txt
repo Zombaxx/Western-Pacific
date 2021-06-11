@@ -1,0 +1,5 @@
+	title = c_tulaul
+	max_settlements = 2
+	culture = daju
+	religion = yazidi
+	b_kuleth = tribal

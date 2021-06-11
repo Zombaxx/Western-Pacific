@@ -1,0 +1,5 @@
+	title = c_ahjura
+	max_settlements = 2
+	culture = bulgarian
+	religion = west_african_pagan_reformed
+	b_wareka = tribal

@@ -1,0 +1,5 @@
+	title = c_ahislav
+	max_settlements = 2
+	culture = dutch
+	religion = khurmazta
+	b_kaudre = tribal

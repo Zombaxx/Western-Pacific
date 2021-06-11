@@ -1,0 +1,5 @@
+	title = c_kujart
+	max_settlements = 2
+	culture = romanian
+	religion = interface_skin
+	b_tanienne = tribal

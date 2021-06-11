@@ -1,0 +1,5 @@
+	title = c_tyasoald
+	max_settlements = 2
+	culture = saxon
+	religion = druze
+	b_qimaud = tribal

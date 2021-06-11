@@ -1,0 +1,5 @@
+	title = c_eflann
+	max_settlements = 2
+	culture = frankish
+	religion = fraticelli
+	b_sonda = tribal

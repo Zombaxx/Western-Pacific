@@ -1,0 +1,5 @@
+	title = c_sinuin
+	max_settlements = 2
+	culture = breton
+	religion = interface_skin
+	b_kita = tribal

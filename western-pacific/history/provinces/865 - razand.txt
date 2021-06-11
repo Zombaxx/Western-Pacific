@@ -1,0 +1,5 @@
+	title = c_razand
+	max_settlements = 2
+	culture = bohemian
+	religion = iconoclast
+	b_sao = tribal

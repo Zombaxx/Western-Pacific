@@ -1,0 +1,5 @@
+	title = c_eterutas
+	max_settlements = 2
+	culture = armenian
+	religion = paulician
+	b_kamine = tribal

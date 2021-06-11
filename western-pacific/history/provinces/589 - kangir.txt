@@ -1,0 +1,5 @@
+	title = c_kangir
+	max_settlements = 2
+	culture = hindustani
+	religion = ibadi
+	b_kikara = tribal

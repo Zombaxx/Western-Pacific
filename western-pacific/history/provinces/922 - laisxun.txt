@@ -1,0 +1,5 @@
+	title = c_laisxun
+	max_settlements = 2
+	culture = sumpa
+	religion = hurufi
+	b_tekashu = tribal

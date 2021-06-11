@@ -1,0 +1,5 @@
+	title = c_keorge
+	max_settlements = 2
+	culture = outremer
+	religion = bon
+	b_wyuvous = tribal

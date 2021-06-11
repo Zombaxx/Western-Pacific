@@ -1,0 +1,5 @@
+	title = c_atregin
+	max_settlements = 2
+	culture = castillan
+	religion = zikri
+	b_kelan = tribal

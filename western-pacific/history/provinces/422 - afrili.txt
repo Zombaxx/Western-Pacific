@@ -1,0 +1,5 @@
+	title = c_afrili
+	max_settlements = 2
+	culture = tamil
+	religion = pagan
+	b_acameka = tribal

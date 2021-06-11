@@ -1,0 +1,5 @@
+	title = c_lanegin
+	max_settlements = 2
+	culture = norman
+	religion = iconoclast
+	b_aterulam = tribal

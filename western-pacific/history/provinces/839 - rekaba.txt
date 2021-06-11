@@ -1,0 +1,5 @@
+	title = c_rekaba
+	max_settlements = 2
+	culture = bohemian
+	religion = norse_pagan
+	b_ebasushu = tribal

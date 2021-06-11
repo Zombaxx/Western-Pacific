@@ -1,0 +1,5 @@
+	title = c_banita
+	max_settlements = 2
+	culture = soninke
+	religion = hurufi
+	b_derit = tribal

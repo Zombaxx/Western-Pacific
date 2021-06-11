@@ -1,0 +1,5 @@
+	title = c_ethalis
+	max_settlements = 2
+	culture = assyrian
+	religion = paulician
+	b_neriek = tribal

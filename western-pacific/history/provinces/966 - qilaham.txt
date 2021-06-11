@@ -1,0 +1,5 @@
+	title = c_qilaham
+	max_settlements = 2
+	culture = cuman
+	religion = tengri_pagan
+	b_deleusz = tribal

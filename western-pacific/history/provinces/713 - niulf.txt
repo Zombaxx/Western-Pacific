@@ -1,0 +1,5 @@
+	title = c_niulf
+	max_settlements = 2
+	culture = welsh
+	religion = west_african_pagan
+	b_sagushu = tribal

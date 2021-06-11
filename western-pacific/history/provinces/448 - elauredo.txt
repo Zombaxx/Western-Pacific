@@ -1,0 +1,5 @@
+	title = c_elauredo
+	max_settlements = 2
+	culture = bengali
+	religion = norse_pagan
+	b_nuina = tribal

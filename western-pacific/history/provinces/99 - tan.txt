@@ -1,0 +1,5 @@
+	title = c_tan
+	max_settlements = 2
+	culture = lettigallish
+	religion = slavic_pagan_reformed
+	b_watan = tribal

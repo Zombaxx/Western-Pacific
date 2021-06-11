@@ -1,0 +1,5 @@
+	title = c_qarold
+	max_settlements = 2
+	culture = zhangzhung
+	religion = finnish_pagan_reformed
+	b_teon = tribal

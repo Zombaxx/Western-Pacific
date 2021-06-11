@@ -1,0 +1,5 @@
+	title = c_qeokha
+	max_settlements = 2
+	culture = ashkenazi
+	religion = baltic_pagan
+	b_badeth = tribal

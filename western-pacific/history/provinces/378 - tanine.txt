@@ -1,0 +1,5 @@
+	title = c_tanine
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = ibadi
+	b_kekulam = tribal

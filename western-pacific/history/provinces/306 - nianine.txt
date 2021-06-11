@@ -1,0 +1,5 @@
+	title = c_nianine
+	max_settlements = 2
+	culture = ethiopian
+	religion = paulician
+	b_danau = tribal

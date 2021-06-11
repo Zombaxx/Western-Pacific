@@ -1,0 +1,5 @@
+	title = c_sesind
+	max_settlements = 2
+	culture = irish
+	religion = nestorian
+	b_qemoshi = tribal

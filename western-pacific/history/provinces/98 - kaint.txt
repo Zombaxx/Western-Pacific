@@ -1,0 +1,5 @@
+	title = c_kaint
+	max_settlements = 2
+	culture = cuman
+	religion = interface_skin
+	b_ruzaria = tribal

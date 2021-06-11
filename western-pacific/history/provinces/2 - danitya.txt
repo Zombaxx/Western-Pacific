@@ -1,0 +1,5 @@
+	title = c_danitya
+	max_settlements = 2
+	culture = swedish
+	religion = finnish_pagan
+	b_kamitya = tribal

@@ -1,0 +1,5 @@
+	title = c_deleer
+	max_settlements = 2
+	culture = lettigallish
+	religion = zoroastrian
+	b_weleuta = tribal

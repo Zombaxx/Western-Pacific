@@ -1,0 +1,5 @@
+	title = c_amekilip
+	max_settlements = 2
+	culture = finnish
+	religion = kharijite
+	b_eshafeo = tribal

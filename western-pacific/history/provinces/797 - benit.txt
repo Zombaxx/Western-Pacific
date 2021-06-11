@@ -1,0 +1,5 @@
+	title = c_benit
+	max_settlements = 2
+	culture = marathi
+	religion = zun_pagan_reformed
+	b_sineka = tribal

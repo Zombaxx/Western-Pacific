@@ -1,0 +1,5 @@
+	title = c_qarica
+	max_settlements = 2
+	culture = sinhala
+	religion = finnish_pagan_reformed
+	b_emanda = tribal

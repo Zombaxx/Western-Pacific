@@ -1,0 +1,5 @@
+	title = c_ralou
+	max_settlements = 2
+	culture = severian
+	religion = finnish_pagan_reformed
+	b_tisla = tribal

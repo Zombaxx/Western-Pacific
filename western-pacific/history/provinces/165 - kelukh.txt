@@ -1,0 +1,5 @@
+	title = c_kelukh
+	max_settlements = 2
+	culture = bengali
+	religion = taoist
+	b_dohine = tribal

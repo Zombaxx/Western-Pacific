@@ -1,0 +1,5 @@
+	title = c_radian
+	max_settlements = 2
+	culture = pecheneg
+	religion = interface_skin
+	b_eribor = tribal

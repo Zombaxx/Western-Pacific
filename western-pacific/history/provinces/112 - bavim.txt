@@ -1,0 +1,5 @@
+	title = c_bavim
+	max_settlements = 2
+	culture = severian
+	religion = paulician
+	b_siebeva = tribal

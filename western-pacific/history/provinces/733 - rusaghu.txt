@@ -1,0 +1,5 @@
+	title = c_rusaghu
+	max_settlements = 2
+	culture = tangut
+	religion = zun_pagan
+	b_rezena = tribal

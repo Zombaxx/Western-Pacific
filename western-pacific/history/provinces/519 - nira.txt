@@ -1,0 +1,5 @@
+	title = c_nira
+	max_settlements = 2
+	culture = assamese
+	religion = paulician
+	b_difiel = tribal

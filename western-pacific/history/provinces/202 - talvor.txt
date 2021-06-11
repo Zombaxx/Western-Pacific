@@ -1,0 +1,5 @@
+	title = c_talvor
+	max_settlements = 2
+	culture = jurchen
+	religion = baltic_pagan
+	b_roakim = tribal

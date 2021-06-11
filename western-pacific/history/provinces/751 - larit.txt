@@ -1,0 +1,5 @@
+	title = c_larit
+	max_settlements = 2
+	culture = volhynian
+	religion = monothelite
+	b_qoreer = tribal

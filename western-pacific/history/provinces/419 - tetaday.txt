@@ -1,0 +1,5 @@
+	title = c_tetaday
+	max_settlements = 2
+	culture = komi
+	religion = color
+	b_bezaya = tribal

@@ -1,0 +1,5 @@
+	title = c_saguin
+	max_settlements = 2
+	culture = cuman
+	religion = buddhist
+	b_qeneer = tribal

@@ -1,0 +1,5 @@
+	title = c_kibedo
+	max_settlements = 2
+	culture = sinhala
+	religion = finnish_pagan
+	b_alaurila = tribal

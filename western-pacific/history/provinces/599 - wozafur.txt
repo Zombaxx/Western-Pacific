@@ -1,0 +1,5 @@
+	title = c_wozafur
+	max_settlements = 2
+	culture = bohemian
+	religion = slavic_pagan
+	b_rizizhi = tribal

@@ -1,0 +1,5 @@
+	title = c_echatar
+	max_settlements = 2
+	culture = sogdian
+	religion = messalian
+	b_quolara = tribal

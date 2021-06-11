@@ -1,0 +1,126 @@
+758.2.1 = {
+	holder = 1000055
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1001436
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_sucho
+}
+
+758.2.4 = {
+	holder = 1001435
+	law = succ_tanistry
+	law = agnatic_succession
+}
+
+771.2.1 = {
+	holder = 1002252
+}
+
+841.2.1 = {
+	holder = 1003164
+}
+
+842.2.1 = {
+	holder = 1005293
+}
+
+845.2.1 = {
+	holder = 1004864
+}
+
+852.2.1 = {
+	holder = 1005317
+}
+
+860.2.1 = {
+	liege = d_qomez
+}
+
+860.2.2 = {
+	holder = 1004034
+}
+
+887.2.1 = {
+	holder = 1004732
+}
+
+893.2.1 = {
+	holder = 1006417
+}
+
+941.2.1 = {
+	liege = d_sucho
+}
+
+941.2.2 = {
+	liege = d_nirek
+}
+
+941.2.3 = {
+	holder = 1006438
+}
+
+945.2.1 = {
+	holder = 1007316
+}
+
+973.2.1 = {
+	liege = d_sucho
+}
+
+973.2.2 = {
+	liege = d_qomez
+}
+
+973.2.3 = {
+	holder = 1007754
+}
+
+981.2.1 = {
+	liege = d_sucho
+}
+
+981.2.2 = {
+	liege = d_nirek
+}
+
+981.2.3 = {
+	holder = 1007955
+}
+
+1019.2.1 = {
+	liege = d_sucho
+}
+
+1019.2.2 = {
+	liege = d_qomez
+}
+
+1019.2.3 = {
+	holder = 1007341
+}
+
+1026.2.1 = {
+	liege = d_sucho
+}
+
+1026.2.2 = {
+	liege = d_nirek
+}
+
+1026.2.3 = {
+	holder = 1008621
+}
+
+1035.2.1 = {
+	holder = 1008779
+}
+

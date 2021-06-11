@@ -1,0 +1,74 @@
+758.2.1 = {
+	holder = 1001533
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = e_qeuba
+}
+
+758.2.3 = {
+	liege = e_lila
+}
+
+758.2.4 = {
+	liege = e_waguke
+}
+
+758.2.5 = {
+	liege = e_wagumna
+}
+
+758.2.6 = {
+	liege = e_wigeusz
+}
+
+768.2.1 = {
+	holder = 1002433
+}
+
+770.2.1 = {
+	holder = 1000737
+}
+
+817.2.1 = {
+	holder = 1004598
+}
+
+851.2.1 = {
+	holder = 1004629
+}
+
+861.2.1 = {
+	holder = 1005550
+}
+
+904.2.1 = {
+	holder = 1006120
+}
+
+921.2.1 = {
+	holder = 1006949
+}
+
+929.2.1 = {
+	holder = 1007068
+}
+
+938.2.1 = {
+	holder = 1007236
+}
+
+955.2.1 = {
+	holder = 1007335
+}
+
+1009.2.1 = {
+	holder = 1007600
+}
+
+1025.2.1 = {
+	holder = 1008526
+}
+

@@ -1,0 +1,5 @@
+	title = c_ejolulam
+	max_settlements = 2
+	culture = daju
+	religion = norse_pagan_reformed
+	b_qelooma = tribal

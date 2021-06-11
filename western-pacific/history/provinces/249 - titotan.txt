@@ -1,0 +1,5 @@
+	title = c_titotan
+	max_settlements = 2
+	culture = russian
+	religion = aztec_reformed
+	b_lasolun = tribal

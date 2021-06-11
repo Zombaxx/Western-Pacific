@@ -1,0 +1,5 @@
+	title = c_sunonas
+	max_settlements = 2
+	culture = assamese
+	religion = taoist
+	b_wyasulam = tribal

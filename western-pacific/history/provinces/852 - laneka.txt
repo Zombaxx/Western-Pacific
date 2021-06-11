@@ -1,0 +1,5 @@
+	title = c_laneka
+	max_settlements = 2
+	culture = somali
+	religion = hellenic_pagan_reformed
+	b_tenuin = tribal

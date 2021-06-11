@@ -1,0 +1,5 @@
+	title = c_kilayor
+	max_settlements = 2
+	culture = meshchera
+	religion = interface_skin
+	b_ejayala = tribal

@@ -1,0 +1,230 @@
+758.2.1 = {
+	holder = 1000013
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000718
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_bakaoji
+}
+
+758.2.4 = {
+	holder = 1000716
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+784.2.1 = {
+	holder = 1002666
+}
+
+801.2.1 = {
+	holder = 1003739
+}
+
+827.2.1 = {
+	liege = d_atrad
+}
+
+827.2.2 = {
+	liege = d_danoka
+}
+
+827.2.3 = {
+	holder = 1004396
+}
+
+828.2.1 = {
+	holder = 1004088
+}
+
+854.2.1 = {
+	holder = 1004609
+}
+
+854.2.2 = {
+	liege = k_kajunai
+}
+
+881.2.1 = {
+	liege = d_talaoji
+}
+
+881.2.2 = {
+	liege = d_lagou
+}
+
+881.2.3 = {
+	liege = d_laguyan
+}
+
+881.2.4 = {
+	liege = d_afagunai
+}
+
+881.2.5 = {
+	liege = d_danoka
+}
+
+881.2.6 = {
+	holder = 1006167
+}
+
+881.2.7 = {
+	liege = k_kajunai
+}
+
+916.2.1 = {
+	liege = d_lagou
+}
+
+916.2.2 = {
+	liege = d_talaoji
+}
+
+916.2.3 = {
+	liege = d_bakaoji
+}
+
+916.2.4 = {
+	liege = d_afagunai
+}
+
+916.2.5 = {
+	liege = d_atrad
+}
+
+916.2.6 = {
+	liege = d_danoka
+}
+
+916.2.7 = {
+	holder = 1006270
+}
+
+929.2.1 = {
+	holder = 1006878
+}
+
+929.2.2 = {
+	liege = k_kajunai
+}
+
+976.2.1 = {
+	liege = d_talaoji
+}
+
+976.2.2 = {
+	liege = d_lagou
+}
+
+976.2.3 = {
+	liege = d_laguyan
+}
+
+976.2.4 = {
+	liege = d_afagunai
+}
+
+976.2.5 = {
+	liege = d_danoka
+}
+
+976.2.6 = {
+	holder = 1007293
+}
+
+976.2.7 = {
+	liege = k_kajunai
+}
+
+1003.2.1 = {
+	liege = d_talaoji
+}
+
+1003.2.2 = {
+	liege = d_lagou
+}
+
+1003.2.3 = {
+	liege = d_laguyan
+}
+
+1003.2.4 = {
+	liege = d_afagunai
+}
+
+1003.2.5 = {
+	liege = d_danoka
+}
+
+1003.2.6 = {
+	holder = 1008035
+}
+
+1003.2.7 = {
+	liege = k_kajunai
+}
+
+1050.2.1 = {
+	liege = d_talaoji
+}
+
+1050.2.2 = {
+	liege = d_lagou
+}
+
+1050.2.3 = {
+	liege = d_laguyan
+}
+
+1050.2.4 = {
+	liege = d_afagunai
+}
+
+1050.2.5 = {
+	liege = d_danoka
+}
+
+1050.2.6 = {
+	holder = 1008383
+}
+
+1050.2.7 = {
+	liege = k_kajunai
+}
+
+1064.2.1 = {
+	liege = d_lagou
+}
+
+1064.2.2 = {
+	liege = d_talaoji
+}
+
+1064.2.3 = {
+	liege = d_bakaoji
+}
+
+1064.2.4 = {
+	liege = d_afagunai
+}
+
+1064.2.5 = {
+	liege = d_atrad
+}
+
+1064.2.6 = {
+	liege = d_danoka
+}
+
+1064.2.7 = {
+	holder = 1008997
+}
+

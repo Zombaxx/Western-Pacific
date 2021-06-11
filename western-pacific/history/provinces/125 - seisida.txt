@@ -1,0 +1,5 @@
+	title = c_seisida
+	max_settlements = 2
+	culture = gujurati
+	religion = karaite
+	b_nehant = tribal

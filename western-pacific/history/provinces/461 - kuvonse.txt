@@ -1,0 +1,5 @@
+	title = c_kuvonse
+	max_settlements = 2
+	culture = lithuanian
+	religion = qarmatian
+	b_tanjila = tribal

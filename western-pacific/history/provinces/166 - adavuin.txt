@@ -1,0 +1,5 @@
+	title = c_adavuin
+	max_settlements = 2
+	culture = samoyed
+	religion = interface_skin
+	b_sela = tribal

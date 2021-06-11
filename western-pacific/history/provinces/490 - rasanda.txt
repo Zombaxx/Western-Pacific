@@ -1,0 +1,5 @@
+	title = c_rasanda
+	max_settlements = 2
+	culture = khitan
+	religion = jain
+	b_rikaul = tribal

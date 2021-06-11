@@ -1,0 +1,122 @@
+758.2.1 = {
+	holder = 1000054
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1001389
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_nogoid
+}
+
+758.2.4 = {
+	holder = 1001388
+	law = succ_gavelkind
+	law = cognatic_succession
+}
+
+806.2.1 = {
+	holder = 1002049
+}
+
+833.2.1 = {
+	liege = d_taifr
+}
+
+833.2.2 = {
+	holder = 1003759
+}
+
+850.2.1 = {
+	liege = d_nogoid
+}
+
+850.2.2 = {
+	holder = 1005501
+}
+
+868.2.1 = {
+	liege = d_taifr
+}
+
+868.2.2 = {
+	liege = d_babahu
+}
+
+868.2.3 = {
+	holder = 1005573
+}
+
+868.2.4 = {
+	liege = k_redatas
+}
+
+904.2.1 = {
+	liege = d_babahu
+}
+
+904.2.2 = {
+	liege = d_nogoid
+}
+
+904.2.3 = {
+	liege = d_taifr
+}
+
+904.2.4 = {
+	holder = 1006073
+}
+
+906.2.1 = {
+	holder = 1006658
+}
+
+929.2.1 = {
+	liege = d_nogoid
+}
+
+929.2.2 = {
+	holder = 1006822
+}
+
+933.2.1 = {
+	holder = 1007143
+}
+
+954.2.1 = {
+	liege = d_taifr
+}
+
+954.2.2 = {
+	holder = 1007535
+}
+
+981.2.1 = {
+	holder = 1007575
+}
+
+1001.2.1 = {
+	liege = d_nogoid
+}
+
+1001.2.2 = {
+	holder = 1008136
+}
+
+1045.2.1 = {
+	holder = 1008908
+}
+
+1063.2.1 = {
+	liege = d_taifr
+}
+
+1063.2.2 = {
+	holder = 1009201
+}
+

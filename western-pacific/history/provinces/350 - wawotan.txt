@@ -1,0 +1,5 @@
+	title = c_wawotan
+	max_settlements = 2
+	culture = norwegian
+	religion = aztec
+	b_kemaham = tribal

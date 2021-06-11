@@ -1,0 +1,5 @@
+	title = c_qinnaret
+	max_settlements = 2
+	culture = han
+	religion = baltic_pagan_reformed
+	b_anani = tribal

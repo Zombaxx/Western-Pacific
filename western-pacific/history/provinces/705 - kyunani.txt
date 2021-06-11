@@ -1,0 +1,5 @@
+	title = c_kyunani
+	max_settlements = 2
+	culture = ilmenian
+	religion = finnish_pagan
+	b_nigekel = tribal

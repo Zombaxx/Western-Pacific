@@ -1,0 +1,5 @@
+	title = c_nabolun
+	max_settlements = 2
+	culture = baloch
+	religion = jain
+	b_dedotan = tribal

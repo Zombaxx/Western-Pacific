@@ -1,0 +1,5 @@
+	title = c_nicata
+	max_settlements = 2
+	culture = telugu
+	religion = mazdaki
+	b_rolafiy = tribal

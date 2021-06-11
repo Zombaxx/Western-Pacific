@@ -1,0 +1,5 @@
+	title = c_ralerdi
+	max_settlements = 2
+	culture = norman
+	religion = jain
+	b_bela = tribal

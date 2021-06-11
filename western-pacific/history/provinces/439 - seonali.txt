@@ -1,0 +1,5 @@
+	title = c_seonali
+	max_settlements = 2
+	culture = pommeranian
+	religion = hellenic_pagan_reformed
+	b_builp = tribal

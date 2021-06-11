@@ -1,0 +1,5 @@
+	title = c_qyunekel
+	max_settlements = 2
+	culture = italian
+	religion = kharijite
+	b_bimekel = tribal

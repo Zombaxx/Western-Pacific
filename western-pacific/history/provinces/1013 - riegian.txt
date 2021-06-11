@@ -1,0 +1,5 @@
+	title = c_riegian
+	max_settlements = 2
+	culture = lettigallish
+	religion = buddhist
+	b_ecolorka = tribal

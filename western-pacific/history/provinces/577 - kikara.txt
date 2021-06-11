@@ -1,0 +1,5 @@
+	title = c_kikara
+	max_settlements = 2
+	culture = bohemian
+	religion = yazidi
+	b_baulanda = tribal

@@ -1,0 +1,5 @@
+	title = c_sanion
+	max_settlements = 2
+	culture = coptic
+	religion = west_african_pagan
+	b_wekohn = tribal

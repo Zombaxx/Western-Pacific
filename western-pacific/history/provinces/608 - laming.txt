@@ -1,0 +1,5 @@
+	title = c_laming
+	max_settlements = 2
+	culture = roman
+	religion = khurmazta
+	b_araynaud = tribal

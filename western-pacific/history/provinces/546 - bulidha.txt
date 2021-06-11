@@ -1,0 +1,5 @@
+	title = c_bulidha
+	max_settlements = 2
+	culture = swedish
+	religion = norse_pagan_reformed
+	b_qeridha = tribal

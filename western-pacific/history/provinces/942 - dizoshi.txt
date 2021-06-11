@@ -1,0 +1,5 @@
+	title = c_dizoshi
+	max_settlements = 2
+	culture = german
+	religion = norse_pagan_reformed
+	b_koshi = tribal

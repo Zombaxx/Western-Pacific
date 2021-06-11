@@ -1,0 +1,5 @@
+	title = c_lajekel
+	max_settlements = 2
+	culture = old_saxon
+	religion = baltic_pagan_reformed
+	b_det = tribal

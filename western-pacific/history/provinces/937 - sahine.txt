@@ -1,0 +1,5 @@
+	title = c_sahine
+	max_settlements = 2
+	culture = tamil
+	religion = druze
+	b_todine = tribal

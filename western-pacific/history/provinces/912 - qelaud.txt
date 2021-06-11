@@ -1,0 +1,5 @@
+	title = c_qelaud
+	max_settlements = 2
+	culture = castillan
+	religion = finnish_pagan
+	b_amarura = tribal

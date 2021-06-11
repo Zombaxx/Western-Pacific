@@ -1,0 +1,5 @@
+	title = c_wawann
+	max_settlements = 2
+	culture = telugu
+	religion = khurmazta
+	b_kekicha = tribal

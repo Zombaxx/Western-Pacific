@@ -1,0 +1,5 @@
+	title = c_akiroa
+	max_settlements = 2
+	culture = irish
+	religion = bon_reformed
+	b_kaluna = tribal

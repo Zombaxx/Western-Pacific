@@ -1,0 +1,5 @@
+	title = c_qulein
+	max_settlements = 2
+	culture = italian
+	religion = hindu
+	b_ramiam = tribal

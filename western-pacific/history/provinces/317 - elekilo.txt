@@ -1,0 +1,5 @@
+	title = c_elekilo
+	max_settlements = 2
+	culture = kannada
+	religion = lollard
+	b_ratimha = tribal

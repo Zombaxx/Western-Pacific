@@ -1,0 +1,5 @@
+	title = c_korure
+	max_settlements = 2
+	culture = basque
+	religion = monophysite
+	b_topure = tribal

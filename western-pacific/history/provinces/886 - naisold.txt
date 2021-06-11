@@ -1,0 +1,5 @@
+	title = c_naisold
+	max_settlements = 2
+	culture = samoyed
+	religion = shiite
+	b_kert = tribal

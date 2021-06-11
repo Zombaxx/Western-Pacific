@@ -1,0 +1,5 @@
+	title = c_kereth
+	max_settlements = 2
+	culture = zhangzhung
+	religion = orthodox
+	b_qiroa = tribal

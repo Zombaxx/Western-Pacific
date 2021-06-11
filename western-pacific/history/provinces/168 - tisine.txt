@@ -1,0 +1,5 @@
+	title = c_tisine
+	max_settlements = 2
+	culture = prussian
+	religion = interface_skin
+	b_wisim = tribal

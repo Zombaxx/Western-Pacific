@@ -1,0 +1,5 @@
+	title = c_nirma
+	max_settlements = 2
+	culture = norwegian
+	religion = aztec
+	b_rishaam = tribal

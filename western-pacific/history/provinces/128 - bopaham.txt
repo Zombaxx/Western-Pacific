@@ -1,0 +1,5 @@
+	title = c_bopaham
+	max_settlements = 2
+	culture = saka
+	religion = jewish
+	b_sinan = tribal

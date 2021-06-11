@@ -1,0 +1,5 @@
+	title = c_emekampa
+	max_settlements = 2
+	culture = basque
+	religion = qarmatian
+	b_tawilip = tribal

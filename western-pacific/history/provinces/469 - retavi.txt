@@ -1,0 +1,5 @@
+	title = c_retavi
+	max_settlements = 2
+	culture = alan
+	religion = hurufi
+	b_qaleki = tribal

@@ -1,0 +1,5 @@
+	title = c_kimegen
+	max_settlements = 2
+	culture = turkish
+	religion = hindu
+	b_dion = tribal

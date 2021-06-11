@@ -1,0 +1,5 @@
+	title = c_kan
+	max_settlements = 2
+	culture = panjabi
+	religion = catholic
+	b_echod = tribal

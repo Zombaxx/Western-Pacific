@@ -1,0 +1,5 @@
+	title = c_tuina
+	max_settlements = 2
+	culture = mordvin
+	religion = norse_pagan_reformed
+	b_kanain = tribal

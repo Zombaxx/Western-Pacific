@@ -1,0 +1,5 @@
+	title = c_teludis
+	max_settlements = 2
+	culture = croatian
+	religion = jewish
+	b_sobeuba = tribal

@@ -1,0 +1,5 @@
+	title = c_loucira
+	max_settlements = 2
+	culture = khanty
+	religion = west_african_pagan_reformed
+	b_lalli = tribal

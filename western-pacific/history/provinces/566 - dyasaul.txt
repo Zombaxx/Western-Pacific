@@ -1,0 +1,5 @@
+	title = c_dyasaul
+	max_settlements = 2
+	culture = meshchera
+	religion = orthodox
+	b_kayita = tribal

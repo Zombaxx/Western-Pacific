@@ -1,0 +1,5 @@
+	title = c_ranardu
+	max_settlements = 2
+	culture = old_saxon
+	religion = karaite
+	b_aterutas = tribal

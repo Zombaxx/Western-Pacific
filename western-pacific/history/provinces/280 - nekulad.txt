@@ -1,0 +1,5 @@
+	title = c_nekulad
+	max_settlements = 2
+	culture = telugu
+	religion = baltic_pagan
+	b_tekida = tribal

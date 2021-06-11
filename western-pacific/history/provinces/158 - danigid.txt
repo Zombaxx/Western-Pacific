@@ -1,0 +1,5 @@
+	title = c_danigid
+	max_settlements = 2
+	culture = oriya
+	religion = waldensian
+	b_kotan = tribal

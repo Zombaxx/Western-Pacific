@@ -1,0 +1,5 @@
+	title = c_adobutan
+	max_settlements = 2
+	culture = bulgarian
+	religion = ibadi
+	b_seupas = tribal

@@ -1,0 +1,5 @@
+	title = c_kalegen
+	max_settlements = 2
+	culture = meshchera
+	religion = monothelite
+	b_qeryuquq = tribal

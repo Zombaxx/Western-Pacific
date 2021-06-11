@@ -1,0 +1,5 @@
+	title = c_siruna
+	max_settlements = 2
+	culture = nahuatl
+	religion = pagan
+	b_wit = tribal

@@ -1,0 +1,5 @@
+	title = c_teenuin
+	max_settlements = 2
+	culture = marathi
+	religion = aztec
+	b_lelafiy = tribal

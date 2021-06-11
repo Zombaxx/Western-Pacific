@@ -1,0 +1,5 @@
+	title = c_tanold
+	max_settlements = 2
+	culture = kurdish
+	religion = aztec
+	b_keoret = tribal

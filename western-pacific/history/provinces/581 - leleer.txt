@@ -1,0 +1,5 @@
+	title = c_leleer
+	max_settlements = 2
+	culture = catalan
+	religion = monothelite
+	b_relilge = tribal

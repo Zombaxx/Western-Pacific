@@ -1,0 +1,5 @@
+	title = c_etathi
+	max_settlements = 2
+	culture = frisian
+	religion = norse_pagan
+	b_amevarna = tribal

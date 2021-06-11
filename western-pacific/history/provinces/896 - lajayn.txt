@@ -1,0 +1,5 @@
+	title = c_lajayn
+	max_settlements = 2
+	culture = zaghawa
+	religion = buddhist
+	b_najiulf = tribal

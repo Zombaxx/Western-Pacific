@@ -1,0 +1,5 @@
+	title = c_samagol
+	max_settlements = 2
+	culture = persian
+	religion = pagan
+	b_nardin = tribal

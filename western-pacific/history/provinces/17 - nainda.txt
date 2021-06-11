@@ -1,0 +1,5 @@
+	title = c_nainda
+	max_settlements = 2
+	culture = soninke
+	religion = slavic_pagan_reformed
+	b_neharia = tribal

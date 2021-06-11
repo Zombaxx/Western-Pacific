@@ -1,0 +1,5 @@
+	title = c_runaya
+	max_settlements = 2
+	culture = tocharian
+	religion = zun_pagan
+	b_king = tribal

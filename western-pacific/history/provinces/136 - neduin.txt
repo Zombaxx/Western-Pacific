@@ -1,0 +1,5 @@
+	title = c_neduin
+	max_settlements = 2
+	culture = ethiopian
+	religion = lollard
+	b_qieboka = tribal

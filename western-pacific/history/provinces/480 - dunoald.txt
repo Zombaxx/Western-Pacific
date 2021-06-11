@@ -1,0 +1,5 @@
+	title = c_dunoald
+	max_settlements = 2
+	culture = bolghar
+	religion = west_african_pagan
+	b_anadonas = tribal

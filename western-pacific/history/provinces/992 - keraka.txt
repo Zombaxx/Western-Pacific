@@ -1,0 +1,5 @@
+	title = c_keraka
+	max_settlements = 2
+	culture = kurdish
+	religion = west_african_pagan
+	b_apuelquq = tribal

@@ -1,0 +1,5 @@
+	title = c_efagine
+	max_settlements = 2
+	culture = hungarian
+	religion = interface_skin
+	b_keorert = tribal

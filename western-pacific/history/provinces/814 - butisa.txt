@@ -1,0 +1,5 @@
+	title = c_butisa
+	max_settlements = 2
+	culture = norwegian
+	religion = tengri_pagan
+	b_natalku = tribal

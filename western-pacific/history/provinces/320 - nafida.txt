@@ -1,0 +1,5 @@
+	title = c_nafida
+	max_settlements = 2
+	culture = suebi
+	religion = jewish
+	b_naramal = tribal

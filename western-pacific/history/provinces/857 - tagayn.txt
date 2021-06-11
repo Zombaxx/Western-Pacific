@@ -1,0 +1,5 @@
+	title = c_tagayn
+	max_settlements = 2
+	culture = lettigallish
+	religion = interface_skin
+	b_wakunai = tribal

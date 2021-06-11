@@ -1,0 +1,5 @@
+	title = c_ejohig
+	max_settlements = 2
+	culture = karluk
+	religion = zun_pagan
+	b_kardis = tribal

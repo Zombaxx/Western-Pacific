@@ -1,0 +1,5 @@
+	title = c_qadiek
+	max_settlements = 2
+	culture = jurchen
+	religion = iconoclast
+	b_atakegn = tribal

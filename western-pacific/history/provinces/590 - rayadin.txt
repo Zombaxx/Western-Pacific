@@ -1,0 +1,5 @@
+	title = c_rayadin
+	max_settlements = 2
+	culture = welsh
+	religion = jewish
+	b_depigun = tribal

@@ -1,0 +1,5 @@
+	title = c_ryunert
+	max_settlements = 2
+	culture = polish
+	religion = monophysite
+	b_bamize = tribal

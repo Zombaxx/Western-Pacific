@@ -1,0 +1,5 @@
+	title = c_baleking
+	max_settlements = 2
+	culture = kurdish
+	religion = messalian
+	b_riolaya = tribal

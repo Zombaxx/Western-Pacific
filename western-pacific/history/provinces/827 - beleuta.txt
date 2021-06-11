@@ -1,0 +1,5 @@
+	title = c_beleuta
+	max_settlements = 2
+	culture = ashkenazi
+	religion = hellenic_pagan_reformed
+	b_sarura = tribal

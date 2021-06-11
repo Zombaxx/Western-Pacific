@@ -1,0 +1,110 @@
+758.2.1 = {
+	holder = 1000007
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000499
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_nintas
+}
+
+758.2.4 = {
+	holder = 1000497
+	law = succ_elective_gavelkind
+	law = agnatic_succession
+}
+
+761.2.1 = {
+	holder = 1002113
+}
+
+778.2.1 = {
+	holder = 1003149
+}
+
+788.2.1 = {
+	holder = 1003207
+}
+
+795.2.1 = {
+	holder = 1000417
+}
+
+805.2.1 = {
+	liege = d_azhaya
+}
+
+805.2.2 = {
+	liege = d_talim
+}
+
+805.2.3 = {
+	liege = d_ebarqan
+}
+
+805.2.4 = {
+	holder = 1002293
+}
+
+837.2.1 = {
+	liege = d_talim
+}
+
+837.2.2 = {
+	holder = 1004251
+}
+
+867.2.1 = {
+	holder = 1004595
+}
+
+879.2.1 = {
+	holder = 1006038
+}
+
+914.2.1 = {
+	holder = 1006563
+}
+
+945.2.1 = {
+	holder = 1007308
+}
+
+992.2.1 = {
+	holder = 1007632
+}
+
+1016.2.1 = {
+	liege = d_ebarqan
+}
+
+1016.2.2 = {
+	holder = 1008200
+}
+
+1057.2.1 = {
+	holder = 1008617
+}
+
+1064.2.1 = {
+	liege = d_talim
+}
+
+1064.2.2 = {
+	liege = d_nyakone
+}
+
+1064.2.3 = {
+	holder = 1009180
+}
+
+1064.2.4 = {
+	liege = k_kelaiy
+}
+

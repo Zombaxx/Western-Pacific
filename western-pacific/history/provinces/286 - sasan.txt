@@ -1,0 +1,5 @@
+	title = c_sasan
+	max_settlements = 2
+	culture = romanian
+	religion = paulician
+	b_kikotan = tribal

@@ -1,0 +1,5 @@
+	title = c_tasulam
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = ibadi
+	b_nobarqan = tribal

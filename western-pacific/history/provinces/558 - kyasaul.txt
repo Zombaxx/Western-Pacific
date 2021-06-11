@@ -1,0 +1,5 @@
+	title = c_kyasaul
+	max_settlements = 2
+	culture = rajput
+	religion = interface_skin
+	b_taulira = tribal

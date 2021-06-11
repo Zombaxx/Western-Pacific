@@ -1,0 +1,224 @@
+758.2.1 = {
+	holder = 1000005
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000350
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_kanara
+}
+
+758.2.4 = {
+	holder = 1000351
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1000348
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+781.2.1 = {
+	liege = d_raaqedar
+}
+
+781.2.2 = {
+	holder = 1002636
+}
+
+781.2.3 = {
+	liege = k_tizafur
+}
+
+792.2.1 = {
+	liege = d_raaqedar
+}
+
+792.2.2 = {
+	holder = 1003606
+}
+
+792.2.3 = {
+	liege = k_tizafur
+}
+
+840.2.1 = {
+	liege = d_kanara
+}
+
+840.2.2 = {
+	liege = d_raaqedar
+}
+
+840.2.3 = {
+	holder = 1003519
+}
+
+844.2.1 = {
+	holder = 1005350
+}
+
+861.2.1 = {
+	holder = 1005766
+}
+
+861.2.2 = {
+	liege = k_tizafur
+}
+
+863.2.1 = {
+	liege = d_kanara
+}
+
+863.2.2 = {
+	liege = d_tanda
+}
+
+863.2.3 = {
+	liege = d_raaqedar
+}
+
+863.2.4 = {
+	holder = 1004560
+}
+
+863.2.5 = {
+	liege = k_tizafur
+}
+
+870.2.1 = {
+	liege = d_sikara
+}
+
+870.2.2 = {
+	liege = d_kanara
+}
+
+870.2.3 = {
+	liege = d_tanda
+}
+
+870.2.4 = {
+	liege = d_raaqedar
+}
+
+870.2.5 = {
+	holder = 1005640
+}
+
+870.2.6 = {
+	liege = k_tizafur
+}
+
+941.2.1 = {
+	liege = d_kanara
+}
+
+941.2.2 = {
+	liege = d_tanda
+}
+
+941.2.3 = {
+	liege = d_sikara
+}
+
+941.2.4 = {
+	liege = d_raaqedar
+}
+
+941.2.5 = {
+	holder = 1006037
+}
+
+941.2.6 = {
+	liege = k_tizafur
+}
+
+946.2.1 = {
+	liege = d_kanara
+}
+
+946.2.2 = {
+	liege = d_tanda
+}
+
+946.2.3 = {
+	liege = d_sikara
+}
+
+946.2.4 = {
+	liege = d_raaqedar
+}
+
+946.2.5 = {
+	holder = 1007390
+}
+
+946.2.6 = {
+	liege = k_tizafur
+}
+
+952.2.1 = {
+	liege = d_kanara
+}
+
+952.2.2 = {
+	liege = d_tanda
+}
+
+952.2.3 = {
+	liege = d_sikara
+}
+
+952.2.4 = {
+	liege = d_raaqedar
+}
+
+952.2.5 = {
+	holder = 1007450
+}
+
+952.2.6 = {
+	liege = k_tizafur
+}
+
+1001.2.1 = {
+	liege = d_kanara
+}
+
+1001.2.2 = {
+	liege = d_egyeh
+}
+
+1001.2.3 = {
+	liege = d_sikara
+}
+
+1001.2.4 = {
+	liege = d_raaqedar
+}
+
+1001.2.5 = {
+	holder = 1007697
+}
+
+1005.2.1 = {
+	holder = 1008306
+}
+
+1040.2.1 = {
+	holder = 1008534
+}
+
+1043.2.1 = {
+	holder = 1008885
+}
+

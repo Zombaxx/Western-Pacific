@@ -1,0 +1,5 @@
+	title = c_ejolaya
+	max_settlements = 2
+	culture = pecheneg
+	religion = baltic_pagan_reformed
+	b_qadizo = tribal

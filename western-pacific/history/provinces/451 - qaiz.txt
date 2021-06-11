@@ -1,0 +1,5 @@
+	title = c_qaiz
+	max_settlements = 2
+	culture = lithuanian
+	religion = finnish_pagan
+	b_nanjaba = tribal

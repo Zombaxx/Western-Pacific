@@ -1,0 +1,5 @@
+	title = c_weloila
+	max_settlements = 2
+	culture = coptic
+	religion = slavic_pagan_reformed
+	b_qalenna = tribal

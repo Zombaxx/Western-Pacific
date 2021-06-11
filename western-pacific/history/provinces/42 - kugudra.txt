@@ -1,0 +1,5 @@
+	title = c_kugudra
+	max_settlements = 2
+	culture = bodpa
+	religion = orthodox
+	b_wibudra = tribal

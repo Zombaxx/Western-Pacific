@@ -1,0 +1,5 @@
+	title = c_tesouh
+	max_settlements = 2
+	culture = irish
+	religion = ibadi
+	b_tusala = tribal

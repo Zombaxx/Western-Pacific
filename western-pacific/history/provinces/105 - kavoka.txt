@@ -1,0 +1,5 @@
+	title = c_kavoka
+	max_settlements = 2
+	culture = nubian
+	religion = messalian
+	b_qemguin = tribal

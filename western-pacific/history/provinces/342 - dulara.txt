@@ -1,0 +1,5 @@
+	title = c_dulara
+	max_settlements = 2
+	culture = pommeranian
+	religion = catholic
+	b_ketulam = tribal

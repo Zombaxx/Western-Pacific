@@ -1,0 +1,5 @@
+	title = c_ebone
+	max_settlements = 2
+	culture = slovieni
+	religion = orthodox
+	b_kyakone = tribal

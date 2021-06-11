@@ -1,0 +1,5 @@
+	title = c_elouune
+	max_settlements = 2
+	culture = lettigallish
+	religion = finnish_pagan_reformed
+	b_wauttu = tribal

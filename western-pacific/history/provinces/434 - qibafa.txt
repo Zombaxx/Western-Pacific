@@ -1,0 +1,5 @@
+	title = c_qibafa
+	max_settlements = 2
+	culture = bengali
+	religion = qarmatian
+	b_asuvila = tribal

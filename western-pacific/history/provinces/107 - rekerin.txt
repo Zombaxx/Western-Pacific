@@ -1,0 +1,5 @@
+	title = c_rekerin
+	max_settlements = 2
+	culture = pecheneg
+	religion = shiite
+	b_tunur = tribal

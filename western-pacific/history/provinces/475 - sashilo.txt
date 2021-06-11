@@ -1,0 +1,5 @@
+	title = c_sashilo
+	max_settlements = 2
+	culture = soninke
+	religion = shiite
+	b_edashain = tribal

@@ -1,0 +1,5 @@
+	title = c_rukaaq
+	max_settlements = 2
+	culture = manden
+	religion = sunni
+	b_sosiam = tribal

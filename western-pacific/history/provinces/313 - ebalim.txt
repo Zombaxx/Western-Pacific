@@ -1,0 +1,5 @@
+	title = c_ebalim
+	max_settlements = 2
+	culture = gujurati
+	religion = paulician
+	b_rubomas = tribal

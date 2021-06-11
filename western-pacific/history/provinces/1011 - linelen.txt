@@ -1,0 +1,5 @@
+	title = c_linelen
+	max_settlements = 2
+	culture = daju
+	religion = ibadi
+	b_tyusier = tribal

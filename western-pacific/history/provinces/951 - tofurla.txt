@@ -1,0 +1,5 @@
+	title = c_tofurla
+	max_settlements = 2
+	culture = pommeranian
+	religion = west_african_pagan
+	b_kyeig = tribal

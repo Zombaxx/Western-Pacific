@@ -1,0 +1,5 @@
+	title = c_woyaham
+	max_settlements = 2
+	culture = tocharian
+	religion = jain
+	b_wemizhi = tribal

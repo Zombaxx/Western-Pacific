@@ -1,0 +1,5 @@
+	title = c_asamutta
+	max_settlements = 2
+	culture = uyghur
+	religion = shiite
+	b_qabala = tribal

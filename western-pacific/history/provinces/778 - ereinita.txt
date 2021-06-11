@@ -1,0 +1,5 @@
+	title = c_ereinita
+	max_settlements = 2
+	culture = italian
+	religion = slavic_pagan
+	b_emareuta = tribal

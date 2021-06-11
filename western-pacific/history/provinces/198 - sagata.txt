@@ -1,0 +1,5 @@
+	title = c_sagata
+	max_settlements = 2
+	culture = irish
+	religion = zikri
+	b_seynuin = tribal

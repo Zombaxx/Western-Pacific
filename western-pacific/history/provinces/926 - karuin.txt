@@ -1,0 +1,5 @@
+	title = c_karuin
+	max_settlements = 2
+	culture = ilmenian
+	religion = miaphysite
+	b_ekenuna = tribal

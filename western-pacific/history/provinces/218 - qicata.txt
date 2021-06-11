@@ -1,0 +1,5 @@
+	title = c_qicata
+	max_settlements = 2
+	culture = gujurati
+	religion = zoroastrian
+	b_nainela = tribal

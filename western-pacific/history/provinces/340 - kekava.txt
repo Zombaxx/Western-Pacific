@@ -1,0 +1,5 @@
+	title = c_kekava
+	max_settlements = 2
+	culture = prussian
+	religion = messalian
+	b_kimha = tribal

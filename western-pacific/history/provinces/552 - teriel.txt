@@ -1,0 +1,5 @@
+	title = c_teriel
+	max_settlements = 2
+	culture = frankish
+	religion = norse_pagan_reformed
+	b_syasira = tribal

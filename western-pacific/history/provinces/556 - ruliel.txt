@@ -1,0 +1,5 @@
+	title = c_ruliel
+	max_settlements = 2
+	culture = daju
+	religion = waldensian
+	b_qophia = tribal

@@ -1,0 +1,5 @@
+	title = c_qaward
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = messalian
+	b_esunucho = tribal

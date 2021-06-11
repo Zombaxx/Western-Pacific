@@ -1,0 +1,5 @@
+	title = c_asacike
+	max_settlements = 2
+	culture = soninke
+	religion = messalian
+	b_totulad = tribal

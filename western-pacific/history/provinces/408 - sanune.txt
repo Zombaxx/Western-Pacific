@@ -1,0 +1,5 @@
+	title = c_sanune
+	max_settlements = 2
+	culture = telugu
+	religion = pagan
+	b_wusila = tribal

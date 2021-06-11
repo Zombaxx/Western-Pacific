@@ -1,0 +1,5 @@
+	title = c_taramal
+	max_settlements = 2
+	culture = visigothic
+	religion = manichean
+	b_nafurna = tribal

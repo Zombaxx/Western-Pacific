@@ -1,0 +1,5 @@
+	title = c_babulam
+	max_settlements = 2
+	culture = saka
+	religion = jain
+	b_kunal = tribal

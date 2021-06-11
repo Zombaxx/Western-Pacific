@@ -1,0 +1,5 @@
+	title = c_ruban
+	max_settlements = 2
+	culture = dalmatian
+	religion = baltic_pagan_reformed
+	b_kelyuva = tribal

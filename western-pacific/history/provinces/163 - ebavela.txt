@@ -1,0 +1,5 @@
+	title = c_ebavela
+	max_settlements = 2
+	culture = swedish
+	religion = khurmazta
+	b_tileva = tribal

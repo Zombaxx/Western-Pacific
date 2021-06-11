@@ -1,0 +1,5 @@
+	title = c_kyuva
+	max_settlements = 2
+	culture = english
+	religion = miaphysite
+	b_ranyuva = tribal

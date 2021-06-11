@@ -1,0 +1,5 @@
+	title = c_nalaga
+	max_settlements = 2
+	culture = nahuatl
+	religion = slavic_pagan
+	b_bouune = tribal

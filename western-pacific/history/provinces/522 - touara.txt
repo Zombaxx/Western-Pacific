@@ -1,0 +1,5 @@
+	title = c_touara
+	max_settlements = 2
+	culture = frisian
+	religion = monophysite
+	b_tulali = tribal

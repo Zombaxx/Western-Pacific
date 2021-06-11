@@ -1,0 +1,5 @@
+	title = c_syakone
+	max_settlements = 2
+	culture = scottish
+	religion = color
+	b_qekau = tribal

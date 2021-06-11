@@ -1,0 +1,5 @@
+	title = c_eronas
+	max_settlements = 2
+	culture = cuman
+	religion = bon_reformed
+	b_lioldas = tribal

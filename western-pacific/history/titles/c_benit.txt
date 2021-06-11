@@ -1,0 +1,154 @@
+758.2.1 = {
+	holder = 1000001
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000002
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	holder = 1000200
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+758.2.4 = {
+	liege = d_ramaret
+}
+
+758.2.5 = {
+	holder = 1000201
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.6 = {
+	holder = 1000198
+	law = succ_open_elective
+	law = agnatic_succession
+}
+
+807.2.1 = {
+	liege = d_karohn
+}
+
+807.2.2 = {
+	liege = d_kigalda
+}
+
+807.2.3 = {
+	holder = 1002100
+}
+
+817.2.1 = {
+	holder = 1004500
+}
+
+858.2.1 = {
+	holder = 1005238
+}
+
+861.2.1 = {
+	holder = 1005005
+}
+
+862.2.1 = {
+	holder = 1005744
+}
+
+866.2.1 = {
+	holder = 1005154
+}
+
+875.2.1 = {
+	holder = 1005841
+}
+
+881.2.1 = {
+	liege = d_nazouz
+}
+
+881.2.2 = {
+	liege = d_kahra
+}
+
+881.2.3 = {
+	holder = 1006165
+}
+
+885.2.1 = {
+	holder = 1006245
+}
+
+889.2.1 = {
+	holder = 1005560
+}
+
+893.2.1 = {
+	holder = 1006407
+}
+
+943.2.1 = {
+	liege = d_nazouz
+}
+
+943.2.2 = {
+	liege = d_kigalda
+}
+
+943.2.3 = {
+	holder = 1006491
+}
+
+946.2.1 = {
+	holder = 1007386
+}
+
+988.2.1 = {
+	holder = 1007428
+}
+
+1014.2.1 = {
+	liege = d_nazouz
+}
+
+1014.2.2 = {
+	liege = d_kahra
+}
+
+1014.2.3 = {
+	holder = 1007676
+}
+
+1020.2.1 = {
+	liege = d_nazouz
+}
+
+1020.2.2 = {
+	liege = d_kigalda
+}
+
+1020.2.3 = {
+	holder = 1008529
+}
+
+1037.2.1 = {
+	holder = 1008610
+}
+
+1052.2.1 = {
+	liege = d_nazouz
+}
+
+1052.2.2 = {
+	liege = d_kahra
+}
+
+1052.2.3 = {
+	holder = 1009012
+}
+

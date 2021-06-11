@@ -1,0 +1,5 @@
+	title = c_berit
+	max_settlements = 2
+	culture = bulgarian
+	religion = hellenic_pagan
+	b_bumita = tribal

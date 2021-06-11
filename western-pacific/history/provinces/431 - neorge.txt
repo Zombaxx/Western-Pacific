@@ -1,0 +1,5 @@
+	title = c_neorge
+	max_settlements = 2
+	culture = assyrian
+	religion = hellenic_pagan_reformed
+	b_elotho = tribal

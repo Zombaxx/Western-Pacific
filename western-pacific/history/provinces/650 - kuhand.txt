@@ -1,0 +1,5 @@
+	title = c_kuhand
+	max_settlements = 2
+	culture = swedish
+	religion = west_african_pagan
+	b_wedaad = tribal

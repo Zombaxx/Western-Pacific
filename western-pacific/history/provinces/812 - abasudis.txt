@@ -1,0 +1,5 @@
+	title = c_abasudis
+	max_settlements = 2
+	culture = nubian
+	religion = aztec
+	b_arayn = tribal

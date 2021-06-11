@@ -1,0 +1,5 @@
+	title = c_kabunia
+	max_settlements = 2
+	culture = hausa
+	religion = zoroastrian
+	b_kotilo = tribal

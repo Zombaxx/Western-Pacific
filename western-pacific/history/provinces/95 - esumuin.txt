@@ -1,0 +1,5 @@
+	title = c_esumuin
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = druze
+	b_rarazma = tribal

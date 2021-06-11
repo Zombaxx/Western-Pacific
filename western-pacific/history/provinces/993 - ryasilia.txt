@@ -1,0 +1,5 @@
+	title = c_ryasilia
+	max_settlements = 2
+	culture = gujurati
+	religion = tengri_pagan_reformed
+	b_sausand = tribal

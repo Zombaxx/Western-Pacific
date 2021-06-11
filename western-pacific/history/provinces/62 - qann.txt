@@ -1,0 +1,5 @@
+	title = c_qann
+	max_settlements = 2
+	culture = baloch
+	religion = khurmazta
+	b_watkim = tribal

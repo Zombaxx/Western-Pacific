@@ -1,0 +1,5 @@
+	title = c_leon
+	max_settlements = 2
+	culture = castillan
+	religion = finnish_pagan
+	b_nyuneof = tribal

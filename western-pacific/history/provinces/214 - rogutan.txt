@@ -1,0 +1,5 @@
+	title = c_rogutan
+	max_settlements = 2
+	culture = ashkenazi
+	religion = aztec_reformed
+	b_kavilay = tribal

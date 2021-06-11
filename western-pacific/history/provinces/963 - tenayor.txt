@@ -1,0 +1,5 @@
+	title = c_tenayor
+	max_settlements = 2
+	culture = severian
+	religion = buddhist
+	b_kelous = tribal

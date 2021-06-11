@@ -1,0 +1,46 @@
+758.2.1 = {
+	holder = 1000743
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = k_sacaghu
+}
+
+798.2.1 = {
+	holder = 1002217
+}
+
+819.2.1 = {
+	holder = 1004123
+}
+
+851.2.1 = {
+	holder = 1004885
+}
+
+868.2.1 = {
+	holder = 1005564
+}
+
+917.2.1 = {
+	holder = 1006746
+}
+
+935.2.1 = {
+	holder = 1007060
+}
+
+975.2.1 = {
+	holder = 1007335
+}
+
+1009.2.1 = {
+	holder = 1007600
+}
+
+1025.2.1 = {
+	holder = 1008526
+}
+

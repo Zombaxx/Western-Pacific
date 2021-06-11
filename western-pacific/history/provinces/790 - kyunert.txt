@@ -1,0 +1,5 @@
+	title = c_kyunert
+	max_settlements = 2
+	culture = crimean_gothic
+	religion = interface_skin
+	b_ket = tribal

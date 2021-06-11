@@ -1,0 +1,168 @@
+758.2.1 = {
+	holder = 1000012
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000655
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_detomir
+}
+
+758.2.4 = {
+	holder = 1000656
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.5 = {
+	holder = 1000653
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+792.2.1 = {
+	holder = 1002610
+}
+
+802.2.1 = {
+	holder = 1002347
+}
+
+804.2.1 = {
+	holder = 1000648
+}
+
+812.2.1 = {
+	holder = 1003070
+}
+
+826.2.1 = {
+	liege = d_tilegen
+}
+
+826.2.2 = {
+	liege = d_rogeodo
+}
+
+826.2.3 = {
+	holder = 1004489
+}
+
+826.2.4 = {
+	liege = k_retasada
+}
+
+878.2.1 = {
+	liege = d_syoland
+}
+
+878.2.2 = {
+	liege = d_detomir
+}
+
+878.2.3 = {
+	liege = d_tilegen
+}
+
+878.2.4 = {
+	liege = d_rogeodo
+}
+
+878.2.5 = {
+	holder = 1005116
+}
+
+878.2.6 = {
+	liege = k_retasada
+}
+
+892.2.1 = {
+	liege = d_wadi
+}
+
+892.2.2 = {
+	liege = d_tilegen
+}
+
+892.2.3 = {
+	liege = d_detomir
+}
+
+892.2.4 = {
+	liege = d_rogeodo
+}
+
+892.2.5 = {
+	holder = 1006290
+}
+
+954.2.1 = {
+	holder = 1006625
+}
+
+954.2.2 = {
+	liege = k_retasada
+}
+
+960.2.1 = {
+	liege = d_wadi
+}
+
+960.2.2 = {
+	liege = d_tilegen
+}
+
+960.2.3 = {
+	liege = d_detomir
+}
+
+960.2.4 = {
+	liege = d_rogeodo
+}
+
+960.2.5 = {
+	holder = 1007615
+}
+
+1000.2.1 = {
+	holder = 1007664
+}
+
+1019.2.1 = {
+	holder = 1008525
+}
+
+1038.2.1 = {
+	holder = 1008632
+}
+
+1038.2.2 = {
+	liege = k_retasada
+}
+
+1045.2.1 = {
+	liege = d_wadi
+}
+
+1045.2.2 = {
+	liege = d_tilegen
+}
+
+1045.2.3 = {
+	liege = d_detomir
+}
+
+1045.2.4 = {
+	liege = d_rogeodo
+}
+
+1045.2.5 = {
+	holder = 1008931
+}
+

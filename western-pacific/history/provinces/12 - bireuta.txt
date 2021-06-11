@@ -1,0 +1,5 @@
+	title = c_bireuta
+	max_settlements = 2
+	culture = saka
+	religion = pagan
+	b_kyaud = tribal

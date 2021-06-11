@@ -1,0 +1,5 @@
+	title = c_tajeusz
+	max_settlements = 2
+	culture = daju
+	religion = tengri_pagan
+	b_tuke = tribal

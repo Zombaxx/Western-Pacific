@@ -1,0 +1,5 @@
+	title = c_sanuna
+	max_settlements = 2
+	culture = uyghur
+	religion = waldensian
+	b_larva = tribal

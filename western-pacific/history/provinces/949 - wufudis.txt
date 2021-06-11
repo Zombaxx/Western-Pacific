@@ -1,0 +1,5 @@
+	title = c_wufudis
+	max_settlements = 2
+	culture = afghan
+	religion = bogomilist
+	b_werunai = tribal

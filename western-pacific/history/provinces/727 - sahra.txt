@@ -1,0 +1,5 @@
+	title = c_sahra
+	max_settlements = 2
+	culture = bosnian
+	religion = bon
+	b_kyyu = tribal

@@ -1,0 +1,5 @@
+	title = c_tutas
+	max_settlements = 2
+	culture = russian
+	religion = jain
+	b_kamegin = tribal

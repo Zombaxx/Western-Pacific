@@ -1,0 +1,5 @@
+	title = c_kas
+	max_settlements = 2
+	culture = greek
+	religion = yazidi
+	b_sakanca = tribal

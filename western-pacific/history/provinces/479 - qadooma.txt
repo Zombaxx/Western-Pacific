@@ -1,0 +1,5 @@
+	title = c_qadooma
+	max_settlements = 2
+	culture = afghan
+	religion = tengri_pagan_reformed
+	b_kezili = tribal

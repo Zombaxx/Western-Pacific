@@ -1,0 +1,5 @@
+	title = c_rizong
+	max_settlements = 3
+	culture = english
+	religion = iconoclast
+	b_bozalib = tribal

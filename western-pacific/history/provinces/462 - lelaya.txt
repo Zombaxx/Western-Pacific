@@ -1,0 +1,5 @@
+	title = c_lelaya
+	max_settlements = 2
+	culture = oriya
+	religion = catholic
+	b_ladara = tribal

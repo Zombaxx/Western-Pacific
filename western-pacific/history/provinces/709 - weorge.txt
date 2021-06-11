@@ -1,0 +1,5 @@
+	title = c_weorge
+	max_settlements = 2
+	culture = bodpa
+	religion = samaritan
+	b_qacila = tribal

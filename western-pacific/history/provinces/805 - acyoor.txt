@@ -1,0 +1,5 @@
+	title = c_acyoor
+	max_settlements = 2
+	culture = bolghar
+	religion = color
+	b_wyiam = tribal

@@ -1,0 +1,5 @@
+	title = c_qubaak
+	max_settlements = 2
+	culture = visigothic
+	religion = interface_skin
+	b_kamalp = tribal

@@ -1,0 +1,5 @@
+	title = c_qeligid
+	max_settlements = 2
+	culture = romanian
+	religion = manichean
+	b_wawan = tribal

@@ -1,0 +1,5 @@
+	title = c_ramatra
+	max_settlements = 2
+	culture = german
+	religion = west_african_pagan
+	b_leisaga = tribal

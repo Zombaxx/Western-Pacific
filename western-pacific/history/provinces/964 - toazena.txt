@@ -1,0 +1,5 @@
+	title = c_toazena
+	max_settlements = 2
+	culture = norwegian
+	religion = norse_pagan_reformed
+	b_talilia = tribal

@@ -1,0 +1,5 @@
+	title = c_kuvina
+	max_settlements = 2
+	culture = norse
+	religion = samaritan
+	b_qashaba = tribal

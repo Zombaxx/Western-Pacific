@@ -1,0 +1,5 @@
+	title = c_dereth
+	max_settlements = 2
+	culture = basque
+	religion = west_african_pagan
+	b_riraud = tribal

@@ -1,0 +1,46 @@
+758.2.1 = {
+	holder = 1000172
+	law = succ_ultimogeniture
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	liege = k_telagnus
+}
+
+806.2.1 = {
+	holder = 1001702
+}
+
+811.2.1 = {
+	holder = 1003970
+}
+
+850.2.1 = {
+	holder = 1004789
+}
+
+883.2.1 = {
+	holder = 1005968
+}
+
+897.2.1 = {
+	holder = 1006344
+}
+
+961.2.1 = {
+	holder = 1006970
+}
+
+962.2.1 = {
+	holder = 1007646
+}
+
+1019.2.1 = {
+	holder = 1007849
+}
+
+1024.2.1 = {
+	holder = 1008559
+}
+

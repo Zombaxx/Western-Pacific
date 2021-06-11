@@ -1,0 +1,5 @@
+	title = c_enajayen
+	max_settlements = 2
+	culture = khazar
+	religion = west_african_pagan_reformed
+	b_butorka = tribal

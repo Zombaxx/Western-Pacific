@@ -1,0 +1,5 @@
+	title = c_syefanbu
+	max_settlements = 2
+	culture = persian
+	religion = hellenic_pagan_reformed
+	b_kanabi = tribal

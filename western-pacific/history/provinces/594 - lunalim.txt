@@ -1,0 +1,5 @@
+	title = c_lunalim
+	max_settlements = 2
+	culture = jurchen
+	religion = hindu
+	b_damyai = tribal

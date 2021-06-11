@@ -1,0 +1,5 @@
+	title = c_diculam
+	max_settlements = 2
+	culture = norman
+	religion = cathar
+	b_apetaday = tribal

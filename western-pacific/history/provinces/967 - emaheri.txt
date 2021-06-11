@@ -1,0 +1,5 @@
+	title = c_emaheri
+	max_settlements = 2
+	culture = irish
+	religion = catholic
+	b_ranarva = tribal

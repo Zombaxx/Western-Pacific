@@ -1,0 +1,5 @@
+	title = c_tineuta
+	max_settlements = 2
+	culture = greek
+	religion = manichean
+	b_nenaud = tribal

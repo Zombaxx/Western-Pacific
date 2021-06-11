@@ -1,0 +1,5 @@
+	title = c_tohucho
+	max_settlements = 2
+	culture = zhangzhung
+	religion = pagan
+	b_kawilip = tribal

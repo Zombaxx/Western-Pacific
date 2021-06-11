@@ -1,0 +1,5 @@
+	title = c_das
+	max_settlements = 2
+	culture = songhay
+	religion = orthodox
+	b_sedand = tribal

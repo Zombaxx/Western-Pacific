@@ -1,0 +1,5 @@
+	title = c_quneo
+	max_settlements = 2
+	culture = lettigallish
+	religion = color
+	b_lasada = tribal

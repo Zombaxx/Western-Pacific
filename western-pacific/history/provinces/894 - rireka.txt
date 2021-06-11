@@ -1,0 +1,5 @@
+	title = c_rireka
+	max_settlements = 2
+	culture = breton
+	religion = monothelite
+	b_wanaud = tribal

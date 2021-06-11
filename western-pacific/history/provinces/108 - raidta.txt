@@ -1,0 +1,5 @@
+	title = c_raidta
+	max_settlements = 2
+	culture = crimean_gothic
+	religion = baltic_pagan_reformed
+	b_wawara = tribal

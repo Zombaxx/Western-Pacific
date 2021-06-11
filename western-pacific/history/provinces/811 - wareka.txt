@@ -1,0 +1,5 @@
+	title = c_wareka
+	max_settlements = 2
+	culture = baloch
+	religion = orthodox
+	b_nyua = tribal

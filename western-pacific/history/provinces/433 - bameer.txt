@@ -1,0 +1,5 @@
+	title = c_bameer
+	max_settlements = 2
+	culture = swedish
+	religion = hellenic_pagan
+	b_rolizo = tribal

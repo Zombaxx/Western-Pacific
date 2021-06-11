@@ -1,0 +1,5 @@
+	title = c_rolali
+	max_settlements = 2
+	culture = cuman
+	religion = slavic_pagan_reformed
+	b_bulila = tribal

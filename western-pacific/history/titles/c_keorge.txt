@@ -1,0 +1,126 @@
+758.2.1 = {
+	holder = 1000014
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+758.2.2 = {
+	holder = 1000725
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+758.2.3 = {
+	liege = d_koheusz
+}
+
+758.2.4 = {
+	holder = 1000724
+	law = succ_feudal_elective
+	law = cognatic_succession
+}
+
+806.2.1 = {
+	holder = 1002308
+}
+
+819.2.1 = {
+	holder = 1004315
+}
+
+862.2.1 = {
+	holder = 1005701
+}
+
+875.2.1 = {
+	holder = 1005470
+}
+
+894.2.1 = {
+	liege = d_deusz
+}
+
+894.2.2 = {
+	liege = d_qidera
+}
+
+894.2.3 = {
+	liege = d_bukaud
+}
+
+894.2.4 = {
+	holder = 1005657
+}
+
+911.2.1 = {
+	liege = d_qidera
+}
+
+911.2.2 = {
+	liege = d_deusz
+}
+
+911.2.3 = {
+	liege = d_koheusz
+}
+
+911.2.4 = {
+	holder = 1006450
+}
+
+933.2.1 = {
+	liege = d_deusz
+}
+
+933.2.2 = {
+	liege = d_qidera
+}
+
+933.2.3 = {
+	liege = d_bukaud
+}
+
+933.2.4 = {
+	holder = 1006913
+}
+
+969.2.1 = {
+	holder = 1007182
+}
+
+995.2.1 = {
+	liege = d_qidera
+}
+
+995.2.2 = {
+	liege = d_deusz
+}
+
+995.2.3 = {
+	liege = d_koheusz
+}
+
+995.2.4 = {
+	holder = 1007796
+}
+
+1022.2.1 = {
+	holder = 1008256
+}
+
+1057.2.1 = {
+	liege = d_deusz
+}
+
+1057.2.2 = {
+	liege = d_qidera
+}
+
+1057.2.3 = {
+	liege = d_bukaud
+}
+
+1057.2.4 = {
+	holder = 1008723
+}
+

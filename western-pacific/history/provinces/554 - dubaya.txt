@@ -1,0 +1,5 @@
+	title = c_dubaya
+	max_settlements = 2
+	culture = occitan
+	religion = zun_pagan_reformed
+	b_aring = tribal

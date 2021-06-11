@@ -1,0 +1,5 @@
+	title = c_toras
+	max_settlements = 2
+	culture = tamil
+	religion = jewish
+	b_auinos = tribal

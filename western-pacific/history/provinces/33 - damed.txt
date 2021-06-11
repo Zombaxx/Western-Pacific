@@ -1,0 +1,5 @@
+	title = c_damed
+	max_settlements = 2
+	culture = norman
+	religion = buddhist
+	b_ronory = tribal

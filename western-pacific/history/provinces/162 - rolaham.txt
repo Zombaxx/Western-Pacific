@@ -1,0 +1,5 @@
+	title = c_rolaham
+	max_settlements = 2
+	culture = norwegian
+	religion = cathar
+	b_qicha = tribal

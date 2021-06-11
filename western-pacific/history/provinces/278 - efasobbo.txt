@@ -1,0 +1,5 @@
+	title = c_efasobbo
+	max_settlements = 2
+	culture = karluk
+	religion = mazdaki
+	b_botobbo = tribal

@@ -1,0 +1,5 @@
+	title = c_kurisa
+	max_settlements = 2
+	culture = assyrian
+	religion = interface_skin
+	b_kadalku = tribal

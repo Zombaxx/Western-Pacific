@@ -1,0 +1,5 @@
+	title = c_qobibor
+	max_settlements = 2
+	culture = sumpa
+	religion = west_african_pagan
+	b_ryui = tribal

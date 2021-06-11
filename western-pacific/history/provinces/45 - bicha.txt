@@ -1,0 +1,5 @@
+	title = c_bicha
+	max_settlements = 2
+	culture = lombard
+	religion = cathar
+	b_akicha = tribal

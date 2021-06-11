@@ -1,0 +1,5 @@
+	title = c_adobuyan
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = cathar
+	b_welushu = tribal

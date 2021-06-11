@@ -1,0 +1,5 @@
+	title = c_byeh
+	max_settlements = 2
+	culture = catalan
+	religion = nestorian
+	b_ryao = tribal

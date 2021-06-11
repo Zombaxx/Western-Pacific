@@ -1,0 +1,5 @@
+	title = c_ludis
+	max_settlements = 2
+	culture = castillan
+	religion = aztec
+	b_acekan = tribal

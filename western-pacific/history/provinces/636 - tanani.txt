@@ -1,0 +1,5 @@
+	title = c_tanani
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = interface_skin
+	b_kutani = tribal

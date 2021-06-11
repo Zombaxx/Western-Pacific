@@ -1,0 +1,5 @@
+	title = c_qyehupo
+	max_settlements = 2
+	culture = frisian
+	religion = ibadi
+	b_nayalia = tribal

@@ -1,0 +1,5 @@
+	title = c_wuolaga
+	max_settlements = 2
+	culture = kurdish
+	religion = monophysite
+	b_nulalta = tribal

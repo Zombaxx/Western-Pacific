@@ -1,0 +1,5 @@
+	title = c_kemolun
+	max_settlements = 2
+	culture = lithuanian
+	religion = monophysite
+	b_basilo = tribal

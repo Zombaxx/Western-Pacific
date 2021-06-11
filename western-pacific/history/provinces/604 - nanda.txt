@@ -1,0 +1,5 @@
+	title = c_nanda
+	max_settlements = 2
+	culture = severian
+	religion = interface_skin
+	b_kulyai = tribal

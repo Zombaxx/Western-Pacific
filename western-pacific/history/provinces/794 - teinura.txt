@@ -1,0 +1,5 @@
+	title = c_teinura
+	max_settlements = 2
+	culture = karluk
+	religion = hindu
+	b_akineka = tribal

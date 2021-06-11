@@ -1,0 +1,5 @@
+	title = c_noper
+	max_settlements = 2
+	culture = coptic
+	religion = shiite
+	b_sotan = tribal

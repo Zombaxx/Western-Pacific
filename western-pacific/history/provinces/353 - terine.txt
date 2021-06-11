@@ -1,0 +1,5 @@
+	title = c_terine
+	max_settlements = 2
+	culture = occitan
+	religion = aztec
+	b_danegin = tribal

@@ -1,0 +1,5 @@
+	title = c_agyay
+	max_settlements = 2
+	culture = kannada
+	religion = zun_pagan_reformed
+	b_sediam = tribal

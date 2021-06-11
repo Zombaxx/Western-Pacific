@@ -1,0 +1,5 @@
+	title = c_emekaria
+	max_settlements = 2
+	culture = ugricbaltic
+	religion = hindu
+	b_enamaga = tribal

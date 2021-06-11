@@ -1,0 +1,5 @@
+	title = c_wavaig
+	max_settlements = 2
+	culture = alan
+	religion = samaritan
+	b_qavure = tribal

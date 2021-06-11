@@ -1,0 +1,5 @@
+	title = c_loyafur
+	max_settlements = 2
+	culture = samoyed
+	religion = cathar
+	b_nenayn = tribal

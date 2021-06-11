@@ -1,0 +1,198 @@
+758.2.1 = {
+	holder = 1000012
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000644
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_tilegen
+}
+
+758.2.4 = {
+	holder = 1000643
+	law = succ_feudal_elective
+	law = agnatic_succession
+}
+
+758.2.5 = {
+	holder = 1001527
+}
+
+797.2.1 = {
+	liege = d_rogeodo
+}
+
+797.2.2 = {
+	holder = 1002347
+}
+
+804.2.1 = {
+	holder = 1000648
+}
+
+804.2.2 = {
+	liege = k_retasada
+}
+
+812.2.1 = {
+	liege = d_wadi
+}
+
+812.2.2 = {
+	liege = d_tilegen
+}
+
+812.2.3 = {
+	liege = d_rogeodo
+}
+
+812.2.4 = {
+	holder = 1003070
+}
+
+812.2.5 = {
+	liege = k_retasada
+}
+
+826.2.1 = {
+	liege = d_syoland
+}
+
+826.2.2 = {
+	liege = d_detomir
+}
+
+826.2.3 = {
+	liege = d_tilegen
+}
+
+826.2.4 = {
+	liege = d_rogeodo
+}
+
+826.2.5 = {
+	holder = 1004489
+}
+
+878.2.1 = {
+	holder = 1005116
+}
+
+892.2.1 = {
+	holder = 1006290
+}
+
+892.2.2 = {
+	liege = k_retasada
+}
+
+954.2.1 = {
+	liege = d_syoland
+}
+
+954.2.2 = {
+	liege = d_detomir
+}
+
+954.2.3 = {
+	liege = d_tilegen
+}
+
+954.2.4 = {
+	liege = d_rogeodo
+}
+
+954.2.5 = {
+	holder = 1006625
+}
+
+960.2.1 = {
+	holder = 1007615
+}
+
+960.2.2 = {
+	liege = k_retasada
+}
+
+1000.2.1 = {
+	liege = d_wadi
+}
+
+1000.2.2 = {
+	liege = d_tilegen
+}
+
+1000.2.3 = {
+	liege = d_detomir
+}
+
+1000.2.4 = {
+	liege = d_rogeodo
+}
+
+1000.2.5 = {
+	holder = 1007664
+}
+
+1000.2.6 = {
+	liege = k_retasada
+}
+
+1019.2.1 = {
+	liege = d_wadi
+}
+
+1019.2.2 = {
+	liege = d_tilegen
+}
+
+1019.2.3 = {
+	liege = d_detomir
+}
+
+1019.2.4 = {
+	liege = d_rogeodo
+}
+
+1019.2.5 = {
+	holder = 1008525
+}
+
+1019.2.6 = {
+	liege = k_retasada
+}
+
+1038.2.1 = {
+	liege = d_syoland
+}
+
+1038.2.2 = {
+	liege = d_detomir
+}
+
+1038.2.3 = {
+	liege = d_tilegen
+}
+
+1038.2.4 = {
+	liege = d_rogeodo
+}
+
+1038.2.5 = {
+	holder = 1008632
+}
+
+1045.2.1 = {
+	holder = 1008931
+}
+
+1045.2.2 = {
+	liege = k_retasada
+}
+

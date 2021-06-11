@@ -1,0 +1,5 @@
+	title = c_kumna
+	max_settlements = 2
+	culture = marathi
+	religion = tengri_pagan
+	b_kaul = tribal

@@ -1,0 +1,5 @@
+	title = c_adobure
+	max_settlements = 2
+	culture = old_saxon
+	religion = buddhist
+	b_ebarure = tribal

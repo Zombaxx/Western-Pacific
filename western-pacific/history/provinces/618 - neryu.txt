@@ -1,0 +1,5 @@
+	title = c_neryu
+	max_settlements = 2
+	culture = somali
+	religion = pagan
+	b_ehunand = tribal

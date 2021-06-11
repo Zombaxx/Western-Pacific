@@ -1,0 +1,5 @@
+	title = c_qolann
+	max_settlements = 2
+	culture = breton
+	religion = slavic_pagan_reformed
+	b_noperin = tribal

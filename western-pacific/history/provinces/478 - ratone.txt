@@ -1,0 +1,5 @@
+	title = c_ratone
+	max_settlements = 2
+	culture = swedish
+	religion = taoist
+	b_sardu = tribal

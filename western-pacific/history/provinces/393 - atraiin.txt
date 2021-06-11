@@ -1,0 +1,5 @@
+	title = c_atraiin
+	max_settlements = 2
+	culture = kurdish
+	religion = ibadi
+	b_arawunno = tribal

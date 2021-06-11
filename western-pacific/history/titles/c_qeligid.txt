@@ -1,0 +1,154 @@
+758.2.1 = {
+	holder = 1000031
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000922
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_qalvor
+}
+
+758.2.4 = {
+	holder = 1000921
+	law = succ_seniority
+	law = agnatic_succession
+}
+
+790.2.1 = {
+	holder = 1002718
+}
+
+811.2.1 = {
+	holder = 1002226
+}
+
+813.2.1 = {
+	holder = 1004240
+}
+
+826.2.1 = {
+	liege = d_niias
+}
+
+826.2.2 = {
+	liege = d_koakim
+}
+
+826.2.3 = {
+	holder = 1003197
+}
+
+832.2.1 = {
+	holder = 1004762
+}
+
+858.2.1 = {
+	liege = d_taham
+}
+
+858.2.2 = {
+	holder = 1005622
+}
+
+893.2.1 = {
+	holder = 1006041
+}
+
+909.2.1 = {
+	liege = d_koakim
+}
+
+909.2.2 = {
+	holder = 1006473
+}
+
+916.2.1 = {
+	holder = 1006489
+}
+
+924.2.1 = {
+	liege = d_taham
+}
+
+924.2.2 = {
+	liege = d_wicha
+}
+
+924.2.3 = {
+	holder = 1006994
+}
+
+952.2.1 = {
+	liege = d_taham
+}
+
+952.2.2 = {
+	liege = d_koakim
+}
+
+952.2.3 = {
+	holder = 1007022
+}
+
+993.2.1 = {
+	holder = 1007573
+}
+
+1017.2.1 = {
+	liege = d_taham
+}
+
+1017.2.2 = {
+	liege = d_wicha
+}
+
+1017.2.3 = {
+	liege = d_kya
+}
+
+1017.2.4 = {
+	holder = 1008178
+}
+
+1017.2.5 = {
+	liege = k_tanepes
+}
+
+1057.2.1 = {
+	liege = d_qalvor
+}
+
+1057.2.2 = {
+	liege = d_akroakim
+}
+
+1057.2.3 = {
+	liege = d_koakim
+}
+
+1057.2.4 = {
+	liege = d_taham
+}
+
+1057.2.5 = {
+	liege = d_wicha
+}
+
+1057.2.6 = {
+	liege = d_kya
+}
+
+1057.2.7 = {
+	holder = 1008634
+}
+
+1059.2.1 = {
+	holder = 1009138
+}
+

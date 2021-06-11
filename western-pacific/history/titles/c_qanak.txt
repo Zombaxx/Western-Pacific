@@ -1,0 +1,250 @@
+758.2.1 = {
+	holder = 1000020
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.2 = {
+	holder = 1000856
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+758.2.3 = {
+	liege = d_tashir
+}
+
+758.2.4 = {
+	holder = 1000855
+	law = succ_ultimogeniture
+	law = agnatic_succession
+}
+
+900.2.1 = {
+	holder = 1005646
+}
+
+902.2.1 = {
+	liege = d_kaisilay
+}
+
+902.2.2 = {
+	liege = d_dairacco
+}
+
+902.2.3 = {
+	liege = d_qadali
+}
+
+902.2.4 = {
+	holder = 1005988
+}
+
+902.2.5 = {
+	liege = k_taneuta
+}
+
+923.2.1 = {
+	liege = d_aluin
+}
+
+923.2.2 = {
+	liege = d_kaleuta
+}
+
+923.2.3 = {
+	liege = d_sarilia
+}
+
+923.2.4 = {
+	liege = d_nyila
+}
+
+923.2.5 = {
+	liege = d_sine
+}
+
+923.2.6 = {
+	liege = d_talann
+}
+
+923.2.7 = {
+	liege = d_dairacco
+}
+
+923.2.8 = {
+	liege = d_kaisilay
+}
+
+923.2.9 = {
+	liege = d_tashir
+}
+
+923.2.10 = {
+	liege = d_emaheteh
+}
+
+923.2.11 = {
+	liege = d_emahilal
+}
+
+923.2.12 = {
+	liege = d_sidime
+}
+
+923.2.13 = {
+	liege = d_kusar
+}
+
+923.2.14 = {
+	liege = d_qadali
+}
+
+923.2.15 = {
+	holder = 1006219
+}
+
+927.2.1 = {
+	holder = 1007033
+}
+
+935.2.1 = {
+	holder = 1007061
+}
+
+968.2.1 = {
+	holder = 1007555
+}
+
+975.2.1 = {
+	holder = 1007848
+}
+
+984.2.1 = {
+	holder = 1007964
+}
+
+984.2.2 = {
+	liege = k_taneuta
+}
+
+995.2.1 = {
+	liege = d_sine
+}
+
+995.2.2 = {
+	liege = d_nyila
+}
+
+995.2.3 = {
+	liege = d_sarilia
+}
+
+995.2.4 = {
+	liege = d_kaleuta
+}
+
+995.2.5 = {
+	liege = d_aluin
+}
+
+995.2.6 = {
+	liege = d_bineuta
+}
+
+995.2.7 = {
+	liege = d_emahilal
+}
+
+995.2.8 = {
+	liege = d_emaheteh
+}
+
+995.2.9 = {
+	liege = d_tashir
+}
+
+995.2.10 = {
+	liege = d_kaisilay
+}
+
+995.2.11 = {
+	liege = d_dairacco
+}
+
+995.2.12 = {
+	liege = d_qadali
+}
+
+995.2.13 = {
+	holder = 1008157
+}
+
+995.2.14 = {
+	liege = k_taneuta
+}
+
+1001.2.1 = {
+	liege = d_aluin
+}
+
+1001.2.2 = {
+	liege = d_kaleuta
+}
+
+1001.2.3 = {
+	liege = d_sarilia
+}
+
+1001.2.4 = {
+	liege = d_nyila
+}
+
+1001.2.5 = {
+	liege = d_sine
+}
+
+1001.2.6 = {
+	liege = d_talann
+}
+
+1001.2.7 = {
+	liege = d_dairacco
+}
+
+1001.2.8 = {
+	liege = d_kaisilay
+}
+
+1001.2.9 = {
+	liege = d_tashir
+}
+
+1001.2.10 = {
+	liege = d_emaheteh
+}
+
+1001.2.11 = {
+	liege = d_emahilal
+}
+
+1001.2.12 = {
+	liege = d_sidime
+}
+
+1001.2.13 = {
+	liege = d_kusar
+}
+
+1001.2.14 = {
+	liege = d_qadali
+}
+
+1001.2.15 = {
+	holder = 1008251
+}
+
+1058.2.1 = {
+	holder = 1009112
+}
+
