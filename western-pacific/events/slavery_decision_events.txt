@@ -154,7 +154,7 @@ character_event = {
 					IF = {
 						limit = {
 							capital_scope = {
-								has_building = has_province_modifier = slave_host_2
+								has_province_modifier = slave_host_2
 							}
 						}
 						spawn_unit = {

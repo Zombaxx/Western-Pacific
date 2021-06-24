@@ -3,7 +3,7 @@ targetted_decisions = {
 	forge_weapons_sarc = {
 		filter = realm
 		ai_target_filter = realm
-		from_potential {
+		from_potential = {
 			wealth = 1
 		}
 		potential = {
@@ -50,7 +50,7 @@ targetted_decisions = {
 	forge_armor_sarc = {
 		filter = realm
 		ai_target_filter = realm
-		from_potential {
+		from_potential = {
 			wealth = 1
 		}
 		potential = {

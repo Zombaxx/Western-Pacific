@@ -3,19 +3,16 @@ decisions = {
 		is_high_prio = yes
 		potential = {
 			age = 14
-			OR = {
-				any_neighbor_independent_ruler = {
-					religion = taoist
-						}
-				culture_group = arabic
-			}
-		}
-		allow = {
-			age = 14
 			prisoner = no
 			war = yes
 			wealth = 200
 			capital_scope = { has_building = ca_trade_center }
+				any_neighbor_independent_ruler = {
+					religion = taoist
+						}
+		}
+		allow = {
+			age = 14
 			NOT = { has_character_modifier = active_mercs }
 		}
 		effect = { 
@@ -25,7 +22,13 @@ decisions = {
 			always = no
 		}
 		ai_will_do = {
-			factor = 0
+			factor = 0.01
+			modifier = {
+				factor = 10
+				any_war = {
+					war_score = -0.5
+				}
+			}
 		}
 	}	
-	
+}
