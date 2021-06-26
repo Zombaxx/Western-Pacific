@@ -1,0 +1,91 @@
+law_groups = {
+	court_brothel_laws = {
+		law_type = realm
+	}
+}
+laws = {
+	brothel_law_0 = {
+		group = court_brothel_laws
+		default = yes
+		
+		potential = {
+			has_dlc = "Zeus"
+			holder_scope = { is_feudal = yes }
+		}
+		allow = {
+			always = yes
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0.01
+			modifier = {
+				factor = 0
+				NOT = {
+					holder_scope = {
+						OR = {
+							is_republic = yes
+							is_nomadic = yes
+						}
+					}
+				}
+			}
+		}
+		ai_will_revoke = {
+			factor = 0
+		}
+		effect = {
+			hidden_tooltip = {
+				revoke_law = brothel_law_1
+			}
+		}
+		local_tax_modifier = 0.05
+	}
+
+
+
+
+	
+	brothel_law_1 = {
+		group = court_brothel_laws
+		potential = {
+			has_dlc = "Zeus"
+			OR = {
+				NOT = { tier = baron }
+				holder_scope = { is_patrician = yes }
+			}
+			holder_scope = { is_feudal = yes }
+		}
+		allow = {
+			has_law = brothel_law_0
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0.01
+			modifier = {
+				factor = 0
+				NOT = {
+					holder_scope = {
+						OR = {
+							is_republic = yes
+							is_nomadic = yes
+						}
+					}
+				}
+			}
+		}
+		ai_will_revoke = {
+			factor = 0
+		}
+		effect = {
+			hidden_tooltip = {
+				revoke_law = brothel_law_0
+			}
+		}
+		local_tax_modifier = 0.-15
+		global_revolt_risk = 0.02
+	}
+}

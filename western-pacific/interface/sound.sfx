@@ -708,356 +708,356 @@ displeased_council =
 	file = "displeased_council_01.wav"
 }
 
-child_peaceful_death_01
+child_peaceful_death_01 =
 {
 	file = "child_death_01.wav"
 	on_demand = yes
 }
 
-child_peaceful_death_02
+child_peaceful_death_02 =
 {
 	file = "child_death_02.wav"
 	on_demand = yes
 }
 
-child_peaceful_death_03
+child_peaceful_death_03 =
 {
 	file = "child_death_03.wav"
 	on_demand = yes
 }
 
-child_violent_death_01
+child_violent_death_01 =
 {
 	file = "child_death_01.wav"
 	on_demand = yes
 }
 
-child_violent_death_02
+child_violent_death_02 =
 {
 	file = "child_death_02.wav"
 	on_demand = yes
 }
 
-child_violent_death_03
+child_violent_death_03 =
 {
 	file = "child_death_03.wav"
 	on_demand = yes
 }
 
-female_peaceful_death_01
+female_peaceful_death_01 =
 {
 	file = "female_peaceful_death_01.wav"
 	on_demand = yes
 }
 
-female_peaceful_death_02
+female_peaceful_death_02 =
 {
 	file = "female_peaceful_death_02.wav"
 	on_demand = yes
 }
 
-female_peaceful_death_03
+female_peaceful_death_03 =
 {
 	file = "female_peaceful_death_03.wav"
 	on_demand = yes
 }
 
-female_peaceful_death_04
+female_peaceful_death_04 =
 {
 	file = "female_peaceful_death_04.wav"
 	on_demand = yes
 }
 
 
-female_violent_death_01
+female_violent_death_01 =
 {
 	file = "female_violent_death_01.wav"
 	on_demand = yes
 }
 
-female_violent_death_02
+female_violent_death_02 =
 {
 	file = "female_violent_death_02.wav"
 	on_demand = yes
 }
 
-female_violent_death_03
+female_violent_death_03 =
 {
 	file = "female_violent_death_03.wav"
 	on_demand = yes
 }
 
-female_violent_death_04
+female_violent_death_04 =
 {
 	file = "female_violent_death_04.wav"
 	on_demand = yes
 }
 
-male_peaceful_death_01
+male_peaceful_death_01 =
 {
 	file = "male_peaceful_death_01.wav"
 	on_demand = yes
 }
 
-male_peaceful_death_02
+male_peaceful_death_02 =
 {
 	file = "male_peaceful_death_02.wav"
 	on_demand = yes
 }
 
-male_peaceful_death_03
+male_peaceful_death_03 =
 {
 	file = "male_peaceful_death_03.wav"
 	on_demand = yes
 }
 
-male_peaceful_death_04
+male_peaceful_death_04 =
 {
 	file = "male_peaceful_death_04.wav"
 	on_demand = yes
 }
 
-male_peaceful_death_05
+male_peaceful_death_05 =
 {
 	file = "male_peaceful_death_05.wav"
 	on_demand = yes
 }
 
-male_violent_death_01
+male_violent_death_01 =
 {
 	file = "male_violent_death_01.wav"
 	on_demand = yes
 }
 
-male_violent_death_02
+male_violent_death_02 =
 {
 	file = "male_violent_death_02.wav"
 	on_demand = yes
 }
 
-male_violent_death_03
+male_violent_death_03 =
 {
 	file = "male_violent_death_03.wav"
 	on_demand = yes
 }
 
-male_violent_death_04
+male_violent_death_04 =
 {
 	file = "male_violent_death_04.wav"
 	on_demand = yes
 }
 
-male_violent_death_05
+male_violent_death_05 =
 {
 	file = "male_violent_death_05.wav"
 	on_demand = yes
 }
 
-back_breaking_female_02
+back_breaking_female_02 =
 {
 	file = "back_breaking_female_02.wav"
 	on_demand = yes
 }
 
-back_breaking_female_03
+back_breaking_female_03 =
 {
 	file = "back_breaking_female_03.wav"
 	on_demand = yes
 }
 
-back_breaking_female_04
+back_breaking_female_04 =
 {
 	file = "back_breaking_female_04.wav"
 	on_demand = yes
 }
 
-back_breaking_male_01
+back_breaking_male_01 =
 {
 	file = "back_breaking_male_01.wav"
 	on_demand = yes
 }
 
-back_breaking_male_02
+back_breaking_male_02 =
 {
 	file = "back_breaking_male_02.wav"
 	on_demand = yes
 }
 
-back_breaking_male_03
+back_breaking_male_03 =
 {
 	file = "back_breaking_male_03.wav"
 	on_demand = yes
 }
 
-back_breaking_male_04
+back_breaking_male_04 =
 {
 	file = "back_breaking_male_04.wav"
 	on_demand = yes
 }
 
-boiled_alive_female_01
+boiled_alive_female_01 =
 {
 	file = "boiled_alive_female_01.wav"
 	on_demand = yes
 }
 
-boiled_alive_female_02
+boiled_alive_female_02 =
 {
 	file = "boiled_alive_female_02.wav"
 	on_demand = yes
 }
 
-boiled_alive_male_01
+boiled_alive_male_01 =
 {
 	file = "boiled_alive_male_01.wav"
 	on_demand = yes
 }
 
-boiled_alive_male_02
+boiled_alive_male_02 =
 {
 	file = "boiled_alive_male_02.wav"
 	on_demand = yes
 }
 
-breaking_upon_wheel_female_01
+breaking_upon_wheel_female_01 =
 {
 	file = "breaking_upon_wheel_female_01.wav"
 	on_demand = yes
 }
 
-breaking_upon_wheel_female_02
+breaking_upon_wheel_female_02 =
 {
 	file = "breaking_upon_wheel_female_02.wav"
 	on_demand = yes
 }
 
-breaking_upon_wheel_female_03
+breaking_upon_wheel_female_03 =
 {
 	file = "breaking_upon_wheel_female_03.wav"
 	on_demand = yes
 }
 
-breaking_upon_wheel_male_01
+breaking_upon_wheel_male_01 =
 {
 	file = "breaking_upon_wheel_male_01.wav"
 	on_demand = yes
 }
 
-breaking_upon_wheel_male_02
+breaking_upon_wheel_male_02 =
 {
 	file = "breaking_upon_wheel_male_02.wav"
 	on_demand = yes
 }
 
-breaking_upon_wheel_male_03
+breaking_upon_wheel_male_03 =
 {
 	file = "breaking_upon_wheel_male_03.wav"
 	on_demand = yes
 }
 
-burning_female_01
+burning_female_01 =
 {
 	file = "burning_female_01.wav"
 	on_demand = yes
 }
 
-burning_female_02
+burning_female_02 =
 {
 	file = "burning_female_02.wav"
 	on_demand = yes
 }
 
-burning_female_03
+burning_female_03 =
 {
 	file = "burning_female_03.wav"
 	on_demand = yes
 }
 
-burning_male_01
+burning_male_01 =
 {
 	file = "burning_male_01.wav"
 	on_demand = yes
 }
 
-burning_male_02
+burning_male_02 =
 {
 	file = "burning_male_02.wav"
 	on_demand = yes
 }
 
-burning_male_03
+burning_male_03 =
 {
 	file = "burning_male_03.wav"
 	on_demand = yes
 }
 
-burning_male_04
+burning_male_04 =
 {
 	file = "burning_male_04.wav"
 	on_demand = yes
 }
 
-crushing_female_01
+crushing_female_01 =
 {
 	file = "crushing_female_01.wav"
 	on_demand = yes
 }
 
-crushing_female_02
+crushing_female_02 =
 {
 	file = "crushing_female_02.wav"
 	on_demand = yes
 }
 
-crushing_male_01
+crushing_male_01 =
 {
 	file = "crushing_male_01.wav"
 	on_demand = yes
 }
 
-crushing_male_02
+crushing_male_02 =
 {
 	file = "crushing_male_02.wav"
 	on_demand = yes
 }
 
-crushing_male_03
+crushing_male_03 =
 {
 	file = "crushing_male_03.wav"
 	on_demand = yes
 }
 
-cruxifiction_female_01
+cruxifiction_female_01 =
 {
 	file = "cruxifiction_female_01.wav"
 	on_demand = yes
 }
 
-cruxifiction_female_02
+cruxifiction_female_02 =
 {
 	file = "cruxifiction_female_02.wav"
 	on_demand = yes
 }
 
-cruxifiction_male_01
+cruxifiction_male_01 =
 {
 	file = "cruxifiction_male_01.wav"
 	on_demand = yes
 }
 
-cruxifiction_male_02
+cruxifiction_male_02 =
 {
 	file = "cruxifiction_male_02.wav"
 	on_demand = yes
 }
 
-drowning_female_01
+drowning_female_01 =
 {
 	file = "drowning_female_01.wav"
 	on_demand = yes
 }
 
-drowning_female_02
+drowning_female_02 =
 {
 	file = "drowning_female_02.wav"
 	on_demand = yes
@@ -1495,139 +1495,139 @@ falling_female_03
 	on_demand = yes
 }
 
-falling_male_01
+falling_male_01 =
 {
 	file = "falling_male_01.wav"
 	on_demand = yes
 }
 
-falling_male_02
+falling_male_02 =
 {
 	file = "falling_male_02.wav"
 	on_demand = yes
 }
 
-falling_male_03
+falling_male_03 =
 {
 	file = "falling_male_03.wav"
 	on_demand = yes
 }
 
-generic_sacrifice_female_01
+generic_sacrifice_female_01 =
 {
 	file = "generic_sacrifice_female_01.wav"
 	on_demand = yes
 }
 
-generic_sacrifice_female_02
+generic_sacrifice_female_02 =
 {
 	file = "generic_sacrifice_female_02.wav"
 	on_demand = yes
 }
 
-generic_sacrifice_male_01
+generic_sacrifice_male_01 =
 {
 	file = "generic_sacrifice_male_01.wav"
 	on_demand = yes
 }
 
-generic_sacrifice_male_02
+generic_sacrifice_male_02 =
 {
 	file = "generic_sacrifice_male_02.wav"
 	on_demand = yes
 }
 
-natural_death_female_01
+natural_death_female_01 =
 {
 	file = "natural_death_female_01.wav"
 	on_demand = yes
 }
 
-natural_death_female_02
+natural_death_female_02 =
 {
 	file = "natural_death_female_02.wav"
 	on_demand = yes
 }
 
-natural_death_female_03
+natural_death_female_03 =
 {
 	file = "natural_death_female_03.wav"
 	on_demand = yes
 }
 
-natural_death_female_04
+natural_death_female_04 =
 {
 	file = "natural_death_female_04.wav"
 	on_demand = yes
 }
 
-natural_death_female_05
+natural_death_female_05 =
 {
 	file = "natural_death_female_05.wav"
 	on_demand = yes
 }
 
-natural_death_male_0
+natural_death_male_0 =
 {
 	file = "natural_death_male_0.wav"
 	on_demand = yes
 }
 
-natural_death_male_01
+natural_death_male_01 =
 {
 	file = "natural_death_male_01.wav"
 	on_demand = yes
 }
 
-natural_death_male_02
+natural_death_male_02 =
 {
 	file = "natural_death_male_02.wav"
 	on_demand = yes
 }
 
-natural_death_male_03
+natural_death_male_03 =
 {
 	file = "natural_death_male_03.wav"
 	on_demand = yes
 }
 
-natural_death_male_04
+natural_death_male_04 =
 {
 	file = "natural_death_male_04.wav"
 	on_demand = yes
 }
 
-norse_sacrifice_female_01
+norse_sacrifice_female_01 =
 {
 	file = "norse_sacrifice_female_01.wav"
 	on_demand = yes
 }
 
-norse_sacrifice_female_02
+norse_sacrifice_female_02 =
 {
 	file = "norse_sacrifice_female_02.wav"
 	on_demand = yes
 }
 
-norse_sacrifice_male_01
+norse_sacrifice_male_01 =
 {
 	file = "norse_sacrifice_male_01.wav"
 	on_demand = yes
 }
 
-norse_sacrifice_male_02
+norse_sacrifice_male_02 =
 {
 	file = "norse_sacrifice_male_02.wav"
 	on_demand = yes
 }
 
-norse_sacrifice_male_03
+norse_sacrifice_male_03 =
 {
 	file = "norse_sacrifice_male_03.wav"
 	on_demand = yes
 }
 
-neutral_beheading_01
+neutral_beheading_01 =
 {
 	file = "neutral_beheading_01.wav"
 	on_demand = yes
@@ -1652,7 +1652,7 @@ air_raid_siren =
 {
 	file = "air_raid_siren.ogg"
 }
-craft_item = {
+craft_item = 
 {
 	file = "craft.ogg"
 }

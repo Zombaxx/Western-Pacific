@@ -1,0 +1,199 @@
+# Culture Treatment
+law_groups = {
+	peasant_taxing_law = {
+		law_type = obligations
+		left_value = LENIENT
+		right_value = HARSH
+		slider_sprite = GFX_tax_peasent_slider
+		allowed_for_councillors = no
+	}
+}
+
+laws = {
+	tax_peasants_law_feudal_0 = {
+		group = peasant_taxing_law
+		default = yes
+		
+		potential = {
+			has_dlc = "Zeus"
+			holder_scope = { is_feudal = yes }
+		}
+		allow = {
+			always = yes
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0.01
+			modifier = {
+				factor = 0
+				NOT = {
+					holder_scope = {
+						OR = {
+							is_republic = yes
+							is_nomadic = yes
+						}
+					}
+				}
+			}
+		}
+		ai_will_revoke = {
+			factor = 0
+		}
+		effect = {
+			hidden_tooltip = {
+				revoke_law = tax_peasants_law_feudal_1
+				revoke_law = tax_peasants_law_feudal_2
+				revoke_law = tax_peasants_law_feudal_3
+			}
+		}
+		global_tax_modifier = 0.10
+		global_revolt_risk = -0.01
+	}
+
+
+
+
+	
+	tax_peasants_law_feudal_1 = {
+		group = peasant_taxing_law
+		default = yes
+		potential = {
+			has_dlc = "Zeus"
+			OR = {
+				NOT = { tier = baron }
+				holder_scope = { is_patrician = yes }
+			}
+			holder_scope = { is_feudal = yes }
+		}
+		allow = {
+			OR = {
+				has_law = tax_peasants_law_feudal_0
+				has_law = tax_peasants_law_feudal_2
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0.01
+			modifier = {
+				factor = 0
+				NOT = {
+					holder_scope = {
+						OR = {
+							is_republic = yes
+							is_nomadic = yes
+						}
+					}
+				}
+			}
+		}
+		ai_will_revoke = {
+			factor = 0
+		}
+		effect = {
+			hidden_tooltip = {
+				revoke_law = tax_peasants_law_feudal_0
+				revoke_law = tax_peasants_law_feudal_2
+				revoke_law = tax_peasants_law_feudal_3
+			}
+		}
+		global_tax_modifier = 0.50
+		global_revolt_risk = 0.05
+	}
+	
+	tax_peasants_law_feudal_2 = {
+		group = peasant_taxing_law
+		
+		potential = {
+			has_dlc = "Zeus"
+			OR = {
+				NOT = { tier = baron }
+				holder_scope = { is_patrician = yes }
+			}
+			holder_scope = { is_feudal = yes }
+		}
+		allow = {
+			OR = {
+				has_law = tax_peasants_law_feudal_1
+				has_law = tax_peasants_law_feudal_3
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0.01
+			modifier = {
+				factor = 0
+				NOT = {
+					holder_scope = {
+						OR = {
+							is_republic = yes
+							is_nomadic = yes
+						}
+					}
+				}
+			}
+		}
+		ai_will_revoke = {
+			factor = 0
+		}
+		effect = {
+			hidden_tooltip = {
+				revoke_law = tax_peasants_law_feudal_1
+				revoke_law = tax_peasants_law_feudal_0
+				revoke_law = tax_peasants_law_feudal_3
+			}
+		}
+		global_tax_modifier = 1.50
+		global_revolt_risk = 0.15
+	}
+	
+	tax_peasants_law_feudal_3 = {
+		group = peasant_taxing_law
+		
+		potential = {
+			has_dlc = "Zeus"
+			OR = {
+				NOT = { tier = baron }
+				holder_scope = { is_patrician = yes }
+			}
+			holder_scope = { is_feudal = yes }
+		}
+		allow = {
+			has_law = tax_peasants_law_feudal_2
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0.01
+			modifier = {
+				factor = 0
+				NOT = {
+					holder_scope = {
+						OR = {
+							is_republic = yes
+							is_nomadic = yes
+						}
+					}
+				}
+			}
+		}
+		ai_will_revoke = {
+			factor = 0
+		}
+		effect = {
+			hidden_tooltip = {
+				revoke_law = tax_peasants_law_feudal_1
+				revoke_law = tax_peasants_law_feudal_2
+				revoke_law = tax_peasants_law_feudal_0
+			}
+		}
+		global_tax_modifier = 3
+		global_revolt_risk = 0.35
+	}
+}

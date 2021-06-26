@@ -3,7 +3,7 @@ namespace = steal_spouse_title
 character_event = {
 	id = steal_spouse_title.1
 	desc = "EVTDESCsteal_spouse_title.1"
-	gfx = GFX_evt_shadowy_cabal
+	picture = GFX_evt_shadowy_cabal
 	
 	is_triggered_only = yes
 	
