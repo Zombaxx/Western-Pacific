@@ -2,17 +2,14 @@ decisions = {
 	seek_higher_learning = {
 		is_high_prio = yes
 		potential = { 
-			age = 16
 			NOT = { age = 50 }
 			NOT = { has_character_flag = gone_college }
 			NOT = { has_character_modifier = college_educated }
-			capital_holding = { has_building = ca_recruitment_office }
+			NOT = { trait = trait_studying }
+			capital_scope = { has_building = ca_doctoral_program }
 		}
 		allow = {
-			wealth = 100
-			capital_holding = { has_building = ca_recruitment_office }
-		}
-		allow = {
+			age = 16
 			wealth = 100
 		}
 		effect = {
