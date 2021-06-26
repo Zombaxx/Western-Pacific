@@ -474,144 +474,8 @@ namespace = brothel
 		female = no
 		}	
 		new_character = {
+		add_character_modifier = { modifier = brothel_born years = 30 }
 		set_father = PREV 	
-		if = { limit = { PREV = { trait = strong } }
-			random = {
-				chance = 15
-				add_trait = strong } 
-				}
-				if = { limit = { PREV = { trait = quick } }
-			random = {
-				chance = 15
-				add_trait = quick } 
-				}
-				if = { limit = { PREV = { trait = genius } }
-			random = {
-				chance = 15
-				add_trait = genius } 
-				}
-				if = { limit = { PREV = { trait = weak } }
-			random = {
-				chance = 15
-				add_trait = weak } 
-				}
-				if = { limit = { PREV = { trait = lisp } }
-			random = {
-				chance = 5
-				add_trait = lisp } 
-				}
-				if = { limit = { PREV = { trait = tall } }
-			random = {
-				chance = 15
-				add_trait = tall } 
-				}
-				if = { limit = { PREV = { trait = fair } }
-			random = {
-				chance = 15
-				add_trait = fair } 
-				}
-				if = { limit = { PREV = { trait = imbecile } }
-			random = {
-				chance = 1
-				add_trait = imbecile } 
-				}
-				if = { limit = { PREV = { trait = slow } }
-			random = {
-				chance = 15
-				add_trait = slow } 
-				}
-				if = { limit = { PREV = { trait = ugly } }
-			random = {
-				chance = 15
-				add_trait = ugly } 
-				}
-				if = { limit = { PREV = { trait = dwarf } }
-			random = {
-				chance = 15
-				add_trait = dwarf } 
-				}
-				if = { limit = { PREV = { trait = stutter } }
-			random = {
-				chance = 15
-				add_trait = stutter } 
-				}
-				if = { limit = { PREV = { trait = harelip } }
-			random = {
-				chance = 15
-				add_trait = harelip } 
-				}
-				if = { limit = { PREV = { trait = clubfooted } }
-			random = {
-				chance = 15
-				add_trait = clubfooted } 
-				}
-				if = { limit = { PREV = { trait = hunchback } }
-			random = {
-				chance = 15
-				add_trait = hunchback } 
-				}
-				if = { limit = { PREV = { trait = inbred } }
-			random = {
-				chance = 25
-				add_trait = inbred } 
-				}
-				if = { limit = { PREV = { trait = bracken } }
-				add_trait = bracken 
-				}
-				if = { limit = { PREV = { trait = blackwood } }
-				add_trait = blackwood 
-				}
-				if = { limit = { PREV = { has_character_flag = targaryen } }
-				set_character_flag = targaryen 
-				} 	
-				if = { 	limit = {
-								OR = {
-									PREV = { location = { kingdom = { title = k_north } } }
-									PREV = { location = { duchy = { title = d_nightswatch } } }
-								}	
-							}
-							give_nickname = nick_snow
-							}	
-							if = { 	limit = {
-								PREV = { location = { kingdom = { title = k_riverlands } } }
-							}
-							give_nickname = nick_rivers
-							}
-							if = { 	limit = {
-								PREV = { location = { kingdom = { title = k_vale } } }
-							}	
-							give_nickname = nick_stone
-							}
-							if = { 	limit = {
-								PREV = { location = { kingdom = { title = k_westerlands } } }
-							}
-							give_nickname = nick_hill
-							}
-							if = { 	limit = {
-								PREV = { location = { kingdom = { title = k_reach } } }
-							}
-							give_nickname = nick_flowers
-							}
-							if = { 	limit = {
-								PREV = { location = { kingdom = { title = k_stormlands } } }
-							}
-							give_nickname = nick_storm
-							}
-							if = { 	limit = {
-								PREV = { location = { kingdom = { title = k_crownlands } } }
-							}
-							give_nickname = nick_waters
-							}	
-							if = { 	limit = {
-								PREV = { location = { kingdom = { title = k_dorne } } }
-							}
-							give_nickname = nick_sand
-							}
-							if = { 	limit = {
-								PREV = { location = { kingdom = { title = k_iron_isles } } }
-							}
-							give_nickname = nick_pyke
-							}
 			}
 		}	
 		
@@ -641,7 +505,6 @@ namespace = brothel
 		random = {
 			chance = 25
 			add_trait = deceitful }
-		hidden_tooltip = {
 		create_character = {
 		age = 0
 		dynasty = NONE
@@ -649,158 +512,8 @@ namespace = brothel
 		female = no
 		}	
 		new_character = {
+		add_character_modifier = { modifier = brothel_born years = 30 }
 		set_father = PREV 
-		if = { limit = { PREV = { trait = strong } }
-			random = {
-				chance = 15
-				add_trait = strong } 
-				}
-				if = { limit = { PREV = { trait = quick } }
-			random = {
-				chance = 15
-				add_trait = quick } 
-				}
-				if = { limit = { PREV = { trait = genius } }
-			random = {
-				chance = 15
-				add_trait = genius } 
-				}
-				if = { limit = { PREV = { trait = weak } }
-			random = {
-				chance = 15
-				add_trait = weak } 
-				}
-				if = { limit = { PREV = { trait = lisp } }
-			random = {
-				chance = 15
-				add_trait = lisp } 
-				}
-				if = { limit = { PREV = { trait = tall } }
-			random = {
-				chance = 15
-				add_trait = tall } 
-				}
-				if = { limit = { PREV = { trait = fair } }
-			random = {
-				chance = 15
-				add_trait = fair } 
-				}
-				if = { limit = { PREV = { trait = imbecile } }
-			random = {
-				chance = 15
-				add_trait = imbecile } 
-				}
-				if = { limit = { PREV = { trait = slow } }
-			random = {
-				chance = 15
-				add_trait = slow } 
-				}
-				if = { limit = { PREV = { trait = ugly } }
-			random = {
-				chance = 15
-				add_trait = ugly } 
-				}
-				if = { limit = { PREV = { trait = dwarf } }
-			random = {
-				chance = 15
-				add_trait = dwarf } 
-				}
-				if = { limit = { PREV = { trait = stutter } }
-			random = {
-				chance = 15
-				add_trait = stutter } 
-				}
-				if = { limit = { PREV = { trait = harelip } }
-			random = {
-				chance = 15
-				add_trait = harelip } 
-				}
-				if = { limit = { PREV = { trait = clubfooted } }
-			random = {
-				chance = 15
-				add_trait = clubfooted } 
-				}
-				if = { limit = { PREV = { trait = hunchback } }
-			random = {
-				chance = 15
-				add_trait = hunchback } 
-				}
-				if = { limit = { PREV = { trait = inbred } }
-			random = {
-				chance = 25
-				add_trait = inbred } 
-				}
-				if = { limit = { PREV = { trait = bracken } }
-				add_trait = bracken 
-				}
-				if = { limit = { PREV = { trait = blackwood } }
-				add_trait = blackwood 
-				}
-				if = { limit = { PREV = { OR = { has_character_flag = targaryen
-												 dynasty = 57
-												 dynasty = 496 } }
-				}
-				set_character_flag = targaryen
-				}
-							if = { 	limit = {
-								OR = {
-									PREV = { location = { kingdom = { title = k_north } } }
-									PREV = { location = { duchy = { title = d_nightswatch } } }
-								}	
-							}
-							give_nickname = nick_snow
-							}	
-							if = { 	limit = {
-								PREV = { location = { kingdom = { title = k_riverlands } } }
-							}
-							give_nickname = nick_rivers
-							}
-							if = { 	limit = {
-								PREV = { location = { kingdom = { title = k_vale } } }
-							}	
-							give_nickname = nick_stone
-							}
-							if = { 	limit = {
-								PREV = { location = { kingdom = { title = k_westerlands } } }
-							}
-							give_nickname = nick_hill
-							}
-							if = { 	limit = {
-								PREV = { location = { kingdom = { title = k_reach } } }
-							}
-							give_nickname = nick_flowers
-							}
-							if = { 	limit = {
-								PREV = { location = { kingdom = { title = k_stormlands } } }
-							}
-							give_nickname = nick_storm
-							}
-							if = { 	limit = {
-								PREV = { location = { kingdom = { title = k_crownlands } } }
-							}
-							give_nickname = nick_waters
-							}	
-							if = { 	limit = {
-								PREV = { location = { kingdom = { title = k_dorne } } }
-							}
-							give_nickname = nick_sand
-							}
-							if = { 	limit = {
-								PREV = { location = { kingdom = { title = k_iron_isles } } }
-							}
-							give_nickname = nick_pyke
-							}
-		random_list = {
-			10 = { k_pentos = { holder_scope = { reverse_banish = PREVPREV } } }
-			10 = { k_braavos = { holder_scope = { reverse_banish = PREVPREV } } }
-			10 = { k_lys = { holder_scope = { reverse_banish = PREVPREV } } }
-			10 = { k_qohor = { holder_scope = { reverse_banish = PREVPREV } } }
-			10 = { k_norvos = { holder_scope = { reverse_banish = PREVPREV } } }
-			10 = { k_myr = { holder_scope = { reverse_banish = PREVPREV } } }
-			10 = { k_tyrosh = { holder_scope = { reverse_banish = PREVPREV } } }
-			10 = { k_volantis = { holder_scope = { reverse_banish = PREVPREV } } }
-			10 = { k_lorath = { holder_scope = { reverse_banish = PREVPREV } } } }
-				}	
 			}
 		}
 		
@@ -814,7 +527,7 @@ namespace = brothel
 		hidden_tooltip = { 
 		random = {
 		chance = 75
-		character_event = { id = brothel.12 years = 12 } }
+		character_event = { id = brothel.12 years = 16 } }
 			}
 		}	
 	}	
@@ -840,147 +553,8 @@ namespace = brothel
 		female = yes
 		} 
 		new_character = {
+		add_character_modifier = { modifier = brothel_born years = 20 }
 		set_father = PREV
-		if = { limit = { PREV = { trait = strong } }
-			random = {
-				chance = 15
-				add_trait = strong } 
-				}
-				if = { limit = { PREV = { trait = quick } }
-			random = {
-				chance = 15
-				add_trait = quick } 
-				}
-				if = { limit = { PREV = { trait = genius } }
-			random = {
-				chance = 15
-				add_trait = genius } 
-				}
-				if = { limit = { PREV = { trait = weak } }
-			random = {
-				chance = 15
-				add_trait = weak } 
-				}
-				if = { limit = { PREV = { trait = lisp } }
-			random = {
-				chance = 15
-				add_trait = lisp } 
-				}
-				if = { limit = { PREV = { trait = tall } }
-			random = {
-				chance = 15
-				add_trait = tall } 
-				}
-				if = { limit = { PREV = { trait = fair } }
-			random = {
-				chance = 15
-				add_trait = fair } 
-				}
-				if = { limit = { PREV = { trait = imbecile } }
-			random = {
-				chance = 15
-				add_trait = imbecile } 
-				}
-				if = { limit = { PREV = { trait = slow } }
-			random = {
-				chance = 15
-				add_trait = slow } 
-				}
-				if = { limit = { PREV = { trait = ugly } }
-			random = {
-				chance = 15
-				add_trait = ugly } 
-				}
-				if = { limit = { PREV = { trait = dwarf } }
-			random = {
-				chance = 15
-				add_trait = dwarf } 
-				}
-				if = { limit = { PREV = { trait = stutter } }
-			random = {
-				chance = 15
-				add_trait = stutter } 
-				}
-				if = { limit = { PREV = { trait = harelip } }
-			random = {
-				chance = 15
-				add_trait = harelip } 
-				}
-				if = { limit = { PREV = { trait = clubfooted } }
-			random = {
-				chance = 15
-				add_trait = clubfooted } 
-				}
-				if = { limit = { PREV = { trait = hunchback } }
-			random = {
-				chance = 15
-				add_trait = hunchback } 
-				}
-				if = { limit = { PREV = { trait = inbred } }
-			random = {
-				chance = 25
-				add_trait = inbred } 
-				}
-				if = { limit = { PREV = { trait = bracken } }
-				add_trait = bracken 
-				}
-				if = { limit = { PREV = { trait = blackwood } }
-				add_trait = blackwood 
-				}
-				if = { limit = { PREV = { OR = { has_character_flag = targaryen
-												 dynasty = 57
-												 dynasty = 496 } }
-				}
-				set_character_flag = targaryen
-				}
-				if = { 	limit = {
-							OR = {
-								PREV = { location = { kingdom = { title = k_north } } }
-								PREV = { location = { duchy = { title = d_nightswatch } } }
-							}	
-						}
-						give_nickname = nick_snow
-				}	
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_riverlands } } }
-						}
-						give_nickname = nick_rivers
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_vale } } }
-						}
-						give_nickname = nick_stone
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_westerlands } } }
-						}
-						give_nickname = nick_hill
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_reach } } }
-						}
-						give_nickname = nick_flowers
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_stormlands } } }
-						}
-						give_nickname = nick_storm
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_crownlands } } }
-						}
-						give_nickname = nick_waters
-				}	
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_dorne } } }
-						}
-						give_nickname = nick_sand
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_iron_isles } } }
-						}
-						give_nickname = nick_pyke
-				}
 			}
 		}
 
@@ -1010,7 +584,6 @@ namespace = brothel
 		random = {
 			chance = 25
 			add_trait = deceitful }
-		hidden_tooltip = {	
 		create_character = {
 		age = 0
 		dynasty = NONE
@@ -1018,158 +591,8 @@ namespace = brothel
 		female = yes
 		}	
 		new_character = {
+		add_character_modifier = { modifier = brothel_born years = 20 }
 		set_father = PREV
-		if = { limit = { PREV = { trait = strong } }
-			random = {
-				chance = 15
-				add_trait = strong } 
-				}
-				if = { limit = { PREV = { trait = quick } }
-			random = {
-				chance = 15
-				add_trait = quick } 
-				}
-				if = { limit = { PREV = { trait = genius } }
-			random = {
-				chance = 15
-				add_trait = genius } 
-				}
-				if = { limit = { PREV = { trait = weak } }
-			random = {
-				chance = 15
-				add_trait = weak } 
-				}
-				if = { limit = { PREV = { trait = lisp } }
-			random = {
-				chance = 15
-				add_trait = lisp } 
-				}
-				if = { limit = { PREV = { trait = tall } }
-			random = {
-				chance = 15
-				add_trait = tall } 
-				}
-				if = { limit = { PREV = { trait = fair } }
-			random = {
-				chance = 15
-				add_trait = fair } 
-				}
-				if = { limit = { PREV = { trait = imbecile } }
-			random = {
-				chance = 15
-				add_trait = imbecile } 
-				}
-				if = { limit = { PREV = { trait = slow } }
-			random = {
-				chance = 15
-				add_trait = slow } 
-				}
-				if = { limit = { PREV = { trait = ugly } }
-			random = {
-				chance = 15
-				add_trait = ugly } 
-				}
-				if = { limit = { PREV = { trait = dwarf } }
-			random = {
-				chance = 15
-				add_trait = dwarf } 
-				}
-				if = { limit = { PREV = { trait = stutter } }
-			random = {
-				chance = 15
-				add_trait = stutter } 
-				}
-				if = { limit = { PREV = { trait = harelip } }
-			random = {
-				chance = 15
-				add_trait = harelip } 
-				}
-				if = { limit = { PREV = { trait = clubfooted } }
-			random = {
-				chance = 15
-				add_trait = clubfooted } 
-				}
-				if = { limit = { PREV = { trait = hunchback } }
-			random = {
-				chance = 15
-				add_trait = hunchback } 
-				}
-				if = { limit = { PREV = { trait = inbred } }
-			random = {
-				chance = 25
-				add_trait = inbred } 
-				}
-				if = { limit = { PREV = { trait = bracken } }
-				add_trait = bracken 
-				}
-				if = { limit = { PREV = { trait = blackwood } }
-				add_trait = blackwood 
-				}
-				if = { limit = { PREV = { OR = { has_character_flag = targaryen
-												 dynasty = 57
-												 dynasty = 496 } }
-				}
-				set_character_flag = targaryen
-				}
-				if = { 	limit = {
-							OR = {
-								PREV = { location = { kingdom = { title = k_north } } }
-								PREV = { location = { duchy = { title = d_nightswatch } } }
-							}	
-						}
-						give_nickname = nick_snow
-				}	
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_riverlands } } }
-						}
-						give_nickname = nick_rivers
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_vale } } }
-						}
-						give_nickname = nick_stone
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_westerlands } } }
-						}
-						give_nickname = nick_hill
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_reach } } }
-						}
-						give_nickname = nick_flowers
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_stormlands } } }
-						}
-						give_nickname = nick_storm
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_crownlands } } }
-						}
-						give_nickname = nick_waters
-				}	
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_dorne } } }
-						}
-						give_nickname = nick_sand
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_iron_isles } } }
-						}
-						give_nickname = nick_pyke
-				}
-		random_list = {
-			10 = { k_pentos = { holder_scope = { reverse_banish = PREVPREV } } }
-			10 = { k_braavos = { holder_scope = { reverse_banish = PREVPREV } } }
-			10 = { k_lys = { holder_scope = { reverse_banish = PREVPREV } } }
-			10 = { k_qohor = { holder_scope = { reverse_banish = PREVPREV } } }
-			10 = { k_norvos = { holder_scope = { reverse_banish = PREVPREV } } }
-			10 = { k_myr = { holder_scope = { reverse_banish = PREVPREV } } }
-			10 = { k_tyrosh = { holder_scope = { reverse_banish = PREVPREV } } }
-			10 = { k_volantis = { holder_scope = { reverse_banish = PREVPREV } } }
-			10 = { k_lorath = { holder_scope = { reverse_banish = PREVPREV } } } }
-				}	
 			}
 		}
 		
@@ -1183,7 +606,7 @@ namespace = brothel
 		hidden_tooltip = { 
 		random = {
 		chance = 75
-		character_event = { id = brothel.13 years = 12} }
+		character_event = { id = brothel.13 years = 16} }
 			}
 		}
 	}	
@@ -1256,7 +679,7 @@ namespace = brothel
 	character_event = {
 		id = brothel.12 #brothel.12
 		desc = "EVTDESCBASTARDUNCOVEREDMALE"
-		picture = GFX_evt_whispers
+		picture = GFX_roy_ruler
 		
 		is_triggered_only = yes
 		
@@ -1268,153 +691,14 @@ namespace = brothel
 		
 		create_character = {
 		random_traits = yes
-		age = 12
+		age = 16
 		dynasty = NONE
 		trait = bastard
 		female = no
 		} 
 		new_character = {
+		add_character_modifier = { modifier = brothel_born years = 14 }
 		set_father = PREV
-		if = { limit = { PREV = { trait = strong } }
-			random = {
-				chance = 15
-				add_trait = strong } 
-				}
-				if = { limit = { PREV = { trait = quick } }
-			random = {
-				chance = 15
-				add_trait = quick } 
-				}
-				if = { limit = { PREV = { trait = genius } }
-			random = {
-				chance = 15
-				add_trait = genius } 
-				}
-				if = { limit = { PREV = { trait = weak } }
-			random = {
-				chance = 15
-				add_trait = weak } 
-				}
-				if = { limit = { PREV = { trait = lisp } }
-			random = {
-				chance = 15
-				add_trait = lisp } 
-				}
-				if = { limit = { PREV = { trait = tall } }
-			random = {
-				chance = 15
-				add_trait = tall } 
-				}
-				if = { limit = { PREV = { trait = fair } }
-			random = {
-				chance = 15
-				add_trait = fair } 
-				}
-				if = { limit = { PREV = { trait = imbecile } }
-			random = {
-				chance = 15
-				add_trait = imbecile } 
-				}
-				if = { limit = { PREV = { trait = slow } }
-			random = {
-				chance = 15
-				add_trait = slow } 
-				}
-				if = { limit = { PREV = { trait = ugly } }
-			random = {
-				chance = 15
-				add_trait = ugly } 
-				}
-				if = { limit = { PREV = { trait = dwarf } }
-			random = {
-				chance = 15
-				add_trait = dwarf } 
-				}
-				if = { limit = { PREV = { trait = stutter } }
-			random = {
-				chance = 15
-				add_trait = stutter } 
-				}
-				if = { limit = { PREV = { trait = harelip } }
-			random = {
-				chance = 15
-				add_trait = harelip } 
-				}
-				if = { limit = { PREV = { trait = clubfooted } }
-			random = {
-				chance = 15
-				add_trait = clubfooted } 
-				}
-				if = { limit = { PREV = { trait = hunchback } }
-			random = {
-				chance = 15
-				add_trait = hunchback } 
-				}
-				if = { limit = { PREV = { trait = inbred } }
-			random = {
-				chance = 25
-				add_trait = inbred } 
-				}
-				if = { limit = { PREV = { trait = bracken } }
-				add_trait = bracken 
-				}
-				if = { limit = { PREV = { trait = blackwood } }
-				add_trait = blackwood 
-				}
-				if = { limit = { PREV = { OR = { has_character_flag = targaryen
-												 dynasty = 57
-												 dynasty = 496 } }
-				}
-				set_character_flag = targaryen								
-				}
-				if = { 	limit = {
-							OR = {
-								PREV = { location = { kingdom = { title = k_north } } }
-								PREV = { location = { duchy = { title = d_nightswatch } } }
-							}	
-						}
-						give_nickname = nick_snow
-				}	
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_riverlands } } }
-						}
-						give_nickname = nick_rivers
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_vale } } }
-						}
-						give_nickname = nick_stone
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_westerlands } } }
-						}
-						give_nickname = nick_hill
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_reach } } }
-						}
-						give_nickname = nick_flowers
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_stormlands } } }
-						}
-						give_nickname = nick_storm
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_crownlands } } }
-						}
-						give_nickname = nick_waters
-				}	
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_dorne } } }
-						}
-						give_nickname = nick_sand
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_iron_isles } } }
-						}
-						give_nickname = nick_pyke
-						}
 				}
 			}
 			
@@ -1433,7 +717,7 @@ namespace = brothel
 character_event = {
 		id = brothel.13 #brothel.13
 		desc = "EVTDESCBASTARDUNCOVEREDFEMALE"
-		picture = GFX_evt_whispers
+		picture = GFX_roy_spouse
 		
 		is_triggered_only = yes
 		
@@ -1445,153 +729,14 @@ character_event = {
 		
 		create_character = {
 		random_traits = yes
-		age = 12
+		age = 16
 		dynasty = NONE
 		trait = bastard
 		female = yes
 		} 
 		new_character = {
+		add_character_modifier = { modifier = brothel_born years = 14 }
 		set_father = PREV
-		if = { limit = { PREV = { trait = strong } }
-			random = {
-				chance = 15
-				add_trait = strong } 
-				}
-				if = { limit = { PREV = { trait = quick } }
-			random = {
-				chance = 15
-				add_trait = quick } 
-				}
-				if = { limit = { PREV = { trait = genius } }
-			random = {
-				chance = 15
-				add_trait = genius } 
-				}
-				if = { limit = { PREV = { trait = weak } }
-			random = {
-				chance = 15
-				add_trait = weak } 
-				}
-				if = { limit = { PREV = { trait = lisp } }
-			random = {
-				chance = 15
-				add_trait = lisp } 
-				}
-				if = { limit = { PREV = { trait = tall } }
-			random = {
-				chance = 15
-				add_trait = tall } 
-				}
-				if = { limit = { PREV = { trait = fair } }
-			random = {
-				chance = 15
-				add_trait = fair } 
-				}
-				if = { limit = { PREV = { trait = imbecile } }
-			random = {
-				chance = 15
-				add_trait = imbecile } 
-				}
-				if = { limit = { PREV = { trait = slow } }
-			random = {
-				chance = 15
-				add_trait = slow } 
-				}
-				if = { limit = { PREV = { trait = ugly } }
-			random = {
-				chance = 15
-				add_trait = ugly } 
-				}
-				if = { limit = { PREV = { trait = dwarf } }
-			random = {
-				chance = 15
-				add_trait = dwarf } 
-				}
-				if = { limit = { PREV = { trait = stutter } }
-			random = {
-				chance = 15
-				add_trait = stutter } 
-				}
-				if = { limit = { PREV = { trait = harelip } }
-			random = {
-				chance = 15
-				add_trait = harelip } 
-				}
-				if = { limit = { PREV = { trait = clubfooted } }
-			random = {
-				chance = 15
-				add_trait = clubfooted } 
-				}
-				if = { limit = { PREV = { trait = hunchback } }
-			random = {
-				chance = 15
-				add_trait = hunchback } 
-				}
-				if = { limit = { PREV = { trait = inbred } }
-			random = {
-				chance = 25
-				add_trait = inbred } 
-				}
-				if = { limit = { PREV = { trait = bracken } }
-				add_trait = bracken 
-				}
-				if = { limit = { PREV = { trait = blackwood } }
-				add_trait = blackwood 
-				}
-				if = { limit = { PREV = { OR = { has_character_flag = targaryen
-												 dynasty = 57
-												 dynasty = 496 } }
-				}								 
-				set_character_flag = targaryen 
-				}
-				if = { 	limit = {
-							OR = {
-								PREV = { location = { kingdom = { title = k_north } } }
-								PREV = { location = { duchy = { title = d_nightswatch } } }
-							}	
-						}
-						give_nickname = nick_snow
-				}	
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_riverlands } } }
-						}
-						give_nickname = nick_rivers
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_vale } } }
-						}
-						give_nickname = nick_stone
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_westerlands } } }
-						}
-						give_nickname = nick_hill
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_reach } } }
-						}
-						give_nickname = nick_flowers
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_stormlands } } }
-						}
-						give_nickname = nick_storm
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_crownlands } } }
-						}
-						give_nickname = nick_waters
-				}	
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_dorne } } }
-						}
-						give_nickname = nick_sand
-				}
-				if = { 	limit = {
-							PREV = { location = { kingdom = { title = k_iron_isles } } }
-						}
-						give_nickname = nick_pyke
-						}
 				}
 			}
 			

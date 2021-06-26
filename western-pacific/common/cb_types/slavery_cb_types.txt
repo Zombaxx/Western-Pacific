@@ -217,6 +217,10 @@ slave_raid = {
 			ROOT = { trait = cruel }
 		}
 		modifier = {
+			factor = 5 # gotta grab up some slaves
+			ROOT = { trait = trait_slaver }
+		}
+		modifier = {
 			factor = 0 # cowards and cripples need not apply
 			ROOT = { 
 				OR = { 
@@ -236,6 +240,14 @@ slave_raid = {
 			FROM = { NOT = { culture = ROOT } }
 		}	
 		modifier = {
+			factor = 0.5 # prefer to raid infidels
+			FROM = { religion = ROOT }
+		}
+		modifier = {
+			factor = 0.5 # prefer to raid foreigners
+			FROM = { culture = ROOT } 
+		}
+		modifier = {
 			factor = 2
 			ROOT = { 
 				OR = { 
@@ -250,20 +262,20 @@ anti_slavery = {
 	name = CB_NAME_ANTISLAVERY
 	war_name = WAR_NAME_ANTISLAVERY
 	sprite = 9
-	truce_days = 3650
-	hostile_against_others = yes
-	is_permanent = yes
-	check_all_titles = yes # if permanent, setting this to true will check against all of someones titles, including vassal held titles
+	truce_days = 7300
 	press_claim = yes
+	is_permanent = yes
+	hostile_against_others = yes
 	can_ask_to_join_war = yes
-	allowed_to_target_suzerains = no
+	can_call_allies = yes
+	can_call_vassals = yes
 	battle_warscore_mult = 2.0
 
 	allowed_to_target_tributaries = no
 	defender_can_call_allies = yes
 	can_call_vassals = yes
 
-	max_attacker_battle_score = 100
+	max_attacker_battle_score = 75
 	max_defender_battle_score = 100
 	infamy_modifier = 0.15
 
@@ -274,10 +286,10 @@ anti_slavery = {
 			mercenary = no
 			is_ruler = yes
 			higher_real_tier_than = COUNT
-			NOT = { trait  = trait_slaver }
 			NOT = {
 				crownlaw_title = {
 					OR = {
+						has_law = slavery_1
 						has_law = slavery_2
 						has_law = slavery_3
 					}
@@ -293,6 +305,7 @@ anti_slavery = {
 			higher_real_tier_than = COUNT
 			crownlaw_title = {
 				OR = {
+					has_law = slavery_1
 					has_law = slavery_2
 					has_law = slavery_3
 				}
@@ -308,85 +321,44 @@ anti_slavery = {
 			}
 		}
 	}
-	can_use_title = {
-		ROOT = { 
-			NOT = { trait = trait_slaver } 
-		}
-		ROOT = {
-			OR = {
-				primary_title = { has_law = slavery_0 }
-				lower_tier_than = EMPEROR
-			}	
-		}
-		FROM = {
-			has_landed_title = PREV
-		}
-		OR = { #Must either be liberator, or target broke anti-slavery treaty
-			ROOT = { trait = liberator }
-			FROM = { primary_title = { has_law = slavery_3 } }
-		}
-		is_primary_holder_title = yes
-		OR = {
-			AND = {
-				higher_tier_than = DUKE
-				has_law = slavery_2
-			}
-			holder_scope = { #Can target independent slavers with no crown law
-				NOT = { crownlaw_title = { always = yes } }
-				independent = yes
-				NOT = { trait = liberator }
-				OR = {
-					has_slavery_culture_trigger = yes
-					has_slavery_religion_trigger = yes
-				}	
-			}
-		}			
-	}
 
 	is_valid = {
 		ROOT = {
-			mercenary = no
 			is_ruler = yes
 			higher_real_tier_than = COUNT
 			NOT = {
 				crownlaw_title = {
 					OR = {
-						has_law = slavery_3
+						has_law = slavery_1
 						has_law = slavery_2
+						has_law = slavery_3
 					}
 				}
 			}
 		}
 		FROM = {
-			mercenary = no
 			independent = yes
 			higher_real_tier_than = COUNT
 			crownlaw_title = {
 				OR = {
+					has_law = slavery_1
 					has_law = slavery_2
 					has_law = slavery_3
 				}
 			}
 		}
 	}
-	is_valid_title = {
-		ROOT = { 
-			OR = {
-				any_demesne_title = { has_law = slavery_0 }
-				lower_tier_than = KING
-				trait = liberator
-			}
-		}	
-		FROM = {
-			has_landed_title = PREV
-		}	
-	}
-	
 
 	on_success = {
 		ROOT = {
 			prestige = 100
+		if = { 
+			limit = { NOT = { trait = liberator }  }
+			character_event = {
+				id = Ac.7780
+			}
 		}
+	}
 		FROM = {
 			crownlaw_title = {
 				IF = {
@@ -404,14 +376,14 @@ anti_slavery = {
 						any_realm_province = {
 							limit = {
 								OR = {
-									has_building = ca_slave_hold_1
-									has_building = ca_slave_hold_2
-									has_building = ca_slave_hold_3
+									has_province_modifier = slave_host_1
+									has_province_modifier = slave_host_2
+									has_province_modifier = slave_host_3
 								}
 							}
-							remove_building = ca_slave_hold_1
-							remove_building = ca_slave_hold_2
-							remove_building = ca_slave_hold_3
+							remove_province_modifier = slave_host_1
+							remove_province_modifier = slave_host_2
+							remove_province_modifier = slave_host_3
 						}
 					}
 				}
@@ -425,14 +397,14 @@ anti_slavery = {
 						any_realm_province = {
 							limit = {
 								OR = {
-									has_building = ca_slave_hold_1
-									has_building = ca_slave_hold_2
-									has_building = ca_slave_hold_3
+									has_province_modifier = slave_host_1
+									has_province_modifier = slave_host_2
+									has_province_modifier = slave_host_3
 								}
 							}
-							remove_building = ca_slave_hold_1
-							remove_building = ca_slave_hold_2
-							remove_building = ca_slave_hold_3
+							remove_province_modifier = slave_host_1
+							remove_province_modifier = slave_host_2
+							remove_province_modifier = slave_host_3
 						}
 					}
 				}
@@ -497,6 +469,10 @@ anti_slavery = {
 			ROOT = { trait = liberator }
 		}
 		modifier = {
+			factor = 5 # gotta free them slaves
+			ROOT = { trait = ambitious }
+		}
+		modifier = {
 			factor = 0 # cowards and cripples need not apply
 			ROOT = { 
 				OR = { 
@@ -508,13 +484,21 @@ anti_slavery = {
 			}
 		}	
 		modifier = {
+			factor = 0.5 # prefer to liberate same culture
+			FROM = { NOT = { culture = ROOT } }
+		}
+		modifier = {
 			factor = 1.5 # prefer not to have slaver neighbors
 			FROM = { religion = ROOT }
 		}
 		modifier = {
-			factor = 1.5 # prefer not to have slaver neighbors
+			factor = 1.5 # prefer to liberate same culture
 			FROM = { culture = ROOT }
-		}	
+		}		
+		modifier = {
+			factor = 0.5 # Hey we're not running a charity here
+			ROOT = { NOT = { trait = ambitious } }
+		}
 		modifier = {
 			factor = 2
 			ROOT = { 

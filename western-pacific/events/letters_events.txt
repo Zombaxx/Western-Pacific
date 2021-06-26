@@ -1,0 +1,481 @@
+namespace = lettersoc
+########################
+# Secret Society
+########################
+character_event = {
+	id = "lettersoc.0"
+	desc = "EVTDESClettersoc.0"
+	picture = GFX_roy_raventower
+	
+	is_triggered_only = yes
+	
+
+		option = {
+		name = EVTOPTAlettersoc.0
+		custom_tooltip = { text = letternic }
+		wealth = -5
+		hidden_tooltip = {
+		random_list = {
+			8 = { 
+			character_event = { id = secretletter.6 days = 14 }
+			}
+			2 = { 
+			character_event = { id = secretletter.7 days = 14 } 
+			}
+		}
+	}
+}
+		option = {
+		name = EVTOPTBlettersoc.0
+		custom_tooltip = { text = lettermea }
+		wealth = -5
+		hidden_tooltip = {
+		random_list = {
+			9 = { 
+			character_event = { id = secretletter.8 days = 14 }
+			}
+			1 = { 
+			character_event = { id = secretletter.7 days = 14 } 
+			}
+		}
+	}
+}
+		option = {
+		name = EVTOPTClettersoc.0
+		custom_tooltip = { text = lettersecc }
+		trigger = {
+		FROM = { NOT = { has_character_modifier = society_member } }
+			}
+		wealth = -5
+		random_list = {
+			45 = { 
+					modifier = {
+						factor = 1.25
+						FROM = { opinion = { who = ROOT value =  40 } }
+					}	
+					modifier = {
+						factor = 1.25
+						FROM = { is_friend = ROOT }
+					}
+					modifier = {
+						factor = 1.25
+						ROOT = { intrigue = 10 }
+					}
+					modifier = {
+						factor = 1.25
+						ROOT = { intrigue = 12 }
+					}
+					modifier = {
+						factor = 1.35
+						ROOT = { intrigue = 15 }
+					}
+					modifier = {
+						factor = 1.5
+						ROOT = { intrigue = 18 }
+					}				
+					modifier = {
+						factor = 1.75
+						ROOT = { intrigue = 21 }
+					}
+			custom_tooltip = { text = secretlett1 }
+			character_event = { id = secretletter.00 days = 14 }
+			}
+			55 = { 
+					modifier = {
+						factor = 1.25
+						NOT = { opinion = { who = ROOT value =  40 } }
+					}	
+					modifier = {
+						factor = 1.25
+						NOT = { is_friend = ROOT }
+					}
+					modifier = {
+						factor = 1.25
+						ROOT = { NOT = { intrigue = 8 } }
+					}
+					modifier = {
+						factor = 1.35
+						ROOT = { NOT = { intrigue = 6 } }
+					}
+					modifier = {
+						factor = 1.5
+						ROOT = { NOT = { intrigue = 4 } }
+					}				
+					modifier = {
+						factor = 1.75
+						ROOT = { NOT = { intrigue = 2 } }
+					}
+					modifier = {
+						factor = 1.5
+						ROOT = { trait = honest }
+					}
+					modifier = {
+						factor = 9.45
+						FROM = { is_ruler = yes }
+					}	
+				custom_tooltip = { text = secretlett2 }
+				character_event = { id = secretletter.7 days = 14 }
+			}
+		}
+	}
+		option = {
+		name = EVTOPTElettersoc.0
+		trigger = {
+		ROOT = {
+			OR = {
+				is_primary_war_defender = yes
+				is_primary_war_attacker = yes
+			}
+		}
+		FROM = { 
+			is_ruler = yes
+			war = no 
+			}
+		}
+		custom_tooltip = { text = letterhelp }
+		wealth = -5
+		hidden_tooltip = {
+		random_list = {
+			6 = { 
+					modifier = {
+						factor = 1.25
+						ROOT = { intrigue = 10 }
+					}
+					modifier = {
+						factor = 1.25
+						ROOT = { intrigue = 12 }
+					}
+					modifier = {
+						factor = 1.35
+						ROOT = { intrigue = 15 }
+					}
+					modifier = {
+						factor = 1.5
+						ROOT = { intrigue = 18 }
+					}				
+					modifier = {
+						factor = 1.75
+						ROOT = { intrigue = 21 }
+					}
+					modifier = {
+						factor = 1.25
+						opinion = { who = ROOT value =  60 }
+					}	
+					modifier = {
+						factor = 3.25
+						FROM = { is_friend = ROOT }
+					}
+					modifier = {
+						factor = 1
+						FROM = { culture = ROOT }
+					}
+					modifier = {
+						factor = 1.55
+						FROM = { religion = ROOT }
+					}
+			character_event = { id = secretletter.5 days = 14 }
+			}
+			4 = { 
+					modifier = {
+						factor = 1.25
+						NOT = { intrigue = 8 }
+					}
+					modifier = {
+						factor = 1.35
+						NOT = { intrigue = 6 }
+					}
+					modifier = {
+						factor = 1.5
+						NOT = { intrigue = 4 }
+					}				
+					modifier = {
+						factor = 1.75
+						NOT = { intrigue = 2 }
+					}
+					modifier = {
+						factor = 1.25
+						NOT = { opinion = { who = ROOT value =  60 } }
+					}	
+					modifier = {
+						factor = 2.25
+						FROM = { NOT = { is_friend = ROOT } }
+					}
+					modifier = {
+						factor = 1.25
+						FROM = { NOT = { culture = ROOT } }
+					}
+					modifier = {
+						factor = 1.55
+						FROM = { NOT = { religion = ROOT } }
+					}
+					modifier = {
+						factor = 1.5
+						ROOT = { trait = weak }
+					}
+
+			character_event = { id = secretletter.7 days = 14 } 
+				}
+			}
+		}
+	}
+		option = {
+		name = EVTOPTDlettersoc.0
+		trigger = {
+		FROM = { has_character_modifier = society_member }
+		FROM = { NOT = { has_character_modifier = succ_mission } }
+		}
+		character_event = { id = lettersoc.2}
+	}
+}
+character_event = {
+	id = "lettersoc.2"
+	desc = "EVTDESClettersoc.0"
+	picture = GFX_roy_raventower
+	
+	is_triggered_only = yes
+	
+
+		option = {
+		name = EVTOPTCsecretletter.11
+		custom_tooltip = { text = seccrev }
+		trigger = {
+		FROMFROM = { has_character_modifier = society_member }
+		FROMFROM = { NOT = { has_character_modifier = succ_mission } }
+		}
+		tooltip_info_custom = secretsocc 
+		wealth = -15
+		random_list = {
+			1 = { 
+					modifier = {
+						factor = 1.25
+						ROOT = { intrigue = 10 }
+					}
+					modifier = {
+						factor = 1.25
+						ROOT = { intrigue = 12 }
+					}
+					modifier = {
+						factor = 1.35
+						ROOT = { intrigue = 15 }
+					}
+					modifier = {
+						factor = 1.5
+						ROOT = { intrigue = 18 }
+					}				
+					modifier = {
+						factor = 1.75
+						ROOT = { intrigue = 21 }
+					}
+					modifier = {
+						factor = 2.5
+						trait = deceitful
+					}
+					modifier = {
+						factor = 1.25
+						trait = cynical
+					}
+					modifier = {
+						factor = 1.25
+						trait = temperate
+					}
+					modifier = {
+						factor = 1.25
+						trait = bright
+					}
+					modifier = {
+						factor = 1.5
+						trait = quick
+					}				
+					modifier = {
+						factor = 1.75
+						trait = genius
+					}	
+			custom_tooltip = { text = secretlett1 }
+			character_event = { id = secretletter.2 days = 14 }
+			}
+			1 = { 
+					modifier = {
+						factor = 1.25
+						NOT = { intrigue = 8 }
+					}
+					modifier = {
+						factor = 1.35
+						NOT = { intrigue = 6 }
+					}
+					modifier = {
+						factor = 1.5
+						NOT = { intrigue = 4 }
+					}				
+					modifier = {
+						factor = 1.75
+						NOT = { intrigue = 2 }
+					}
+					modifier = {
+						factor = 1.25
+						trait = inbred
+					}
+					modifier = {
+						factor = 1.25
+						trait = dim
+					}
+					modifier = {
+						factor = 1.5
+						trait = slow
+					}				
+					modifier = {
+						factor = 1.75
+						trait = imbecile
+					}
+			custom_tooltip = { text = secretlett2 }
+			character_event = { id = secretletter.1 days = 14 } 
+			}
+		}
+	}
+		option = {
+		name = EVTOPTCsecretletter.12
+		custom_tooltip = { text = seccrev2 }
+		trigger = {
+		FROMFROM = { has_character_modifier = society_member }
+		FROMFROM = { NOT = { has_character_modifier = succ_mission } }
+		FROMFROM = { host = { any_artifact = {always = yes} } }
+		}
+		tooltip_info_custom = secretsocc 
+		wealth = -15
+		random_list = {
+			1 = { 
+					modifier = {
+						factor = 1.25
+						ROOT = { intrigue = 10 }
+					}
+					modifier = {
+						factor = 1.25
+						ROOT = { intrigue = 12 }
+					}
+					modifier = {
+						factor = 1.35
+						ROOT = { intrigue = 15 }
+					}
+					modifier = {
+						factor = 3
+						ROOT = { intrigue = 18 }
+					}				
+					modifier = {
+						factor = 4
+						ROOT = { intrigue = 21 }
+					}
+					modifier = {
+						factor = 1.5
+						trait = cynical
+					}
+					modifier = {
+						factor = 1.25
+						trait = quick
+					}
+					modifier = {
+						factor = 4
+						trait = deceitful
+					}
+			custom_tooltip = { text = secretlett1 }
+			character_event = { id = secretletter.3 days = 14 }
+			}
+			1 = { 
+					modifier = {
+						factor = 1.25
+						NOT = { intrigue = 8 }
+					}
+					modifier = {
+						factor = 1.35
+						NOT = { intrigue = 6 }
+					}
+					modifier = {
+						factor = 1.5
+						NOT = { intrigue = 4 }
+					}				
+					modifier = {
+						factor = 1.75
+						NOT = { intrigue = 2 }
+					}
+					modifier = {
+						factor = 5
+						trait = honest
+					}
+			custom_tooltip = { text = secretlett2 }
+			character_event = { id = secretletter.1 days = 14 } 
+			}
+		}
+	}
+		option = {
+		name = EVTOPTDsecretletter.13
+		custom_tooltip = { text = seccrev3 }
+		trigger = {
+		FROMFROM = { has_character_modifier = society_member }
+		FROMFROM = { NOT = { has_character_modifier = succ_mission } }
+		FROMFROM = { host = { wealth = 10 } }  
+		}
+		tooltip_info_custom = secretsocc 
+		wealth = -15
+		random_list = {
+			1 = { 
+				modifier = {
+						factor = 1.25
+						intrigue = 12
+					}
+					modifier = {
+						factor = 1.35
+						intrigue = 15
+					}
+					modifier = {
+						factor = 1.75
+						intrigue = 18
+					}				
+					modifier = {
+						factor = 3.75
+						intrigue = 21
+					}
+					modifier = {
+						factor = 1.5
+						trait = cynical
+					}
+					modifier = {
+						factor = 1.25
+						trait = quick
+					}
+					modifier = {
+						factor = 4
+						trait = deceitful
+					}
+			custom_tooltip = { text = secretlett1 }
+			character_event = { id = secretletter.4 days = 14 }
+			}
+			1 = { 
+					modifier = {
+						factor = 1.25
+						NOT = { intrigue = 8 }
+					}
+					modifier = {
+						factor = 1.35
+						NOT = { intrigue = 6 }
+					}
+					modifier = {
+						factor = 1.5
+						NOT = { intrigue = 4 }
+					}				
+					modifier = {
+						factor = 1.75
+						NOT = { intrigue = 2 }
+					}
+					modifier = {
+						factor = 5
+						trait = honest
+					}
+			custom_tooltip = { text = secretlett2 }
+			character_event = { id = secretletter.1 days = 14 } 
+			}
+		}
+	}
+
+		option = {
+		name = EVTOPTFlettersoc.2
+		remove_character_modifier = sent_letter
+	}
+}

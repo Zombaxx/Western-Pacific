@@ -10,5 +10,6 @@ namespace = roycoll
 		name = "EVTROYCOLL" 
 			wealth = -100
 			set_character_flag = gone_bs_college
+			add_trait = trait_studying
 		}
 }

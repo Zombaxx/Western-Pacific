@@ -10,5 +10,6 @@ namespace = college_school_events
 		name = "EVTcollege_school_events.10" 
 			wealth = -200
 			set_character_flag = gone_college
+			add_trait = trait_studying
 		}
 }

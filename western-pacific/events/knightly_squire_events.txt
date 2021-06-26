@@ -74,7 +74,7 @@ character_event = {
 character_event = {
 	id = knightly.004
 	desc = "161004_desc"
-	picture = GFX_event_knighthood1
+	picture = GFX_roy_knighting
 	is_triggered_only = yes
 
 	trigger = {
@@ -108,7 +108,7 @@ character_event = {
 character_event = {
 	id = knightly.005
 	desc = "161005_desc"
-	picture = GFX_event_knighthood1
+	picture = GFX_roy_knighting
 	is_triggered_only = yes
 		
 	trigger = {
@@ -172,6 +172,7 @@ character_event = {
 	is_triggered_only = yes
 		
 	trigger = {
+		war = yes
 		is_feudal = yes
 		in_command = yes
 		in_battle = no
@@ -262,13 +263,13 @@ character_event = {
 		add_character_modifier = { modifier = trained_squire duration = 365 }
 		hidden_tooltip = {
 			random_list = {
-				7 = {
+				5 = {
 				modifier = {
-					factor = 1.25
+					factor = 1.75
 					ROOT = { martial = 15 } 
 				}
 				modifier = {
-					factor = 1.35
+					factor = 2
 					ROOT = { martial = 20 } 
 				}
 				modifier = {
@@ -279,9 +280,21 @@ character_event = {
 					factor = 1.75
 					ROOT = { martial = 9 } 
 				} 
+				modifier = {
+					factor = 1.5
+					ROOT = { trait = strong }
+				} 
+				modifier = {
+					factor = 1.5
+					ROOT = { trait = genius }
+				} 
+				modifier = {
+					factor = 1.75
+					ROOT = { trait = duelist }
+				} 
 				character_event = { id = knightly.101 days = 2 } 
 				}
-				3 = { 
+				5 = { 
 				modifier = {
 					factor = 1.25
 					ROOT = { NOT = { martial = 8 } }
@@ -295,8 +308,44 @@ character_event = {
 					ROOT = { NOT = { martial = 4 } }
 				}				
 				modifier = {
-					factor = 1.75
+					factor = 2
 					ROOT = { NOT = { martial = 2 } }
+				} 
+				modifier = {
+					factor = 1.2
+					ROOT = { NOT = { trait = strong } }
+				} 
+				modifier = {
+					factor = 1.25
+					ROOT = { trait = wounded }
+				} 
+				modifier = {
+					factor = 1.2
+					ROOT = { trait = stressed }
+				} 
+				modifier = {
+					factor = 1.75
+					ROOT = { trait = depressed }
+				} 
+				modifier = {
+					factor = 1.75
+					ROOT = { trait = weak }
+				} 
+				modifier = {
+					factor = 1.5
+					FROM = { trait = weak }
+				} 
+				modifier = {
+					factor = 1.5
+					FROM = { trait = stressed }
+				} 
+				modifier = {
+					factor = 1.5
+					FROM = { trait = depressed }
+				} 
+				modifier = {
+					factor = 1.5
+					FROM = { trait = wounded }
 				} 
 				character_event = { id = knightly.102 days = 2 } 
 				}
@@ -322,7 +371,10 @@ character_event = {
 		
 		}
 		FROMFROM = {
-		change_martial = 1
+			random = {
+				chance = 50
+				change_martial = 1
+			}
 			random = {
 				chance = 10
 				add_trait = strong
@@ -346,6 +398,10 @@ character_event = {
 		name = EVTOPTAknightly.102
 		FROMFROM = {
 			random = {
+				chance = 50
+				change_martial = -1
+			}
+			random = {
 				chance = 10 
 				add_trait = stressed
 			}
@@ -363,7 +419,7 @@ character_event = {
 	is_triggered_only = yes
 	trigger = {
 		trait = squire
-		age = 12
+		age = 10
 		NOT = { age = 16 }
 		educator = {
 		in_command = yes
@@ -386,8 +442,10 @@ character_event = {
 		name = EVTOPTAknightly.104
 		FROM = {
 			remove_trait = squire
+			give_minor_title = title_knight
 			add_trait = knight
 			change_martial = 1
+			prestige = 100
 			random = {
 				chance = 60
 				add_trait = brave
@@ -401,7 +459,12 @@ character_event = {
 	option = {
 		name = EVTOPTBknightly.104
 		FROM = {
+			prestige = 50
 			change_martial = 1
+			random = {
+				chance = 60
+				add_trait = brave
+			}
 			random = {
 				chance = 10
 				add_trait = wounded
@@ -409,3 +472,70 @@ character_event = {
 		}
 	}
 }
+#Noctian Knights flock to King's banner to fight heathens
+character_event = {
+	id = knightly.105
+	desc = EVTDESCknightly.105
+	picture = GFX_roy_warriors
+	border = GFX_event_normal_frame_war
+	
+	is_triggered_only = yes
+
+	trigger = {
+		war = yes
+		is_feudal = yes
+		in_command = yes
+		in_battle = no
+		NOT = { is_at_sea = yes }
+		religion_group = christian
+		culture_group = east_african
+		higher_tier_than = DUKE
+		trait = knight
+		NOT = {
+			OR = {
+				trait = craven
+				trait = infirm
+				trait = inbred
+			}
+		}
+		any_current_enemy = {
+		NOT = { religion_group = christian }
+		NOT = { trait = knight }
+		}
+	}
+	
+
+	option = { #No
+		name = EVTOPTBknightly.105
+		prestige = 50
+	}
+	option = { #Accept Knights' help
+		name = EVTOPTAknightly.105
+		ai_chance = { factor = 100 }
+			piety = 50
+			capital_scope = {
+				holder_scope = {
+					IF = {
+						limit = {
+							ROOT = {
+								trait = knight
+							}
+						}
+						spawn_unit = {
+							owner = THIS
+							province = PREV
+							leader = none
+							troops = {
+								knights = { 1000 1000 }
+
+							}
+							attrition = 1.0
+							maintenance_multiplier = 0.1
+							merge = yes
+							disband_on_peace = yes
+						}
+					}
+				}
+			}
+		}
+	}

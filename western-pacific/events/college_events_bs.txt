@@ -29,11 +29,11 @@ character_event = {
 		custom_tooltip = { text = TOOLTIPEVTOPTBcollege_school_events.1 }
 		hidden_tooltip = {
 			random_list = {
-				5 = { character_event = { id = college_school_events.211 days = 7 random = 7 } }
+				15 = { character_event = { id = college_school_events.211 days = 7 random = 7 } }
 				20 = { character_event = { id = college_school_events.311 days = 7 random = 7 } }
-				50 = { character_event = { id = college_school_events.411 days = 7 random = 7 } }
+				30 = { character_event = { id = college_school_events.411 days = 7 random = 7 } }
 				20 = { character_event = { id = college_school_events.511 days = 7 random = 7 } }
-				5 = { character_event = { id = college_school_events.611 days = 7 random = 7 } }
+				15 = { character_event = { id = college_school_events.611 days = 7 random = 7 } }
 			}
 		}
 	}
@@ -44,17 +44,6 @@ character_event = {
 	picture = GFX_school_learn
 	is_triggered_only = yes
 
-	immediate = {
-		random_courtier = {
-			limit = {
-				prisoner = no
-				age = 17
-				NOT = { age = 50 }
-			}
-			save_event_target_as = school_friend
-		}
-	}
-
 	option = {
 		name = EVTOPTAcollege_school_events.2
 		ROOT = {
@@ -64,9 +53,7 @@ character_event = {
 		change_stewardship = 2
 		change_learning = 3
 		add_trait = diligent
-		event_target:school_friend = { add_friend = ROOT }
 		}
-		clear_event_target = school_friend
 	}
 }
 character_event = {
@@ -196,6 +183,7 @@ character_event = {
 		clr_character_flag = gone_bs_college
 		clr_character_flag = graduation_ready
 		add_trait = bs_history
+		remove_trait = trait_studying
 	}
 	option = {
 		name = EVTOPTBcollege_school_events.9
@@ -205,6 +193,7 @@ character_event = {
 		clr_character_flag = gone_bs_college
 		clr_character_flag = graduation_ready
 		add_trait = bs_politics
+		remove_trait = trait_studying
 	}
 	option = {
 		name = EVTOPTCcollege_school_events.9
@@ -213,6 +202,7 @@ character_event = {
 		clr_character_flag = gone_bs_college
 		clr_character_flag = graduation_ready
 		add_trait = bs_economics
+		remove_trait = trait_studying
 	}
 	option = {
 		name = EVTOPTDcollege_school_events.9
@@ -220,15 +210,8 @@ character_event = {
 		add_character_modifier = { modifier = college_educated duration = -1 }
 		clr_character_flag = gone_bs_college
 		clr_character_flag = graduation_ready
-		add_trait = bs_philosophy
-	}
-	option = {
-		name = EVTOPTEcollege_school_events.9
-		custom_tooltip = { text = TOOLTIPEVTOPTEcollege_school_events.9 }
-		add_character_modifier = { modifier = college_educated duration = -1 }
-		clr_character_flag = gone_bs_college
-		clr_character_flag = graduation_ready
-		add_trait = bs_literature
+		add_trait = bs_philosophy	
+		remove_trait = trait_studying
 	}
 
 }
@@ -239,7 +222,6 @@ character_event = {
 	trigger = {
 		has_character_flag = gone_bs_college
 		OR = {
-		trait = bs_literature
 		trait = bs_politics
 		trait = bs_economics
 		trait = bs_philosophy

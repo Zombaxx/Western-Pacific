@@ -1,0 +1,257 @@
+namespace = feud_events
+character_event = {
+	id = feud_events.0
+	hide_window = yes
+	is_triggered_only = yes
+
+	trigger = {
+		war = no
+		NOT = { trait = kind }
+		prisoner = no
+		is_adult = yes
+		higher_tier_than = BARON
+		any_neighbor_independent_ruler = {
+			is_adult = yes
+			higher_tier_than = BARON
+			NOT = { higher_tier_than = KING }
+			NOT = { has_opinion_modifier = { modifier = opinion_feud_beef who = ROOT } }
+			war = no
+			OR = {
+				trait = wroth
+				trait = proud	
+				trait = envious
+			}
+		}
+	}
+
+	immediate = {
+	 character_event = { id = feud_events.111 } 
+	}
+}
+#Peasants ask for help about neighboring ruler's border incursions
+character_event = {
+	id = feud_events.1
+	desc = EVTDESCfeud_events.1
+	picture = GFX_roy_ruler
+	is_triggered_only = yes
+
+	immediate = {
+		random_neighbor_independent_ruler = {
+			limit = {
+			OR = {
+				trait = wroth
+				trait = proud	
+				trait = envious
+				}
+			}
+			save_event_target_as = feud_target
+		}
+	}
+
+	option = {
+		name = EVTOPTAfeud_events.1
+		hidden_tooltip = {
+			random_list = {
+				50 = { 
+					modifier = {
+						factor = 1.25
+						event_target:feud_target = { martial = 10 }
+					}
+					modifier = {
+						factor = 1.25
+						event_target:feud_target = { martial = 12 }
+					}
+					modifier = {
+						factor = 1.35
+						event_target:feud_target = { martial = 15 }
+					}
+					modifier = {
+						factor = 1.5
+						event_target:feud_target = { martial = 18 }
+					}				
+					modifier = {
+						factor = 1.75
+						event_target:feud_target = { martial = 21 }
+					}
+					modifier = {
+						factor = 3
+						event_target:feud_target = { trait = cruel }
+					}
+				character_event = { id = feud_events.2 days = 4  } }
+				30 = { 
+					modifier = {
+						factor = 1.25
+						event_target:feud_target = { martial = 10 }
+					}
+					modifier = {
+						factor = 1.25
+						event_target:feud_target = { martial = 12 }
+					}
+					modifier = {
+						factor = 1.35
+						event_target:feud_target = { martial = 15 }
+					}
+					modifier = {
+						factor = 1.5
+						event_target:feud_target = { martial = 18 }
+					}				
+					modifier = {
+						factor = 1.75
+						event_target:feud_target = { martial = 21 }
+					}
+					modifier = {
+						factor = 3
+						event_target:feud_target = { trait = cruel }
+					}
+					modifier = {
+						factor = 1.75
+						FROM = { NOT = { religion = ROOT } }
+					}
+					modifier = {
+						factor = 1.75
+						FROM = { NOT = { culture = ROOT } }
+					}
+				character_event = { id = feud_events.3 days = 4 } }
+				20 = {
+					modifier = {
+						factor = 1.25
+						event_target:feud_target = { NOT = { martial = 10 } }
+					}
+					modifier = {
+						factor = 1.25
+						event_target:feud_target = { NOT = { martial = 8 } }
+					}
+					modifier = {
+						factor = 1.35
+						event_target:feud_target = { NOT = { martial = 6 } }
+					}
+					modifier = {
+						factor = 1.5
+						event_target:feud_target = { NOT = { martial = 4 } }
+					}				
+					modifier = {
+						factor = 1.75
+						event_target:feud_target = { NOT = { martial = 2 } }
+					}
+					modifier = {
+						factor = 1.75
+						ROOT = { martial = 10 }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { martial > 12 }
+					} 
+					modifier = {
+						factor = 1.75
+						ROOT = { trait = proud }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { prestige = 1000 }
+					}
+					modifier = {
+						factor = 1.75
+						event_target:feud_target = { trait = craven } 
+					}
+					modifier = {
+						factor = 1
+						event_target:feud_target = { religion = ROOT } 
+					}
+					modifier = {
+						factor = 1
+						event_target:feud_target = { culture = ROOT } 
+					}
+				character_event = { id = feud_events.4 days = 4 } }
+			}
+		}
+	}
+}
+#Parley turns violent, sides vow vengeance on one another
+character_event = {
+	id = feud_events.2
+	desc = EVTDESCfeud_events.2
+	picture = GFX_roy_ruler
+	is_triggered_only = yes
+
+
+	option = {
+		name = EVTOPTAfeud_events.2
+		ROOT = {
+		prestige = 100
+		any_close_relative = {
+		opinion = { modifier = opinion_feud_beef who = event_target:feud_target years = 10 }
+		reverse_opinion = { modifier = opinion_feud_beef who = event_target:feud_target years = 10 }
+			}
+		}
+		event_target:feud_target = {
+		add_trait = wounded
+		opinion = { modifier = opinion_feud_beef who = ROOT years = 10 }
+		reverse_opinion = { modifier = opinion_feud_beef who = ROOT years = 10 }
+
+		any_close_relative = {
+		opinion = { modifier = opinion_feud_beef who = ROOT years = 10 }
+		reverse_opinion = { modifier = opinion_feud_beef who = ROOT years = 10 }
+			}
+		}
+		clear_event_target = feud_target
+	}
+}
+#Parley turns violent, people are killed, sides swear vengeance
+character_event = {
+	id = feud_events.3
+	desc = EVTDESCfeud_events.3
+	picture = GFX_roy_ruler
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAfeud_events.3
+		ROOT = {
+		random_courtier = {
+			limit = { is_adult = yes }
+			death = {
+				death_reason = death_murder
+				killer = event_target:feud_target
+				}
+			}
+		any_close_relative = {
+		opinion = { modifier = opinion_feud_beef who = event_target:feud_target years = 10 }
+		reverse_opinion = { modifier = opinion_feud_beef who = event_target:feud_target years = 10 }
+			}
+		}
+		event_target:feud_target = {
+		random_courtier = {
+			limit = { is_adult = yes }
+			death = {
+				death_reason = death_murder
+				killer = ROOT
+			}
+		}
+		opinion = { modifier = opinion_feud_beef who = ROOT years = 10 }
+		reverse_opinion = { modifier = opinion_feud_beef who = ROOT years = 10 }
+
+		any_close_relative = {
+		opinion = { modifier = opinion_feud_beef who = ROOT years = 10 }
+		reverse_opinion = { modifier = opinion_feud_beef who = ROOT years = 10 }
+			}
+		}
+		clear_event_target = feud_target
+	}
+}
+#You reach an agreement and make peace
+character_event = {
+	id = feud_events.4
+	desc = EVTDESCfeud_events.4
+	picture = GFX_roy_ruler
+	is_triggered_only = yes
+
+	option = {
+		name = EVTOPTAfeud_events.4
+		ROOT = {
+		prestige = 25
+		}
+		event_target:feud_target = { 
+		prestige = 25
+		}
+		clear_event_target = feud_target
+	}
+}
