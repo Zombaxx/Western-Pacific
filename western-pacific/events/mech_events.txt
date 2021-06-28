@@ -196,13 +196,14 @@ long_character_event = {
 	trigger = {
 		NOT = { is_at_sea = yes }
 		in_battle = yes
-		NOT = { culture = han }
+		NOT = { culture_group = chinese_group }
 		NOR = {
 			has_artifact = super_mech_suit
 			has_artifact = mech_suit
 			has_artifact = common_mech_suit
 			}
 		any_current_enemy = {
+			ai = yes
 			in_command = yes 
 		OR = {
 			has_artifact = mech_suit
@@ -226,6 +227,7 @@ long_character_event = {
 	immediate = {
 		any_current_enemy = {
 		limit = {
+			ai = yes
 			in_command = yes 
 		OR = {
 			has_artifact = mech_suit
@@ -340,6 +342,8 @@ long_character_event = {
 	
 		option = { 
 		name = "EVTOPTAsuit_events.4" 
+		add_character_modifier = { id = defeated_robo months = 14 }
+		prestige = 300
 		hidden_tooltip = {
 			if = {
 				limit = {
@@ -362,9 +366,9 @@ long_character_event = {
 		}
 		event_target:roboduel = { 
 			add_trait = maimed
-			random_artifact = { 
+			any_artifact = { 
 				limit = { has_artifact_flag = mecha_suit
-					is_artifact_active = yes }
+					is_artifact_equipped = yes }
 				unsafe_destroy_artifact = yes } }
 		clear_event_target = roboduel
 		}
@@ -380,16 +384,19 @@ long_character_event = {
 	
 		option = { 
 		name = "EVTOPTAsuit_events.5" 
-		add_character_modifier = { id = recentmechbattle days = 40 }
 			add_trait = severely_injured
 			add_trait = wounded
 			random = {
-				chance = 15
+				chance = 25
 				add_trait = maimed
 			}
 			random = {
 				chance = 15
 				add_trait = one_legged
+			}
+			random = {
+				chance = 15
+				add_trait = one_eyed
 			}
 		clear_event_target = roboduel
 		}
@@ -405,23 +412,28 @@ long_character_event = {
 	
 		option = { 
 		name = "EVTOPTAsuit_events.6" 
-		add_character_modifier = { id = recentmechbattle days = 40 }
+		add_character_modifier = { id = defeated_robo months = 14 }
+		prestige = 400
+			random = {
+				chance = 20
+				give_nickname = nick_the_reli_champ
+			}
 		event_target:roboduel = { 
 			any_artifact = { 
 				limit = { has_artifact_flag = mecha_suit
-					is_artifact_active = yes }
+					is_artifact_equipped = yes }
 				transfer_artifact = {
 					from = PREV
 					to = ROOT
 					} 
 				} 
-			}
 			death = {
 				death_reason = death_duel
 				killer = ROOT
 			}
-		clear_event_target = roboduel
 		}
+		clear_event_target = roboduel
+	}
 }
 #
 #
@@ -708,3 +720,93 @@ character_event = {
 				}
 			}
 		}
+#Find Mech Sword
+character_event = {
+	id = suit_events.14
+	desc = "EVTDESCsuit_events.14"
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		age = 16
+		in_command = yes
+		learning = 10
+		martial = 12
+		religion_group = muslim
+		location = { region = world_hellas  }
+		NOT = { has_artifact = mech_sword_1 }
+	}
+	
+	option = { 
+	name = "EVTAsuit_events.14" 
+		add_artifact = mech_sword_1
+		}
+	option = { 
+	name = "EVTBsuit_events.14" 
+		wealth = 200
+		}
+	}
+#Find Other Mech Sword
+character_event = {
+	id = suit_events.15
+	desc = "EVTDESCsuit_events.14"
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		age = 16
+		in_command = yes
+		learning = 10
+		martial = 15
+		religion_group = muslim
+		location = { region = world_noachis_terra }
+		NOT = { has_artifact = mech_sword_2 }
+	}
+	
+	option = { 
+	name = "EVTAsuit_events.14" 
+		add_artifact = mech_sword_2
+		}
+	option = { 
+	name = "EVTBsuit_events.14" 
+		wealth = 200
+		}
+	}
+#FILTHY PAGANS DON'T BELONG IN MECH SUITS
+character_event = {
+	id = suit_events.16
+	desc = "EVTDESCsuit_events.16"
+	picture = GFX_mech_fight
+	border = GFX_event_normal_frame_war
+	only_playable = yes
+		
+
+	is_triggered_only = yes
+		
+	trigger = {
+		in_command = yes
+		in_battle = yes
+		NOT = { has_character_modifier = good_pilot }
+		trait = mech_pilot
+		religion_group = pagan_group
+		OR = {
+			has_artifact = mech_suit
+			has_artifact = common_mech_suit
+			has_artifact = super_mech_suit
+		}
+	}
+	option = { 
+	name = "EVTOPTAsuit_events.16" 
+		custom_tooltip = { text = suitevt16 }
+		remove_trait = mech_pilot
+		add_trait = wounded
+			random = {
+				chance = 25
+				add_trait = maimed
+				}
+		any_artifact = { 
+				limit = { has_artifact_flag = mecha_suit
+					is_artifact_equipped = yes }
+				unsafe_destroy_artifact = yes }
+		}
+}

@@ -19,7 +19,7 @@ selfish_pattern_for = {
 				primary_title = { has_law = high_court_law_0 }				
 			}
 		}
-	
+	}
 	high_court_law_2 = {	
 		custom_tooltip = {
 			text = { more_order_good }
@@ -27,7 +27,7 @@ selfish_pattern_for = {
 				primary_title = { has_law = high_court_law_1 }				
 			}
 		}
-	
+	}
 	high_court_law_3 = {	
 		custom_tooltip = {
 			text = { more_order_good }
@@ -36,7 +36,7 @@ selfish_pattern_for = {
 			}
 		}
 	}
-
+}
 selfish_pattern_against = {
 	icon = 9
 	pattern_type = against
@@ -46,7 +46,7 @@ selfish_pattern_against = {
 			text = { too_much_power }
 			always = yes 
 		}
-	
+	}
 	high_court_law_1 = {	
 		custom_tooltip = {
 			text = { too_much_power }
@@ -54,7 +54,7 @@ selfish_pattern_against = {
 				primary_title = { has_law = high_court_law_2 }				
 			}
 		}
-	
+	}
 	high_court_law_2 = {	
 		custom_tooltip = {
 			text = { too_much_power }
@@ -63,7 +63,7 @@ selfish_pattern_against = {
 			}
 		}
 	}
-
+}
 pragmatist_pattern_for = {
 	icon = 6
 	pattern_type = for
@@ -72,15 +72,15 @@ pragmatist_pattern_for = {
 		custom_tooltip = {
 			text = { less_power_good }
 		}
-	
+	}
 	high_court_law_1 = {	
 		custom_tooltip = {
 			text = { less_power_good }
 			liege = {
-				primary_title = { has_law = high_court_law_2 }				
+				primary_title = { has_law = high_court_law_2 }
 			}
 		}
-
+	}
 	high_court_law_2 = {	
 		custom_tooltip = {
 			text = { more_order_good }
@@ -89,7 +89,7 @@ pragmatist_pattern_for = {
 			}
 		}
 	}
-
+}
 pragmatist_pattern_against = {
 	icon = 6
 	pattern_type = against
@@ -211,7 +211,6 @@ zealot_pattern_against = {
 			text = { priest_say_no }
 			liege = {
 				primary_title = { has_law = high_court_law_0 }
-				}
 			}
 		}
 	}
