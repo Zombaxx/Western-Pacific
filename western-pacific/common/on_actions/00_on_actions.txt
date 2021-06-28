@@ -1,4 +1,4 @@
-character
+#character
 on_startup = {
 	events = {
 		1337 # Emperor Ticket character spawning event

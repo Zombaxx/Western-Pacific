@@ -55,7 +55,7 @@ character_event = {
 
 	option = {
 		name = EVTOPTArobobattle_events.9
-		add_character_modifier = { recentmechbattle days = 40 }
+		add_character_modifier = { id = recentmechbattle days = 40 }
 		ROOT = {
 			random_list = {
 				60 = { add_trait = deceitful }

@@ -21,7 +21,6 @@ character_event = {
 
 	id = mechfl.3299
 	desc = "EVTDESCmechfl.2"
-	title = "EVTNAMEmechfl.2"
 	is_triggered_only = yes
 	hide_window = yes
 	
@@ -112,7 +111,6 @@ character_event = {
 
 	id = mechfl.5
 	desc = "EVTDESCmechfl.2"
-	title = "EVTNAMEmechfl.2"
 	picture = GFX_mech_fight
 	border = GFX_event_normal_frame_war
 
@@ -126,15 +124,39 @@ character_event = {
 			limit = {NOT = {martial >= 15}}
 			any_current_enemy = {
 				limit = { in_command = yes at_location = ROOT}
+			random = {
+				chance = 25
+				add_trait = wounded
+			}
+			random = {
+				chance = 15
+				add_trait = maimed
+			}
 				troops = -0.20
 				}
 			any_current_enemy = {
 				any_realm_lord = {
 					limit = { in_command = yes at_location = ROOT}
+			random = {
+				chance = 25
+				add_trait = wounded
+			}
+			random = {
+				chance = 15
+				add_trait = maimed
+			}
 					troops = -0.10
 					}
 				any_courtier = {
 					limit = { in_command = yes at_location = ROOT}
+			random = {
+				chance = 25
+				add_trait = wounded
+			}
+			random = {
+				chance = 15
+				add_trait = maimed
+			}
 					troops = -0.15
 					}
 			}
@@ -145,15 +167,39 @@ character_event = {
 			martial >= 18
 			any_current_enemy = {
 				limit = { in_command = yes at_location = ROOT}
+			random = {
+				chance = 35
+				add_trait = wounded
+			}
+			random = {
+				chance = 25
+				add_trait = maimed
+			}
 				troops = -0.45
 				}
 			any_current_enemy = {
 				any_realm_lord = {
 					limit = { in_command = yes at_location = ROOT}
+			random = {
+				chance = 35
+				add_trait = wounded
+			}
+			random = {
+				chance = 25
+				add_trait = maimed
+			}
 					troops = -0.15
 					}
 				any_courtier = {
 					limit = { in_command = yes at_location = ROOT}
+			random = {
+				chance = 35
+				add_trait = wounded
+			}
+			random = {
+				chance = 25
+				add_trait = maimed
+			}
 					troops = -0.25
 				}
 			}
@@ -165,7 +211,7 @@ character_event = {
 		hidden_tooltip = {			
 			random = {
 				chance = 25
-				character_event = { id = mechfl.oops6 } 
+				character_event = { id = mechfl.oops5 } 
 				}
 			}
 		
@@ -175,7 +221,7 @@ character_event = {
 			limit = { NOT = { trait = maimed } NOT = { trait = wounded } }
 			random = {
 				chance = 25
-				add_trait = wounded
+				character_event = { id = mechfl_siege.99 }
 			}
 				
 		}
@@ -195,7 +241,6 @@ character_event = {
 
 	id = mechfl.6
 	desc = "EVTDESCmechfl.3"
-	title = "EVTNAMEmechfl.3"
 	border = GFX_event_normal_frame_war
 	picture = GFX_mech_defend
 	is_triggered_only = yes
@@ -223,7 +268,6 @@ character_event = {
 
 	id = mechfl.3499
 	desc = "EVTDESCmechfl.3"
-	title = "EVTNAMEmechfl.3"
 	is_triggered_only = yes
 	hide_window = yes
 	
@@ -244,27 +288,4 @@ character_event = {
 	hidden_tooltip = {
 		add_character_modifier = { modifier = usedmech duration = 30 }
 	}
-}
-####DESTROYED MECH SUIT####
-	character_event = {
-		id = mechfl.oops6
-		title = EVTNAMEmechfl.oops6
-		desc = "EVTDESCmechfl.oops6"
-		border = GFX_event_normal_frame_war
-		picture = GFX_mech_aftermath
-	
-		is_triggered_only = yes
-	
-		option = { 
-		name = "mechfl.oops6" 
-			add_trait = severely_injured
-			any_artifact = { 
-				limit = { has_artifact_flag = mecha_suit
-					is_artifact_active = yes }
-				unsafe_destroy_artifact = yes }
-			random = {
-				chance = 15
-				add_trait = one_legged
-			}
-		}
 }

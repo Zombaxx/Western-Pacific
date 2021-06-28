@@ -20,9 +20,8 @@ character_event = {
 
 	id = mechfl_siege.2
 	desc = "EVTDESCmechfl_siege.2"
-	title = "EVTNAMEmechfl_siege.2"
 	border = GFX_event_normal_frame_war
-	picture = GFX_mech_siege
+	picture = GFX_mech_battle
 	is_triggered_only = yes
 
 	option = {
@@ -45,7 +44,7 @@ character_event = {
 		hidden_tooltip = {			
 			random = {
 				chance = 15
-				character_event = { id = mechfl_siege.oops4 } 
+				character_event = { id = mechfl_siege.oops5 } 
 				}
 			}
 		
@@ -55,31 +54,27 @@ character_event = {
 			limit = { NOT = { trait = maimed } NOT = { trait = wounded } }
 			random = {
 				chance = 10
-				add_trait = wounded
+				character_event = { id = mechfl_siege.99 }
 			}	
 		}
 	}
 }
+#Wounded in Mech Suit event
+character_event = {
+	id = mechfl_siege.99
+	desc = "EVTDESCmechfl_siege.99"
+	picture = GFX_mech_battle
+	border = GFX_event_normal_frame_war
+	only_playable = yes
+		
 
-####DESTROYED MECH SUIT####
-	character_event = {
-		id = mechfl_siege.oops4
-		title = EVTNAMEmechfl_siege.oops4
-		desc = "EVTDESCmechfl_siege.oops4"
-		picture = GFX_mech_aftermath	
-		border = GFX_event_normal_frame_war
-		is_triggered_only = yes
+	is_triggered_only = yes
+		
 
-		option = { 
-		name = "mechfl_siege.oops4" 
-			add_trait = severely_injured
-			any_artifact = { 
-				limit = { has_artifact_flag = mecha_suit
-					is_artifact_active = yes }
-				unsafe_destroy_artifact = yes }
-			random = {
-				chance = 15
-				add_trait = one_legged
+
+	option = { 
+	name = "EVTOPTAmechfl_siege.99" 
+		add_trait = wounded
 			}
 		}
-}
+
