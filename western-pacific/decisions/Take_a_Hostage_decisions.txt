@@ -20,7 +20,7 @@ targetted_decisions = {
 
 		effect = {
 			move_character = FROM
-			opinion = { modifier = opinion_imprisoned who = FROM days = 3650 }
+			opinion = { modifier = opinion_kidnap_me who = FROM }
 			prisoner = no
 			set_character_flag = taken_hostage
 			mother = {

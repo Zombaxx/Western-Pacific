@@ -15,6 +15,7 @@ targetted_decisions = {
 		potential = {
 			host = { character = FROM }
 			prisoner = yes
+			NOT = { has_character_modifier = on_trial }
 		}
 
 		allow = {
@@ -108,6 +109,8 @@ targetted_decisions = {
 			host = { character = FROM }
 			prisoner = yes
 			age = 13
+			NOT = { has_character_modifier = on_trial }
+
 		}
 
 		allow = {

@@ -5,17 +5,20 @@ Adopt_Other_Parents_Dynasty_decision = {
   filter = dynasty
   ai_target_filter = dynasty 
 
-  potential = { is_child_of = FROM 
-                dynasty = FROM
-				mother_even_if_dead = { always = yes }
-				father_even_if_dead = { always = yes }
-				NOT = { mother_even_if_dead = { dynasty = none } }
-                NOT = { father_even_if_dead = { dynasty = none } } }
-
-  allow = { NOT = { is_primary_heir = FROM } }
-
+  potential = { 
+	NOT = { age = 16 }
+	is_child_of = FROM 
+        dynasty = FROM
+	mother_even_if_dead = { always = yes }
+	father_even_if_dead = { always = yes }
+	NOT = { mother_even_if_dead = { dynasty = none } }
+        NOT = { father_even_if_dead = { dynasty = none } } 
+	}
+  allow = { 
+	NOT = { is_primary_heir = FROM } 
+	}
   effect = {
-	        if = {
+	     if = {
              limit = { father_even_if_dead = { dynasty = FROM } }
 			 mother = { ROOT = { dynasty = PREV } 
 			                         opinion = {modifier = opinion_made_child_adopt_my_dynasty

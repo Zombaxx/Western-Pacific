@@ -131,6 +131,7 @@ targetted_decisions = {
 		potential = {
 			prisoner = yes
 			host = { character = FROM }
+			NOT = { has_character_modifier = on_trial }
 			OR = {
 				NOT = { trait = trait_slave }
 				NOT = { has_opinion_modifier = { who = FROM modifier = opinion_master } }
@@ -542,7 +543,7 @@ targetted_decisions = {
 					ROOT = { is_merchant_republic = no }
 				}	
 				any_courtier = {
-					trait = slave
+					trait = trait_slave
 					reverse_has_opinion_modifier = { who = PREV modifier = opinion_slave }
 					OR = {
 						is_married = ROOT
@@ -567,7 +568,7 @@ targetted_decisions = {
 				limit = {
 					NOT = { reverse_has_opinion_modifier = { who = ROOT modifier = opinion_traitor } }
 					any_courtier = {
-						trait = slave
+						trait = trait_slave
 						reverse_has_opinion_modifier = { who = PREV modifier = opinion_slave }
 						OR = {
 							is_married = ROOT
@@ -589,7 +590,7 @@ targetted_decisions = {
 				letter_event = { id = slavery.4001 tooltip = "EVTTOOLTIPSLAVERY4001" days = 3 }
 				any_courtier = {
 					limit = {
-						trait = slave
+						trait = trait_slave
 						reverse_has_opinion_modifier = { who = PREV modifier = opinion_slave }
 						OR = {
 							is_married = ROOT

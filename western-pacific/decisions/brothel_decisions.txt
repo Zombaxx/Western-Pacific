@@ -20,7 +20,6 @@ decisions = {
 			NOT = { trait = homosexual }
 			NOT = { trait = celibate }
 			NOT = { trait = chaste }
-			crownlaw_title = { has_law = brothel_law_0 }
 			capital_scope = { 
 				OR = {
 				has_building = ct_f_brothel

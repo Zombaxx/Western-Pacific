@@ -18,6 +18,9 @@ targetted_decisions = {
 		filter = dynasty
 		from_potential = {
 			ai = no
+			NOT = { religion_group = pagan_group }
+			age = 12
+			war = no
 		}
 	
 		potential = {

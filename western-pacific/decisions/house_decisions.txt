@@ -29,6 +29,12 @@ decisions = {
 					is_parent_of = ROOT 
 				}
 			} 
+			NOT = { 
+				liege = { 
+					is_grandparent_of = ROOT 
+				}
+			} 
+
 		}
 		allow = {
 			prestige = 200

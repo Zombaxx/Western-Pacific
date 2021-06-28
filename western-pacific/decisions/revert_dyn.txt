@@ -8,6 +8,7 @@ targetted_decisions = {
 			is_parent_of = FROM
 			is_grandparent_of = FROM
 			}
+			has_character_flag = cadetbranch
 		}
 		allow = {
 			always = yes

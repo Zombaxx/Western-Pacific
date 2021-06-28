@@ -3,7 +3,10 @@ decisions = {
 	use_mech_siege_dec = {
 		is_high_prio = yes
 		potential = { 
-			has_artifact = mech_suit
+			any_artifact = {
+				artifact_type = mech_suit
+				is_artifact_equipped = yes
+			}
 			siege = {
 				is_attacker = yes
 			}
@@ -12,7 +15,6 @@ decisions = {
 		}
 		
 		allow = {	
-			has_artifact = mech_suit
 			NOT = { in_battle = yes }
 			}	
 			
@@ -32,7 +34,10 @@ decisions = {
 	use_comm_mech_siege_dec = {
 		is_high_prio = yes
 		potential = { 
-			has_artifact = common_mech_suit
+			any_artifact = {
+				artifact_type = common_mech_suit
+				is_artifact_equipped = yes
+			}
 			siege = {
 				is_attacker = yes
 			}
@@ -41,7 +46,6 @@ decisions = {
 		}
 		
 		allow = {	
-			has_artifact = common_mech_suit
 			NOT = { in_battle = yes }
 			}	
 			
@@ -60,7 +64,10 @@ decisions = {
 	use_super_mech_siege_dec = {
 		is_high_prio = yes
 		potential = { 
-			has_artifact = super_mech_suit
+			any_artifact = {
+				artifact_type = super_mech_suit
+				is_artifact_equipped = yes
+			}
 			siege = {
 				is_attacker = yes
 			}
@@ -69,7 +76,6 @@ decisions = {
 		}
 		
 		allow = {	
-			has_artifact = super_mech_suit
 			NOT = { in_battle = yes }
 			}	
 			

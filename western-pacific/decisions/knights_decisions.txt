@@ -11,8 +11,8 @@
 
 targetted_decisions = {
 	knight_character = {
-		ai_target_filter = realm
-		filter = realm
+		ai_target_filter = court
+		filter = court
 		from_potential = {
 			trait = knight
 			prestige = 100

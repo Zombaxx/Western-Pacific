@@ -22,7 +22,7 @@ decisions = {
 			hidden_tooltip = {
 				add_character_modifier = {
 					name = give_speech
-					duration = 720
+					duration = 1825
 					hidden = yes
 				}
 				character_event = { id = royspeech.7 } 
