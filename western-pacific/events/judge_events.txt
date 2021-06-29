@@ -11,7 +11,12 @@ namespace = royjudge
 		employer = {
 			war = no
 			crownlaw_title = { has_law = brothel_law_1 }
-			any_courtier = { trait = lustful }
+			any_courtier = { 
+				AND = {
+				trait = lustful 
+				is_female = no 
+				}
+			}
 		}
 	}
 	immediate = {

@@ -91,7 +91,5 @@ character_event = {
 				move_character = PREV
 			}
 		}
-		prestige = 25
-		wealth = 50
 	}
 }

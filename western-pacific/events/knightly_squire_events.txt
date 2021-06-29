@@ -74,7 +74,7 @@ character_event = {
 character_event = {
 	id = knightly.004
 	desc = "161004_desc"
-	picture = GFX_roy_knighting
+	picture = GFX_event_roy_knighting
 	is_triggered_only = yes
 
 	trigger = {
@@ -108,7 +108,7 @@ character_event = {
 character_event = {
 	id = knightly.005
 	desc = "161005_desc"
-	picture = GFX_roy_knighting
+	picture = GFX_event_roy_knighting
 	is_triggered_only = yes
 		
 	trigger = {
@@ -418,29 +418,40 @@ character_event = {
 	hide_window = yes
 	is_triggered_only = yes
 	trigger = {
+		any_ward = {
 		trait = squire
 		age = 10
 		NOT = { age = 16 }
-		educator = {
+		martial = 10
+		}
 		in_command = yes
 		trait = knight
-		}
 	}
 
 	immediate = {
-		educator = { character_event = { id = knightly.104 } }
+		any_ward = {
+		limit = {
+		trait = squire
+		age = 10
+		NOT = { age = 16 }
+		martial = 10
+			}
+		save_event_target_as = squireknight
+		}
+		character_event = { id = knightly.104 }
 	}
 }
 #Squire fights fiercely in battle
 character_event = {
 	id = knightly.104
 	desc = EVTDESCknightly.104
-	picture = GFX_roy_knighting
+	picture = GFX_event_roy_knighting
 	is_triggered_only = yes
 
 	option = {
 		name = EVTOPTAknightly.104
-		FROM = {
+		event_target:squireknight = {
+			add_character_modifier = { modifier = young_knight years = 10 }
 			remove_trait = squire
 			give_minor_title = title_knight
 			add_trait = knight
@@ -454,11 +465,16 @@ character_event = {
 				chance = 10
 				add_trait = wounded
 			}
+			opinion = {
+				modifier = opinion_knighted_me
+				who = ROOT
+			}
 		}
+		clear_event_target = squireknight
 	}
 	option = {
 		name = EVTOPTBknightly.104
-		FROM = {
+		event_target:squireknight = {
 			prestige = 50
 			change_martial = 1
 			random = {
@@ -470,6 +486,7 @@ character_event = {
 				add_trait = wounded
 			}
 		}
+		clear_event_target = squireknight
 	}
 }
 #Noctian Knights flock to King's banner to fight heathens
@@ -539,3 +556,28 @@ character_event = {
 			}
 		}
 	}
+
+#For when the knight title disappears
+character_event = {
+	id = knightly.106
+	hide_window = yes
+	is_triggered_only = yes
+	trigger = {
+		any_courtier = {
+		trait = knight
+		age = 16
+		NOT = { has_minor_title = title_knight }
+		}
+	}
+
+	immediate = {
+		any_courtier = {
+		limit = {
+		trait = knight
+		age = 16
+		NOT = { has_minor_title = title_knight }	
+			}
+			give_minor_title = title_knight
+		}
+	}
+}

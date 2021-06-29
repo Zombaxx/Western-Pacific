@@ -83,7 +83,22 @@ namespace = brothel
 			chance = 10 
 			remove_trait = stressed
 			}
+		if = {
+		
+			limit = {
+			crownlaw_title = {
+				has_law = brothel_law_1
+				}
+			}
+		hidden_tooltip = {			
+			random = {
+				chance = 75
+				character_event = { id = brothel.14 days = 3} 
+				}
+			}
+		
 		}
+	}
 	
 		option = { 
 		name = "EVTTORTWHORE" 
@@ -154,7 +169,22 @@ namespace = brothel
 			chance = 10 
 			remove_trait = stressed
 			}
-		}	
+		if = {
+		
+			limit = {
+			crownlaw_title = {
+				has_law = brothel_law_1
+				}
+			}
+		hidden_tooltip = {			
+			random = {
+				chance = 75
+				character_event = { id = brothel.14 days = 3 } 
+				}
+			}
+		
+		}
+	}	
 	
 		option = { 
 		name = "EVTTORTWHORE" 
@@ -225,7 +255,22 @@ namespace = brothel
 			chance = 10 
 			remove_trait = stressed
 			}
-		}				
+		if = {
+		
+			limit = {
+			crownlaw_title = {
+				has_law = brothel_law_1
+				}
+			}
+		hidden_tooltip = {			
+			random = {
+				chance = 75
+				character_event = { id = brothel.14 days = 3 } 
+				}
+			}
+		
+		}
+	}				
 	
 		option = { 
 		name = "EVTTORTWHORE" 
@@ -297,7 +342,22 @@ namespace = brothel
 			chance = 10 
 			remove_trait = stressed
 			}
-		}		
+		if = {
+		
+			limit = {
+			crownlaw_title = {
+				has_law = brothel_law_1
+				}
+			}
+		hidden_tooltip = {			
+			random = {
+				chance = 75
+				character_event = { id = brothel.14 days = 3 } 
+				}
+			}
+		
+		}
+	}		
 	
 		option = { 
 		name = "EVTTORTWHORE" 
@@ -367,7 +427,22 @@ namespace = brothel
 			chance = 10 
 			remove_trait = stressed
 			}
-		}		
+		if = {
+		
+			limit = {
+			crownlaw_title = {
+				has_law = brothel_law_1
+				}
+			}
+		hidden_tooltip = {			
+			random = {
+				chance = 75
+				character_event = { id = brothel.14 days = 3 } 
+				}
+			}
+		
+		}
+	}		
 	
 		option = { 
 		name = "EVTTORTWHORE" 
@@ -442,6 +517,21 @@ namespace = brothel
 			chance = 15 
 			character_event = { id = 1980 } #possible become gay
 			}	
+		if = {
+		
+			limit = {
+			crownlaw_title = {
+				has_law = brothel_law_1
+				}
+			}
+		hidden_tooltip = {			
+			random = {
+				chance = 75
+				character_event = { id = brothel.14 days = 3 } 
+				}
+			}
+		
+		}
         }
 		
 		option = { 
@@ -474,7 +564,7 @@ namespace = brothel
 		female = no
 		}	
 		new_character = {
-		add_character_modifier = { modifier = brothel_born years = 30 }
+		add_character_modifier = { modifier = brothel_born years = 50 }
 		set_father = PREV 	
 			}
 		}	
@@ -505,16 +595,7 @@ namespace = brothel
 		random = {
 			chance = 25
 			add_trait = deceitful }
-		create_character = {
-		age = 0
-		dynasty = NONE
-		trait = bastard
-		female = no
-		}	
-		new_character = {
-		add_character_modifier = { modifier = brothel_born years = 30 }
-		set_father = PREV 
-			}
+		character_event = { id = brothel.12 years = 16 }
 		}
 		
 		option = {
@@ -553,7 +634,7 @@ namespace = brothel
 		female = yes
 		} 
 		new_character = {
-		add_character_modifier = { modifier = brothel_born years = 20 }
+		add_character_modifier = { modifier = brothel_born years = 50 }
 		set_father = PREV
 			}
 		}
@@ -584,16 +665,7 @@ namespace = brothel
 		random = {
 			chance = 25
 			add_trait = deceitful }
-		create_character = {
-		age = 0
-		dynasty = NONE
-		trait = bastard
-		female = yes
-		}	
-		new_character = {
-		add_character_modifier = { modifier = brothel_born years = 20 }
-		set_father = PREV
-			}
+		character_event = { id = brothel.13 years = 16 }
 		}
 		
 		option = {
@@ -697,7 +769,7 @@ namespace = brothel
 		female = no
 		} 
 		new_character = {
-		add_character_modifier = { modifier = brothel_born years = 14 }
+		add_character_modifier = { modifier = brothel_born years = 50 }
 		set_father = PREV
 				}
 			}
@@ -735,7 +807,7 @@ character_event = {
 		female = yes
 		} 
 		new_character = {
-		add_character_modifier = { modifier = brothel_born years = 14 }
+		add_character_modifier = { modifier = brothel_born years = 50 }
 		set_father = PREV
 				}
 			}
@@ -745,4 +817,20 @@ character_event = {
 			
 			piety = -50
 			}
-		}		
+		}
+#Caught going to brothel against law		
+character_event = {
+		id = brothel.14
+		desc = "EVTDESCbrothel.14"
+		picture = GFX_evt_brothel
+		
+		is_triggered_only = yes
+		
+		option = {
+		name = "OPTAbrothel.14"
+		add_character_modifier = { modifier = whore_monger years = 5 }
+		wealth = -50
+		piety = -50
+		prestige = -50
+		}
+	}		
