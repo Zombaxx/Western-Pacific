@@ -33,6 +33,9 @@ strong_ruler = {
 trained_squire = {
 	icon = 1
 }
+trades_deal = {
+	icon = 1
+}
 pious_leader = {
 	icon = 10
 	vassal_opinion = 10
@@ -53,4 +56,87 @@ respect_leader = {
 	arrest_chance_modifier = 0.50
 	plot_discovery_chance = 0.25
 	defensive_plot_power_modifier = 0.25
+}
+importing_arms = {
+	icon = 13
+	levy_reinforce_rate = 0.50
+	levy_size = 0.25
+	land_organisation = 0.20
+	local_tax_modifier = -0.45
+	tech_growth_modifier = 0.25
+	culture_flex = -0.55
+}
+exporting_arms = {
+	icon = 13
+	levy_reinforce_rate = -0.25
+	levy_size = -0.15
+	land_organisation = -0.05
+	local_build_time_modifier = 0.25
+	local_tax_modifier = 0.75	
+	tax_income = 2.5
+}
+importing_foods = {
+	icon = 59
+	levy_reinforce_rate = 0.15
+	local_revolt_risk = -0.03
+	local_build_time_modifier = -0.25
+	supply_limit = 0.25
+	local_tax_modifier = -0.40
+	disease_defence = -0.02
+	culture_flex = -0.25
+}
+exporting_foods = {
+	icon = 60
+	local_revolt_risk = 0.01
+	levy_reinforce_rate = -0.10
+	local_tax_modifier = 0.45
+	tax_income = 1.2	
+
+}
+importing_goods = {
+	icon = 52
+	local_revolt_risk = -0.05
+	local_build_cost_modifier = -0.25
+	supply_limit = 0.25
+	tech_growth_modifier = 0.25
+	local_tax_modifier = -0.55
+	culture_flex = -0.35
+
+}
+exporting_goods = {
+	icon = 52
+	local_tax_modifier = 0.55
+	tax_income = 2
+	supply_limit = -0.1	
+	local_build_cost_modifier = 0.25
+	tech_growth_modifier = -0.05
+
+}
+sin_loaner = {
+	icon = 4
+	church_opinion = -5
+}
+sin_loan_taker = {
+	icon = 22
+}
+settlement_convert = {
+	levy_size = -0.25
+	levy_reinforce_rate = -0.75
+	local_tax_modifier = -0.75
+	local_revolt_risk = 0.10
+	supply_limit = -0.75
+	icon = 106
+}
+annex_attempt = {
+	icon = 18
+}
+osting_marriage_rally = {
+	icon = 7
+	monthly_character_prestige = 0.05
+	monthly_character_piety = 1
+}
+
+marriage_rally_province = {
+	icon = 7
+	local_tax_modifier = 0.10
 }

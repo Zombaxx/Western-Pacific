@@ -21,7 +21,6 @@ settlement_sacked = {
 	levy_size = -0.75
 	local_tax_modifier = -0.75
 	garrison_size = -0.75
-	local_tax_modifier = -0.75
 	icon = 106
 }
 
@@ -29,7 +28,6 @@ settlement_razed = {
 	levy_size = -2
 	local_tax_modifier = -2
 	garrison_size = -2
-	local_tax_modifier = -2
 	icon = 106
 }
 
@@ -57,10 +55,10 @@ visited_chambers = {
 }
 sinfertile = {
 	icon = 8
-	fertility = -50
 }
 sinfertile2 = {
 	icon = 8
+	fertility_penalty = -99.00
 }
 usedmech = {
 	icon = 109
@@ -112,18 +110,18 @@ paid_troops = {
 paid_troops_poorly = {
 	general_opinion = -5
 	levy_reinforce_rate = -0.15
-	global_revolt_risk = 0.10
+	global_revolt_risk = 0.05
 	icon = 98
 }
 angry_troops = {
 	general_opinion = -15
-	levy_reinforce_rate = -0.20
-	global_revolt_risk = 0.35	
+	levy_reinforce_rate = -0.55
+	global_revolt_risk = 0.15	
 	icon = 98
 }
 double_paid_troops = {
 	general_opinion = 10
-	levy_reinforce_rate = 0.25
+	levy_reinforce_rate = 0.50
 	global_revolt_risk = -0.05	
 	icon = 97
 }
@@ -152,5 +150,31 @@ good_pilot = {
 	martial = 2
 	general_opinion = 3
 }
-	
-
+science_researching = {
+	icon = 1
+}
+tamed_suit = {
+	icon = 103	
+	general_opinion = 3
+}
+attempt_tamed_suit = {
+	icon = 120
+}
+mech_injured = {
+	icon = 120	
+	health_penalty = -0.75
+	combat_rating = -10
+}
+destroyed_land = {
+	icon = 106
+	levy_reinforce_rate = -0.75
+	levy_size = -0.9
+	local_tax_modifier = -0.75
+	garrison_size = -0.5
+	supply_limit = -0.25
+}
+defeated_robo = {
+	icon = 115
+	monthly_character_prestige = 1
+	general_opinion = 3
+}

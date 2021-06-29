@@ -16,7 +16,7 @@ selfish_pattern_for = {
 			text = { army_yes }
 			always = yes 
 		}
-
+	}
 	army_professionalism_law_1 = {	
 		custom_tooltip = {
 			text = { army_yes }
@@ -25,12 +25,11 @@ selfish_pattern_for = {
 			}
 		}
 	}
-	
+}
 
 selfish_pattern_against = {
 	icon = 9
 	pattern_type = against
-	
 
 	army_professionalism_law_2 = {	
 		custom_tooltip = {
@@ -39,7 +38,7 @@ selfish_pattern_against = {
 				primary_title = { has_law = army_professionalism_law_1 }				
 			}
 		}
-	
+	}
 	army_professionalism_law_1 = {	
 		custom_tooltip = {
 			text = { army_no }
@@ -48,6 +47,7 @@ selfish_pattern_against = {
 			}
 		}
 	}
+}
 
 pragmatist_pattern_for = {
 	icon = 6
@@ -58,7 +58,7 @@ pragmatist_pattern_for = {
 			text = { army_logical }
 			always = yes 
 		}
-	
+	}
 	army_professionalism_law_1 = {	
 		custom_tooltip = {
 			text = { army_logical }
@@ -66,7 +66,7 @@ pragmatist_pattern_for = {
 				primary_title = { has_law = army_professionalism_law_0 }				
 			}
 		}
-	
+	}
 	army_professionalism_law_1 = {	
 		custom_tooltip = {
 			text = { army_logical }
@@ -74,7 +74,7 @@ pragmatist_pattern_for = {
 				primary_title = { has_law = army_professionalism_law_2 }				
 			}
 		}
-	
+	}
 	army_professionalism_law_2 = {	
 		custom_tooltip = {
 			text = { army_logical }
@@ -83,6 +83,7 @@ pragmatist_pattern_for = {
 			}
 		}
 	}
+}
 
 pragmatist_pattern_against = {
 	icon = 6
@@ -97,6 +98,7 @@ pragmatist_pattern_against = {
 			}
 		}
 	}
+}
 
 glory_hound_pattern_for = {
 	icon = 7
@@ -107,7 +109,7 @@ glory_hound_pattern_for = {
 			text = { army_yes }
 			always = yes 
 		}
-	
+	}
 	army_professionalism_law_1 = {	
 		custom_tooltip = {
 			text = { army_yes }
@@ -116,6 +118,7 @@ glory_hound_pattern_for = {
 			}
 		}
 	}
+}
 
 glory_hound_pattern_against = {
 	icon = 7
@@ -128,7 +131,7 @@ glory_hound_pattern_against = {
 				primary_title = { has_law = army_professionalism_law_1 }				
 			}
 		}
-	
+	}
 	army_professionalism_law_1 = {	
 		custom_tooltip = {
 			text = { army_no }
@@ -137,6 +140,7 @@ glory_hound_pattern_against = {
 			}
 		}
 	}		
+}
 
 zealot_pattern_for = {
 	icon = 5
@@ -147,7 +151,7 @@ zealot_pattern_for = {
 			text = { army_indifferent }
 			always = yes 
 		}
-	
+	}
 	army_professionalism_law_1 = { 
 		custom_tooltip = {
 			text = { army_indifferent }
@@ -155,7 +159,7 @@ zealot_pattern_for = {
 				primary_title = { has_law = army_professionalism_law_2 }
 			}
 		}				
-	
+	}
 	army_professionalism_law_2 = { 
 		custom_tooltip = {
 			text = { army_indifferent }
@@ -163,16 +167,8 @@ zealot_pattern_for = {
 				primary_title = { has_law = army_professionalism_law_1 }
 			}
 		}				
-	
-	army_professionalism_law_1 = { 
-		custom_tooltip = {
-			text = { army_indifferent }
-			liege = {
-				primary_title = { has_law = army_professionalism_law_0 }
-			}
-		}				
 	}
-
+}
 zealot_pattern_against = {
 	icon = 5
 	pattern_type = against

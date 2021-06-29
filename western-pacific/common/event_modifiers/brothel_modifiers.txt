@@ -1,3 +1,19 @@
 visited_brothel = { icon = 1 }
 
+
+
 bedded_washerwoman = { icon = 1 }
+
+brothel_born = {
+	icon = 36
+	general_opinion = -5
+	church_opinion = -10
+}
+whore_monger = {
+	icon = 36
+	diplomacy = -2
+	spouse_opinion = -35
+	general_opinion = -5
+	church_opinion = -15
+	monthly_character_piety = -2
+}

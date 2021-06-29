@@ -42,5 +42,19 @@ made_ruling = {
 	general_opinion = 5
 	icon = 34	
 }
+on_trial = {
+	icon = 34	
+}
+holding_trial = {
+	icon = 34
+}
+publicly_flogged = {
+	icon = 36	
+	diplomacy_penalty = -5
+	health_penalty = -0.75
+	combat_rating = -10
+	general_opinion = -15
+	monthly_character_prestige = -2
+}
 
 
