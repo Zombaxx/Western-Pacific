@@ -14,7 +14,7 @@ selfish_pattern_for = {
 	
 	high_court_law_1 = {	
 		custom_tooltip = {
-			text = { more_order_good }
+			text = more_order_good
 			liege = {
 				primary_title = { has_law = high_court_law_0 }				
 			}
@@ -22,7 +22,7 @@ selfish_pattern_for = {
 	}
 	high_court_law_2 = {	
 		custom_tooltip = {
-			text = { more_order_good }
+			text = more_order_good
 			liege = {
 				primary_title = { has_law = high_court_law_1 }				
 			}
@@ -30,7 +30,7 @@ selfish_pattern_for = {
 	}
 	high_court_law_3 = {	
 		custom_tooltip = {
-			text = { more_order_good }
+			text = more_order_good
 			liege = {
 				primary_title = { has_law = high_court_law_2 }				
 			}
@@ -43,13 +43,13 @@ selfish_pattern_against = {
 	
 	high_court_law_0 = { 
 		custom_tooltip = {
-			text = { too_much_power }
+			text = too_much_power
 			always = yes 
 		}
 	}
 	high_court_law_1 = {	
 		custom_tooltip = {
-			text = { too_much_power }
+			text = too_much_power
 			liege = {
 				primary_title = { has_law = high_court_law_2 }				
 			}
@@ -57,7 +57,7 @@ selfish_pattern_against = {
 	}
 	high_court_law_2 = {	
 		custom_tooltip = {
-			text = { too_much_power }
+			text = too_much_power
 			liege = {
 				primary_title = { has_law = high_court_law_3 }				
 			}
@@ -70,12 +70,12 @@ pragmatist_pattern_for = {
 	
 	high_court_law_0 = { 
 		custom_tooltip = {
-			text = { less_power_good }
+			text = less_power_good
 		}
 	}
 	high_court_law_1 = {	
 		custom_tooltip = {
-			text = { less_power_good }
+			text = less_power_good
 			liege = {
 				primary_title = { has_law = high_court_law_2 }
 			}
@@ -83,7 +83,7 @@ pragmatist_pattern_for = {
 	}
 	high_court_law_2 = {	
 		custom_tooltip = {
-			text = { more_order_good }
+			text = more_order_good
 			liege = {
 				primary_title = { has_law = high_court_law_3 }				
 			}
@@ -96,7 +96,7 @@ pragmatist_pattern_against = {
 	
 	high_court_law_1 = {	
 		custom_tooltip = {
-			text = { too_much_power }
+			text = too_much_power
 			liege = {
 				primary_title = { has_law = high_court_law_0 }				
 			}
@@ -104,7 +104,7 @@ pragmatist_pattern_against = {
 	}
 	high_court_law_2 = {	
 		custom_tooltip = {
-			text = { too_much_power }
+			text = too_much_power
 			liege = {
 				primary_title = { has_law = high_court_law_1 }				
 			}
@@ -112,7 +112,7 @@ pragmatist_pattern_against = {
 	}
 	high_court_law_3 = {	
 		custom_tooltip = {
-			text = { too_much_power }
+			text = too_much_power
 			liege = {
 				primary_title = { has_law = high_court_law_2 }				
 			}
@@ -125,7 +125,7 @@ glory_hound_pattern_for = {
 	
 	high_court_law_1 = {	
 		custom_tooltip = {
-			text = { more_order_good }
+			text = more_order_good
 			liege = {
 				primary_title = { has_law = high_court_law_0 }				
 			}
@@ -133,7 +133,7 @@ glory_hound_pattern_for = {
 	}
 	high_court_law_2 = {	
 		custom_tooltip = {
-			text = { more_order_good }
+			text = more_order_good
 			liege = {
 				primary_title = { has_law = high_court_law_1 }				
 			}
@@ -141,7 +141,7 @@ glory_hound_pattern_for = {
 	}
 	high_court_law_3 = {	
 		custom_tooltip = {
-			text = { more_order_good }
+			text = more_order_good
 			liege = {
 				primary_title = { has_law = high_court_law_2 }				
 			}
@@ -154,12 +154,12 @@ glory_hound_pattern_against = {
 	
 	high_court_law_0 = { 
 		custom_tooltip = {
-			text = { more_order_good }
+			text = more_order_good
 		}
 	}
 	high_court_law_1 = {	
 		custom_tooltip = {
-			text = { more_order_good }
+			text = more_order_good
 			liege = {
 				primary_title = { has_law = high_court_law_2 }				
 			}
@@ -167,7 +167,7 @@ glory_hound_pattern_against = {
 	}
 	high_court_law_2 = {	
 		custom_tooltip = {
-			text = { more_order_good }
+			text = more_order_good
 			liege = {
 				primary_title = { has_law = high_court_law_3 }				
 			}
