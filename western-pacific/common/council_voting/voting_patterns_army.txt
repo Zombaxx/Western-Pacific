@@ -148,13 +148,13 @@ zealot_pattern_for = {
 	
 	army_professionalism_law_0 = { 
 		custom_tooltip = {
-			text = { army_indifferent }
+			text = army_indifferent
 			always = yes 
 		}
 	}
 	army_professionalism_law_1 = { 
 		custom_tooltip = {
-			text = { army_indifferent }
+			text = army_indifferent
 			liege = {
 				primary_title = { has_law = army_professionalism_law_2 }
 			}
@@ -162,7 +162,7 @@ zealot_pattern_for = {
 	}
 	army_professionalism_law_2 = { 
 		custom_tooltip = {
-			text = { army_indifferent }
+			text = army_indifferent
 			liege = {
 				primary_title = { has_law = army_professionalism_law_1 }
 			}

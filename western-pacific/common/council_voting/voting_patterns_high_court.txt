@@ -180,13 +180,13 @@ zealot_pattern_for = {
 	
 	high_court_law_0 = { 
 		custom_tooltip = {
-			text = { priest_say_no }
+			text = priest_say_no
 			always = yes
 		}				
 	}
 	high_court_law_1 = { 
 		custom_tooltip = {
-			text = { priest_say_no }
+			text = priest_say_no
 			liege = {
 				primary_title = { has_law = high_court_law_2 }
 			}
@@ -194,7 +194,7 @@ zealot_pattern_for = {
 	}
 	high_court_law_2 = { 
 		custom_tooltip = {
-			text = { priest_say_no }
+			text = priest_say_no
 			liege = {
 				primary_title = { has_law = high_court_law_3 }
 			}
@@ -208,7 +208,7 @@ zealot_pattern_against = {
 		
 	high_court_law_1 = { 
 		custom_tooltip = {
-			text = { priest_say_no }
+			text = priest_say_no
 			liege = {
 				primary_title = { has_law = high_court_law_0 }
 			}
@@ -216,7 +216,7 @@ zealot_pattern_against = {
 	}
 	high_court_law_2 = { 
 		custom_tooltip = {
-			text = { priest_say_no }
+			text = priest_say_no
 			liege = {
 				primary_title = { has_law = high_court_law_1 }
 			}
@@ -224,7 +224,7 @@ zealot_pattern_against = {
 	}
 	high_court_law_3 = { 
 		custom_tooltip = {
-			text = { priest_say_no }
+			text = priest_say_no
 			liege = {
 				primary_title = { has_law = high_court_law_2 }
 			}
