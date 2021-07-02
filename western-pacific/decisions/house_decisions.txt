@@ -93,7 +93,7 @@ decisions = {
 			} 
 			modifier = {
 				factor = 0.01
-				NOT = { num_of_children = 2 }
+				NOT = { num_of_children = 4 }
 			} 
 			modifier = {
 				factor = 0.5
@@ -101,7 +101,7 @@ decisions = {
 			} 
 			modifier = {
 				factor = 0.5
-				NOT = { age = 26 }
+				NOT = { age = 30 }
 			} 
 		}
 	}	

@@ -12,7 +12,6 @@ decisions = {
 			NOT = { trait = mech_pilot }
 		}
 		allow = {
-			in_command = no
 			age = 14
 			prisoner = no
 			NOT = { trait = incapable }
@@ -59,7 +58,6 @@ decisions = {
 			capital_scope = { has_building = ca_applied_science_division }
 		}
 		allow = {
-			in_command = no
 			age = 14
 			prisoner = no
 			wealth = 200
@@ -104,7 +102,6 @@ decisions = {
 			capital_scope = { has_building = ca_special_projects_division }
 		}
 		allow = {
-			in_command = no
 			age = 14
 			prisoner = no
 			wealth = 200

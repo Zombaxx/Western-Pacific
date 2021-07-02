@@ -19,19 +19,20 @@ title_mistress = {
 			is_married = no
 			is_female = yes
 			prisoner = no
+			NOT = { dynasty = FROM } 
 		}
 	}
 
 	allowed_to_grant = {
 		NOT = { trait = trait_slave }
 		NOT = {
-			culture_group = north_germanic
-			culture_group = central_germanic
+			culture = russian
+			culture = norse
 			culture = hausa
 			culture = han
 			religion = jewish
 			religion_group = pagan_group 
-		}
+			}
 		AND = {
 			age = 16
 			is_feudal = yes
@@ -64,8 +65,9 @@ title_mistress = {
 title_grand_judge = {
 	is_high_prio = yes
 	show_as_title = yes
-	realm_in_name = no
+	realm_in_name = yes
 	opinion_effect = 10
+	is_voter = yes
 	revoke_allowed = no
 	
 	monthly_salary = 0.9
@@ -73,6 +75,7 @@ title_grand_judge = {
 	
 	allowed_to_hold = {
 		is_landed = no
+		is_adult = yes
 		learning = 12
 		NOT = { trait = trait_slave }
 	}

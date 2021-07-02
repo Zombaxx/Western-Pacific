@@ -1,4 +1,4 @@
-#character
+character
 on_startup = {
 	events = {
 		mod_group.0 #Gift Troop Decision
@@ -17,6 +17,8 @@ on_birth = {
 on_yearly_pulse = {
 	random_events = {
 		1000 = 0
+		850 = suit_events.99
+		800 = knightly.105
 		500 = take_hostage_events.8
 		400 = knightly.007
 		100 = slavery_events.2
@@ -28,6 +30,10 @@ on_yearly_pulse = {
 		100 = slavery_events.3
 	}
 	events = {
+		knightly.105
+		knightly.106
+		trial_events.0
+		sin_loaner_maintenance.31
 		slavery.2
 		roy_slavery_events.5
 		charlawevents.4
@@ -35,19 +41,34 @@ on_yearly_pulse = {
 		college_school_events.111
 		roytroops.0
 		roytroops.1
+		roytroops.2
 	}
 }
 on_bi_yearly_pulse = {
 	random_events = {
 		1500 = 0
+		1350 = courtier_mercenary_events.0
+		1300 = feud_events.0
+		1300 = royjudge.0
+		1300 = royjudge.2
 		800 = knightly.004
+		1000 = suit_events.17
 		750 = knightly.009
 	}
 	events = {
-		royjudge.0
 		roycoup.0
 		going_school_events.0
 		take_hostage_events.0
+	}
+}
+on_five_year_pulse = {
+	events = {
+		election_events.0
+	}
+	random_events = {
+		1200 = 0
+		800 = suit_events.14
+		500 = suit_events.15
 	}
 }
 on_decade_pulse = {
@@ -55,16 +76,22 @@ on_decade_pulse = {
 		suit_events.2
 		slavery_mt_events.1
 	}
-	random_events = {
-		1000 = 0
-		1500 = courtier_mercenary_events.0
-	}
 }
 on_adulthood = {
 	events = {
 		knightly.006
 		take_hostage_events.7
 	}
+}
+on_marriage = {
+	events = {
+		marriage.10000
+	}
+}
+on_became_imprisoned = {
+	events = {
+		trial_events.0
+		}
 }
 on_executed = {
 	events = {
@@ -74,19 +101,13 @@ on_executed = {
 on_combat_pulse = {
 	events = {
 		roytroops.1
+		robobattle_events.1
 	}
 	random_events = {
-		3000 = robobattle_events.92
-		3000 = robobattle_events.93
-		3000 = robobattle_events.94
-		3000 = robobattle_events.95
-		3000 = robobattle_events.96
-		3000 = robobattle_events.97
-		3000 = robobattle_events.98
-		3000 = robobattle_events.99
-		3000 = robobattle_events.101
-		500 = suit_events.0
-		500 = suit_events.3
+		900 = suit_events.16
+		750 = suit_events.0
+		700 = suit_events.3
+		600 = suit_events.13
 	}
 }
 on_siege_over_winner = {
@@ -102,11 +123,23 @@ on_battle_won_owner = {
 	}
 	random_events = {
 		1000 = 0
-		200 = knightly.005
+		500 = knightly.103
+		850 = knightly.005
 	}
 }
 on_siege_won_leader = {
 	events ={
 		more_prisoners.0
+	}
+}
+on_death = {
+	events = {
+		sin_loaner_maintenance.0
+		sin_loaner_maintenance.1
+	}
+}
+on_become_imprisoned_any_reason = {
+	events = {
+		sin_loaner_maintenance.3
 	}
 }

@@ -1,6 +1,7 @@
 title_knight = {
 	show_as_title = yes
 	realm_in_name = yes
+	dignity = 0.75
 	grant_limit = 100
 	revoke_allowed = no
 	
