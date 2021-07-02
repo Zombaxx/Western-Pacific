@@ -12,222 +12,293 @@ selfish_pattern_for = {
 	icon = 9
 	pattern_type = for
 	
+	high_court_law_0 = {
+			NOT = { trait = cruel }
+			OR = {
+				trait = kind
+				trait = just
+				trait = arbitrary
+			}
+		
+		}
 	high_court_law_1 = {	
-		custom_tooltip = {
-			text = more_order_good
-			liege = {
-				primary_title = { has_law = high_court_law_0 }				
+			NOT = { trait = kind }
+			NOT = { trait = just }
+			OR = {
+				trait = proud
+				trait = cruel
+				trait = arbitrary
 			}
 		}
-	}
+	
 	high_court_law_2 = {	
-		custom_tooltip = {
-			text = more_order_good
-			liege = {
-				primary_title = { has_law = high_court_law_1 }				
+			NOR = { 
+				trait = kind
+				trait = just 
+			}
+			OR = {
+				trait = proud
+				trait = cruel
+				trait = arbitrary
 			}
 		}
-	}
+	
 	high_court_law_3 = {	
-		custom_tooltip = {
-			text = more_order_good
-			liege = {
-				primary_title = { has_law = high_court_law_2 }				
+			NOR = { 
+				trait = kind
+				trait = just 
 			}
-		}
+			OR = {
+				trait = proud
+				trait = cruel
+				trait = arbitrary
+			}
 	}
-}
+
 selfish_pattern_against = {
 	icon = 9
 	pattern_type = against
 	
 	high_court_law_0 = { 
-		custom_tooltip = {
-			text = too_much_power
-			always = yes 
+			NOR = { 
+				trait = kind
+				trait = just 
+			}
+			OR = {
+				trait = proud
+				trait = cruel
+				trait = arbitrary
+			}
 		}
-	}
+	
 	high_court_law_1 = {	
-		custom_tooltip = {
-			text = too_much_power
-			liege = {
-				primary_title = { has_law = high_court_law_2 }				
+			NOT = { trait = cruel }
+			OR = {
+				trait = kind
+				trait = just
+				trait = arbitrary
 			}
 		}
-	}
+	
 	high_court_law_2 = {	
-		custom_tooltip = {
-			text = too_much_power
-			liege = {
-				primary_title = { has_law = high_court_law_3 }				
+			NOT = { trait = cruel }
+			OR = {
+				trait = kind
+				trait = just
+				trait = arbitrary
 			}
 		}
 	}
-}
+
 pragmatist_pattern_for = {
 	icon = 6
 	pattern_type = for
 	
 	high_court_law_0 = { 
-		custom_tooltip = {
-			text = less_power_good
+			NOT = { trait = cruel }
+			OR = {
+				trait = kind
+				trait = just
+				trait = arbitrary
+			}
 		}
-	}
+	
 	high_court_law_1 = {	
-		custom_tooltip = {
-			text = less_power_good
-			liege = {
-				primary_title = { has_law = high_court_law_2 }
+			NOR = { 
+				trait = kind
+				trait = just 
+			}
+			OR = {
+				trait = proud
+				trait = cruel
+				trait = arbitrary
 			}
 		}
-	}
+
 	high_court_law_2 = {	
-		custom_tooltip = {
-			text = more_order_good
-			liege = {
-				primary_title = { has_law = high_court_law_3 }				
+			NOR = { 
+				trait = kind
+				trait = just 
+			}
+			OR = {
+				trait = proud
+				trait = cruel
+				trait = arbitrary
 			}
 		}
 	}
-}
+
 pragmatist_pattern_against = {
 	icon = 6
 	pattern_type = against
 	
 	high_court_law_1 = {	
-		custom_tooltip = {
-			text = too_much_power
-			liege = {
-				primary_title = { has_law = high_court_law_0 }				
+			NOT = { trait = cruel }
+			OR = {
+				trait = kind
+				trait = just
+				trait = arbitrary
 			}
 		}
-	}
+	
 	high_court_law_2 = {	
-		custom_tooltip = {
-			text = too_much_power
-			liege = {
-				primary_title = { has_law = high_court_law_1 }				
+			NOT = { trait = cruel }
+			OR = {
+				trait = kind
+				trait = just
+				trait = arbitrary
 			}
 		}
-	}
+	
 	high_court_law_3 = {	
-		custom_tooltip = {
-			text = too_much_power
-			liege = {
-				primary_title = { has_law = high_court_law_2 }				
+			NOT = { trait = cruel }
+			OR = {
+				trait = kind
+				trait = just
+				trait = arbitrary
 			}
-		}
 	}
-}
+
 glory_hound_pattern_for = {
 	icon = 7
 	pattern_type = for
 	
 	high_court_law_1 = {	
-		custom_tooltip = {
-			text = more_order_good
-			liege = {
-				primary_title = { has_law = high_court_law_0 }				
+			NOR = { 
+				trait = kind
+				trait = just 
+			}
+			OR = {
+				trait = proud
+				trait = cruel
+				trait = arbitrary
 			}
 		}
-	}
+	
 	high_court_law_2 = {	
-		custom_tooltip = {
-			text = more_order_good
-			liege = {
-				primary_title = { has_law = high_court_law_1 }				
+			NOR = { 
+				trait = kind
+				trait = just 
+			}
+			OR = {
+				trait = proud
+				trait = cruel
+				trait = arbitrary
 			}
 		}
-	}
+	
 	high_court_law_3 = {	
-		custom_tooltip = {
-			text = more_order_good
-			liege = {
-				primary_title = { has_law = high_court_law_2 }				
+			NOR = { 
+				trait = kind
+				trait = just 
+			}
+			OR = {
+				trait = proud
+				trait = cruel
+				trait = arbitrary
 			}
 		}
 	}
-}
+
 glory_hound_pattern_against = {
 	icon = 7
 	pattern_type = against
 	
 	high_court_law_0 = { 
-		custom_tooltip = {
-			text = more_order_good
+			NOR = { 
+				trait = kind
+				trait = just 
+			}
+			OR = {
+				trait = proud
+				trait = cruel
+				trait = arbitrary
+			}
 		}
-	}
+	
 	high_court_law_1 = {	
-		custom_tooltip = {
-			text = more_order_good
-			liege = {
-				primary_title = { has_law = high_court_law_2 }				
+			NOT = { trait = cruel }
+			OR = {
+				trait = kind
+				trait = just
+				trait = arbitrary
 			}
 		}
-	}
+	
 	high_court_law_2 = {	
-		custom_tooltip = {
-			text = more_order_good
-			liege = {
-				primary_title = { has_law = high_court_law_3 }				
+			NOT = { trait = cruel }
+			OR = {
+				trait = kind
+				trait = just
+				trait = arbitrary
 			}
 		}
 	}
-}
+
 zealot_pattern_for = {
 	icon = 5
 	pattern_type = for
 	
 	high_court_law_0 = { 
 		custom_tooltip = {
-			text = priest_say_no
+			text = priest_say_no }
 			always = yes
 		}				
-	}
+	
 	high_court_law_1 = { 
-		custom_tooltip = {
-			text = priest_say_no
-			liege = {
-				primary_title = { has_law = high_court_law_2 }
+			NOR = { 
+				trait = kind
+				trait = just 
+			}
+			OR = {
+				trait = proud
+				trait = cruel
+				trait = arbitrary
 			}
 		}				
-	}
+	
 	high_court_law_2 = { 
-		custom_tooltip = {
-			text = priest_say_no
-			liege = {
-				primary_title = { has_law = high_court_law_3 }
+			NOR = { 
+				trait = kind
+				trait = just 
+			}
+			OR = {
+				trait = proud
+				trait = cruel
+				trait = arbitrary
 			}
 		}		
 	}
-}
+
 
 zealot_pattern_against = {
 	icon = 5
 	pattern_type = against
 		
 	high_court_law_1 = { 
-		custom_tooltip = {
-			text = priest_say_no
-			liege = {
-				primary_title = { has_law = high_court_law_0 }
+			NOT = { trait = cruel }
+			OR = {
+				trait = kind
+				trait = just
+				trait = arbitrary
 			}
 		}
-	}
+				
 	high_court_law_2 = { 
-		custom_tooltip = {
-			text = priest_say_no
-			liege = {
-				primary_title = { has_law = high_court_law_1 }
+			NOT = { trait = cruel }
+			OR = {
+				trait = kind
+				trait = just
+				trait = arbitrary
 			}
 		}		
-	}
+	
 	high_court_law_3 = { 
-		custom_tooltip = {
-			text = priest_say_no
-			liege = {
-				primary_title = { has_law = high_court_law_2 }
+			NOT = { trait = cruel }
+			OR = {
+				trait = kind
+				trait = just
+				trait = arbitrary
 			}
 		}		
 	}
-}

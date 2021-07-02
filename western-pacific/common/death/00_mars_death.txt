@@ -13,3 +13,9 @@ DEATH_STOLEN_CYBERNETICS = {
 	long_desc = "DEATH_STOLEN_CYBERNETICS"
 	can_nokiller = yes
 }
+death_mech_duel = {
+	violent = yes
+	long_desc = "death_mech_duel"
+	can_nokiller = yes
+	icon = 7
+}

@@ -16,7 +16,7 @@ city = {
 		light_infantry = 50
 		
 		ai_creation_factor = 100
-		extra_tech_building_start = 5
+		extra_tech_building_start = 0.1
 	
 	}
 	ct_f_brothel = {
@@ -36,7 +36,7 @@ city = {
 		tax_income = 0.8
 		
 		ai_creation_factor = 100
-		extra_tech_building_start = 5
+		extra_tech_building_start = 0.1
 	
 	}
 	ct_f_armory = {
@@ -51,7 +51,7 @@ city = {
 		archers = 200
 		
 		ai_creation_factor = 100
-		extra_tech_building_start = 5
+		extra_tech_building_start = 0.1
 	
 	}
 	ct_f_road_tolls= {
@@ -63,7 +63,7 @@ city = {
 		tax_income = 2
 		
 		ai_creation_factor = 100
-		extra_tech_building_start = 3
+		extra_tech_building_start = 0.1
 	
 	}
 	ct_coast_guard= {
@@ -77,7 +77,7 @@ city = {
 		tax_income = -0.25
 		
 		ai_creation_factor = 100
-		extra_tech_building_start = 3
+		extra_tech_building_start = 0.1
 	
 	}
 	ct_f_guards_hall = {
@@ -88,7 +88,7 @@ city = {
 		garrison_size = 0.5
 		military_techpoints = 0.3
 		ai_creation_factor = 100
-		extra_tech_building_start = 50
+		extra_tech_building_start = 0.1
 	
 	}
 	
@@ -103,7 +103,7 @@ city = {
 		levy_size = 0.5
 		
 		ai_creation_factor = 100
-		extra_tech_building_start = 50
+		extra_tech_building_start = 0.8
 	
 	}
 	ct_high_court = {
@@ -125,7 +125,7 @@ city = {
 		gold_cost = 200
 		build_time = 730
 		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		extra_tech_building_start = 0.8
 		add_number_to_name = no
 		local_revolt_risk = -0.1
 	}
@@ -150,8 +150,8 @@ city = {
 		fort_level = 2
 		levy_reinforce_rate = 0.50
 		garrison_size = 0.15
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 100
+		extra_tech_building_start = 0.5
 		add_number_to_name = no
 	}
 	ct_special_projects_division = {
@@ -172,7 +172,7 @@ city = {
 		gold_cost = 700
 		build_time = 930
 		ai_creation_factor = 90
-		extra_tech_building_start = 100	
+		extra_tech_building_start = 0.9
 		add_number_to_name = no
 		military_techpoints = 0.5
 	}
@@ -196,8 +196,8 @@ city = {
 		trigger = { TECH_TRADE_PRACTICES = 0 }
 		gold_cost = 100
 		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 100
+		extra_tech_building_start = 0.5
 		add_number_to_name = no
 		tax_income = 5
 		economy_techpoints = 0.05
@@ -222,8 +222,8 @@ city = {
 		trigger = { TECH_TRADE_PRACTICES = 2 }
 		gold_cost = 150
 		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.4
 		add_number_to_name = no
 		tax_income = 5
 		global_tax_modifier = -0.05
@@ -250,7 +250,7 @@ city = {
 		gold_cost = 200
 		build_time = 730
 		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		extra_tech_building_start = 0.5
 		add_number_to_name = no
 		economy_techpoints = 0.1
 		global_tax_modifier = 0.25
@@ -276,7 +276,7 @@ city = {
 		gold_cost = 150
 		build_time = 730
 		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		extra_tech_building_start = 0.8
 		add_number_to_name = no
 		global_tax_modifier = -0.25
 		tax_income = 2
@@ -297,7 +297,7 @@ city = {
 		gold_cost = 150
 		build_time = 730
 		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		extra_tech_building_start = 0.8
 		add_number_to_name = no
 		disease_defence = 0.05
 		court_size_modifier = 2
@@ -318,7 +318,7 @@ city = {
 		gold_cost = 120
 		build_time = 730
 		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		extra_tech_building_start = 0.4
 		add_number_to_name = no
 		economy_techpoints = 0.1
 		global_tax_modifier = -0.05

@@ -27,8 +27,9 @@ castle = {
 		} 	
 		gold_cost = 200	
 		build_time = 730	
-		ai_creation_factor = 90	
-		extra_tech_building_start = 10	
+		add_number_to_name = no
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.4	
 		tax_income = 2
 		local_build_cost_modifier = -0.10
 	}
@@ -56,8 +57,9 @@ castle = {
 		} 	
 		gold_cost = 150	
 		build_time = 730	
-		ai_creation_factor = 90	
-		extra_tech_building_start = 10
+		add_number_to_name = no
+		ai_creation_factor = 100
+		extra_tech_building_start = 0.5
 		tax_income = 6
 		local_build_cost_modifier = -0.25
 	}
@@ -82,8 +84,9 @@ castle = {
 		} 		
 		gold_cost = 200	
 		build_time = 730	
-		ai_creation_factor = 90	
-		extra_tech_building_start = 10	
+		ai_creation_factor = 100	
+		add_number_to_name = no
+		extra_tech_building_start = 0.5
 		tax_income = 9
 		local_build_cost_modifier = -0.25
 	}

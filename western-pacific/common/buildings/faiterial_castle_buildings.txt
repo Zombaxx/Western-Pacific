@@ -1,35 +1,92 @@
 castle = {
 
-	ca_arms_depot = {
+	ca_arms_depot_1 = {
 		desc = ca_arms_depot_desc
 		potential = {	
-			FROM = {	
-				culture = han
-				capital_holding = {	
-					title = FROMFROM	
-				}	
+			FROM = {
+				OR = {	
+				religion = taoist
+				culture_group = chinese_group
+				}
 			}	
 		}	
-		trigger = { TECH_FORTIFICATIONS_CONSTRUCTION = 3  }
+		trigger = { TECH_CONSTRUCTION = 2  }
 		is_active_trigger = {
 			ROOT = {
 				OR = {
 					culture = han
+					culture = tau_cetinese
+					religion = taoist
 				}
 			}
 		} 
-		gold_cost = 70
+		gold_cost = 280
 		build_time = 580
+		add_number_to_name = no
 		military_techpoints = 0.05
 		commander_limit = 2
 		global_supply_limit = 0.35
 		levy_reinforce_rate = 0.15
-		riflemen_brigade = 1000
+		riflemen_brigade = 500
 		ai_creation_factor = 100
-		extra_tech_building_start = 100
-	
+		extra_tech_building_start = 0.1
 	}
-
+	ca_arms_depot_2 = {
+		desc = ca_arms_depot_desc	
+		upgrades_from = ca_arms_depot_1
+		potential = {	
+			FROM = {
+				OR = {	
+				religion = taoist
+				culture_group = chinese_group
+				}
+			}	
+		}	
+		trigger = { TECH_CONSTRUCTION = 2 }
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = han
+					culture = tau_cetinese
+					religion = taoist
+				}
+			}
+		} 
+		gold_cost = 250	
+		build_time = 730
+		add_number_to_name = no	
+		ai_creation_factor = 100	
+		extra_tech_building_start = 0.8
+		riflemen_brigade = 500
+		ai_creation_factor = 100
+	}
+	ca_arms_depot_3 = {
+		desc = ca_arms_depot_desc
+		upgrades_from = ca_arms_depot_2	
+		potential = {	
+			FROM = {
+				OR = {	
+				religion = taoist
+				culture_group = chinese_group
+				}	
+			}	
+		}	
+		trigger = { TECH_CONSTRUCTION = 3 }
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture_group = chinese_group
+					religion = taoist
+				}
+			}
+		} 
+		gold_cost = 200	
+		build_time = 730
+		add_number_to_name = no	
+		ai_creation_factor = 100	
+		extra_tech_building_start = 10
+		riflemen_brigade = 800
+	}
 	ca_f_blacksmith = {
 		desc = ca_f_blacksmith_desc
 		potential = {	
@@ -44,9 +101,8 @@ castle = {
 		build_time = 580
 		military_techpoints = 0.05
 		levy_reinforce_rate = 0.05
-		
-		ai_creation_factor = 57
-		extra_tech_building_start = 5
+		extra_tech_building_start = 0.8		
+		ai_creation_factor = 100
 	
 	}
 	ca_f_citadel = {
@@ -60,8 +116,8 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_FORTIFICATIONS_CONSTRUCTION = 6  }
-		gold_cost = 1500
-		build_time = 780
+		gold_cost = 1950
+		build_time = 1890
 		retinuesize = 100
 		military_techpoints = 0.3
 		fort_level = 2
@@ -70,7 +126,7 @@ castle = {
 		levy_reinforce_rate = 0.15
 		
 		ai_creation_factor = 100
-		extra_tech_building_start = 5
+		extra_tech_building_start = 10
 	
 	}
 	ca_brothel = {
@@ -90,12 +146,12 @@ castle = {
 		liege_prestige = -0.05
 		tax_income = 0.8
 		
-		ai_creation_factor = 69
-		extra_tech_building_start = 5
+		ai_creation_factor = 100
+		extra_tech_building_start = 0.01
 	
 	}
-	ca_paved_roads= {
-		desc = ca_paved_roads_desc
+	ca_raven_tower= {
+		desc = ca_raven_tower_desc
 		potential = {	
 			FROM = {		
 				capital_holding = {	
@@ -103,14 +159,12 @@ castle = {
 				}	
 			}	
 		}	
-		trigger = { TECH_CONSTRUCTION = 3  }
+		trigger = { TECH_CONSTRUCTION = 2  }
 		gold_cost = 65
 		build_time = 385
-		local_movement_speed = 0.10
-		tax_income = -1.5
-		
+		culture_techpoints = 0.05		
 		ai_creation_factor = 100
-		extra_tech_building_start = 90
+		extra_tech_building_start = 0.3
 	
 	}
 }

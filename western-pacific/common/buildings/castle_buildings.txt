@@ -1,24 +1,5 @@
 
 castle = {	
-	ca_conference_center = {		
-		desc = ca_conference_center_desc	
-		potential = {	
-			FROM = {	
-				religion = taoist	
-				capital_holding = {	
-					title = FROMFROM	
-				}	
-			}	
-		}	
-		trigger = { TECH_CONSTRUCTION = 0 }	
-		gold_cost = 100	
-		build_time = 730	
-		ai_creation_factor = 90	
-		extra_tech_building_start = 100	
-		add_number_to_name = no	
-		culture_techpoints = 0.05
-		court_size_modifier = 2
-	}
 	ca_assembly_chamber = {
 		desc = ca_assembly_chamber_desc
 		potential = {	
@@ -29,12 +10,12 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_CONSTRUCTION = 2 }
-		gold_cost = 100
+		gold_cost = 250
 		build_time = 730
 		court_size_modifier = 2
 		culture_techpoints = 0.10
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 105
+		extra_tech_building_start = 0.9
 		add_number_to_name = no
 	}
 	ca_high_court = {
@@ -46,6 +27,7 @@ castle = {
 				religion = orthodox	
 				religion = taoist
 				religion = tengri_pagan	
+				culture_group = iberian
 				}	
 				capital_holding = {	
 					title = FROMFROM	
@@ -55,46 +37,10 @@ castle = {
 		trigger = { TECH_LEGALISM = 4 }
 		gold_cost = 200
 		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
-		add_number_to_name = no
-		local_revolt_risk = -0.1
-	}
-	ca_peace_monument = {
-		desc = ca_peace_monument_desc
-		potential = {	
-			FROM = {		
-				capital_holding = {	
-					title = FROMFROM	
-				}	
-			}	
-		}	
-		trigger = { TECH_CONSTRUCTION = 2 }
-		gold_cost = 45
-		build_time = 130
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
-		add_number_to_name = no
-		liege_prestige = 0.2
-	}
-	ca_seminar_series = {
-		desc = ca_seminar_series_desc
-		potential = {	
-			FROM = {
-				religion = taoist		
-				capital_holding = {	
-					title = FROMFROM	
-				}	
-			}	
-		}	
-		trigger = { TECH_CONSTRUCTION = 3 }
-		gold_cost = 110	
-		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 100
+		extra_tech_building_start = 0.4
 		add_number_to_name = no
 		culture_techpoints = 0.10
-		liege_prestige = 0.05
 	}
 	ca_cultural_exchange = {
 		desc = ca_cultural_exchange_desc
@@ -108,8 +54,8 @@ castle = {
 		trigger = { TECH_POPULAR_CUSTOMS = 3 }
 		gold_cost = 150
 		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.6
 		add_number_to_name = no
 		general_opinion = 10
 		culture_techpoints = 0.25
@@ -130,15 +76,15 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_CASTLE_CONSTRUCTION = 6 }
-		gold_cost = 200
+		gold_cost = 309
 		build_time = 730
 		court_size_modifier = 1
 		global_winter_supply = 0.20
 		fort_level = 2
 		levy_reinforce_rate = 0.50
 		garrison_size = 0.15
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.4
 		add_number_to_name = no
 	}
 	ca_officer_academy = {
@@ -152,9 +98,9 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_FORTIFICATIONS_CONSTRUCTION = 3 }
-		gold_cost = 100
-		build_time = 730
-		ai_creation_factor = 90
+		gold_cost = 275
+		build_time = 765
+		ai_creation_factor = 110
 		commander_limit = 5
 		garrison_size = 0.1
 	}
@@ -169,10 +115,10 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_CONSTRUCTION = 5 }
-		gold_cost = 200
+		gold_cost = 320
 		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.8
 		add_number_to_name = no
 		levy_size = 0.15
 		levy_reinforce_rate = 0.15
@@ -197,8 +143,8 @@ castle = {
 		trigger = { TECH_RECRUITMENT = 4 }
 		gold_cost = 200
 		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.4
 		add_number_to_name = no
 		light_infantry = 150
 		heavy_infantry = 100
@@ -224,27 +170,10 @@ castle = {
 		trigger = { TECH_CONSTRUCTION = 6 }
 		gold_cost = 700
 		build_time = 930
-		ai_creation_factor = 90
-		extra_tech_building_start = 100	
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.6
 		add_number_to_name = no
 		military_techpoints = 0.5
-	}
-	ca_victory_monument = {
-		desc = ca_victory_monument_desc
-		potential = {	
-			FROM = {		
-				capital_holding = {	
-					title = FROMFROM	
-				}	
-			}	
-		}	
-		trigger = { TECH_CONSTRUCTION = 0 }
-		gold_cost = 100
-		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
-		add_number_to_name = no
-		liege_prestige = 0.75
 	}
 	ca_economic_bureau = {
 		desc = ca_economic_bureau_desc
@@ -263,11 +192,11 @@ castle = {
 				}	
 			}	
 		}	
-		trigger = { TECH_TRADE_PRACTICES = 0 }
-		gold_cost = 100
+		trigger = { TECH_TRADE_PRACTICES = 2 }
+		gold_cost = 200
 		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.4
 		add_number_to_name = no
 		tax_income = 5
 		economy_techpoints = 0.05
@@ -280,7 +209,11 @@ castle = {
 				culture = persian
 				culture = kurdish
 				culture = catalan
-				religion = jewish
+				religion_group = jewish_group
+				religion = shiite
+				any_neighbor_independent_ruler = {
+					religion_group = jewish_group
+						}
 				religion = taoist
 				religion = tengri_pagan	
 				}	
@@ -289,11 +222,11 @@ castle = {
 				}	
 			}	
 		}	
-		trigger = { TECH_TRADE_PRACTICES = 2 }
-		gold_cost = 150
-		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		trigger = { TECH_TRADE_PRACTICES = 3 }
+		gold_cost = 550
+		build_time = 930
+		ai_creation_factor = 100
+		extra_tech_building_start = 0.4
 		add_number_to_name = no
 		tax_income = 5
 		global_tax_modifier = -0.05
@@ -317,10 +250,10 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_TRADE_PRACTICES = 4 }
-		gold_cost = 200
+		gold_cost = 400
 		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.4
 		add_number_to_name = no
 		economy_techpoints = 0.1
 		global_tax_modifier = 0.25
@@ -343,10 +276,10 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_FORTIFICATIONS_CONSTRUCTION = 4 }
-		gold_cost = 150
+		gold_cost = 250
 		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.8
 		add_number_to_name = no
 		global_tax_modifier = -0.25
 		tax_income = 2
@@ -364,10 +297,10 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_CONSTRUCTION = 6 }
-		gold_cost = 150
-		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		gold_cost = 500
+		build_time = 930
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.9
 		add_number_to_name = no
 		disease_defence = 0.05
 		court_size_modifier = 2
@@ -385,10 +318,10 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_CONSTRUCTION = 2 }
-		gold_cost = 50
-		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		gold_cost = 150
+		build_time = 325
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.7
 		add_number_to_name = no
 		fort_level = 0.5
 	}
@@ -402,10 +335,10 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_CONSTRUCTION = 5 }
-		gold_cost = 100
+		gold_cost = 150
 		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 10
 		add_number_to_name = no
 		fort_level = 1.5
 	}
@@ -419,10 +352,10 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_CONSTRUCTION = 3 }
-		gold_cost = 50	
+		gold_cost = 90	
 		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 10
 		add_number_to_name = no
 		arrest_chance_modifier = 0.25
 	}
@@ -438,8 +371,8 @@ castle = {
 		trigger = { TECH_CONSTRUCTION = 0 }
 		gold_cost = 200
 		build_time = 730
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.8
 		add_number_to_name = no
 		liege_prestige = 0.5
 	}
@@ -457,13 +390,13 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_CONSTRUCTION = 0 }
-		gold_cost = 150
+		gold_cost = 350
 		build_time = 730
-		economy_techpoints = 0.05
+		economy_techpoints = 0.15
 		military_techpoints = 0.1
 		global_tax_modifier = -0.05
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.7
 		add_number_to_name = no
 	}
 	ca_research_library = {
@@ -476,13 +409,13 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_CITY_CONSTRUCTION = 2 }
-		gold_cost = 150
-		build_time = 730
+		gold_cost = 375
+		build_time = 750
 		economy_techpoints = 0.10
 		military_techpoints = 0.05
 		culture_techpoints = 0.15
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.4
 		add_number_to_name = no
 	}
 	ca_public_schools = {
@@ -493,15 +426,14 @@ castle = {
 				religion = taoist
 				culture = basque
 				culture = catalan
-				TECH_CITY_CONSTRUCTION = 5
 				}	
 				capital_holding = {	
 					title = FROMFROM	
 				}	
 			}	
 		}	
-		trigger = { TECH_CITY_CONSTRUCTION = 3 }
-		gold_cost = 170
+		trigger = { TECH_CITY_CONSTRUCTION = 5 }
+		gold_cost = 600
 		build_time = 730
 		disease_defence = -0.05
 		global_tax_modifier = -0.1
@@ -509,8 +441,8 @@ castle = {
 		military_techpoints = 0.1
 		culture_techpoints = 0.25
 		tech_growth_modifier = 1
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.6
 		add_number_to_name = no
 	}
 	ca_doctoral_program = {
@@ -528,15 +460,15 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_CITY_CONSTRUCTION = 7 }
-		gold_cost = 250
+		gold_cost = 550
 		build_time = 730
 		disease_defence = 0.15
 		global_tax_modifier = -0.05
 		economy_techpoints = 0.02
 		military_techpoints = 0.01
 		culture_techpoints = 0.05
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.9
 		add_number_to_name = no
 	}
 	ca_medical_wing = {
@@ -554,12 +486,12 @@ castle = {
 			}	
 		}	
 		trigger = { TECH_CITY_CONSTRUCTION = 5 }
-		gold_cost = 100
+		gold_cost = 700
 		build_time = 850
 		disease_defence = 0.25
 		military_techpoints = 0.5
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 10
 		add_number_to_name = no
 	}
 	ca_applied_science_division = {
@@ -568,20 +500,21 @@ castle = {
 			FROM = {
 			OR = {
 				religion = taoist
-				culture = basque
-				TECH_CITY_CONSTRUCTION = 8
-				}		
+				any_neighbor_independent_ruler = {
+					religion = taoist
+						}
+			}	
 				capital_holding = {	
 					title = FROMFROM	
 				}	
 			}	
 		}	
-		trigger = { TECH_CITY_CONSTRUCTION = 5 }
-		gold_cost = 300
+		trigger = { TECH_CONSTRUCTION = 5 }
+		gold_cost = 2500
 		build_time = 930
 		disease_defence = 0.25
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 10
 		add_number_to_name = no
 		military_techpoints = 0.1
 		economy_techpoints = 0.1	
@@ -606,8 +539,8 @@ castle = {
 		build_time = 300
 		liege_piety = 1.25
 		church_opinion = 5
-		ai_creation_factor = 65
-		extra_tech_building_start = 100
+		ai_creation_factor = 95
+		extra_tech_building_start = 0.6
 		add_number_to_name = no
 	}
 	ca_chapel_2 = {
@@ -623,40 +556,36 @@ castle = {
 				}
 			}
 		}	
-		trigger = { TECH_TEMPLE_CONSTRUCTION = 0 }
+		trigger = { TECH_CONSTRUCTION = 2 }
 		desc = ca_chapel_2_desc
 		gold_cost = 250
 		build_time = 500
 		liege_piety = 2.75
 		church_opinion = 10
 		ai_creation_factor = 60
-		extra_tech_building_start = 100
+		extra_tech_building_start = 0.9
 		add_number_to_name = no
 		upgrades_from = ca_chapel
 	}
 	ca_trade_center = {
 		potential = {	
-			FROM = {
-			OR = {
-				culture_group = arabic
-				any_neighbor_independent_ruler = { religion = taoist }
-				}		
+			FROM = {	
 				capital_holding = {	
 					title = FROMFROM	
 				}	
 			}	
 		}	
-		trigger = { TECH_CITY_CONSTRUCTION = 3 }
+		trigger = { TECH_TRADE_PRACTICES = 3 }
 		desc = ca_trade_center_desc
-		gold_cost = 500
+		gold_cost = 450
 		build_time = 850
 		disease_defence = -0.25
 		military_techpoints = 0.5
 		economy_techpoints = 0.25	
 		culture_techpoints = 0.25
 		local_tax_modifier = 1.2
-		ai_creation_factor = 90
-		extra_tech_building_start = 100
+		ai_creation_factor = 110
+		extra_tech_building_start = 0.7
 		add_number_to_name = no
 	}
 	ca_training_yard = {
@@ -679,10 +608,15 @@ castle = {
 		}
 		trigger = { TECH_CONSTRUCTION = 0 }
 		desc = ca_training_yard_desc
+		commander_limit = 2
+		levy_size = 0.05
+		levy_reinforce_rate = 0.05
+		light_infantry = 150
+		heavy_infantry = 100
 		gold_cost = 200
 		build_time = 230
 		ai_creation_factor = 70
-		extra_tech_building_start = 100
+		extra_tech_building_start = 0.4
 		add_number_to_name = no
 	}
 }
