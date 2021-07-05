@@ -1,4 +1,4 @@
-character
+#character
 on_startup = {
 	events = {
 		mod_group.0 #Gift Troop Decision

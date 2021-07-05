@@ -56,11 +56,10 @@ character_event = {
 	option = {
 		name = EVTOPTBsuit_events.1
 		FROMFROM = {
-		prestige = -50
-		opinion = { modifier = opinion_upset who = ROOT years = 2 }
-			}
+			prestige = -50
+			opinion = { modifier = opinion_upset who = ROOT years = 2 }
+		}
 		clear_event_target = giverobo1
-		}	
 	}
 }
 #Piloting Mech Suit harms body
@@ -343,7 +342,7 @@ long_character_event = {
 	
 		option = { 
 		name = "EVTOPTAsuit_events.4" 
-		add_character_modifier = { defeated_robo months = 14 }
+		add_character_modifier = { id = defeated_robo months = 14 }
 		prestige = 300
 		hidden_tooltip = {
 			if = {
@@ -413,7 +412,7 @@ long_character_event = {
 	
 		option = { 
 		name = "EVTOPTAsuit_events.6" 
-		add_character_modifier = { defeated_robo months = 14 }
+		add_character_modifier = { id = defeated_robo months = 14 }
 		prestige = 400
 			random = {
 				chance = 20
