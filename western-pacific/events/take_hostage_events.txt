@@ -6,7 +6,7 @@ character_event = {
 
 	trigger = {
 		has_character_flag = taken_hostage
-		age = 6
+		age = 9
 		NOT = { age = 14 }
 	}
 

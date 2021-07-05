@@ -51,7 +51,12 @@ character_event = {
 		hidden_tooltip = {
 				add_character_modifier = { modifier = usedmech duration = 40}
 				}
-
+			location = {
+				add_province_modifier = {
+					name = destroyed_land
+					years = 1
+				}
+			}
 		if = {
 			limit = { NOT = { trait = maimed } NOT = { trait = wounded } }
 			random = {

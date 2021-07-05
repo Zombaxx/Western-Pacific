@@ -363,3 +363,156 @@ character_event = {
 		clear_event_target = target_loser
 	}
 }
+#Event to totally wreck someone big's realm with peasants...
+narrative_event = {
+	id = Ac.7782
+	title = EVTNAMEUnderdog.103
+	desc = "EVTDESCUnderdog.103"
+	picture = "GFX_evt_peasants"
+	border = GFX_event_narrative_frame_religion	
+	major = yes
+	
+	trigger = {
+		ROOT = {
+			NOT = { has_character_flag = underdog_peasant }
+			realm_size = 200
+		}
+	}
+	mean_time_to_happen = {
+		years = 25
+		modifier = {
+			factor = 0.75
+			realm_size = 250
+		}
+		modifier = {
+			factor = 0.75
+			realm_size = 300
+		}
+		modifier = {
+			factor = 1.75
+			stewardship = 15
+		}
+		modifier = {
+			factor = 1.25
+			trait = kind
+		}
+		modifier = {
+			factor = 1.25
+			trait = content
+		}
+		modifier = {
+			factor = 1.25
+			trait = charitable
+		}
+		modifier = {
+			factor = 1.25
+			trait = humble
+		}
+		modifier = {
+			factor = 1.25
+			trait = just
+		}
+		modifier = {
+			factor = 1.25
+			trait = pilgrim
+		}
+		modifier = {
+			factor = 1.25
+			trait = hajajj
+		}
+		modifier = {
+			factor = 0.5
+			trait = cruel
+		}
+		modifier = {
+			factor = 0.5
+			trait = impaler
+		}
+	}
+	immediate = {
+		set_character_flag = underdog_peasant 
+		any_realm_province = {
+			if = {
+				limit = {
+					ROOT = {
+						capital_scope = {
+							distance = {
+								where = PREVPREV
+								distance = 30
+							}
+						}
+					}
+					NOT = {
+						ROOT = {
+							capital_scope = {
+								distance = {
+									where = PREVPREV
+									distance = 250
+								}
+							}
+						}
+					}
+				}
+				add_province_modifier = {
+					name = realm_too_big_minor
+					duration = 1825
+				}	
+			}
+			if = {
+				limit = {
+					ROOT = {
+						capital_scope = {
+							distance = {
+								where = PREVPREV
+								distance = 251
+							}
+						}
+					}
+					NOT = {
+						ROOT = {
+							capital_scope = {
+								distance = {
+									where = PREVPREV
+									distance = 500
+								}
+							}
+						}
+					}
+				}
+				add_province_modifier = {
+					name = realm_too_big_large
+					duration = 1825
+				}	
+			}
+			if = {
+				limit = {
+					ROOT = {
+						capital_scope = {
+							distance = {
+								where = PREVPREV
+								distance = 501
+							}
+						}
+					}
+				}
+				add_province_modifier = {
+					name = realm_too_big_major
+					duration = 1825
+				}	
+			}
+		}
+	}
+	option = {
+		name = "EVTOPTAUnderdog.103"
+		trigger = {
+			NOT = { same_realm = FROM }
+		}
+	
+	}
+	option = {
+		name = "EVTOPTBUnderdog.103"
+		trigger = {
+			same_realm = FROM
+		}
+	}
+}

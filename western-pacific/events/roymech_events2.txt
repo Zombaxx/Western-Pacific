@@ -180,10 +180,30 @@ namespace = build_mech
 		name = "EVTbuild_mech.4" 
 			prestige = -250
 			random = {
-				chance = 5
+				chance = 15
 				add_trait = hunchback
 				}
 		add_character_modifier = { modifier = mech_injured duration = 90 }
-			add_trait = wounded
+		add_trait = wounded
+			random = {
+				chance = 50
+				character_event = { id = build_mech.5 } 
+				}
+		}
+}
+#Mech Suit falls apart
+	character_event = {
+		id = build_mech.5
+		desc = "EVTDESCbuild_mech.5"
+		picture = GFX_roy_aftermath
+	
+		is_triggered_only = yes
+	
+		option = { 
+		name = "EVTOPTbuild_mech.5" 
+			wealth = 200
+			any_artifact = { 
+				limit = { has_artifact_flag = mecha_suit }
+				unsafe_destroy_artifact = yes }
 		}
 }

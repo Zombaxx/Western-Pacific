@@ -30,7 +30,6 @@ namespace = royjudge
 #Courtier is caught using brothel
 	character_event = {
 		id = royjudge.1
-		title = EVTTITroyjudge.1
 		desc = "EVTDESCROYJUDGE"
 		picture = "GFX_roy_judge"
 	
@@ -137,7 +136,7 @@ namespace = royjudge
 		FROM = {
 			prestige = -50
 			add_character_modifier = { modifier = made_ruling duration = 720 }
-			opinion = { modifier = overruled_me who = ROOT years = 5 }
+			opinion = { modifier = opinion_overruled_me who = ROOT years = 5 }
 		}
 	}
 }

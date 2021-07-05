@@ -573,6 +573,7 @@ character_event = {
 	immediate = {
 		any_courtier = {
 		limit = {
+		is_ruler = no
 		trait = knight
 		age = 16
 		NOT = { has_minor_title = title_knight }	

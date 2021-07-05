@@ -50,6 +50,12 @@ character_event = {
 			}
 		
 		}
+			location = {
+				add_province_modifier = {
+					name = destroyed_land
+					years = 1
+				}
+			}
 
 		if = {
 			limit = { NOT = { trait = maimed } NOT = { trait = wounded } }
