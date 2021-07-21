@@ -13,13 +13,13 @@ selfish_pattern_for = {
 
 	army_professionalism_law_0 = { 
 		custom_tooltip = {
-			text = { army_yes }
+			text = army_yes
 			always = yes 
 		}
 	}
 	army_professionalism_law_1 = {	
 		custom_tooltip = {
-			text = { army_yes }
+			text = army_yes
 			liege = {
 				primary_title = { has_law = army_professionalism_law_2 }				
 			}
@@ -33,7 +33,7 @@ selfish_pattern_against = {
 
 	army_professionalism_law_2 = {	
 		custom_tooltip = {
-			text = { army_no }
+			text = army_no
 			liege = {
 				primary_title = { has_law = army_professionalism_law_1 }				
 			}
@@ -41,7 +41,7 @@ selfish_pattern_against = {
 	}
 	army_professionalism_law_1 = {	
 		custom_tooltip = {
-			text = { army_no }
+			text = army_no
 			liege = {
 				primary_title = { has_law = army_professionalism_law_0 }				
 			}
@@ -55,13 +55,13 @@ pragmatist_pattern_for = {
 	
 	army_professionalism_law_0 = { 
 		custom_tooltip = {
-			text = { army_logical }
+			text = army_logical
 			always = yes 
 		}
 	}
 	army_professionalism_law_1 = {	
 		custom_tooltip = {
-			text = { army_logical }
+			text = army_logical
 			liege = {
 				primary_title = { has_law = army_professionalism_law_0 }				
 			}
@@ -69,7 +69,7 @@ pragmatist_pattern_for = {
 	}
 	army_professionalism_law_1 = {	
 		custom_tooltip = {
-			text = { army_logical }
+			text = army_logical
 			liege = {
 				primary_title = { has_law = army_professionalism_law_2 }				
 			}
@@ -77,7 +77,7 @@ pragmatist_pattern_for = {
 	}
 	army_professionalism_law_2 = {	
 		custom_tooltip = {
-			text = { army_logical }
+			text = army_logical
 			liege = {
 				primary_title = { has_law = army_professionalism_law_1 }				
 			}
@@ -92,7 +92,7 @@ pragmatist_pattern_against = {
 
 	army_professionalism_law_1 = {	
 		custom_tooltip = {
-			text = { army_logical2 }
+			text = army_logical2
 			liege = {
 				primary_title = { has_law = army_professionalism_law_2 }				
 			}
@@ -106,13 +106,13 @@ glory_hound_pattern_for = {
 	
 	army_professionalism_law_0 = { 
 		custom_tooltip = {
-			text = { army_yes }
+			text = army_yes
 			always = yes 
 		}
 	}
 	army_professionalism_law_1 = {	
 		custom_tooltip = {
-			text = { army_yes }
+			text = army_yes
 			liege = {
 				primary_title = { has_law = army_professionalism_law_2 }				
 			}
@@ -126,7 +126,7 @@ glory_hound_pattern_against = {
 	
 	army_professionalism_law_2 = {	
 		custom_tooltip = {
-			text = { army_no }
+			text = army_no
 			liege = {
 				primary_title = { has_law = army_professionalism_law_1 }				
 			}
@@ -134,7 +134,7 @@ glory_hound_pattern_against = {
 	}
 	army_professionalism_law_1 = {	
 		custom_tooltip = {
-			text = { army_no }
+			text = army_no
 			liege = {
 				primary_title = { has_law = army_professionalism_law_0 }				
 			}

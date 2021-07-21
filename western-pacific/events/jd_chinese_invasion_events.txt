@@ -1985,59 +1985,6 @@ character_event = {
 		random_list = {
 			50 = {
 				create_character = {
-					random_traits = yes
-					random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
-					}
-					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
-					}
-					random_list = {
-						90 = { }
-						10 = { add_trait = cybernetic_leg }
-					}
-					random_list = {
-						85 = { }
-						15 = { add_trait = cybernetic_limb }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = cybernetic_skeleton }
-					}
-					random_list = {
-						99 = { }
-						1 = { add_trait = full_cybernetic_conversion }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = hiver_implant }
-					}
-					random_list = {
-						20 = { }
-						15 = { add_trait = odin_mk_i }
-						20 = { add_trait = pluto_mk_i }
-						10 = { add_trait = thoth_mk_i }
-						20 = { add_trait = iaei_mk_i }
-						15 = { add_trait = pci_mk_i }
-					}
-					random_list = {
-						40 = { }
-						15 = { add_trait = odin_mk_ii }
-						15 = { add_trait = pluto_mk_ii }
-						15 = { add_trait = thoth_mk_ii }
-						15 = { add_trait = iaei_mk_ii }
-						15 = { add_trait = pci_mk_ii }
-					}
-					random_list = {
-						80 = { }
-						4 = { add_trait = odin_mk_iii }
-						4 = { add_trait = pluto_mk_iii }
-						4 = { add_trait = thoth_mk_iii }
-						4 = { add_trait = iaei_mk_iii }
-						4 = { add_trait = pci_mk_iii }
-					}
 					religion = taoist
 					culture = jurchen
 					dynasty = actually_culture
@@ -2112,59 +2059,6 @@ character_event = {
 			}
 			50 = {
 				create_character = {
-					random_traits = yes
-					random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
-					}
-					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
-					}
-					random_list = {
-						90 = { }
-						10 = { add_trait = cybernetic_leg }
-					}
-					random_list = {
-						85 = { }
-						15 = { add_trait = cybernetic_limb }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = cybernetic_skeleton }
-					}
-					random_list = {
-						99 = { }
-						1 = { add_trait = full_cybernetic_conversion }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = hiver_implant }
-					}
-					random_list = {
-						20 = { }
-						15 = { add_trait = odin_mk_i }
-						20 = { add_trait = pluto_mk_i }
-						10 = { add_trait = thoth_mk_i }
-						20 = { add_trait = iaei_mk_i }
-						15 = { add_trait = pci_mk_i }
-					}
-					random_list = {
-						40 = { }
-						15 = { add_trait = odin_mk_ii }
-						15 = { add_trait = pluto_mk_ii }
-						15 = { add_trait = thoth_mk_ii }
-						15 = { add_trait = iaei_mk_ii }
-						15 = { add_trait = pci_mk_ii }
-					}
-					random_list = {
-						80 = { }
-						4 = { add_trait = odin_mk_iii }
-						4 = { add_trait = pluto_mk_iii }
-						4 = { add_trait = thoth_mk_iii }
-						4 = { add_trait = iaei_mk_iii }
-						4 = { add_trait = pci_mk_iii }
-					}
 					religion = taoist
 					culture = khitan
 					dynasty = actually_culture
@@ -2280,35 +2174,6 @@ character_event = {
     	create_character = {
 			random_traits = yes
 			religion = taoist
-			random_list = {
-				20 = { }
-				10 = { add_trait = odin_mk_i }
-				15 = odin_mk_i
-				10 = thoth_mk_i
-				15 = iaei_mk_i
-				10 = pci_mk_i
-				10 = cybernetic_limb
-				10 = cybernetic_leg
-			}
-			random_list = {
-				40 = { }
-				10 = { add_trait = odin_mk_i }
-				10 = odin_mk_ii
-				10 = thoth_mk_ii
-				10 = iaei_mk_ii
-				10 = pci_mk_ii
-				5 = cybernetic_skeleton
-				1 = full_cybernetic_conversion
-				4 = hiver_implant
-			}
-			random_list = {
-				75 = { }
-				5 = { add_trait = odin_mk_i }
-				5 = odin_mk_iii
-				5 = thoth_mk_iii
-				5 = iaei_mk_iii
-				5 = pci_mk_iii
-			}
 			culture = event_target:previousEmperor 
 			dynasty = event_target:previousEmperor
 			female = no
@@ -3010,59 +2875,6 @@ character_event = {
     		1 = {
 		    	create_character = {
 					age = 27
-					random_traits = yes
-					random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
-					}
-					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
-					}
-					random_list = {
-						90 = { }
-						10 = { add_trait = cybernetic_leg }
-					}
-					random_list = {
-						85 = { }
-						15 = { add_trait = cybernetic_limb }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = cybernetic_skeleton }
-					}
-					random_list = {
-						99 = { }
-						1 = { add_trait = full_cybernetic_conversion }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = hiver_implant }
-					}
-					random_list = {
-						20 = { }
-						15 = { add_trait = odin_mk_i }
-						20 = { add_trait = pluto_mk_i }
-						10 = { add_trait = thoth_mk_i }
-						20 = { add_trait = iaei_mk_i }
-						15 = { add_trait = pci_mk_i }
-					}
-					random_list = {
-						40 = { }
-						15 = { add_trait = odin_mk_ii }
-						15 = { add_trait = pluto_mk_ii }
-						15 = { add_trait = thoth_mk_ii }
-						15 = { add_trait = iaei_mk_ii }
-						15 = { add_trait = pci_mk_ii }
-					}
-					random_list = {
-						80 = { }
-						4 = { add_trait = odin_mk_iii }
-						4 = { add_trait = pluto_mk_iii }
-						4 = { add_trait = thoth_mk_iii }
-						4 = { add_trait = iaei_mk_iii }
-						4 = { add_trait = pci_mk_iii }
-					}
 					female = no
 					religion = taoist
 					culture = han
@@ -3076,59 +2888,6 @@ character_event = {
 			2 = {
 		    	create_character = {
 					age = 36
-					random_traits = yes
-				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
-					}
-					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
-					}
-					random_list = {
-						90 = { }
-						10 = { add_trait = cybernetic_leg }
-					}
-					random_list = {
-						85 = { }
-						15 = { add_trait = cybernetic_limb }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = cybernetic_skeleton }
-					}
-					random_list = {
-						99 = { }
-						1 = { add_trait = full_cybernetic_conversion }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = hiver_implant }
-					}
-					random_list = {
-						20 = { }
-						15 = { add_trait = odin_mk_i }
-						20 = { add_trait = pluto_mk_i }
-						10 = { add_trait = thoth_mk_i }
-						20 = { add_trait = iaei_mk_i }
-						15 = { add_trait = pci_mk_i }
-					}
-					random_list = {
-						40 = { }
-						15 = { add_trait = odin_mk_ii }
-						15 = { add_trait = pluto_mk_ii }
-						15 = { add_trait = thoth_mk_ii }
-						15 = { add_trait = iaei_mk_ii }
-						15 = { add_trait = pci_mk_ii }
-					}
-					random_list = {
-						80 = { }
-						4 = { add_trait = odin_mk_iii }
-						4 = { add_trait = pluto_mk_iii }
-						4 = { add_trait = thoth_mk_iii }
-						4 = { add_trait = iaei_mk_iii }
-						4 = { add_trait = pci_mk_iii }
-					}
 					female = no
 					religion = taoist
 					culture = han
@@ -3142,59 +2901,6 @@ character_event = {
 			1 = {
 		    	create_character = {
 					age = 52
-					random_traits = yes
-				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
-					}
-					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
-					}
-					random_list = {
-						90 = { }
-						10 = { add_trait = cybernetic_leg }
-					}
-					random_list = {
-						85 = { }
-						15 = { add_trait = cybernetic_limb }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = cybernetic_skeleton }
-					}
-					random_list = {
-						99 = { }
-						1 = { add_trait = full_cybernetic_conversion }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = hiver_implant }
-					}
-					random_list = {
-						20 = { }
-						15 = { add_trait = odin_mk_i }
-						20 = { add_trait = pluto_mk_i }
-						10 = { add_trait = thoth_mk_i }
-						20 = { add_trait = iaei_mk_i }
-						15 = { add_trait = pci_mk_i }
-					}
-					random_list = {
-						40 = { }
-						15 = { add_trait = odin_mk_ii }
-						15 = { add_trait = pluto_mk_ii }
-						15 = { add_trait = thoth_mk_ii }
-						15 = { add_trait = iaei_mk_ii }
-						15 = { add_trait = pci_mk_ii }
-					}
-					random_list = {
-						80 = { }
-						4 = { add_trait = odin_mk_iii }
-						4 = { add_trait = pluto_mk_iii }
-						4 = { add_trait = thoth_mk_iii }
-						4 = { add_trait = iaei_mk_iii }
-						4 = { add_trait = pci_mk_iii }
-					}
 					female = no
 					religion = taoist
 					culture = han
@@ -3439,59 +3145,6 @@ character_event = {
 			young_general = {
 				create_character = {
 					age = 24
-					random_traits = yes
-				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
-					}
-					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
-					}
-					random_list = {
-						90 = { }
-						10 = { add_trait = cybernetic_leg }
-					}
-					random_list = {
-						85 = { }
-						15 = { add_trait = cybernetic_limb }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = cybernetic_skeleton }
-					}
-					random_list = {
-						99 = { }
-						1 = { add_trait = full_cybernetic_conversion }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = hiver_implant }
-					}
-					random_list = {
-						20 = { }
-						15 = { add_trait = odin_mk_i }
-						20 = { add_trait = pluto_mk_i }
-						10 = { add_trait = thoth_mk_i }
-						20 = { add_trait = iaei_mk_i }
-						15 = { add_trait = pci_mk_i }
-					}
-					random_list = {
-						40 = { }
-						15 = { add_trait = odin_mk_ii }
-						15 = { add_trait = pluto_mk_ii }
-						15 = { add_trait = thoth_mk_ii }
-						15 = { add_trait = iaei_mk_ii }
-						15 = { add_trait = pci_mk_ii }
-					}
-					random_list = {
-						80 = { }
-						4 = { add_trait = odin_mk_iii }
-						4 = { add_trait = pluto_mk_iii }
-						4 = { add_trait = thoth_mk_iii }
-						4 = { add_trait = iaei_mk_iii }
-						4 = { add_trait = pci_mk_iii }
-					}
 					female = yes
 					religion = taoist
 					culture = han
@@ -3501,23 +3154,6 @@ character_event = {
 					add_spouse = ROOT
 					create_character = {
 						age = 6
-						random_traits = yes
-					random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
-					}
-					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
-					}
-					random_list = {
-						20 = { }
-						15 = { add_trait = odin_mk_i }
-						20 = { add_trait = pluto_mk_i }
-						10 = { add_trait = thoth_mk_i }
-						20 = { add_trait = iaei_mk_i }
-						15 = { add_trait = pci_mk_i }
-					}
 						female = 50
 						religion = taoist
 						culture = han
@@ -3535,58 +3171,6 @@ character_event = {
 						random_traits = yes
 						female = 50
 						religion = taoist
-				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
-					}
-					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
-					}
-					random_list = {
-						90 = { }
-						10 = { add_trait = cybernetic_leg }
-					}
-					random_list = {
-						85 = { }
-						15 = { add_trait = cybernetic_limb }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = cybernetic_skeleton }
-					}
-					random_list = {
-						99 = { }
-						1 = { add_trait = full_cybernetic_conversion }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = hiver_implant }
-					}
-					random_list = {
-						20 = { }
-						15 = { add_trait = odin_mk_i }
-						20 = { add_trait = pluto_mk_i }
-						10 = { add_trait = thoth_mk_i }
-						20 = { add_trait = iaei_mk_i }
-						15 = { add_trait = pci_mk_i }
-					}
-					random_list = {
-						40 = { }
-						15 = { add_trait = odin_mk_ii }
-						15 = { add_trait = pluto_mk_ii }
-						15 = { add_trait = thoth_mk_ii }
-						15 = { add_trait = iaei_mk_ii }
-						15 = { add_trait = pci_mk_ii }
-					}
-					random_list = {
-						80 = { }
-						4 = { add_trait = odin_mk_iii }
-						4 = { add_trait = pluto_mk_iii }
-						4 = { add_trait = thoth_mk_iii }
-						4 = { add_trait = iaei_mk_iii }
-						4 = { add_trait = pci_mk_iii }
-					}
 						culture = han
 						genetic_father = ROOT
 						genetic_mother = PREV
@@ -3607,46 +3191,6 @@ character_event = {
 					religion = taoist
 					culture = han
 					historical = yes
-				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
-					}
-					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
-					}
-					random_list = {
-						90 = { }
-						10 = { add_trait = cybernetic_leg }
-					}
-					random_list = {
-						85 = { }
-						15 = { add_trait = cybernetic_limb }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = cybernetic_skeleton }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = hiver_implant }
-					}
-					random_list = {
-						20 = { }
-						15 = { add_trait = odin_mk_i }
-						20 = { add_trait = pluto_mk_i }
-						10 = { add_trait = thoth_mk_i }
-						20 = { add_trait = iaei_mk_i }
-						15 = { add_trait = pci_mk_i }
-					}
-					random_list = {
-						40 = { }
-						15 = { add_trait = odin_mk_ii }
-						15 = { add_trait = pluto_mk_ii }
-						15 = { add_trait = thoth_mk_ii }
-						15 = { add_trait = iaei_mk_ii }
-						15 = { add_trait = pci_mk_ii }
-					}
 				}
 				new_character = {
 					add_spouse = ROOT
@@ -3656,34 +3200,6 @@ character_event = {
 						female = 50
 						religion = taoist
 						culture = han
-				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
-					}
-					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
-					}
-					random_list = {
-						90 = { }
-						10 = { add_trait = cybernetic_leg }
-					}
-					random_list = {
-						85 = { }
-						15 = { add_trait = cybernetic_limb }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = hiver_implant }
-					}
-					random_list = {
-						20 = { }
-						15 = { add_trait = odin_mk_i }
-						20 = { add_trait = pluto_mk_i }
-						10 = { add_trait = thoth_mk_i }
-						20 = { add_trait = iaei_mk_i }
-						15 = { add_trait = pci_mk_i }
-					}
 						genetic_father = ROOT
 						genetic_mother = PREV
 						historical = yes
@@ -3699,34 +3215,6 @@ character_event = {
 						female = 50
 						religion = taoist
 						culture = han
-				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
-					}
-					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
-					}
-					random_list = {
-						90 = { }
-						10 = { add_trait = cybernetic_leg }
-					}
-					random_list = {
-						85 = { }
-						15 = { add_trait = cybernetic_limb }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = cybernetic_skeleton }
-					}
-					random_list = {
-						20 = { }
-						15 = { add_trait = odin_mk_i }
-						20 = { add_trait = pluto_mk_i }
-						10 = { add_trait = thoth_mk_i }
-						20 = { add_trait = iaei_mk_i }
-						15 = { add_trait = pci_mk_i }
-					}
 						genetic_father = ROOT
 						genetic_mother = PREV
 						historical = yes
@@ -3742,34 +3230,6 @@ character_event = {
 						female = 50
 						religion = taoist
 						culture = han
-				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
-					}
-					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
-					}
-					random_list = {
-						90 = { }
-						10 = { add_trait = cybernetic_leg }
-					}
-					random_list = {
-						85 = { }
-						15 = { add_trait = cybernetic_limb }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = hiver_implant }
-					}
-					random_list = {
-						20 = { }
-						15 = { add_trait = odin_mk_i }
-						20 = { add_trait = pluto_mk_i }
-						10 = { add_trait = thoth_mk_i }
-						20 = { add_trait = iaei_mk_i }
-						15 = { add_trait = pci_mk_i }
-					}
 						genetic_father = ROOT
 						genetic_mother = PREV
 						historical = yes
@@ -3788,58 +3248,6 @@ character_event = {
 					female = yes
 					religion = taoist
 					culture = han
-				random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
-					}
-					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
-					}
-					random_list = {
-						90 = { }
-						10 = { add_trait = cybernetic_leg }
-					}
-					random_list = {
-						85 = { }
-						15 = { add_trait = cybernetic_limb }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = cybernetic_skeleton }
-					}
-					random_list = {
-						99 = { }
-						1 = { add_trait = full_cybernetic_conversion }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = hiver_implant }
-					}
-					random_list = {
-						20 = { }
-						15 = { add_trait = odin_mk_i }
-						20 = { add_trait = pluto_mk_i }
-						10 = { add_trait = thoth_mk_i }
-						20 = { add_trait = iaei_mk_i }
-						15 = { add_trait = pci_mk_i }
-					}
-					random_list = {
-						40 = { }
-						15 = { add_trait = odin_mk_ii }
-						15 = { add_trait = pluto_mk_ii }
-						15 = { add_trait = thoth_mk_ii }
-						15 = { add_trait = iaei_mk_ii }
-						15 = { add_trait = pci_mk_ii }
-					}
-					random_list = {
-						80 = { }
-						4 = { add_trait = odin_mk_iii }
-						4 = { add_trait = pluto_mk_iii }
-						4 = { add_trait = thoth_mk_iii }
-						4 = { add_trait = iaei_mk_iii }
-						4 = { add_trait = pci_mk_iii }
-					}
 					historical = yes
 				}
 				new_character = {
@@ -3895,42 +3303,6 @@ character_event = {
 						female = 50
 						religion = taoist
 						culture = han
-					random_list = {
-						75 = { }
-						25 = { add_trait = heavy_worlder }
-					}
-					random_list = {
-						75 = { }
-						25 = { add_trait = spacer_physiology }
-					}
-					random_list = {
-						90 = { }
-						10 = { add_trait = cybernetic_leg }
-					}
-					random_list = {
-						85 = { }
-						15 = { add_trait = cybernetic_limb }
-					}
-					random_list = {
-						95 = { }
-						5 = { add_trait = hiver_implant }
-					}
-					random_list = {
-						20 = { }
-						15 = { add_trait = odin_mk_i }
-						20 = { add_trait = pluto_mk_i }
-						10 = { add_trait = thoth_mk_i }
-						20 = { add_trait = iaei_mk_i }
-						15 = { add_trait = pci_mk_i }
-					}
-					random_list = {
-						40 = { }
-						15 = { add_trait = odin_mk_ii }
-						15 = { add_trait = pluto_mk_ii }
-						15 = { add_trait = thoth_mk_ii }
-						15 = { add_trait = iaei_mk_ii }
-						15 = { add_trait = pci_mk_ii }
-					}
 						genetic_father = ROOT
 						genetic_mother = PREV
 						historical = yes
@@ -3946,58 +3318,6 @@ character_event = {
 						female = 50
 						religion = taoist
 						culture = han
-						random_list = {
-							75 = { }
-							25 = { add_trait = heavy_worlder }
-						}
-						random_list = {
-							75 = { }
-							25 = { add_trait = spacer_physiology }
-						}
-						random_list = {
-							90 = { }
-							10 = { add_trait = cybernetic_leg }
-						}
-						random_list = {
-							85 = { }
-							15 = { add_trait = cybernetic_limb }
-						}
-						random_list = {
-							95 = { }
-							5 = { add_trait = cybernetic_skeleton }
-						}
-						random_list = {
-							99 = { }
-							1 = { add_trait = full_cybernetic_conversion }
-						}
-						random_list = {
-							95 = { }
-							5 = { add_trait = hiver_implant }
-						}
-						random_list = {
-							20 = { }
-							15 = { add_trait = odin_mk_i }
-							20 = { add_trait = pluto_mk_i }
-							10 = { add_trait = thoth_mk_i }
-							20 = { add_trait = iaei_mk_i }
-							15 = { add_trait = pci_mk_i }
-						}
-						random_list = {
-							40 = { }
-							15 = { add_trait = odin_mk_ii }
-							15 = { add_trait = pluto_mk_ii }
-							15 = { add_trait = thoth_mk_ii }
-							15 = { add_trait = iaei_mk_ii }
-							15 = { add_trait = pci_mk_ii }
-						}
-						random_list = {
-							80 = { }
-							4 = { add_trait = odin_mk_iii }
-							4 = { add_trait = pluto_mk_iii }
-							4 = { add_trait = thoth_mk_iii }
-							4 = { add_trait = iaei_mk_iii }
-							4 = { add_trait = pci_mk_iii }
-						}
 						genetic_father = ROOT
 						genetic_mother = PREV
 						historical = yes

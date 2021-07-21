@@ -3755,7 +3755,7 @@ offmap_decisions = {
 						trigger = {
 							NOR = {
 								trait = iaei_mk_i
-								trait = iaei_mk_iI
+								trait = iaei_mk_ii
 								trait = iaei_mk_iii
 							}
 						}
@@ -4610,7 +4610,7 @@ offmap_decisions = {
 				if = {
 					limit = {
 						trait = one_handed
-						htrait = cybernetic_limb
+						has_trait = cybernetic_limb
 					}
 					remove_trait = one_handed
 				}				

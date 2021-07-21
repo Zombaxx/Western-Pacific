@@ -130,13 +130,25 @@ settlement_convert = {
 annex_attempt = {
 	icon = 18
 }
-osting_marriage_rally = {
-	icon = 7
-	monthly_character_prestige = 0.05
-	monthly_character_piety = 1
-}
 
-marriage_rally_province = {
-	icon = 7
-	local_tax_modifier = 0.10
+young_knight = {
+	icon = 13
+	general_opinion = 5
+	monthly_character_prestige = 0.5
+}
+realm_too_big_minor = {
+	local_revolt_risk = 0.10
+	icon = 31
+}
+realm_too_big_large = {
+	local_revolt_risk = 0.25
+	icon = 31
+}
+realm_too_big_major = {
+	local_revolt_risk = 0.35
+	icon = 31
+}
+rigged_elections = {
+	local_revolt_risk = 0.15
+	icon = 36
 }

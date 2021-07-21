@@ -49,7 +49,6 @@ decisions = {
 		potential = {
 			age = 14
 			NOT = { has_character_modifier = science_researching }
-			NOT = { has_artifact = mech_suit }
 			NOT = { has_artifact = common_mech_suit }
 			NOT = { has_artifact = super_mech_suit }
 			NOT = { trait = incapable }
@@ -60,7 +59,7 @@ decisions = {
 		allow = {
 			age = 14
 			prisoner = no
-			wealth = 200
+			wealth = 1000
 		}
 		effect = { 
 				hidden_tooltip = {
@@ -80,6 +79,10 @@ decisions = {
 			modifier = {
 				factor = 0.02
 				NOT = { wealth = 300 }
+			} 
+			modifier = {
+				factor = 0
+				has_artifact = mech_suit
 			} 
 			modifier = {
 				factor = 0.002 #We have easier access to mechs
@@ -104,7 +107,7 @@ decisions = {
 		allow = {
 			age = 14
 			prisoner = no
-			wealth = 200
+			wealth = 1500
 	}
 		effect = { 
 				hidden_tooltip = {

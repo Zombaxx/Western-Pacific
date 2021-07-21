@@ -835,6 +835,8 @@ character_event = {
 	desc = "EVTDESCCLONE10"
 	picture = GFX_evt_birth
 
+	is_triggered_only = yes
+
 	max_age = 1
 
 	trigger = {

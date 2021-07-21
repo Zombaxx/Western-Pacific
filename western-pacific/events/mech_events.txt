@@ -342,7 +342,7 @@ long_character_event = {
 	
 		option = { 
 		name = "EVTOPTAsuit_events.4" 
-		add_character_modifier = { id = defeated_robo months = 14 }
+		add_character_modifier = { modifier = defeated_robo months = 14 }
 		prestige = 300
 		hidden_tooltip = {
 			if = {
@@ -412,7 +412,7 @@ long_character_event = {
 	
 		option = { 
 		name = "EVTOPTAsuit_events.6" 
-		add_character_modifier = { id = defeated_robo months = 14 }
+		add_character_modifier = { modifier = defeated_robo months = 14 }
 		prestige = 400
 			random = {
 				chance = 20
@@ -451,10 +451,10 @@ long_character_event = {
 	
 		option = { 
 		name = "EVTAsuit_events.7" 
-		custom_tooltip = { text = suitevt6 }
 		wealth = -200
+		hidden_tooltip = {
 		random_list = {
-			5 = { 
+			7 = { 
 					modifier = {
 						factor = 1.25
 						learning = 9
@@ -487,9 +487,9 @@ long_character_event = {
 						factor = 2
 						trait = scholar
 					}
-			character_event = { id = suit_events.8 months = 24 }
+			character_event = { id = suit_events.8 months = 12 }
 			}
-			5 = { 
+			3 = { 
 					modifier = {
 						factor = 2
 						NOT = { learning = 8 }
@@ -506,7 +506,12 @@ long_character_event = {
 						factor = 5
 						NOT = { learning = 2 }
 					}
+					modifier = {
+						factor = 5
+						religion_group = pagan_group
+					}
 			character_event = { id = suit_events.9 months = 14 } 
+				}
 			}
 		}
 	}
@@ -519,7 +524,7 @@ long_character_event = {
 	}
 }
 #Successfully build mech suit
-	long_character_event = {
+	character_event = {
 		id = suit_events.8
 		desc = "EVTDESCsuit_events.8"
 		picture = GFX_roy_mech
@@ -560,10 +565,10 @@ long_character_event = {
 	
 		option = { 
 		name = "EVTAsuit_events.10" 
-		custom_tooltip = { text = suitevt6 }
 		wealth = -200
+		hidden_tooltip = {
 		random_list = {
-			1 = { 
+			7 = { 
 					modifier = {
 						factor = 1.25
 						learning = 9
@@ -598,7 +603,7 @@ long_character_event = {
 					}
 			character_event = { id = suit_events.11 months = 24 }
 			}
-			1 = { 
+			3 = { 
 					modifier = {
 						factor = 2
 						NOT = { learning = 8 }
@@ -616,6 +621,7 @@ long_character_event = {
 						NOT = { learning = 2 }
 					}
 			character_event = { id = suit_events.12 months = 14 } 
+				}
 			}
 		}
 	}

@@ -2040,7 +2040,7 @@ targetted_decisions = {
 				trait = ambitious
 				trait = mystic
 				trait = cruel
-				trait = implaer
+				trait = impaler
 			}
 			OR = {
 				has_assigned_minor_title = title_cywizard 

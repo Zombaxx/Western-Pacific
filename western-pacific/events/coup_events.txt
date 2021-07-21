@@ -37,17 +37,17 @@ namespace = roycoup
 		name = "EVTOPTAROYCOUP" 
 			custom_tooltip = { text = coup1 }
 			ROOT = {
-			prestige = -100
+			prestige = -800
 			add_character_modifier = { modifier = conceded_power duration = 90}
-			revoke_law = high_court_law_1
-			revoke_law = high_court_law_2
-			revoke_law = high_court_law_3
+			crownlaw_title = {
+				add_law = high_court_law_0
+				}
 			}
 		}
 		option = { 
 		name = "EVTOPTBROYCOUP"
 			custom_tooltip = { text = coup2 } 
-			piety = -50
+			piety = -500
 			ROOT = {
 			add_character_modifier = { modifier = tense_vassals duration = 90}
 			}
@@ -55,10 +55,22 @@ namespace = roycoup
 		option = { 
 		name = "EVTOPTCROYCOUP" 
 			custom_tooltip = { text = coup3 }
-			FROM = { prisoner = yes }
+			piety = -800
+			prestige = -1000
+			FROM = { imprison = ROOT }
 			ROOT = { 
+				random = {
+					chance = 25
+					add_trait = cruel
+				}
+			ROOT = { 
+				random = {
+					chance = 25
+					add_trait = arbitrary
+				}
 			piety = -100
 			add_character_modifier = { modifier = vassals_outraged duration = 120}
 			}
 		}
+	}
 }

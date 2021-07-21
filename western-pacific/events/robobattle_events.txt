@@ -79,7 +79,7 @@ character_event = {
 
 	option = {
 		name = EVTOPTArobobattle_events.9
-		add_character_modifier = { id = recentmechbattle days = 40 }
+		add_character_modifier = { modifier = recentmechbattle days = 40 }
 		ROOT = {
 			random_list = {
 				60 = { add_trait = deceitful }
@@ -113,7 +113,7 @@ character_event = {
 	
 		option = { 
 		name = "EVTOPTArobobattle_events.10" 
-		add_character_modifier = { id = recentmechbattle days = 40 hidden = yes }
+		add_character_modifier = { modifier = recentmechbattle days = 40 hidden = yes }
 			random = {
 				chance = 15
 				add_trait = wounded
@@ -134,7 +134,7 @@ character_event = {
 	
 		option = { 
 		name = "EVTOPTArobobattle_events.11" 
-		add_character_modifier = { id = recentmechbattle days = 40 hidden = yes}
+		add_character_modifier = { modifier = recentmechbattle days = 40 hidden = yes}
 		prestige = 50
 		event_target:roboduel = { 
 			prestige = -100
@@ -166,7 +166,7 @@ character_event = {
 	
 		option = { 
 		name = "EVTOPTArobobattle_events.1122" 
-		add_character_modifier = { id = recentmechbattle days = 40 hidden = yes}
+		add_character_modifier = { modifier = recentmechbattle days = 40 hidden = yes}
 		prestige = 100
 		event_target:roboduel = { 
 			death = {
