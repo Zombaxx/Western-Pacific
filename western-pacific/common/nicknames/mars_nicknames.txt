@@ -146,7 +146,7 @@ nick_the_unit = {
 		}
 		modifier = {
 			factor = 2
-			trait = fat
+			trait = is_fat
 		}
 		modifier = {
 			factor = 2

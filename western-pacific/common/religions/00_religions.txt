@@ -2467,8 +2467,6 @@ zoroastrian_group = {
 		secondary_event_pictures = sunni
 		alternate_start = { has_alternate_start_parameter = { key = religion value = full_random } }
 		
-		secondary_event_pictures = sunni
-		
 		icon = 10
 		heresy_icon = 12
 		

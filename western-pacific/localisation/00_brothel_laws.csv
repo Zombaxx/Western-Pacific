@@ -14,7 +14,7 @@ priest_no_whores;Lust is a sin!;;;x
 glory_no_whores;Only weak men lie with whores.;;;x
 
 EVTTITroyjudge.0;Caught In The Act;;;x
-EVTDESCROYJUDGE;A high profile case has been the gossip of your court lately. Apparently, [Prev.GetFirstName] has been caught visiting an underground brothel in clear violation of the law. [From.GetTitledNameWithNick] is presiding over the case, and it seems he wants to have [Prev.GetFirstName] imprisoned.;;;x
+EVTDESCROYJUDGE;A high profile case has been the gossip of your court lately. Apparently, [brothel_crime.GetFirstName] has been caught visiting an underground brothel in clear violation of the law. [From.GetTitledNameWithNick] is presiding over the case, and it seems he wants to have [brothel_crime.GetFirstName] imprisoned.;;;x
 EVTOPTAroyjudge.1;I respect the Judge's decree.;;;x
 judge1;Let [From.GetFirstName]'s verdict stand.;;;x
 EVTOPTBroyjudge.1;Intervene and have him fined instead.;;;x
@@ -22,5 +22,12 @@ judge2;Though whoring is against the law, a small fine should suffice for such a
 EVTOPTCroyjudge.1;Intervene and have him released.;;;x
 judge3;[From.GetFirstName] be damned, this isn't worth throwing a man in prison!;;;x
 
+EVTDESCROYJUDGE2;Your Grand Judge has summoned the court today to make an announcement. [From.GetTitledName] has decreed that the moral effects of prostitution outweigh the money it brings to the realm. [From.GetSheHeCap] speaks of a growing number of unaccounted for bastard children in the capital and rising crime due to moral decay as [From.GetHerHis] reason for this decision.;;;x
+EVTOPTAroyjudge.3;I defer to you, Judge.;;;x
+judge4;Allow [From.GetTitledName]'s decree to stand.;;;x
+EVTOPTBroyjudge.3;I think not.;;;x
+judge5;Dismiss [From.GetTitledName]'s decree and overrule him.;;;x
+
 has_antibrothel_religion_trigger;[This.GetTitledFirstName]'s religion is one traditionally opposed to brothels;;;x
 has_antibrothel_culture_trigger;[This.GetTitledFirstName]'s culture is one traditionally opposed to brothels;;;x
+

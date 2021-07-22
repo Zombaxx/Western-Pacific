@@ -10,10 +10,14 @@ EVTOPTBrobobattle_events.9;May [Root.Religion.GetHighGodName] be on my side;;;;;
 roboofffense.1;Manuever your Mech Suit to meet your opponent in battle;;;;;;;;;;;;;x
 robobattle_events.10;
 EVTNAMErobobattle_events.10;Retreat...;;;;;;;;;;;;;x
-EVTDESCrobobattle_events.10;Unfortunately, you did not have the skill to take on your opponent and their Mech Suit. After bludgeoning your machine until it would no longer respond, your opponent began ripping your Mech Suit apart, clawing their way to the cockpit. You manage to eject yourself from the cockpit and escape, but your Mechanized Armor is destroyed by [roboduel.GetFirstName]. You'll need time to heal after a fight like this.;;;;;;;;;;;;;x
+EVTDESCrobobattle_events.10;You were unable to destroy the enemy Mech Suit. You and your opponent [roboduel.GetFirstName] clashed repeatedly until you both decided to retreat. Your Mech Suit is fine, but you'll need time to heal after a fight like this.;;;;;;;;;;;;;x
 EVTOPTArobobattle_events.10;I'll get you next time...;;;;;;;;;;;;;x
 robobattle_events.11;
 EVTNAMErobobattle_events.11;Decisive Victory;;;;;;;;;;;;;x
 EVTDESCrobobattle_events.11;You and your opponent dance around one another for what seems like forever in your Mech Suits, trying desperately to maneuver out of the way of the deadly shots and swings being thrown. Alas, you find a blind spot and ram your machine's claw right through your enemy, disabling it for good. Unfortunately, the pilot managed to retreat with their life before you could finish them off.;;;;;;;;;;;;;x
 EVTOPTArobobattle_events.11;Flee, coward!;;;;;;;;;;;;;x
+
+EVTDESCrobobattle_events.1122;You and your opponent dance around one another for what seems like forever in your Mech Suits, trying desperately to maneuver out of the way of the deadly shots and swings being thrown. Alas, you find a blind spot and ram your machine's claw right through your enemy, disabling it for good and killing its occupant.;;;;;;;;;;;;;x
+EVTOPTArobobattle_events.11;Victory is mine!;;;;;;;;;;;;;x
+
 

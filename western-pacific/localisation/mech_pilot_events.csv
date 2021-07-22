@@ -8,9 +8,9 @@ destroyed_land_desc;Large swathes of this land has been burned and trampled by a
 mech_injured;Mech Suit Accident;;;;x
 mech_injured_desc;This character's spine was yanked by a Mech Suit. A painful injury, but it will heal.;;;x
 build_zhao_mech_suit;Build a Zhao Ranger;;;x
-build_zhao_mech_suit_desc;Have your scientists attempt to build you a Mech Suit.;;;x
+build_zhao_mech_suit_desc;Have your scientists attempt to build a Mech Suit.;;;x
 build_mech_suit;Build a Red Fighter;;;x
-build_mech_suit_desc;Have your scientists attempt to build you a Mech Suit.;;;x
+build_mech_suit_desc;Have your scientists attempt to build a Mech Suit.;;;x
 gift_mech_suit;Gift a Mech Suit;;;x
 gift_mech_suit_desc;Bestow one of your spare Mech Suits to [Root.GetFirstName].;;;x
 bond_mech_suit;Bond with Mech Suit;;;x
@@ -85,26 +85,23 @@ EVTOPTAsuit_events.5;My leg...!;;;x
 EVTDESCsuit_events.6;By the grace of [Root.Religion.GetHighGodName], you managed to narrowly dodge an attack from the metal demon, ramming your lance right into where it hides its master. The beast groans and staggers. As you pull your lance away, you realize you have impaled the beast's master [roboduel.GetFirstName] and killed [roboduel.GetHerHim]. It is now yours to claim.;;;x
 EVTOPTAsuit_events.6;To the victor, the spoils...;;;x
 
-EVTDESCsuit_events.7;You have summoned all of the greatest minds in [Root.PrimaryTitle.GetFullName] to your capitol to discuss a matter of great importance. Spacers, who dwell on the far eastern ends of Mars, dominate the battlefield in machines they use from the inside, making the user invulnerable. You will dispatch your greatest scientists to these lands in hopes that they can either procure one of those suits for you or build one themselves.;;;x
+EVTDESCsuit_events.7;You have summoned all of the greatest minds in the [Root.PrimaryTitle.GetFullName] to begin construction of a Red Fighter Mech Suit. The head engineer insists that they will need about a year.;;;x
 EVTAsuit_events.7;Best of luck, gentlemen.;;;x
-suitevt6;Send your scientists to the eastern ends of Mars to research Spacer technology.;;;x
 EVTBsuit_events.7;Actually, let's wait.;;;x
 
-EVTDESCsuit_events.8;Your scientists have returned to you with the most exciting news! Throughout their travels they were able to gather all of the resources and knowledge to craft a Red Fighter Mech Suit. They wheel the giant metal monstrosity up to your castle on a metal platform wheeled by over a dozen ox and hand you a scroll. Apparently, it is an instruction manual translated to your tongue.;;;x
+EVTDESCsuit_events.8;Your engineers have come to you with the most exciting news! They were able to gather all of the resources and knowledge to craft a Red Fighter Mech Suit. They wheel the giant metal monstrosity up to your castle on a metal platform wheeled by over a dozen ox..;;;x
 EVTsuit_events.8;Now my reign truly begins!;;;x
 
-EVTDESCsuit_events.9;Your scientists have returned from their venture prematurely. The Spacers looked upon them with great suspicion and were reluctant to divulge any important information to them. Ultimately, they learned very little and certainly not enough to build a mech suit.;;;x
+EVTDESCsuit_events.9;Your engineers claim that their attempts to build a Mech Suit have been unsuccessful. Many of them have returned home in frustration and will not work on it any further...;;;x
 EVTsuit_events.9;Damn it... We must try again!;;;x
 
-EVTDESCsuit_events.10;You have summoned all of the greatest minds in [Root.PrimaryTitle.GetFullName] to your capitol to discuss a matter of great importance. Spacers, who dwell on the far eastern ends of Mars, dominate the battlefield in machines they use from the inside, making the user invulnerable. You will dispatch your greatest scientists to these lands in hopes that they can either procure one of those suits for you or build one themselves.;;;x
-EVTAsuit_events.10;Do no disappoint me, men.;;;x
+EVTDESCsuit_events.10;You have summoned all of the greatest minds in the [Root.PrimaryTitle.GetFullName] to begin construction of a Zhao Ranger Mech Suit. The head engineer insists that they will need about a year.;;;x
+EVTAsuit_events.10;Do not disappoint me, men.;;;x
 
-EVTDESCsuit_events.11;Your scientists have returned to you with the most exciting news! Throughout their travels they were able to gather all of the resources and knowledge to craft a Zhao Ranger Mech Suit. They wheel the giant metal monstrosity up to your castle on a metal platform wheeled by over a dozen ox and hand you a scroll and a small trinket. Apparently, the scroll is an instruction manual translated to your tongue and the trinket activates the machine.;;;x
+EVTDESCsuit_events.11;Your engineers have come to you with the most exciting news! They were able to gather all of the resources and knowledge to craft a Zhao Ranger Mech Suit. They wheel the giant metal monstrosity up to your castle on a metal platform wheeled by over a dozen ox..;;;x
 
-EVTDESCsuit_events.12;Your scientists have returned from their venture prematurely. The Spacers looked upon them with great suspicion and were reluctant to divulge any important information to them. Ultimately, they learned very little and certainly not enough to build a mech suit.;;;x
+EVTDESCsuit_events.12;Your engineers claim that their attempts to build a Mech Suit have been unsuccessful. Many of them have returned home in frustration and will not work on it any further...;;;x
 
-EVTDESCsuit_events.13;Your team of scientists, with consultation from their Spacer connections, manage to create a counterfeit Command Key that should allow you to pilot a Mech Suit.;;;x
-EVTsuit_events.13;Excellent!;;;x
 
 EVTDESCbuild_mech.1;In order to pilot a MS, you must first bind yourself to one to adjust your body to its automatic controls. There is a chance that your body may reject the machine if it is incompatible which could potentially injure you.;;;x
 

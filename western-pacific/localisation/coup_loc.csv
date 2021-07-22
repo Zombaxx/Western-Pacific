@@ -1,6 +1,7 @@
 #CODE;ENGLISH;;;;;;;;;x
+conceded_power;Conceded Power;;;x
 EVTTITroycoup.0;The People's Voice;;;;;;;;;;;;;x
-EVTDESCROYCOUP;Your Grand Judge has called a special counsel and requested an audience with you on behalf of the people of [GetBaseName]. He tells you the people want to express that they feel you are abusing the power bestowed on you and wish for you to make concessions with them. They also have the backing of several of your vassals.;;;;;;;;;x
+EVTDESCROYCOUP;Your Grand Judge has called a special counsel and requested an audience with you on behalf of the people of [Root.Capital.GetName]. [From.GetSheHeCap] tells you the people want to express that they feel you are abusing the power bestowed on you and wish for you to make concessions with them. They also have the backing of several of your vassals.;;;;;;;;;x
 EVTOPTAROYCOUP;They have a point, I suppose;;;;;;;;;x
 coup1;Relax your oppressive regime on the people and give your vassals concessions to keep them placated.;;;x
 EVTOPTBROYCOUP;Tell them that I understand their frustration.;;;;;;;;;x
