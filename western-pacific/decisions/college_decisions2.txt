@@ -10,9 +10,6 @@ decisions = {
 			prisoner = no
 			NOT = { trait = incapable }
 			NOT = { trait = trait_studying }
-		}
-		allow = {
-			in_command = no
 			wealth = 100
 		}
 		effect = { 

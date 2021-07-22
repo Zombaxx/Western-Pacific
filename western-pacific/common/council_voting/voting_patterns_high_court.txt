@@ -54,6 +54,7 @@ selfish_pattern_for = {
 				trait = arbitrary
 			}
 	}
+}
 
 selfish_pattern_against = {
 	icon = 9
@@ -127,7 +128,6 @@ pragmatist_pattern_for = {
 			}
 		}
 	}
-
 pragmatist_pattern_against = {
 	icon = 6
 	pattern_type = against
@@ -158,6 +158,7 @@ pragmatist_pattern_against = {
 				trait = arbitrary
 			}
 	}
+}
 
 glory_hound_pattern_for = {
 	icon = 7

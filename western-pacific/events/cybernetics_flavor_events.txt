@@ -999,7 +999,7 @@ character_event = {
 	id = cybernetics.10030
 	desc = "EVTDESCYBERNETICS10030"
 	picture = GFX_evt_cybernetics
-	border = GFX_evt_normal_frame_diplomacy
+	border = GFX_event_normal_frame_diplomacy
 	
 	min_age = 16
 	capable_only = yes
@@ -1193,7 +1193,7 @@ character_event = {
 	id = cybernetics.10032
 	desc = "EVTDESCYBERNETICS10030"
 	picture = GFX_evt_cybernetics
-	border = GFX_evt_normal_frame_stewardship
+	border = GFX_event_normal_frame_economy
 	
 	min_age = 16
 	capable_only = yes
@@ -1290,7 +1290,7 @@ character_event = {
 	id = cybernetics.10033
 	desc = "EVTDESCYBERNETICS10030"
 	picture = GFX_evt_cybernetics
-	border = GFX_evt_normal_frame_intrigue
+	border = GFX_event_normal_frame_intrigue
 	
 	min_age = 16
 	capable_only = yes
@@ -1387,7 +1387,7 @@ character_event = {
 	id = cybernetics.10034
 	desc = "EVTDESCYBERNETICS10030"
 	picture = GFX_evt_cybernetics
-	border = GFX_evt_normal_frame_learning
+	border = GFX_event_normal_frame_religion
 	
 	min_age = 16
 	capable_only = yes

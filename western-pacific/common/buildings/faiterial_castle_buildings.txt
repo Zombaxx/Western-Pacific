@@ -58,7 +58,6 @@ castle = {
 		ai_creation_factor = 100	
 		extra_tech_building_start = 0.8
 		riflemen_brigade = 500
-		ai_creation_factor = 100
 	}
 	ca_arms_depot_3 = {
 		desc = ca_arms_depot_desc

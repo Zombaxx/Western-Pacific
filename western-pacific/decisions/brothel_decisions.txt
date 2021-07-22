@@ -64,7 +64,7 @@ decisions = {
 		potential = {
 			OR = {
 				trait = lustful
-				trait = hedonistic
+				trait = hedonist
 			}
 			
 			age = 14

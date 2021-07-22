@@ -245,10 +245,10 @@ glory_hound_pattern_against = {
 	
 	tax_peasants_law_feudal_0 = { 
 		custom_tooltip = {
-			text = tax_those_peasants }
+			text = tax_those_peasants
 			always = yes 
 		}
-	
+	}
 	tax_peasants_law_feudal_1 = {	
 		custom_tooltip = {
 			text = tax_those_peasants
@@ -256,24 +256,24 @@ glory_hound_pattern_against = {
 				primary_title = { has_law = tax_peasants_law_feudal_2 }				
 			}
 		}
-	
+	}
 	tax_peasants_law_feudal_2 = {	
 		custom_tooltip = {
-			text = tax_those_peasants }
+			text = tax_those_peasants
 			liege = {
 				primary_title = { has_law = tax_peasants_law_feudal_3 }				
 			}
 		}
-	
+	}
 	tax_peasants_law_feudal_3 = {	
 		custom_tooltip = {
-			text = tax_those_peasants }
+			text = tax_those_peasants
 			liege = {
 				primary_title = { has_law = tax_peasants_law_feudal_0 }				
 			}
 		}
 	}		
-
+}
 
 zealot_pattern_for = {
 	icon = 5
@@ -281,61 +281,61 @@ zealot_pattern_for = {
 	
 	tax_peasants_law_feudal_0 = { 
 		custom_tooltip = {
-			text = tax_those_peasants }
+			text = tax_those_peasants
 			liege = {
 				primary_title = { has_law = tax_peasants_law_feudal_1 }
 			}
 		}				
-	
+	}
 	tax_peasants_law_feudal_1 = { 
 		custom_tooltip = {
-			text = tax_those_peasants }
+			text = tax_those_peasants
 			liege = {
 				primary_title = { has_law = tax_peasants_law_feudal_2 }
 			}
 		}				
-	
+	}
 	tax_peasants_law_feudal_2 = { 
 		custom_tooltip = {
-			text = tax_those_peasants }
+			text = tax_those_peasants
 			liege = {
 				primary_title = { has_law = tax_peasants_law_feudal_3 }
 			}
 		}		
-	
+	}
 	tax_peasants_law_feudal_3 = { 
 		custom_tooltip = {
-			text = tax_those_peasants }
+			text = tax_those_peasants
 			liege = {
 				primary_title = { has_law = tax_peasants_law_feudal_0 }
 			}
 		}		
-	
+	}
 	tax_peasants_law_feudal_1 = {	
 		custom_tooltip = {
-			text = tax_those_peasants }
+			text = tax_those_peasants
 			liege = {
 				primary_title = { has_law = tax_peasants_law_feudal_2 }				
 			}
 		}
-	
+	}
 	tax_peasants_law_feudal_2 = {	
 		custom_tooltip = {
-			text = tax_those_peasants }
+			text = tax_those_peasants
 			liege = {
 				primary_title = { has_law = tax_peasants_law_feudal_3 }				
 			}
 		}
-	
+	}
 	tax_peasants_law_feudal_0 = {	
 		custom_tooltip = {
-			text = tax_those_peasants }
+			text = tax_those_peasants
 			liege = {
 				primary_title = { has_law = tax_peasants_law_feudal_1 }				
 			}
 		}
 	}		
-
+}
 
 zealot_pattern_against = {
 	icon = 5
@@ -343,38 +343,39 @@ zealot_pattern_against = {
 		
 	tax_peasants_law_feudal_1 = { 
 		custom_tooltip = {
-			text = tax_priest_no }
+			text = tax_priest_no
 			liege = {
 				primary_title = { has_law = tax_peasants_law_feudal_0 }
 				NOT = { religion = ROOT }
-				}
 			}
+		}
+	}
 				
 	tax_peasants_law_feudal_2 = { 
 		custom_tooltip = {
-			text = tax_priest_no}
+			text = tax_priest_no
 			liege = {
 				primary_title = { has_law = tax_peasants_law_feudal_1 }
 				NOT = { religion = ROOT }
 			}
 		}		
-	
+	}
 	tax_peasants_law_feudal_3 = { 
 		custom_tooltip = {
-			text = tax_priest_no }
+			text = tax_priest_no
 			liege = {
 				primary_title = { has_law = tax_peasants_law_feudal_2 }
 				NOT = { religion = ROOT }
 			}
 		}		
-	
+	}
 	tax_peasants_law_feudal_0 = { 
 		custom_tooltip = {
-			text = tax_priest_no }
+			text = tax_priest_no
 			liege = {
 				primary_title = { has_law = tax_peasants_law_feudal_3 }
 				NOT = { religion = ROOT }
 			}
 		}		
 	}
-
+}

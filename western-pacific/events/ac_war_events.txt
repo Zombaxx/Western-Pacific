@@ -66,7 +66,7 @@ character_event = {
 		OR = {
 			trait = cruel
 			trait = arbitrary
-			trait = ruthless
+			#trait = ruthless
 			}
 		}
 		tooltip_info_custom = TOOLTIPEVTOPTArobosiege.3 
@@ -418,7 +418,7 @@ narrative_event = {
 		}
 		modifier = {
 			factor = 1.25
-			trait = hajajj
+			trait = hajjaj
 		}
 		modifier = {
 			factor = 0.5

@@ -849,15 +849,15 @@ character_event = {
 		set_character_flag = flag_cloning_defects_dealt_with
 		# Chance of losing cloning defects due to local tech level
 		if = {
-			limit = { location = { NOT = { TECH_MEDICINE = 1 } } }
+			limit = { location = { NOT = { TECH_CONSTRUCTION = 1 } } }
 			father = { character_event = { id = clone.11 tooltip = "EVTTOOLTIPCLONE11" } }
 			mother = { character_event = { id = clone.11 tooltip = "EVTTOOLTIPCLONE11" } }
 		}
 		if = {
 			limit = {
 				location = {
-					TECH_MEDICINE = 1
-					NOT = { TECH_MEDICINE = 2 }
+					TECH_CONSTRUCTION = 1
+					NOT = { TECH_CONSTRUCTION = 2 }
 				}
 			}
 			random_list = {
@@ -875,8 +875,8 @@ character_event = {
 		if = {
 			limit = {
 				location = {
-					TECH_MEDICINE = 2
-					NOT = { TECH_MEDICINE = 3 }
+					TECH_CONSTRUCTION = 2
+					NOT = { TECH_CONSTRUCTION = 3 }
 				}
 			}
 			random_list = {
@@ -894,8 +894,8 @@ character_event = {
 		if = {
 			limit = {
 				location = {
-					TECH_MEDICINE = 3
-					NOT = { TECH_MEDICINE = 4 }
+					TECH_CONSTRUCTION = 3
+					NOT = { TECH_CONSTRUCTION = 4 }
 				}
 			}
 			random_list = {
@@ -913,8 +913,8 @@ character_event = {
 		if = {
 			limit = {
 				location = {
-					TECH_MEDICINE = 4
-					NOT = { TECH_MEDICINE = 5 }
+					TECH_CONSTRUCTION = 4
+					NOT = { TECH_CONSTRUCTION = 5 }
 				}
 			}
 			random_list = {
@@ -932,8 +932,8 @@ character_event = {
 		if = {
 			limit = {
 				location = {
-					TECH_MEDICINE = 5
-					NOT = { TECH_MEDICINE = 6 }
+					TECH_CONSTRUCTION = 5
+					NOT = { TECH_CONSTRUCTION = 6 }
 				}
 			}
 			random_list = {
@@ -951,8 +951,8 @@ character_event = {
 		if = {
 			limit = {
 				location = {
-					TECH_MEDICINE = 6
-					NOT = { TECH_MEDICINE = 7 }
+					TECH_CONSTRUCTION = 6
+					NOT = { TECH_CONSTRUCTION = 7 }
 				}
 			}
 			random_list = {
@@ -970,8 +970,8 @@ character_event = {
 		if = {
 			limit = {
 				location = {
-					TECH_MEDICINE = 7
-					NOT = { TECH_MEDICINE = 8 }
+					TECH_CONSTRUCTION = 7
+					NOT = { TECH_CONSTRUCTION = 8 }
 				}
 			}
 			random_list = {
@@ -987,7 +987,7 @@ character_event = {
 			}
 		}
 		if = {
-			limit = { location = { TECH_MEDICINE = 8 } }
+			limit = { location = { TECH_CONSTRUCTION = 8 } }
 			random_list = {
 				20 = {
 					father = { character_event = { id = clone.11 tooltip = "EVTTOOLTIPCLONE11" } }
