@@ -9,10 +9,10 @@ Targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -262,10 +262,10 @@ Targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -389,13 +389,13 @@ Targetted_decisions = {
 					}
 				}
 			}
-			modifier = {
-				factor = 0.2
-				FROM = {
-					religion_group = religious_group
-					NOT = { trait = pragmatic }
-				}
-			}
+			# modifier = {
+				# factor = 0.2
+				# FROM = {
+					# religion_group = religious_group
+					# NOT = { trait = pragmatic }
+				# }
+			# }
 			modifier = {
 				factor = 2
 				FROM = { trait = ambitious }
@@ -497,10 +497,10 @@ Targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -620,13 +620,13 @@ Targetted_decisions = {
 					}
 				}
 			}
-			modifier = {
-				factor = 0.2
-				FROM = {
-					religion_group = religious_group
-					NOT = { trait = pragmatic }
-				}
-			}
+			# modifier = {
+				# factor = 0.2
+				# FROM = {
+					# religion_group = religious_group
+					# NOT = { trait = pragmatic }
+				# }
+			# }
 			modifier = {
 				factor = 2
 				FROM = { trait = ambitious }
@@ -728,10 +728,10 @@ Targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -851,13 +851,13 @@ Targetted_decisions = {
 					}
 				}
 			}
-			modifier = {
-				factor = 0.2
-				FROM = {
-					religion_group = religious_group
-					NOT = { trait = pragmatic }
-				}
-			}
+			# modifier = {
+				# factor = 0.2
+				# FROM = {
+					# religion_group = religious_group
+					# NOT = { trait = pragmatic }
+				# }
+			# }
 			modifier = {
 				factor = 2
 				FROM = { trait = ambitious }
@@ -959,10 +959,10 @@ Targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -1078,13 +1078,13 @@ Targetted_decisions = {
 					}
 				}
 			}
-			modifier = {
-				factor = 0.2
-				FROM = {
-					religion_group = religious_group
-					NOT = { trait = pragmatic }
-				}
-			}
+			# modifier = {
+				# factor = 0.2
+				# FROM = {
+					# religion_group = religious_group
+					# NOT = { trait = pragmatic }
+				# }
+			# }
 			modifier = {
 				factor = 2
 				FROM = { trait = ambitious }
@@ -1940,49 +1940,49 @@ Targetted_decisions = {
 			}
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
 				any_courtier = { 
 					AND = {
-						has_trait = full_cybernetic_conversion
+						trait = full_cybernetic_conversion
 						OR = {
-							has_trait = cat_splice
-							has_trait = lunatic
-							has_trait = possessed
-							has_trait = mystic
+							trait = cat_splice
+							trait = lunatic
+							trait = possessed
+							trait = mystic
 						}
 					}
 				}
 				any_vassal = { 
 					AND = {
-						has_trait = full_cybernetic_conversion
+						trait = full_cybernetic_conversion
 						OR = {
-							has_trait = cat_splice
-							has_trait = lunatic
-							has_trait = possessed
-							has_trait = mystic
+							trait = cat_splice
+							trait = lunatic
+							trait = possessed
+							trait = mystic
 						}
 					}
 				}
 				any_courtier = {
 					AND = {
-						has_trait = full_cybernetic_conversion
+						trait = full_cybernetic_conversion
 						OR = {
-							has_trait = cat_splice
-							has_trait = lunatic
-							has_trait = possessed
-							has_trait = mystic
+							trait = cat_splice
+							trait = lunatic
+							trait = possessed
+							trait = mystic
 						}
 					}				
 				}
 				any_vassal = {
 					AND = {
-						has_trait = full_cybernetic_conversion
+						trait = full_cybernetic_conversion
 						OR = {
-							has_trait = cat_splice
-							has_trait = lunatic
-							has_trait = possessed
-							has_trait = mystic
+							trait = cat_splice
+							trait = lunatic
+							trait = possessed
+							trait = mystic
 						}
 					}
 				}
@@ -1992,7 +1992,7 @@ Targetted_decisions = {
 						trait = cat_splice
 						trait = lunatic
 						trait = possessed
-						has_trait = mystic
+						trait = mystic
 					}
 				}
 			}
@@ -2122,13 +2122,13 @@ Targetted_decisions = {
 					}
 				}
 			}
-			modifier = {
-				factor = 0.2
-				FROM = {
-					religion_group = religious_group
-					NOT = { trait = pragmatic }
-				}
-			}
+			# modifier = {
+				# factor = 0.2
+				# FROM = {
+					# religion_group = religious_group
+					# NOT = { trait = pragmatic }
+				# }
+			# }
 			modifier = {
 				factor = 2
 				FROM = { trait = ambitious }
@@ -2230,10 +2230,10 @@ Targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion

@@ -2009,13 +2009,13 @@ character_event = {
 	
 	prisoner = no
 	
-	trigger = { trait = cybernetics_damaged }
+	trigger = { trait = damaged_cybernetics }
 	
 	mean_time_to_happen = { months = 6 }
 	
 	option = {
 		name = "EVTOPTACYBERNETICS10061"
-		remove_trait = cybernetics_damaged
+		remove_trait = damaged_cybernetics
 	}
 }
 # Cybernetic Arm Destroyed

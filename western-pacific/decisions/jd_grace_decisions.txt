@@ -3959,7 +3959,7 @@ offmap_decisions = {
 				text = chinese_artifact_has_all_tt
 				hidden_tooltip = {
 					FROM = {
-						NOT = { has_trait = iaei_mk_v }
+						NOT = { trait = iaei_mk_v }
 					}
 				}
 			}
@@ -4064,7 +4064,7 @@ offmap_decisions = {
 				text = chinese_artifact_has_all_tt
 				hidden_tooltip = {
 					FROM = {
-						NOT = { has_trait = odin_mk_v }
+						NOT = { trait = odin_mk_v }
 					}
 				}
 			}
@@ -4169,7 +4169,7 @@ offmap_decisions = {
 				text = chinese_artifact_has_all_tt
 				hidden_tooltip = {
 					FROM = {
-						NOT = { has_trait = pci_mk_v }
+						NOT = { trait = pci_mk_v }
 					}
 				}
 			}
@@ -4274,7 +4274,7 @@ offmap_decisions = {
 				text = chinese_artifact_has_all_tt
 				hidden_tooltip = {
 					FROM = {
-						NOT = { has_trait = pluto_mk_v }
+						NOT = { trait = pluto_mk_v }
 					}
 				}
 			}
@@ -4379,7 +4379,7 @@ offmap_decisions = {
 				text = chinese_artifact_has_all_tt
 				hidden_tooltip = {
 					FROM = {
-						NOT = { has_trait = thoth_mk_v }
+						NOT = { trait = thoth_mk_v }
 					}
 				}
 			}
@@ -4571,7 +4571,7 @@ offmap_decisions = {
 				NOT = { trait = incapable }
 				is_inaccessible_trigger = no
 				OR = {
-					has_trait = one_handed
+					trait = one_handed
 					AND = { 
 						trait = lunatic
 						NOT = { trait = cybernetic_limb }
@@ -4610,7 +4610,7 @@ offmap_decisions = {
 				if = {
 					limit = {
 						trait = one_handed
-						has_trait = cybernetic_limb
+						trait = cybernetic_limb
 					}
 					remove_trait = one_handed
 				}				
@@ -4879,7 +4879,7 @@ offmap_decisions = {
 					trait = genius
 					trait = quick
 					trait = strong
-					trait = attractive
+					trait = beautiful
 					trait = agile
 					trait = tall
 					trait = heavy_worlder
@@ -4943,7 +4943,7 @@ offmap_decisions = {
 					trait = genius
 					trait = quick
 					trait = strong
-					trait = attractive
+					trait = beautiful
 					trait = agile
 					trait = tall
 					trait = heavy_worlder

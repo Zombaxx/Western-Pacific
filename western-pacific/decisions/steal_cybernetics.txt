@@ -7,10 +7,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -110,7 +110,7 @@ targetted_decisions = {
 			}
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -300,10 +300,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -403,7 +403,7 @@ targetted_decisions = {
 			}
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -593,10 +593,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -696,7 +696,7 @@ targetted_decisions = {
 			}
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -886,10 +886,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -985,7 +985,7 @@ targetted_decisions = {
 			}
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -1175,10 +1175,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -1274,7 +1274,7 @@ targetted_decisions = {
 			}
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -1464,10 +1464,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -1563,7 +1563,7 @@ targetted_decisions = {
 			}
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -1753,10 +1753,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -1848,7 +1848,7 @@ targetted_decisions = {
 			}
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -2044,41 +2044,41 @@ targetted_decisions = {
 			}
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
 				any_courtier = { 
 					AND = {
-						has_trait = full_cybernetic_conversion
+						trait = full_cybernetic_conversion
 						OR = {
-							has_trait = lunatic
-							has_trait = possessed
+							trait = lunatic
+							trait = possessed
 						}
 					}
 				}
 				any_vassal = { 
 					AND = {
-						has_trait = full_cybernetic_conversion
+						trait = full_cybernetic_conversion
 						OR = {
-							has_trait = lunatic
-							has_trait = possessed
+							trait = lunatic
+							trait = possessed
 						}
 					}
 				}
 				any_courtier = {
 					AND = {
-						has_trait = full_cybernetic_conversion
+						trait = full_cybernetic_conversion
 						OR = {
-							has_trait = lunatic
-							has_trait = possessed
+							trait = lunatic
+							trait = possessed
 						}
 					}				
 				}
 				any_vassal = {
 					AND = {
-						has_trait = full_cybernetic_conversion
+						trait = full_cybernetic_conversion
 						OR = {
-							has_trait = lunatic
-							has_trait = possessed
+							trait = lunatic
+							trait = possessed
 						}
 					}
 				}
@@ -2177,7 +2177,7 @@ targetted_decisions = {
 			}
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -2367,10 +2367,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -2470,7 +2470,7 @@ targetted_decisions = {
 			}
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -2660,10 +2660,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -2763,7 +2763,7 @@ targetted_decisions = {
 			}
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -2953,10 +2953,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -3056,7 +3056,7 @@ targetted_decisions = {
 			}
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -3246,10 +3246,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -3349,7 +3349,7 @@ targetted_decisions = {
 			}
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -3539,10 +3539,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -3642,7 +3642,7 @@ targetted_decisions = {
 			}
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -3832,10 +3832,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -3918,7 +3918,7 @@ targetted_decisions = {
 			}
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -4108,10 +4108,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -4194,7 +4194,7 @@ targetted_decisions = {
 			}
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -4384,10 +4384,10 @@ targetted_decisions = {
 #			prisoner = no
 #			OR = {
 #				has_assigned_minor_title = title_cywizard 
-#				#any_realm_character = { has_trait = full_cybernetic_conversion }
-#				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-#				any_courtier = { has_trait = full_cybernetic_conversion }
-#				any_vassal = { has_trait = full_cybernetic_conversion }
+#				#any_realm_character = { trait = full_cybernetic_conversion }
+#				#any_realm_lord = { trait = full_cybernetic_conversion }
+#				any_courtier = { trait = full_cybernetic_conversion }
+#				any_vassal = { trait = full_cybernetic_conversion }
 #				any_courtier = { trait = full_cybernetic_conversion }
 #				any_vassal = { trait = full_cybernetic_conversion }
 #				trait = full_cybernetic_conversion
@@ -4475,7 +4475,7 @@ targetted_decisions = {
 #			FROM = { add_trait = damaged_cybernetics }
 #			if = {
 #				limit = { trait = damaged_cybernetics }
-#				FROM = { trait = damaged_cybernetics }
+#				FROM = { remove_trait = damaged_cybernetics }
 #			}
 #			if = {
 #				limit = {
@@ -4665,10 +4665,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -4756,7 +4756,7 @@ targetted_decisions = {
 			FROM = { add_trait = iaei_mk_i }
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -4946,10 +4946,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -5037,7 +5037,7 @@ targetted_decisions = {
 			FROM = { add_trait = iaei_mk_ii }
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -5227,10 +5227,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -5318,7 +5318,7 @@ targetted_decisions = {
 			FROM = { add_trait = iaei_mk_iii }
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -5508,10 +5508,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -5599,7 +5599,7 @@ targetted_decisions = {
 			FROM = { add_trait = iaei_mk_iv }
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -5789,10 +5789,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -5880,7 +5880,7 @@ targetted_decisions = {
 			FROM = { add_trait = iaei_mk_v }
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -6070,10 +6070,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -6161,7 +6161,7 @@ targetted_decisions = {
 			FROM = { add_trait = pci_mk_i }
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -6351,10 +6351,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -6442,7 +6442,7 @@ targetted_decisions = {
 			FROM = { add_trait = pci_mk_ii }
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -6632,10 +6632,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -6723,7 +6723,7 @@ targetted_decisions = {
 			FROM = { add_trait = pci_mk_iii }
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -6913,10 +6913,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -7004,7 +7004,7 @@ targetted_decisions = {
 			FROM = { add_trait = pci_mk_iv }
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -7194,10 +7194,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -7285,7 +7285,7 @@ targetted_decisions = {
 			FROM = { add_trait = pci_mk_v }
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -7475,10 +7475,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -7566,7 +7566,7 @@ targetted_decisions = {
 			FROM = { add_trait = pluto_mk_i }
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -7756,10 +7756,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -7847,7 +7847,7 @@ targetted_decisions = {
 			FROM = { add_trait = pluto_mk_ii }
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -8037,10 +8037,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -8128,7 +8128,7 @@ targetted_decisions = {
 			FROM = { add_trait = pluto_mk_iii }
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -8318,10 +8318,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -8409,7 +8409,7 @@ targetted_decisions = {
 			FROM = { add_trait = pluto_mk_iv }
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
@@ -8599,10 +8599,10 @@ targetted_decisions = {
 			prisoner = no
 			OR = {
 				has_assigned_minor_title = title_cywizard 
-				#any_realm_character = { has_trait = full_cybernetic_conversion }
-				#any_realm_lord = { has_trait = full_cybernetic_conversion }
-				any_courtier = { has_trait = full_cybernetic_conversion }
-				any_vassal = { has_trait = full_cybernetic_conversion }
+				#any_realm_character = { trait = full_cybernetic_conversion }
+				#any_realm_lord = { trait = full_cybernetic_conversion }
+				any_courtier = { trait = full_cybernetic_conversion }
+				any_vassal = { trait = full_cybernetic_conversion }
 				any_courtier = { trait = full_cybernetic_conversion }
 				any_vassal = { trait = full_cybernetic_conversion }
 				trait = full_cybernetic_conversion
@@ -8690,7 +8690,7 @@ targetted_decisions = {
 			FROM = { add_trait = pluto_mk_v }
 			if = {
 				limit = { trait = damaged_cybernetics }
-				FROM = { trait = damaged_cybernetics }
+				FROM = { remove_trait = damaged_cybernetics }
 			}
 			if = {
 				limit = {
