@@ -1,0 +1,14 @@
+# 225 - Wina
+
+# County Title
+title = c_wina
+
+# Settlements
+max_settlements = 2
+b_wina = castle
+
+# Misc
+culture = bengali
+religion = catholic
+
+# History

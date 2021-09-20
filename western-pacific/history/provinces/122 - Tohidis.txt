@@ -1,0 +1,16 @@
+# 122 - Tohidis
+
+# County Title
+title = c_tohidis
+
+# Settlements
+max_settlements = 4
+b_tohidis = castle
+b_kabam = temple
+b_laline = city
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

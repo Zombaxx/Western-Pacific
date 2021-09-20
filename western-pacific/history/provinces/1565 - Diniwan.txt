@@ -1,0 +1,17 @@
+# 1565 - Diniwan
+
+# County Title
+title = c_diniwan
+
+# Settlements
+max_settlements = 5
+b_diniwan = castle
+b_tambiz = temple
+b_runidis = city
+b_qisa = castle
+
+# Misc
+culture = nahuatl
+religion = west_african_pagan
+
+# History

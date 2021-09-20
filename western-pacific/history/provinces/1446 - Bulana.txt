@@ -1,0 +1,14 @@
+# 1446 - Bulana
+
+# County Title
+title = c_bulana
+
+# Settlements
+max_settlements = 4
+b_bulana = tribal
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

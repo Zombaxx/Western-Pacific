@@ -1,0 +1,15 @@
+# 1383 - Kucho
+
+# County Title
+title = c_kucho
+
+# Settlements
+max_settlements = 3
+b_kucho = castle
+b_nihal = temple
+
+# Misc
+culture = english
+religion = catholic
+
+# History

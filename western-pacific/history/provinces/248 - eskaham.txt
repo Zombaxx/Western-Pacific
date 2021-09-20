@@ -1,5 +1,0 @@
-	title = c_eskaham
-	max_settlements = 2
-	culture = norwegian
-	religion = messalian
-	b_karann = tribal

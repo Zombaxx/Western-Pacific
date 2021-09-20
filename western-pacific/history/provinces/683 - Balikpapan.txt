@@ -1,0 +1,17 @@
+# 683 - Balikpapan
+
+# County Title
+title = c_balikpapan
+
+# Settlements
+max_settlements = 5
+b_balikpapan = castle
+b_seocokol = temple
+b_ajageth = city
+b_sierick = castle
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

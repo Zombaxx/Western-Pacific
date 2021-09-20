@@ -1,0 +1,15 @@
+# 22 - Ebudary
+
+# County Title
+title = c_ebudary
+
+# Settlements
+max_settlements = 3
+b_ebudary = castle
+b_kazara = temple
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

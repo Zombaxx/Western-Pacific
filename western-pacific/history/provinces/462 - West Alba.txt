@@ -1,0 +1,16 @@
+# 462 - West Alba
+
+# County Title
+title = c_west_alba
+
+# Settlements
+max_settlements = 4
+b_west_alba = castle
+b_tyudilai = temple
+b_ryudaim = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

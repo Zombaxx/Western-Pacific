@@ -1,0 +1,14 @@
+# 981 - Dalka
+
+# County Title
+title = c_dalka
+
+# Settlements
+max_settlements = 4
+b_dalka = tribal
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

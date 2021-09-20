@@ -1,0 +1,15 @@
+# 538 - Dahimhi
+
+# County Title
+title = c_dahimhi
+
+# Settlements
+max_settlements = 3
+b_dahimhi = castle
+b_agridun = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

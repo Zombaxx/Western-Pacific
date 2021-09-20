@@ -1,0 +1,14 @@
+# 984 - Tousune
+
+# County Title
+title = c_tousune
+
+# Settlements
+max_settlements = 4
+b_tousune = tribal
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

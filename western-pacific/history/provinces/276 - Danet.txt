@@ -1,0 +1,14 @@
+# 276 - Danet
+
+# County Title
+title = c_danet
+
+# Settlements
+max_settlements = 2
+b_danet = tribal
+
+# Misc
+culture = zhangzhung
+religion = orthodox
+
+# History

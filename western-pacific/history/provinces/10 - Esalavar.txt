@@ -1,0 +1,14 @@
+# 10 - Esalavar
+
+# County Title
+title = c_esalavar
+
+# Settlements
+max_settlements = 1
+b_esalavar = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

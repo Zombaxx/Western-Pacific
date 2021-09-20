@@ -1,0 +1,17 @@
+# 207 - Labdina
+
+# County Title
+title = c_labdina
+
+# Settlements
+max_settlements = 6
+b_labdina = castle
+b_lobaud = temple
+b_bakoja = city
+b_beleuta = castle
+
+# Misc
+culture = bengali
+religion = sunni
+
+# History

@@ -1,0 +1,16 @@
+# 130 - Qarim
+
+# County Title
+title = c_qarim
+
+# Settlements
+max_settlements = 4
+b_qarim = castle
+b_wuwadevi = temple
+b_emufilu = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

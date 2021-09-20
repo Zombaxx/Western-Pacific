@@ -1,0 +1,14 @@
+# 688 - Rine
+
+# County Title
+title = c_rine
+
+# Settlements
+max_settlements = 3
+b_rine = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

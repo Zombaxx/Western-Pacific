@@ -1,0 +1,16 @@
+# 1425 - Tareuta
+
+# County Title
+title = c_tareuta
+
+# Settlements
+max_settlements = 4
+b_tareuta = castle
+b_qalusbu = temple
+b_kitevna = city
+
+# Misc
+culture = norse
+religion = orthodox
+
+# History

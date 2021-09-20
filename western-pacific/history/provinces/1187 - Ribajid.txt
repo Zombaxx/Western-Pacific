@@ -1,0 +1,15 @@
+# 1187 - Ribajid
+
+# County Title
+title = c_ribajid
+
+# Settlements
+max_settlements = 3
+b_ribajid = castle
+b_dorunda = temple
+
+# Misc
+culture = english
+religion = west_african_pagan
+
+# History

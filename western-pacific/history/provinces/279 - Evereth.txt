@@ -1,0 +1,14 @@
+# 279 - Evereth
+
+# County Title
+title = c_evereth
+
+# Settlements
+max_settlements = 2
+b_evereth = castle
+
+# Misc
+culture = tangut
+religion = bon
+
+# History

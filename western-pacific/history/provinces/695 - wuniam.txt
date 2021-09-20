@@ -1,5 +1,0 @@
-	title = c_wuniam
-	max_settlements = 2
-	culture = lombard
-	religion = jewish
-	b_abulyu = tribal

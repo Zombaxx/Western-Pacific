@@ -1,0 +1,16 @@
+# 216 - Damalda
+
+# County Title
+title = c_damalda
+
+# Settlements
+max_settlements = 4
+b_damalda = castle
+b_elordan = temple
+b_babdajid = city
+
+# Misc
+culture = bengali
+religion = shiite
+
+# History

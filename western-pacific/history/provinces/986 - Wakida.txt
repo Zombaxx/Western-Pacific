@@ -1,0 +1,15 @@
+# 986 - Wakida
+
+# County Title
+title = c_wakida
+
+# Settlements
+max_settlements = 5
+b_wakida = tribal
+b_renold = temple
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

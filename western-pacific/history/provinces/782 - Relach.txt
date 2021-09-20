@@ -1,0 +1,15 @@
+# 782 - Relach
+
+# County Title
+title = c_relach
+
+# Settlements
+max_settlements = 3
+b_relach = castle
+b_tulalda = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

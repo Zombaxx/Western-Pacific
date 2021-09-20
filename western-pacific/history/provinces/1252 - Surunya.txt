@@ -1,0 +1,15 @@
+# 1252 - Surunya
+
+# County Title
+title = c_surunya
+
+# Settlements
+max_settlements = 3
+b_surunya = castle
+b_wajaicu = temple
+
+# Misc
+culture = old_frankish
+religion = buddhist
+
+# History

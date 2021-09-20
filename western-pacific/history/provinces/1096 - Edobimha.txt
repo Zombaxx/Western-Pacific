@@ -1,0 +1,14 @@
+# 1096 - Edobimha
+
+# County Title
+title = c_edobimha
+
+# Settlements
+max_settlements = 1
+b_edobimha = tribal
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

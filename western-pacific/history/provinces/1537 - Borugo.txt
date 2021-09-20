@@ -1,0 +1,14 @@
+# 1537 - Borugo
+
+# County Title
+title = c_borugo
+
+# Settlements
+max_settlements = 2
+b_borugo = tribal
+
+# Misc
+culture = irish
+religion = west_african_pagan
+
+# History

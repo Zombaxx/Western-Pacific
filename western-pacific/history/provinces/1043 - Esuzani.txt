@@ -1,0 +1,14 @@
+# 1043 - Esuzani
+
+# County Title
+title = c_esuzani
+
+# Settlements
+max_settlements = 4
+b_esuzani = tribal
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

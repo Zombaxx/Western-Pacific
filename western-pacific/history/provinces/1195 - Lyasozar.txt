@@ -1,0 +1,15 @@
+# 1195 - Lyasozar
+
+# County Title
+title = c_lyasozar
+
+# Settlements
+max_settlements = 3
+b_lyasozar = castle
+b_revoor = temple
+
+# Misc
+culture = english
+religion = west_african_pagan
+
+# History

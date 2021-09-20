@@ -1,5 +1,0 @@
-	title = c_qanegin
-	max_settlements = 2
-	culture = samoyed
-	religion = samaritan
-	b_etruluk = tribal

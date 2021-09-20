@@ -1,0 +1,14 @@
+# 1622 - Banaide
+
+# County Title
+title = c_banaide
+
+# Settlements
+max_settlements = 3
+b_banaide = tribal
+
+# Misc
+culture = nahuatl
+religion = tengri_pagan
+
+# History

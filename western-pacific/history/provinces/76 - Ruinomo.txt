@@ -1,0 +1,16 @@
+# 76 - Ruinomo
+
+# County Title
+title = c_ruinomo
+
+# Settlements
+max_settlements = 4
+b_ruinomo = castle
+b_kilewar = temple
+b_saunind = city
+
+# Misc
+culture = sinhala
+religion = catholic
+
+# History

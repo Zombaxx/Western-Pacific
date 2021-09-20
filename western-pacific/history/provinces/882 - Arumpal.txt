@@ -1,0 +1,15 @@
+# 882 - Arumpal
+
+# County Title
+title = c_arumpal
+
+# Settlements
+max_settlements = 5
+b_arumpal = tribal
+b_tokoisi = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

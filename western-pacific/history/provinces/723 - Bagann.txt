@@ -1,0 +1,15 @@
+# 723 - Bagann
+
+# County Title
+title = c_bagann
+
+# Settlements
+max_settlements = 5
+b_bagann = tribal
+b_riarin = temple
+
+# Misc
+culture = zhangzhung
+religion = hindu
+
+# History

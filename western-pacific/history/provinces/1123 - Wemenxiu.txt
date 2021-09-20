@@ -1,0 +1,14 @@
+# 1123 - Wemenxiu
+
+# County Title
+title = c_wemenxiu
+
+# Settlements
+max_settlements = 1
+b_wemenxiu = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

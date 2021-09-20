@@ -1,0 +1,14 @@
+# 1029 - Kalalih
+
+# County Title
+title = c_kalalih
+
+# Settlements
+max_settlements = 3
+b_kalalih = tribal
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

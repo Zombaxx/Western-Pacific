@@ -1,0 +1,16 @@
+# 181 - Duneike
+
+# County Title
+title = c_duneike
+
+# Settlements
+max_settlements = 4
+b_duneike = castle
+b_dayohn = temple
+b_regand = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

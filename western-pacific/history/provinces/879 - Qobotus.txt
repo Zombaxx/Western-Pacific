@@ -1,0 +1,14 @@
+# 879 - Qobotus
+
+# County Title
+title = c_qobotus
+
+# Settlements
+max_settlements = 3
+b_qobotus = tribal
+
+# Misc
+culture = pictish
+religion = catholic
+
+# History

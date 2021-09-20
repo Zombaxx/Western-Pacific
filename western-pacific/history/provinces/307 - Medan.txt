@@ -1,0 +1,17 @@
+# 307 - Medan
+
+# County Title
+title = c_medan
+
+# Settlements
+max_settlements = 6
+b_medan = castle
+b_selohn = temple
+b_kireuta = city
+b_ehebala = castle
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

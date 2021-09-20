@@ -1,0 +1,14 @@
+# 1274 - Ramatas
+
+# County Title
+title = c_ramatas
+
+# Settlements
+max_settlements = 2
+b_ramatas = tribal
+
+# Misc
+culture = pictish
+religion = orthodox
+
+# History

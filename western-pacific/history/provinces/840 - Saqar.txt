@@ -1,0 +1,17 @@
+# 840 - Saqar
+
+# County Title
+title = c_saqar
+
+# Settlements
+max_settlements = 5
+b_saqar = castle
+b_sagolam = temple
+b_kunavy = city
+b_nivuin = castle
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

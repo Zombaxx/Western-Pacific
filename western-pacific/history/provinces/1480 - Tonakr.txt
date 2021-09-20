@@ -1,0 +1,16 @@
+# 1480 - Tonakr
+
+# County Title
+title = c_tonakr
+
+# Settlements
+max_settlements = 4
+b_tonakr = castle
+b_tegur = temple
+b_keginoi = city
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

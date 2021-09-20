@@ -1,0 +1,14 @@
+# 1324 - Qajork
+
+# County Title
+title = c_qajork
+
+# Settlements
+max_settlements = 2
+b_qajork = tribal
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

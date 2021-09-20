@@ -1,0 +1,14 @@
+# 851 - Rael
+
+# County Title
+title = c_rael
+
+# Settlements
+max_settlements = 4
+b_rael = tribal
+
+# Misc
+culture = visigothic
+religion = zun_pagan
+
+# History

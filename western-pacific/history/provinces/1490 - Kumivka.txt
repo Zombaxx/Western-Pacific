@@ -1,0 +1,15 @@
+# 1490 - Kumivka
+
+# County Title
+title = c_kumivka
+
+# Settlements
+max_settlements = 3
+b_kumivka = castle
+b_qiugond = temple
+
+# Misc
+culture = old_saxon
+religion = orthodox
+
+# History

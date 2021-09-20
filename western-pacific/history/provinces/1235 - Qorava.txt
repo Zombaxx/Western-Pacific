@@ -1,0 +1,14 @@
+# 1235 - Qorava
+
+# County Title
+title = c_qorava
+
+# Settlements
+max_settlements = 4
+b_qorava = tribal
+
+# Misc
+culture = assyrian
+religion = west_african_pagan
+
+# History

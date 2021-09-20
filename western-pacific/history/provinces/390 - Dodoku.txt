@@ -1,0 +1,15 @@
+# 390 - Dodoku
+
+# County Title
+title = c_dodoku
+
+# Settlements
+max_settlements = 3
+b_dodoku = castle
+b_kosayah = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

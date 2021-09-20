@@ -1,0 +1,14 @@
+# 1306 - Tarijah
+
+# County Title
+title = c_tarijah
+
+# Settlements
+max_settlements = 2
+b_tarijah = tribal
+
+# Misc
+culture = zaghawa
+religion = orthodox
+
+# History

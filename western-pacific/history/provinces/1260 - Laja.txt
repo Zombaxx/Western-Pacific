@@ -1,0 +1,15 @@
+# 1260 - Laja
+
+# County Title
+title = c_laja
+
+# Settlements
+max_settlements = 3
+b_laja = castle
+b_ama = temple
+
+# Misc
+culture = english
+religion = orthodox
+
+# History

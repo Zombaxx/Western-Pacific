@@ -1,0 +1,14 @@
+# 1341 - Resimon
+
+# County Title
+title = c_resimon
+
+# Settlements
+max_settlements = 2
+b_resimon = tribal
+
+# Misc
+culture = old_frankish
+religion = zun_pagan
+
+# History

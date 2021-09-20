@@ -1,0 +1,15 @@
+# 1414 - Waihelg
+
+# County Title
+title = c_waihelg
+
+# Settlements
+max_settlements = 3
+b_waihelg = castle
+b_rawtus = temple
+
+# Misc
+culture = norse
+religion = orthodox
+
+# History

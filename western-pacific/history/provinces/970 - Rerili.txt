@@ -1,0 +1,14 @@
+# 970 - Rerili
+
+# County Title
+title = c_rerili
+
+# Settlements
+max_settlements = 4
+b_rerili = tribal
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

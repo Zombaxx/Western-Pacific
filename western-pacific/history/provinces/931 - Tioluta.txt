@@ -1,0 +1,14 @@
+# 931 - Tioluta
+
+# County Title
+title = c_tioluta
+
+# Settlements
+max_settlements = 4
+b_tioluta = tribal
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

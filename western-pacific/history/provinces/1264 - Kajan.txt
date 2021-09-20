@@ -1,0 +1,14 @@
+# 1264 - Kajan
+
+# County Title
+title = c_kajan
+
+# Settlements
+max_settlements = 1
+b_kajan = tribal
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

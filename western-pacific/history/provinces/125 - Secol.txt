@@ -1,0 +1,16 @@
+# 125 - Secol
+
+# County Title
+title = c_secol
+
+# Settlements
+max_settlements = 4
+b_secol = castle
+b_kesh = temple
+b_qanou = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

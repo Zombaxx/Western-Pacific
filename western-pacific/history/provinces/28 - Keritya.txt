@@ -1,0 +1,16 @@
+# 28 - Keritya
+
+# County Title
+title = c_keritya
+
+# Settlements
+max_settlements = 4
+b_keritya = castle
+b_bida = temple
+b_walilai = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

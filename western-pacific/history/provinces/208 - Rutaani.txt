@@ -1,0 +1,17 @@
+# 208 - Rutaani
+
+# County Title
+title = c_rutaani
+
+# Settlements
+max_settlements = 6
+b_rutaani = castle
+b_ronto = temple
+b_athong = city
+b_kibinie = castle
+
+# Misc
+culture = bengali
+religion = sunni
+
+# History

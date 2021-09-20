@@ -1,0 +1,14 @@
+# 1002 - Waceig
+
+# County Title
+title = c_waceig
+
+# Settlements
+max_settlements = 4
+b_waceig = tribal
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

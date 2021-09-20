@@ -1,0 +1,14 @@
+# 1612 - Dudeere
+
+# County Title
+title = c_dudeere
+
+# Settlements
+max_settlements = 3
+b_dudeere = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

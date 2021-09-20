@@ -1,0 +1,15 @@
+# 886 - Rodeila
+
+# County Title
+title = c_rodeila
+
+# Settlements
+max_settlements = 5
+b_rodeila = tribal
+b_eradayah = temple
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

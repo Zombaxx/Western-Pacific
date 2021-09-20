@@ -1,0 +1,14 @@
+# 1027 - Sebyana
+
+# County Title
+title = c_sebyana
+
+# Settlements
+max_settlements = 1
+b_sebyana = tribal
+
+# Misc
+culture = hausa
+religion = zun_pagan
+
+# History

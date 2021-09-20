@@ -1,0 +1,14 @@
+# 756 - Akenoa
+
+# County Title
+title = c_akenoa
+
+# Settlements
+max_settlements = 2
+b_akenoa = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

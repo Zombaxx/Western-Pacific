@@ -1,0 +1,15 @@
+# 453 - Nateike
+
+# County Title
+title = c_nateike
+
+# Settlements
+max_settlements = 3
+b_nateike = castle
+b_wanall = temple
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History

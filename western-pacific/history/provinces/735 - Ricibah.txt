@@ -1,0 +1,15 @@
+# 735 - Ricibah
+
+# County Title
+title = c_ricibah
+
+# Settlements
+max_settlements = 3
+b_ricibah = castle
+b_nicoos = temple
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

@@ -1,0 +1,17 @@
+# 1566 - Edoras
+
+# County Title
+title = c_edoras
+
+# Settlements
+max_settlements = 6
+b_edoras = castle
+b_dudane = temple
+b_dulay = city
+b_anayacha = castle
+
+# Misc
+culture = norse
+religion = catholic
+
+# History

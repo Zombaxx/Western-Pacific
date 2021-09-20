@@ -1,5 +1,0 @@
-	title = c_kostun
-	max_settlements = 2
-	culture = ugricbaltic
-	religion = khurmazta
-	b_radigun = tribal

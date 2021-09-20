@@ -1,0 +1,14 @@
+# 1353 - Ranegin
+
+# County Title
+title = c_ranegin
+
+# Settlements
+max_settlements = 4
+b_ranegin = tribal
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

@@ -1,0 +1,16 @@
+# 469 - Libith
+
+# County Title
+title = c_libith
+
+# Settlements
+max_settlements = 4
+b_libith = castle
+b_ascuris = temple
+b_kasew = city
+
+# Misc
+culture = uyghur
+religion = catholic
+
+# History

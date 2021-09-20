@@ -1,0 +1,14 @@
+# 678 - Dita
+
+# County Title
+title = c_dita
+
+# Settlements
+max_settlements = 3
+b_dita = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

@@ -1,0 +1,16 @@
+# 1098 - Nerani
+
+# County Title
+title = c_nerani
+
+# Settlements
+max_settlements = 4
+b_nerani = castle
+b_elirai = temple
+b_qiaz = city
+
+# Misc
+culture = basque
+religion = norse_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 455 - Sekasa
+
+# County Title
+title = c_sekasa
+
+# Settlements
+max_settlements = 2
+b_sekasa = castle
+
+# Misc
+culture = uyghur
+religion = buddhist
+
+# History

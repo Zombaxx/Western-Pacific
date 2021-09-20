@@ -1,0 +1,17 @@
+# 210 - Tusash
+
+# County Title
+title = c_tusash
+
+# Settlements
+max_settlements = 5
+b_tusash = castle
+b_byusyt = temple
+b_radili = city
+b_saboras = castle
+
+# Misc
+culture = bengali
+religion = sunni
+
+# History

@@ -1,7 +1,6 @@
-
-start_date = 768.1.1
-last_start_date = 1066.9.15
-end_date = 9999.1.1
+start_date = 1066.9.15
+last_start_date = 1337.1.1
+end_date = 1453.1.1
 
 character = {
 }
@@ -14,4 +13,3 @@ economy = {
 
 military = {
 }
-

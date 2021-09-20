@@ -1,0 +1,16 @@
+# 1223 - Ruraise
+
+# County Title
+title = c_ruraise
+
+# Settlements
+max_settlements = 4
+b_ruraise = castle
+b_relasia = temple
+b_agamabas = city
+
+# Misc
+culture = basque
+religion = west_african_pagan
+
+# History

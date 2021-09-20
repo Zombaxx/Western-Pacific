@@ -1,0 +1,17 @@
+# 447 - Emahork
+
+# County Title
+title = c_emahork
+
+# Settlements
+max_settlements = 5
+b_emahork = castle
+b_binahad = temple
+b_kamald = city
+b_kella = castle
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

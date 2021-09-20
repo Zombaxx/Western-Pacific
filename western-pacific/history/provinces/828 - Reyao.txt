@@ -1,0 +1,15 @@
+# 828 - Reyao
+
+# County Title
+title = c_reyao
+
+# Settlements
+max_settlements = 3
+b_reyao = city
+b_sosutlu = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

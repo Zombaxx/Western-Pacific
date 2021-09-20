@@ -1,0 +1,14 @@
+# 1105 - Basotus
+
+# County Title
+title = c_basotus
+
+# Settlements
+max_settlements = 1
+b_basotus = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

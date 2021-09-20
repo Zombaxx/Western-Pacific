@@ -1,0 +1,14 @@
+# 1211 - Torira
+
+# County Title
+title = c_torira
+
+# Settlements
+max_settlements = 2
+b_torira = castle
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

@@ -1,5 +1,0 @@
-	title = c_labahu
-	max_settlements = 2
-	culture = bohemian
-	religion = catholic
-	b_aphafiy = tribal

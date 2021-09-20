@@ -1,5 +1,0 @@
-	title = c_selutta
-	max_settlements = 2
-	culture = somali
-	religion = orthodox
-	b_wamala = tribal

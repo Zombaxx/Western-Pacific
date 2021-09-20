@@ -1,0 +1,15 @@
+# 1366 - Taulri
+
+# County Title
+title = c_taulri
+
+# Settlements
+max_settlements = 3
+b_taulri = castle
+b_nilava = temple
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

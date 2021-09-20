@@ -1,0 +1,15 @@
+# 1032 - Darwin
+
+# County Title
+title = c_darwin
+
+# Settlements
+max_settlements = 5
+b_darwin = temple
+b_runeyao = tribal
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

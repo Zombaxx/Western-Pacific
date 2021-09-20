@@ -1,0 +1,16 @@
+# 444 - Samugh
+
+# County Title
+title = c_samugh
+
+# Settlements
+max_settlements = 4
+b_samugh = castle
+b_namelec = temple
+b_aputila = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

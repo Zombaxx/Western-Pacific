@@ -1,0 +1,15 @@
+# 1587 - Wyanila
+
+# County Title
+title = c_wyanila
+
+# Settlements
+max_settlements = 3
+b_wyanila = castle
+b_tenatli = temple
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

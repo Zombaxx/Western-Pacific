@@ -1,0 +1,16 @@
+# 62 - Tohenes
+
+# County Title
+title = c_tohenes
+
+# Settlements
+max_settlements = 4
+b_tohenes = castle
+b_rierrio = temple
+b_riseda = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

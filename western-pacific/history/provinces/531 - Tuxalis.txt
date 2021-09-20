@@ -1,0 +1,16 @@
+# 531 - Tuxalis
+
+# County Title
+title = c_tuxalis
+
+# Settlements
+max_settlements = 4
+b_tuxalis = castle
+b_quharet = temple
+b_butonne = city
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

@@ -1,0 +1,16 @@
+# 1305 - Tiking
+
+# County Title
+title = c_tiking
+
+# Settlements
+max_settlements = 4
+b_tiking = castle
+b_duhaim = temple
+b_tefunki = city
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

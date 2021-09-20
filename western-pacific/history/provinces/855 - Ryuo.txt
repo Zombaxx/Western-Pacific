@@ -1,0 +1,14 @@
+# 855 - Ryuo
+
+# County Title
+title = c_ryuo
+
+# Settlements
+max_settlements = 4
+b_ryuo = tribal
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

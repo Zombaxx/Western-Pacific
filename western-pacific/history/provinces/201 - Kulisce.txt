@@ -1,0 +1,17 @@
+# 201 - Kulisce
+
+# County Title
+title = c_kulisce
+
+# Settlements
+max_settlements = 5
+b_kulisce = castle
+b_nyonu = temple
+b_losana = city
+b_aguidy = castle
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

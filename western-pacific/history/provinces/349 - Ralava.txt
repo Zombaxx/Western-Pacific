@@ -1,0 +1,14 @@
+# 349 - Ralava
+
+# County Title
+title = c_ralava
+
+# Settlements
+max_settlements = 2
+b_ralava = castle
+
+# Misc
+culture = uyghur
+religion = bon
+
+# History

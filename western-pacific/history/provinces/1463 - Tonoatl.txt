@@ -1,0 +1,17 @@
+# 1463 - Tonoatl
+
+# County Title
+title = c_tonoatl
+
+# Settlements
+max_settlements = 5
+b_tonoatl = castle
+b_dilenr = temple
+b_bivyla = city
+b_kyehen = castle
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 286 - Nalawma
+
+# County Title
+title = c_nalawma
+
+# Settlements
+max_settlements = 3
+b_nalawma = castle
+b_wifara = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

@@ -1,0 +1,15 @@
+# 27 - Laulint
+
+# County Title
+title = c_laulint
+
+# Settlements
+max_settlements = 3
+b_laulint = castle
+b_terefan = temple
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

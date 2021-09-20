@@ -1,0 +1,15 @@
+# 485 - Kojeba
+
+# County Title
+title = c_kojeba
+
+# Settlements
+max_settlements = 3
+b_kojeba = castle
+b_ererdeg = temple
+
+# Misc
+culture = tamil
+religion = bon
+
+# History

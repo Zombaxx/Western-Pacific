@@ -1,0 +1,14 @@
+# 766 - Lobanu
+
+# County Title
+title = c_lobanu
+
+# Settlements
+max_settlements = 1
+b_lobanu = tribal
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

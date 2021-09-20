@@ -1,0 +1,14 @@
+# 1428 - Tasach
+
+# County Title
+title = c_tasach
+
+# Settlements
+max_settlements = 4
+b_tasach = tribal
+
+# Misc
+culture = assyrian
+religion = west_african_pagan
+
+# History

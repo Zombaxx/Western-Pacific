@@ -1,0 +1,14 @@
+# 1259 - Tolidia
+
+# County Title
+title = c_tolidia
+
+# Settlements
+max_settlements = 2
+b_tolidia = tribal
+
+# Misc
+culture = pictish
+religion = orthodox
+
+# History

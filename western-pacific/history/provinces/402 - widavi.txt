@@ -1,5 +1,0 @@
-	title = c_widavi
-	max_settlements = 2
-	culture = russian
-	religion = samaritan
-	b_wetavi = tribal

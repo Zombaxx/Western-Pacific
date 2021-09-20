@@ -1,0 +1,14 @@
+# 1078 - Siemold
+
+# County Title
+title = c_siemold
+
+# Settlements
+max_settlements = 4
+b_siemold = tribal
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

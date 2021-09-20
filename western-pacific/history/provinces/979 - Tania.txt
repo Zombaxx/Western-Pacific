@@ -1,0 +1,14 @@
+# 979 - Tania
+
+# County Title
+title = c_tania
+
+# Settlements
+max_settlements = 1
+b_tania = tribal
+
+# Misc
+culture = hausa
+religion = aztec
+
+# History

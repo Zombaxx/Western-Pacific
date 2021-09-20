@@ -1,0 +1,14 @@
+# 1465 - Waleuta
+
+# County Title
+title = c_waleuta
+
+# Settlements
+max_settlements = 4
+b_waleuta = tribal
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

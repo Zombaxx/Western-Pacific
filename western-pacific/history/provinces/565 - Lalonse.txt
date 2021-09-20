@@ -1,0 +1,17 @@
+# 565 - Lalonse
+
+# County Title
+title = c_lalonse
+
+# Settlements
+max_settlements = 5
+b_lalonse = castle
+b_neyaine = temple
+b_qyusine = city
+b_resivia = castle
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

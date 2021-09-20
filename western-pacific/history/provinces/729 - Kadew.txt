@@ -1,0 +1,14 @@
+# 729 - Kadew
+
+# County Title
+title = c_kadew
+
+# Settlements
+max_settlements = 4
+b_kadew = tribal
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

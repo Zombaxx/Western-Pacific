@@ -1,0 +1,17 @@
+# 484 - Tida
+
+# County Title
+title = c_tida
+
+# Settlements
+max_settlements = 5
+b_tida = castle
+b_bibura = temple
+b_rananna = city
+b_egaiija = castle
+
+# Misc
+culture = tamil
+religion = bon
+
+# History

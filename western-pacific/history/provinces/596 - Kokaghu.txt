@@ -1,0 +1,15 @@
+# 596 - Kokaghu
+
+# County Title
+title = c_kokaghu
+
+# Settlements
+max_settlements = 5
+b_kokaghu = tribal
+b_denes = temple
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

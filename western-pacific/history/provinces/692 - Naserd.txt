@@ -1,0 +1,14 @@
+# 692 - Naserd
+
+# County Title
+title = c_naserd
+
+# Settlements
+max_settlements = 4
+b_naserd = tribal
+
+# Misc
+culture = sumpa
+religion = orthodox
+
+# History

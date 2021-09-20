@@ -1,0 +1,15 @@
+# 1024 - Karela
+
+# County Title
+title = c_karela
+
+# Settlements
+max_settlements = 6
+b_karela = tribal
+b_rubenka = temple
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

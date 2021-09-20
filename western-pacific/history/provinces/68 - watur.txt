@@ -1,5 +1,0 @@
-	title = c_watur
-	max_settlements = 2
-	culture = lombard
-	religion = qarmatian
-	b_delous = tribal

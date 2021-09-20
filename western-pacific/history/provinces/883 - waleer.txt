@@ -1,5 +1,0 @@
-	title = c_waleer
-	max_settlements = 2
-	culture = norse
-	religion = interface_skin
-	b_laraud = tribal

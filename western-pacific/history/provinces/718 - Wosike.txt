@@ -1,0 +1,14 @@
+# 718 - Wosike
+
+# County Title
+title = c_wosike
+
+# Settlements
+max_settlements = 1
+b_wosike = tribal
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

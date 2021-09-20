@@ -1,0 +1,14 @@
+# 914 - Lohoman
+
+# County Title
+title = c_lohoman
+
+# Settlements
+max_settlements = 2
+b_lohoman = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

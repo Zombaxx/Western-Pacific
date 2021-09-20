@@ -1,0 +1,16 @@
+# 411 - North Alba
+
+# County Title
+title = c_north_alba
+
+# Settlements
+max_settlements = 4
+b_north_alba = castle
+b_upper_alban = temple
+b_alba = city
+
+# Misc
+culture = uyghur
+religion = bon
+
+# History

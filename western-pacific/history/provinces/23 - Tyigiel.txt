@@ -1,0 +1,15 @@
+# 23 - Tyigiel
+
+# County Title
+title = c_tyigiel
+
+# Settlements
+max_settlements = 3
+b_tyigiel = castle
+b_kaulara = temple
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

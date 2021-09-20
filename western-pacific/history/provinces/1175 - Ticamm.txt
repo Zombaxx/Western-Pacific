@@ -1,0 +1,14 @@
+# 1175 - Ticamm
+
+# County Title
+title = c_ticamm
+
+# Settlements
+max_settlements = 1
+b_ticamm = tribal
+
+# Misc
+culture = nubian
+religion = catholic
+
+# History

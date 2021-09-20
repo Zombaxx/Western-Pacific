@@ -1,0 +1,14 @@
+# 543 - Kohani
+
+# County Title
+title = c_kohani
+
+# Settlements
+max_settlements = 3
+b_kohani = tribal
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

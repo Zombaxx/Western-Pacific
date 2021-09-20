@@ -1,5 +1,0 @@
-	title = c_kopaz
-	max_settlements = 2
-	culture = portuguese
-	religion = lollard
-	b_kaesoid = tribal

@@ -1,0 +1,17 @@
+# 1396 - Bija
+
+# County Title
+title = c_bija
+
+# Settlements
+max_settlements = 5
+b_bija = castle
+b_qelilay = temple
+b_kelann = city
+b_rozeel = castle
+
+# Misc
+culture = nubian
+religion = catholic
+
+# History

@@ -1,0 +1,16 @@
+# 219 - Wala
+
+# County Title
+title = c_wala
+
+# Settlements
+max_settlements = 4
+b_wala = castle
+b_kabdenia = temple
+b_tehoura = city
+
+# Misc
+culture = bengali
+religion = sunni
+
+# History

@@ -1,0 +1,14 @@
+# 975 - Rambiz
+
+# County Title
+title = c_rambiz
+
+# Settlements
+max_settlements = 3
+b_rambiz = tribal
+
+# Misc
+culture = kanuri
+religion = catholic
+
+# History

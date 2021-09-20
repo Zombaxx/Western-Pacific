@@ -1,0 +1,14 @@
+# 837 - Temajit
+
+# County Title
+title = c_temajit
+
+# Settlements
+max_settlements = 4
+b_temajit = tribal
+
+# Misc
+culture = bodpa
+religion = sunni
+
+# History

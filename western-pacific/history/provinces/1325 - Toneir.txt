@@ -1,0 +1,15 @@
+# 1325 - Toneir
+
+# County Title
+title = c_toneir
+
+# Settlements
+max_settlements = 3
+b_toneir = castle
+b_kaninus = temple
+
+# Misc
+culture = old_frankish
+religion = buddhist
+
+# History

@@ -1,0 +1,15 @@
+# 762 - Babdost
+
+# County Title
+title = c_babdost
+
+# Settlements
+max_settlements = 5
+b_babdost = temple
+b_eheahaig = tribal
+
+# Misc
+culture = bodpa
+religion = sunni
+
+# History

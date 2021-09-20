@@ -1,0 +1,14 @@
+# 595 - Sususz
+
+# County Title
+title = c_sususz
+
+# Settlements
+max_settlements = 2
+b_sususz = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

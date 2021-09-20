@@ -1,0 +1,16 @@
+# 1081 - Lurold
+
+# County Title
+title = c_lurold
+
+# Settlements
+max_settlements = 4
+b_lurold = castle
+b_rerernat = temple
+b_ravyer = city
+
+# Misc
+culture = basque
+religion = catholic
+
+# History

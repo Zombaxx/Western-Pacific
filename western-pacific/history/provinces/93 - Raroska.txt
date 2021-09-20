@@ -1,0 +1,16 @@
+# 93 - Raroska
+
+# County Title
+title = c_raroska
+
+# Settlements
+max_settlements = 4
+b_raroska = castle
+b_nilaga = temple
+b_wilomas = city
+
+# Misc
+culture = marathi
+religion = jain
+
+# History

@@ -1,0 +1,15 @@
+# 1369 - Wudad
+
+# County Title
+title = c_wudad
+
+# Settlements
+max_settlements = 3
+b_wudad = castle
+b_ranona = temple
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

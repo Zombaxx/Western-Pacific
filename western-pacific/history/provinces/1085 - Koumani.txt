@@ -1,0 +1,14 @@
+# 1085 - Koumani
+
+# County Title
+title = c_koumani
+
+# Settlements
+max_settlements = 1
+b_koumani = tribal
+
+# Misc
+culture = hausa
+religion = aztec
+
+# History

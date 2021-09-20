@@ -1,5 +1,0 @@
-	title = c_leof
-	max_settlements = 2
-	culture = severian
-	religion = monothelite
-	b_qarekel = tribal

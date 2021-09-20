@@ -1,5 +1,0 @@
-	title = c_kunur
-	max_settlements = 2
-	culture = kurdish
-	religion = baltic_pagan_reformed
-	b_wopigid = tribal

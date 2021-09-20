@@ -1,0 +1,16 @@
+# 505 - Amarma
+
+# County Title
+title = c_amarma
+
+# Settlements
+max_settlements = 4
+b_amarma = castle
+b_rarork = temple
+b_tukolad = city
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

@@ -1,0 +1,17 @@
+# 622 - Kanyo
+
+# County Title
+title = c_kanyo
+
+# Settlements
+max_settlements = 5
+b_kanyo = castle
+b_asvialis = temple
+b_neyalis = city
+b_baud = castle
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History

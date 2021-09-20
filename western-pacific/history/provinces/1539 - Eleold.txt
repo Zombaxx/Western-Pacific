@@ -1,0 +1,14 @@
+# 1539 - Eleold
+
+# County Title
+title = c_eleold
+
+# Settlements
+max_settlements = 2
+b_eleold = tribal
+
+# Misc
+culture = irish
+religion = west_african_pagan
+
+# History

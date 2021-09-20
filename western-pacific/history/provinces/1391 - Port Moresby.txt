@@ -1,0 +1,17 @@
+# 1391 - Port Moresby
+
+# County Title
+title = c_port_moresby
+
+# Settlements
+max_settlements = 5
+b_port_moresby = castle
+b_tadina = temple
+b_nunamd = city
+b_nukid = castle
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

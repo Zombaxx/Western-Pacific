@@ -1,0 +1,17 @@
+# 1489 - Bifa
+
+# County Title
+title = c_bifa
+
+# Settlements
+max_settlements = 5
+b_bifa = castle
+b_laura = temple
+b_kibila = city
+b_ranila = castle
+
+# Misc
+culture = crimean_gothic
+religion = orthodox
+
+# History

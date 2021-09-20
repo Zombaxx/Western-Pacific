@@ -1,0 +1,15 @@
+# 609 - Ahjatevi
+
+# County Title
+title = c_ahjatevi
+
+# Settlements
+max_settlements = 5
+b_ahjatevi = tribal
+b_neriyel = temple
+
+# Misc
+culture = zhangzhung
+religion = hindu
+
+# History

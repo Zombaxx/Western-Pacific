@@ -1,0 +1,18 @@
+# 746 - Makassar
+
+# County Title
+title = c_makassar
+
+# Settlements
+max_settlements = 7
+b_makassar = castle
+b_hebes = temple
+b_hebian = city
+b_teved = castle
+b_edeia = temple
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History

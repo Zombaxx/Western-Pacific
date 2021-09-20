@@ -1,0 +1,15 @@
+# 319 - Olympian
+
+# County Title
+title = c_olympian
+
+# Settlements
+max_settlements = 3
+b_olympian = castle
+b_syecila = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

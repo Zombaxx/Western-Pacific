@@ -1,0 +1,14 @@
+# 1568 - Dasakk
+
+# County Title
+title = c_dasakk
+
+# Settlements
+max_settlements = 4
+b_dasakk = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

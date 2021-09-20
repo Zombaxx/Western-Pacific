@@ -1,0 +1,15 @@
+# 1454 - Laseka
+
+# County Title
+title = c_laseka
+
+# Settlements
+max_settlements = 2
+b_laseka = castle
+b_sasatta = temple
+
+# Misc
+culture = saxon
+religion = buddhist
+
+# History

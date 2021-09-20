@@ -1,0 +1,16 @@
+# 67 - Echeas
+
+# County Title
+title = c_echeas
+
+# Settlements
+max_settlements = 4
+b_echeas = castle
+b_borad = temple
+b_asamarma = city
+
+# Misc
+culture = marathi
+religion = jain
+
+# History

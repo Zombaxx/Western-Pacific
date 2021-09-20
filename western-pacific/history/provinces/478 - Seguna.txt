@@ -1,0 +1,16 @@
+# 478 - Seguna
+
+# County Title
+title = c_seguna
+
+# Settlements
+max_settlements = 4
+b_seguna = castle
+b_quiset = temple
+b_luge = city
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History

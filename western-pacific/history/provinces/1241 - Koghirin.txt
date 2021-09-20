@@ -1,0 +1,16 @@
+# 1241 - Koghirin
+
+# County Title
+title = c_koghirin
+
+# Settlements
+max_settlements = 4
+b_koghirin = castle
+b_nunasar = temple
+b_boghus = city
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

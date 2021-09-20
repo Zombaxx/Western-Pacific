@@ -1,0 +1,16 @@
+# 55 - Etutodia
+
+# County Title
+title = c_etutodia
+
+# Settlements
+max_settlements = 4
+b_etutodia = castle
+b_nelle = temple
+b_dekius = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

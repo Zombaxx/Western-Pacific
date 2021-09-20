@@ -1,0 +1,14 @@
+# 1552 - Avalins
+
+# County Title
+title = c_avalins
+
+# Settlements
+max_settlements = 2
+b_avalins = tribal
+
+# Misc
+culture = norse
+religion = west_african_pagan
+
+# History

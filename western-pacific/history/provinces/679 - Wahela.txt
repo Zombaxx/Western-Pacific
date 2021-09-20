@@ -1,0 +1,14 @@
+# 679 - Wahela
+
+# County Title
+title = c_wahela
+
+# Settlements
+max_settlements = 3
+b_wahela = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

@@ -1,0 +1,14 @@
+# 1301 - Nefabib
+
+# County Title
+title = c_nefabib
+
+# Settlements
+max_settlements = 2
+b_nefabib = castle
+
+# Misc
+culture = english
+religion = orthodox
+
+# History

@@ -1,0 +1,14 @@
+# 942 - Riam
+
+# County Title
+title = c_riam
+
+# Settlements
+max_settlements = 4
+b_riam = tribal
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

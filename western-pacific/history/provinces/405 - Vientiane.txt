@@ -1,0 +1,16 @@
+# 405 - Vientiane
+
+# County Title
+title = c_vientiane
+
+# Settlements
+max_settlements = 4
+b_vientiane = castle
+b_tanele = temple
+b_tubyu = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

@@ -1,0 +1,17 @@
+# 499 - Esuduju
+
+# County Title
+title = c_esuduju
+
+# Settlements
+max_settlements = 5
+b_esuduju = castle
+b_ruo = temple
+b_karassa = city
+b_korajid = castle
+
+# Misc
+culture = tamil
+religion = buddhist
+
+# History

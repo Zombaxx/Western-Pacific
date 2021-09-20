@@ -1,0 +1,15 @@
+# 466 - Dosith
+
+# County Title
+title = c_dosith
+
+# Settlements
+max_settlements = 3
+b_dosith = castle
+b_ebuling = temple
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

@@ -1,0 +1,14 @@
+# 1608 - Ebelandi
+
+# County Title
+title = c_ebelandi
+
+# Settlements
+max_settlements = 4
+b_ebelandi = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

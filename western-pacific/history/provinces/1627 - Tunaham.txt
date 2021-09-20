@@ -1,0 +1,15 @@
+# 1627 - Tunaham
+
+# County Title
+title = c_tunaham
+
+# Settlements
+max_settlements = 5
+b_tunaham = tribal
+b_saxozar = temple
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 267 - Kara
+
+# County Title
+title = c_kara
+
+# Settlements
+max_settlements = 2
+b_kara = tribal
+
+# Misc
+culture = zhangzhung
+religion = orthodox
+
+# History

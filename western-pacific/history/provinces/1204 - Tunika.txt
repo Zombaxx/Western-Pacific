@@ -1,0 +1,14 @@
+# 1204 - Tunika
+
+# County Title
+title = c_tunika
+
+# Settlements
+max_settlements = 2
+b_tunika = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

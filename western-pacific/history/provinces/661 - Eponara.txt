@@ -1,0 +1,15 @@
+# 661 - Eponara
+
+# County Title
+title = c_eponara
+
+# Settlements
+max_settlements = 5
+b_eponara = tribal
+b_ebelaka = temple
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History

@@ -1,0 +1,14 @@
+# 607 - Erosena
+
+# County Title
+title = c_erosena
+
+# Settlements
+max_settlements = 4
+b_erosena = tribal
+
+# Misc
+culture = visigothic
+religion = zun_pagan
+
+# History

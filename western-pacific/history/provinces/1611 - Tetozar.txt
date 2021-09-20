@@ -1,0 +1,15 @@
+# 1611 - Tetozar
+
+# County Title
+title = c_tetozar
+
+# Settlements
+max_settlements = 5
+b_tetozar = tribal
+b_tanisha = temple
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

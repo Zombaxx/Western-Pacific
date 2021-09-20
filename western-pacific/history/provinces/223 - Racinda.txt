@@ -1,0 +1,15 @@
+# 223 - Racinda
+
+# County Title
+title = c_racinda
+
+# Settlements
+max_settlements = 5
+b_racinda = tribal
+b_kabajit = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

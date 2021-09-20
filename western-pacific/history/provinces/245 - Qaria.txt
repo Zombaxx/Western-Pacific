@@ -1,0 +1,17 @@
+# 245 - Qaria
+
+# County Title
+title = c_qaria
+
+# Settlements
+max_settlements = 5
+b_qaria = castle
+b_ralaria = temple
+b_tazevan = city
+b_kopir = castle
+
+# Misc
+culture = tangut
+religion = jain
+
+# History

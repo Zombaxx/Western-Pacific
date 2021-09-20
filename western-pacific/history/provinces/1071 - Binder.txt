@@ -1,0 +1,14 @@
+# 1071 - Binder
+
+# County Title
+title = c_binder
+
+# Settlements
+max_settlements = 3
+b_binder = tribal
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

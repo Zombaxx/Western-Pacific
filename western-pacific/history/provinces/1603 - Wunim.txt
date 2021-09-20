@@ -1,0 +1,15 @@
+# 1603 - Wunim
+
+# County Title
+title = c_wunim
+
+# Settlements
+max_settlements = 3
+b_wunim = castle
+b_biugaka = temple
+
+# Misc
+culture = nahuatl
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,18 @@
+# 1581 - Auckland
+
+# County Title
+title = c_auckland
+
+# Settlements
+max_settlements = 7
+b_auckland = castle
+b_bilalp = temple
+b_bourara = city
+b_qutobel = castle
+b_nutobel = temple
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

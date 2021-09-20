@@ -1,0 +1,15 @@
+# 1597 - Sodion
+
+# County Title
+title = c_sodion
+
+# Settlements
+max_settlements = 3
+b_sodion = castle
+b_kenakh = temple
+
+# Misc
+culture = nahuatl
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 1233 - Leza
+
+# County Title
+title = c_leza
+
+# Settlements
+max_settlements = 1
+b_leza = tribal
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

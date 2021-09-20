@@ -1,0 +1,15 @@
+# 1299 - Terit
+
+# County Title
+title = c_terit
+
+# Settlements
+max_settlements = 6
+b_terit = tribal
+b_ryasuo = temple
+
+# Misc
+culture = daju
+religion = catholic
+
+# History

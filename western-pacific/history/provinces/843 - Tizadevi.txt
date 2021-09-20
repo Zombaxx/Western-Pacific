@@ -1,0 +1,14 @@
+# 843 - Tizadevi
+
+# County Title
+title = c_tizadevi
+
+# Settlements
+max_settlements = 3
+b_tizadevi = tribal
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

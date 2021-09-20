@@ -1,0 +1,14 @@
+# 1120 - Avereth
+
+# County Title
+title = c_avereth
+
+# Settlements
+max_settlements = 3
+b_avereth = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

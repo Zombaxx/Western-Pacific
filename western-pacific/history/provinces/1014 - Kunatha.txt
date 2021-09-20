@@ -1,0 +1,14 @@
+# 1014 - Kunatha
+
+# County Title
+title = c_kunatha
+
+# Settlements
+max_settlements = 2
+b_kunatha = tribal
+
+# Misc
+culture = hausa
+religion = zun_pagan
+
+# History

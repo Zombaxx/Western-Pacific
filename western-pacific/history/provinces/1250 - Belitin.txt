@@ -1,0 +1,15 @@
+# 1250 - Belitin
+
+# County Title
+title = c_belitin
+
+# Settlements
+max_settlements = 3
+b_belitin = castle
+b_ahanars = temple
+
+# Misc
+culture = old_frankish
+religion = tengri_pagan
+
+# History

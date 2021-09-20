@@ -1,0 +1,14 @@
+# 728 - Dahunai
+
+# County Title
+title = c_dahunai
+
+# Settlements
+max_settlements = 4
+b_dahunai = tribal
+
+# Misc
+culture = bodpa
+religion = sunni
+
+# History

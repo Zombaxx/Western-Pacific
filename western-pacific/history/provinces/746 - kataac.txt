@@ -1,5 +1,0 @@
-	title = c_kataac
-	max_settlements = 2
-	culture = bedouin_arabic
-	religion = color
-	b_dalayen = tribal

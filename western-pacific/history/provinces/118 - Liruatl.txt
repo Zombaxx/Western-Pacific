@@ -1,0 +1,16 @@
+# 118 - Liruatl
+
+# County Title
+title = c_liruatl
+
+# Settlements
+max_settlements = 4
+b_liruatl = castle
+b_nenozar = temple
+b_alank = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

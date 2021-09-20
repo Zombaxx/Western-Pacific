@@ -1,0 +1,15 @@
+# 1031 - Tubimir
+
+# County Title
+title = c_tubimir
+
+# Settlements
+max_settlements = 7
+b_tubimir = tribal
+b_wagika = temple
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

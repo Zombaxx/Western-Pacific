@@ -1,0 +1,14 @@
+# 744 - Avasios
+
+# County Title
+title = c_avasios
+
+# Settlements
+max_settlements = 3
+b_avasios = tribal
+
+# Misc
+culture = alan
+religion = orthodox
+
+# History

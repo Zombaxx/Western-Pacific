@@ -1,0 +1,14 @@
+# 1624 - Doruri
+
+# County Title
+title = c_doruri
+
+# Settlements
+max_settlements = 3
+b_doruri = tribal
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

@@ -1,0 +1,15 @@
+# 810 - Naralg
+
+# County Title
+title = c_naralg
+
+# Settlements
+max_settlements = 3
+b_naralg = castle
+b_siliboy = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

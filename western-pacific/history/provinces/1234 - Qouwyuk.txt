@@ -1,0 +1,14 @@
+# 1234 - Qouwyuk
+
+# County Title
+title = c_qouwyuk
+
+# Settlements
+max_settlements = 1
+b_qouwyuk = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

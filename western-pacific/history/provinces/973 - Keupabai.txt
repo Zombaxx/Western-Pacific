@@ -1,0 +1,15 @@
+# 973 - Keupabai
+
+# County Title
+title = c_keupabai
+
+# Settlements
+max_settlements = 6
+b_keupabai = tribal
+b_woisine = temple
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

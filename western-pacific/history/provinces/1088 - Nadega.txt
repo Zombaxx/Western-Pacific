@@ -1,0 +1,14 @@
+# 1088 - Nadega
+
+# County Title
+title = c_nadega
+
+# Settlements
+max_settlements = 4
+b_nadega = tribal
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

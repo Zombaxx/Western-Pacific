@@ -1,0 +1,15 @@
+# 459 - Kakovit
+
+# County Title
+title = c_kakovit
+
+# Settlements
+max_settlements = 3
+b_kakovit = castle
+b_laraud = temple
+
+# Misc
+culture = uyghur
+religion = bon
+
+# History

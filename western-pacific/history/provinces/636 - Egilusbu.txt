@@ -1,0 +1,14 @@
+# 636 - Egilusbu
+
+# County Title
+title = c_egilusbu
+
+# Settlements
+max_settlements = 3
+b_egilusbu = tribal
+
+# Misc
+culture = alan
+religion = west_african_pagan
+
+# History

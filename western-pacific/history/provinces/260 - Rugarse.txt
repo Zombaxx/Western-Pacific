@@ -1,0 +1,14 @@
+# 260 - Rugarse
+
+# County Title
+title = c_rugarse
+
+# Settlements
+max_settlements = 2
+b_rugarse = castle
+
+# Misc
+culture = tangut
+religion = jain
+
+# History

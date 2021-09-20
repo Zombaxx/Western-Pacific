@@ -1,0 +1,14 @@
+# 983 - Enarann
+
+# County Title
+title = c_enarann
+
+# Settlements
+max_settlements = 3
+b_enarann = tribal
+
+# Misc
+culture = kanuri
+religion = catholic
+
+# History

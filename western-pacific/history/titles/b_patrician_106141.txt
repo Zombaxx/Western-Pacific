@@ -1,0 +1,5 @@
+1062.1.1 = {
+	holding_dynasty = 106141 # Nusory - makes this a FAMILY_PALACE type Holding
+	liege="d_hong_kong"
+	holder = 212280
+}

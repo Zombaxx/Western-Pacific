@@ -1,0 +1,16 @@
+# 89 - Asahinus
+
+# County Title
+title = c_asahinus
+
+# Settlements
+max_settlements = 4
+b_asahinus = castle
+b_segil = temple
+b_eninutic = city
+
+# Misc
+culture = marathi
+religion = jain
+
+# History

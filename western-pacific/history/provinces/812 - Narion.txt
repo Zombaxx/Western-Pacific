@@ -1,0 +1,14 @@
+# 812 - Narion
+
+# County Title
+title = c_narion
+
+# Settlements
+max_settlements = 3
+b_narion = tribal
+
+# Misc
+culture = bodpa
+religion = orthodox
+
+# History

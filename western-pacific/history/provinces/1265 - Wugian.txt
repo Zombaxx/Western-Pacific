@@ -1,0 +1,14 @@
+# 1265 - Wugian
+
+# County Title
+title = c_wugian
+
+# Settlements
+max_settlements = 1
+b_wugian = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

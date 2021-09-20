@@ -1,0 +1,14 @@
+# 1418 - Kibund
+
+# County Title
+title = c_kibund
+
+# Settlements
+max_settlements = 2
+b_kibund = castle
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

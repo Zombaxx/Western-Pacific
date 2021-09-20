@@ -1,5 +1,0 @@
-	title = c_kiek
-	max_settlements = 2
-	culture = hindustani
-	religion = mazdaki
-	b_wyila = tribal

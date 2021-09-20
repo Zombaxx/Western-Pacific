@@ -1,0 +1,15 @@
+# 295 - Kumine
+
+# County Title
+title = c_kumine
+
+# Settlements
+max_settlements = 3
+b_kumine = castle
+b_qamire = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

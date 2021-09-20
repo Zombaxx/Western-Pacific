@@ -1,0 +1,14 @@
+# 1030 - Kubira
+
+# County Title
+title = c_kubira
+
+# Settlements
+max_settlements = 1
+b_kubira = tribal
+
+# Misc
+culture = pictish
+religion = zun_pagan
+
+# History

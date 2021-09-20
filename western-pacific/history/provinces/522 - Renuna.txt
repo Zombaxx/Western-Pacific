@@ -1,0 +1,15 @@
+# 522 - Renuna
+
+# County Title
+title = c_renuna
+
+# Settlements
+max_settlements = 3
+b_renuna = castle
+b_degiana = temple
+
+# Misc
+culture = tamil
+religion = buddhist
+
+# History

@@ -1,0 +1,14 @@
+# 993 - Kalius
+
+# County Title
+title = c_kalius
+
+# Settlements
+max_settlements = 3
+b_kalius = tribal
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

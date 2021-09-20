@@ -1,5 +1,0 @@
-	title = c_touune
-	max_settlements = 2
-	culture = russian
-	religion = norse_pagan
-	b_nifabet = tribal

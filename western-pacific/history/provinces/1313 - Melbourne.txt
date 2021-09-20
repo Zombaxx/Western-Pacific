@@ -1,0 +1,21 @@
+# 1313 - Melbourne
+
+# County Title
+title = c_melbourne
+
+# Settlements
+max_settlements = 7
+b_melbourne = city
+b_qeirobas = temple
+b_derim = castle
+b_byogaka = city
+b_kennu = temple
+
+# Misc
+culture = old_frankish
+religion = buddhist
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_113130
+}

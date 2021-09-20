@@ -1,0 +1,14 @@
+# 1398 - Qasara
+
+# County Title
+title = c_qasara
+
+# Settlements
+max_settlements = 3
+b_qasara = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

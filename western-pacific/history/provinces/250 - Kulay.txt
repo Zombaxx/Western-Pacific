@@ -1,0 +1,16 @@
+# 250 - Kulay
+
+# County Title
+title = c_kulay
+
+# Settlements
+max_settlements = 4
+b_kulay = castle
+b_korakh = temple
+b_rerund = city
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

@@ -1,0 +1,16 @@
+# 256 - Rabujie
+
+# County Title
+title = c_rabujie
+
+# Settlements
+max_settlements = 4
+b_rabujie = castle
+b_lakala = temple
+b_torava = city
+
+# Misc
+culture = tangut
+religion = jain
+
+# History

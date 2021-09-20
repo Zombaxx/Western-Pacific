@@ -1,0 +1,15 @@
+# 1605 - Rarayla
+
+# County Title
+title = c_rarayla
+
+# Settlements
+max_settlements = 6
+b_rarayla = tribal
+b_nerala = temple
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 1335 - Roning
+
+# County Title
+title = c_roning
+
+# Settlements
+max_settlements = 4
+b_roning = castle
+b_sogs = temple
+b_tojita = city
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

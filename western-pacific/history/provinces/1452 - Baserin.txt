@@ -1,0 +1,15 @@
+# 1452 - Baserin
+
+# County Title
+title = c_baserin
+
+# Settlements
+max_settlements = 3
+b_baserin = castle
+b_lolew = temple
+
+# Misc
+culture = saxon
+religion = buddhist
+
+# History

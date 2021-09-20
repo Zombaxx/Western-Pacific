@@ -1,0 +1,14 @@
+# 1169 - Narughur
+
+# County Title
+title = c_narughur
+
+# Settlements
+max_settlements = 3
+b_narughur = tribal
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

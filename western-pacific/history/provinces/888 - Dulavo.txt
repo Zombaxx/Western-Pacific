@@ -1,0 +1,15 @@
+# 888 - Dulavo
+
+# County Title
+title = c_dulavo
+
+# Settlements
+max_settlements = 3
+b_dulavo = castle
+b_qyusalka = temple
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

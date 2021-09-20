@@ -1,0 +1,17 @@
+# 81 - Davaly
+
+# County Title
+title = c_davaly
+
+# Settlements
+max_settlements = 5
+b_davaly = castle
+b_lorobos = temple
+b_tibegin = city
+b_elamatha = castle
+
+# Misc
+culture = marathi
+religion = jain
+
+# History

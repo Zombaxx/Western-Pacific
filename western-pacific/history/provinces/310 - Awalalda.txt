@@ -1,0 +1,15 @@
+# 310 - Awalalda
+
+# County Title
+title = c_awalalda
+
+# Settlements
+max_settlements = 3
+b_awalalda = castle
+b_norivia = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

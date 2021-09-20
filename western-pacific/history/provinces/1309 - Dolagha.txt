@@ -1,0 +1,17 @@
+# 1309 - Dolagha
+
+# County Title
+title = c_dolagha
+
+# Settlements
+max_settlements = 6
+b_dolagha = castle
+b_karana = temple
+b_qeeuba = city
+b_ruleru = castle
+
+# Misc
+culture = nubian
+religion = miaphysite
+
+# History

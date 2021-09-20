@@ -1,0 +1,14 @@
+# 722 - Arara
+
+# County Title
+title = c_arara
+
+# Settlements
+max_settlements = 3
+b_arara = tribal
+
+# Misc
+culture = visigothic
+religion = zun_pagan
+
+# History

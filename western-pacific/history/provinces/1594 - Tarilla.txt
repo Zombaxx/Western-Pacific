@@ -1,0 +1,15 @@
+# 1594 - Tarilla
+
+# County Title
+title = c_tarilla
+
+# Settlements
+max_settlements = 3
+b_tarilla = castle
+b_karilla = temple
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

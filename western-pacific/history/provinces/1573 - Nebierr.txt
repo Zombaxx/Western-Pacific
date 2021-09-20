@@ -1,0 +1,17 @@
+# 1573 - Nebierr
+
+# County Title
+title = c_nebierr
+
+# Settlements
+max_settlements = 5
+b_nebierr = castle
+b_dibulun = temple
+b_basyeju = city
+b_asciu = castle
+
+# Misc
+culture = mongol
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 434 - Ekanavid
+
+# County Title
+title = c_ekanavid
+
+# Settlements
+max_settlements = 3
+b_ekanavid = castle
+b_tavuman = temple
+
+# Misc
+culture = zhangzhung
+religion = hindu
+
+# History

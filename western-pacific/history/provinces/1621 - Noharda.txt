@@ -1,0 +1,14 @@
+# 1621 - Noharda
+
+# County Title
+title = c_noharda
+
+# Settlements
+max_settlements = 3
+b_noharda = temple
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

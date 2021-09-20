@@ -1,0 +1,14 @@
+# 321 - Buhapur
+
+# County Title
+title = c_buhapur
+
+# Settlements
+max_settlements = 2
+b_buhapur = castle
+
+# Misc
+culture = uyghur
+religion = bon
+
+# History

@@ -1,0 +1,15 @@
+# 1152 - Qakokol
+
+# County Title
+title = c_qakokol
+
+# Settlements
+max_settlements = 6
+b_qakokol = tribal
+b_leodan = temple
+
+# Misc
+culture = nubian
+religion = catholic
+
+# History

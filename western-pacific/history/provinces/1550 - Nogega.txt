@@ -1,0 +1,14 @@
+# 1550 - Nogega
+
+# County Title
+title = c_nogega
+
+# Settlements
+max_settlements = 4
+b_nogega = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

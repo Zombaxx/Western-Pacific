@@ -1,0 +1,16 @@
+# 209 - Dasing
+
+# County Title
+title = c_dasing
+
+# Settlements
+max_settlements = 4
+b_dasing = castle
+b_kagnus = temple
+b_tevuta = city
+
+# Misc
+culture = bengali
+religion = sunni
+
+# History

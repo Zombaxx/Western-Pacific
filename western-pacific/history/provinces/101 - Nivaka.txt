@@ -1,0 +1,16 @@
+# 101 - Nivaka
+
+# County Title
+title = c_nivaka
+
+# Settlements
+max_settlements = 4
+b_nivaka = castle
+b_tolalka = temple
+b_emasampa = city
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

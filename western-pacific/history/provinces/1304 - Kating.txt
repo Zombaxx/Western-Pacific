@@ -1,0 +1,14 @@
+# 1304 - Kating
+
+# County Title
+title = c_kating
+
+# Settlements
+max_settlements = 2
+b_kating = tribal
+
+# Misc
+culture = zaghawa
+religion = orthodox
+
+# History

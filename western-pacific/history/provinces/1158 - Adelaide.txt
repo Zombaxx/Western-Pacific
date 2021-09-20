@@ -1,0 +1,17 @@
+# 1158 - Adelaide
+
+# County Title
+title = c_adelaide
+
+# Settlements
+max_settlements = 5
+b_adelaide = castle
+b_letanya = temple
+b_kinuvven = city
+b_tabohn = castle
+
+# Misc
+culture = basque
+religion = aztec
+
+# History

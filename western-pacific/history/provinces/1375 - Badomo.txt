@@ -1,0 +1,15 @@
+# 1375 - Badomo
+
+# County Title
+title = c_badomo
+
+# Settlements
+max_settlements = 3
+b_badomo = castle
+b_karur = temple
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

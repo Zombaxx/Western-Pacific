@@ -1,0 +1,15 @@
+# 743 - Qelunpu
+
+# County Title
+title = c_qelunpu
+
+# Settlements
+max_settlements = 3
+b_qelunpu = castle
+b_syilila = temple
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History

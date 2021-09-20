@@ -1,0 +1,17 @@
+# 97 - Denzo
+
+# County Title
+title = c_denzo
+
+# Settlements
+max_settlements = 5
+b_denzo = castle
+b_kamilay = temple
+b_qiesi = city
+b_kameuba = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

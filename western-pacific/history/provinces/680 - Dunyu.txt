@@ -1,0 +1,14 @@
+# 680 - Dunyu
+
+# County Title
+title = c_dunyu
+
+# Settlements
+max_settlements = 2
+b_dunyu = castle
+
+# Misc
+culture = visigothic
+religion = catholic
+
+# History

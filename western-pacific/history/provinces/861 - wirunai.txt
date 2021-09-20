@@ -1,5 +1,0 @@
-	title = c_wirunai
-	max_settlements = 2
-	culture = maghreb_arabic
-	religion = taoist
-	b_roboshi = tribal

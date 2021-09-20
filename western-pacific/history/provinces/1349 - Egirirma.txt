@@ -1,0 +1,14 @@
+# 1349 - Egirirma
+
+# County Title
+title = c_egirirma
+
+# Settlements
+max_settlements = 2
+b_egirirma = castle
+
+# Misc
+culture = english
+religion = orthodox
+
+# History

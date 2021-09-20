@@ -1,0 +1,15 @@
+# 511 - Taqisce
+
+# County Title
+title = c_taqisce
+
+# Settlements
+max_settlements = 5
+b_taqisce = tribal
+b_kainer = temple
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

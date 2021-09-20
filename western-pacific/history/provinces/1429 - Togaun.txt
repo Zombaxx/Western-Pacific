@@ -1,0 +1,17 @@
+# 1429 - Togaun
+
+# County Title
+title = c_togaun
+
+# Settlements
+max_settlements = 5
+b_togaun = castle
+b_qalaid = temple
+b_werlo = city
+b_riloise = castle
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

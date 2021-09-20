@@ -1,0 +1,16 @@
+# 386 - Nodahim
+
+# County Title
+title = c_nodahim
+
+# Settlements
+max_settlements = 4
+b_nodahim = castle
+b_ryuvayla = temple
+b_dalio = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

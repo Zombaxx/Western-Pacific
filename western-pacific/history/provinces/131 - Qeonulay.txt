@@ -1,0 +1,16 @@
+# 131 - Qeonulay
+
+# County Title
+title = c_qeonulay
+
+# Settlements
+max_settlements = 4
+b_qeonulay = castle
+b_danajan = temple
+b_rolavac = city
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

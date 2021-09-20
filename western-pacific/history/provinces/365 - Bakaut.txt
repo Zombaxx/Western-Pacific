@@ -1,0 +1,16 @@
+# 365 - Bakaut
+
+# County Title
+title = c_bakaut
+
+# Settlements
+max_settlements = 4
+b_bakaut = castle
+b_kard = temple
+b_ragory = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

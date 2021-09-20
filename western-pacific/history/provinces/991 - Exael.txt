@@ -1,0 +1,14 @@
+# 991 - Exael
+
+# County Title
+title = c_exael
+
+# Settlements
+max_settlements = 2
+b_exael = tribal
+
+# Misc
+culture = kanuri
+religion = zun_pagan
+
+# History

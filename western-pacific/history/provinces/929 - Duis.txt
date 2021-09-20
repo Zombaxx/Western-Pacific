@@ -1,0 +1,14 @@
+# 929 - Duis
+
+# County Title
+title = c_duis
+
+# Settlements
+max_settlements = 2
+b_duis = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

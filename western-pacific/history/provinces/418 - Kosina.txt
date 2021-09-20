@@ -1,0 +1,16 @@
+# 418 - Kosina
+
+# County Title
+title = c_kosina
+
+# Settlements
+max_settlements = 4
+b_kosina = castle
+b_poynting = temple
+b_kaevdat = city
+
+# Misc
+culture = han
+religion = sunni
+
+# History

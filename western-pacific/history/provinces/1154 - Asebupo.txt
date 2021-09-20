@@ -1,0 +1,14 @@
+# 1154 - Asebupo
+
+# County Title
+title = c_asebupo
+
+# Settlements
+max_settlements = 3
+b_asebupo = tribal
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

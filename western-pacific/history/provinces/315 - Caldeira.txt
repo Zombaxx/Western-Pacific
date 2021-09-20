@@ -1,0 +1,16 @@
+# 315 - Caldeira
+
+# County Title
+title = c_caldeira
+
+# Settlements
+max_settlements = 4
+b_caldeira = castle
+b_ryaramm = temple
+b_resoise = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

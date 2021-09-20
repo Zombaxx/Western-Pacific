@@ -1,0 +1,14 @@
+# 1245 - Nazutic
+
+# County Title
+title = c_nazutic
+
+# Settlements
+max_settlements = 2
+b_nazutic = tribal
+
+# Misc
+culture = nubian
+religion = catholic
+
+# History

@@ -1,0 +1,16 @@
+# 108 - Emolun
+
+# County Title
+title = c_emolun
+
+# Settlements
+max_settlements = 4
+b_emolun = castle
+b_ketabba = temple
+b_kozar = city
+
+# Misc
+culture = hindustani
+religion = buddhist
+
+# History

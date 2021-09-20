@@ -1,0 +1,14 @@
+# 894 - Qeslav
+
+# County Title
+title = c_qeslav
+
+# Settlements
+max_settlements = 1
+b_qeslav = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

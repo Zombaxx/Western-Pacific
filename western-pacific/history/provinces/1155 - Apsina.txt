@@ -1,0 +1,14 @@
+# 1155 - Apsina
+
+# County Title
+title = c_apsina
+
+# Settlements
+max_settlements = 1
+b_apsina = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

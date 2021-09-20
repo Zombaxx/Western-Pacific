@@ -1,0 +1,15 @@
+# 424 - Line
+
+# County Title
+title = c_line
+
+# Settlements
+max_settlements = 3
+b_line = castle
+b_ralan = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

@@ -1,0 +1,14 @@
+# 1219 - Riatila
+
+# County Title
+title = c_riatila
+
+# Settlements
+max_settlements = 4
+b_riatila = tribal
+
+# Misc
+culture = greek
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 966 - Asaneusz
+
+# County Title
+title = c_asaneusz
+
+# Settlements
+max_settlements = 1
+b_asaneusz = tribal
+
+# Misc
+culture = hausa
+religion = aztec
+
+# History

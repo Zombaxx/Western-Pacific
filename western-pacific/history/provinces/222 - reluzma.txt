@@ -1,5 +1,0 @@
-	title = c_reluzma
-	max_settlements = 2
-	culture = bulgarian
-	religion = norse_pagan_reformed
-	b_waluna = tribal

@@ -1,0 +1,16 @@
+# 170 - Rebena
+
+# County Title
+title = c_rebena
+
+# Settlements
+max_settlements = 4
+b_rebena = castle
+b_apetakk = temple
+b_risui = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

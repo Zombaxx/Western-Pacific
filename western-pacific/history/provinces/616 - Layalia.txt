@@ -1,0 +1,16 @@
+# 616 - Layalia
+
+# County Title
+title = c_layalia
+
+# Settlements
+max_settlements = 4
+b_layalia = castle
+b_tohomas = temple
+b_talain = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

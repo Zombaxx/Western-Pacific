@@ -1,0 +1,14 @@
+# 787 - Lemerona
+
+# County Title
+title = c_lemerona
+
+# Settlements
+max_settlements = 3
+b_lemerona = temple
+
+# Misc
+culture = bodpa
+religion = bon
+
+# History

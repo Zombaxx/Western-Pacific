@@ -1,0 +1,14 @@
+# 1246 - Wyuesonn
+
+# County Title
+title = c_wyuesonn
+
+# Settlements
+max_settlements = 1
+b_wyuesonn = tribal
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

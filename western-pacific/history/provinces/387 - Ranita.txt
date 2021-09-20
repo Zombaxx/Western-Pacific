@@ -1,0 +1,16 @@
+# 387 - Ranita
+
+# County Title
+title = c_ranita
+
+# Settlements
+max_settlements = 4
+b_ranita = castle
+b_kanodek = temple
+b_rotoste = city
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

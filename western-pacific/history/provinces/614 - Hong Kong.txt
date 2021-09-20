@@ -1,0 +1,21 @@
+# 614 - Hong Kong
+
+# County Title
+title = c_hong_kong
+
+# Settlements
+max_settlements = 7
+b_hong_kong = city
+b_nusory = temple
+b_nusaba = castle
+b_wawili = city
+b_ralong = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_106140
+}

@@ -1,0 +1,15 @@
+# 318 - Togiuva
+
+# County Title
+title = c_togiuva
+
+# Settlements
+max_settlements = 3
+b_togiuva = castle
+b_kyayuo = temple
+
+# Misc
+culture = uyghur
+religion = buddhist
+
+# History

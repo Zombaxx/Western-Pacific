@@ -1,0 +1,15 @@
+# 38 - Tohaka
+
+# County Title
+title = c_tohaka
+
+# Settlements
+max_settlements = 3
+b_tohaka = city
+b_nenatta = temple
+
+# Misc
+culture = sogdian
+religion = manichean
+
+# History

@@ -1,0 +1,15 @@
+# 1434 - Niatge
+
+# County Title
+title = c_niatge
+
+# Settlements
+max_settlements = 3
+b_niatge = castle
+b_esolach = temple
+
+# Misc
+culture = saxon
+religion = catholic
+
+# History

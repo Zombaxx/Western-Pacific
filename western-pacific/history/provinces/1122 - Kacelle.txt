@@ -1,0 +1,14 @@
+# 1122 - Kacelle
+
+# County Title
+title = c_kacelle
+
+# Settlements
+max_settlements = 2
+b_kacelle = tribal
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

@@ -1,0 +1,15 @@
+# 1593 - Nalca
+
+# County Title
+title = c_nalca
+
+# Settlements
+max_settlements = 3
+b_nalca = castle
+b_sadeter = temple
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

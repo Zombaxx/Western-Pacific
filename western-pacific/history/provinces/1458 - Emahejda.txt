@@ -1,0 +1,15 @@
+# 1458 - Emahejda
+
+# County Title
+title = c_emahejda
+
+# Settlements
+max_settlements = 5
+b_emahejda = tribal
+b_kacheuta = temple
+
+# Misc
+culture = assyrian
+religion = west_african_pagan
+
+# History

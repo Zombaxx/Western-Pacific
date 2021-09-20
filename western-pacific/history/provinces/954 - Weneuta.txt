@@ -1,0 +1,14 @@
+# 954 - Weneuta
+
+# County Title
+title = c_weneuta
+
+# Settlements
+max_settlements = 1
+b_weneuta = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

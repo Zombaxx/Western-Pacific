@@ -1,0 +1,14 @@
+# 288 - Qerayan
+
+# County Title
+title = c_qerayan
+
+# Settlements
+max_settlements = 2
+b_qerayan = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

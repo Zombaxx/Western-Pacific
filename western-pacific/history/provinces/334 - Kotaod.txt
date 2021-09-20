@@ -1,0 +1,15 @@
+# 334 - Kotaod
+
+# County Title
+title = c_kotaod
+
+# Settlements
+max_settlements = 3
+b_kotaod = castle
+b_wanuida = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

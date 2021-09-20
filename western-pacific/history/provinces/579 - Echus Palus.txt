@@ -1,0 +1,14 @@
+# 579 - Echus Palus
+
+# County Title
+title = c_echus_palus
+
+# Settlements
+max_settlements = 4
+b_echus_palus = tribal
+
+# Misc
+culture = khitan
+religion = orthodox
+
+# History

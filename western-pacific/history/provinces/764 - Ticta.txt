@@ -1,0 +1,17 @@
+# 764 - Ticta
+
+# County Title
+title = c_ticta
+
+# Settlements
+max_settlements = 6
+b_ticta = castle
+b_safutan = temple
+b_ekrusbu = city
+b_lanuha = castle
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

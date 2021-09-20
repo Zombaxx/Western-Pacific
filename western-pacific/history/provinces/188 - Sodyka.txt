@@ -1,0 +1,16 @@
+# 188 - Sodyka
+
+# County Title
+title = c_sodyka
+
+# Settlements
+max_settlements = 4
+b_sodyka = castle
+b_koumike = temple
+b_keminda = city
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

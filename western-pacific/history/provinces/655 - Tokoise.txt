@@ -1,0 +1,15 @@
+# 655 - Tokoise
+
+# County Title
+title = c_tokoise
+
+# Settlements
+max_settlements = 3
+b_tokoise = castle
+b_berunda = temple
+
+# Misc
+culture = han
+religion = orthodox
+
+# History

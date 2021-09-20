@@ -1,0 +1,16 @@
+# 391 - Qarote
+
+# County Title
+title = c_qarote
+
+# Settlements
+max_settlements = 4
+b_qarote = castle
+b_epeterhi = temple
+b_eguifr = city
+
+# Misc
+culture = uyghur
+religion = buddhist
+
+# History

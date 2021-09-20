@@ -1,0 +1,15 @@
+# 1589 - Winalek
+
+# County Title
+title = c_winalek
+
+# Settlements
+max_settlements = 3
+b_winalek = castle
+b_quwedro = temple
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

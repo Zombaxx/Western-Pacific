@@ -1,0 +1,16 @@
+# 78 - Tourou
+
+# County Title
+title = c_tourou
+
+# Settlements
+max_settlements = 4
+b_tourou = castle
+b_telite = temple
+b_qabitya = city
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

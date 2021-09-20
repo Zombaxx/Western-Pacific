@@ -1,0 +1,16 @@
+# 333 - Damella
+
+# County Title
+title = c_damella
+
+# Settlements
+max_settlements = 4
+b_damella = castle
+b_elekyula = temple
+b_lokoda = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

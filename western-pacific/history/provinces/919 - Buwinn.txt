@@ -1,0 +1,14 @@
+# 919 - Buwinn
+
+# County Title
+title = c_buwinn
+
+# Settlements
+max_settlements = 4
+b_buwinn = tribal
+
+# Misc
+culture = bodpa
+religion = sunni
+
+# History

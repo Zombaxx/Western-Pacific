@@ -1,0 +1,16 @@
+# 63 - Qituara
+
+# County Title
+title = c_qituara
+
+# Settlements
+max_settlements = 4
+b_qituara = castle
+b_kajella = temple
+b_egisokol = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

@@ -1,0 +1,14 @@
+# 1034 - Laxadra
+
+# County Title
+title = c_laxadra
+
+# Settlements
+max_settlements = 1
+b_laxadra = tribal
+
+# Misc
+culture = hausa
+religion = zun_pagan
+
+# History

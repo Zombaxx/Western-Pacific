@@ -1,0 +1,15 @@
+# 371 - Bucaide
+
+# County Title
+title = c_bucaide
+
+# Settlements
+max_settlements = 3
+b_bucaide = castle
+b_ryla = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

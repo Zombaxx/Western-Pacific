@@ -1,0 +1,14 @@
+# 359 - Taluin
+
+# County Title
+title = c_taluin
+
+# Settlements
+max_settlements = 2
+b_taluin = castle
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

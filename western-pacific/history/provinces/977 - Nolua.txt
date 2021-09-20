@@ -1,0 +1,14 @@
+# 977 - Nolua
+
+# County Title
+title = c_nolua
+
+# Settlements
+max_settlements = 3
+b_nolua = tribal
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

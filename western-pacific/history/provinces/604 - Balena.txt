@@ -1,0 +1,15 @@
+# 604 - Balena
+
+# County Title
+title = c_balena
+
+# Settlements
+max_settlements = 3
+b_balena = castle
+b_laduzma = temple
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History

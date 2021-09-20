@@ -1,0 +1,14 @@
+# 1092 - Seziwen
+
+# County Title
+title = c_seziwen
+
+# Settlements
+max_settlements = 1
+b_seziwen = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

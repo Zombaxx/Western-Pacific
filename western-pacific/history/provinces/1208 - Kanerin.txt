@@ -1,0 +1,15 @@
+# 1208 - Kanerin
+
+# County Title
+title = c_kanerin
+
+# Settlements
+max_settlements = 5
+b_kanerin = tribal
+b_kiryad = temple
+
+# Misc
+culture = assyrian
+religion = west_african_pagan
+
+# History

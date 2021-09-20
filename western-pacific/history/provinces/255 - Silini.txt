@@ -1,0 +1,15 @@
+# 255 - Silini
+
+# County Title
+title = c_silini
+
+# Settlements
+max_settlements = 3
+b_silini = castle
+b_saolu = temple
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

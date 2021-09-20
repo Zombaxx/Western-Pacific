@@ -1,0 +1,14 @@
+# 1116 - Telegh
+
+# County Title
+title = c_telegh
+
+# Settlements
+max_settlements = 2
+b_telegh = castle
+
+# Misc
+culture = basque
+religion = zun_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 380 - Kareda
+
+# County Title
+title = c_kareda
+
+# Settlements
+max_settlements = 4
+b_kareda = castle
+b_alba_fossae = temple
+b_rijifa = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

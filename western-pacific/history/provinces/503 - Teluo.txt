@@ -1,0 +1,15 @@
+# 503 - Teluo
+
+# County Title
+title = c_teluo
+
+# Settlements
+max_settlements = 3
+b_teluo = castle
+b_tasanna = temple
+
+# Misc
+culture = tamil
+religion = bon
+
+# History

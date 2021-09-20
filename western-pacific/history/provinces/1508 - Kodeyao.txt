@@ -1,0 +1,15 @@
+# 1508 - Kodeyao
+
+# County Title
+title = c_kodeyao
+
+# Settlements
+max_settlements = 6
+b_kodeyao = tribal
+b_rineyao = temple
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

@@ -1,0 +1,15 @@
+# 356 - Lofos
+
+# County Title
+title = c_lofos
+
+# Settlements
+max_settlements = 3
+b_lofos = castle
+b_qato = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

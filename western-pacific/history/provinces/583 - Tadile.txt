@@ -1,0 +1,16 @@
+# 583 - Tadile
+
+# County Title
+title = c_tadile
+
+# Settlements
+max_settlements = 4
+b_tadile = city
+b_sakald = temple
+b_bafile = castle
+
+# Misc
+culture = han
+religion = orthodox
+
+# History

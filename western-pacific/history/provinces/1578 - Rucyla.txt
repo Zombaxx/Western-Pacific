@@ -1,0 +1,15 @@
+# 1578 - Rucyla
+
+# County Title
+title = c_rucyla
+
+# Settlements
+max_settlements = 5
+b_rucyla = tribal
+b_wuoxun = temple
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

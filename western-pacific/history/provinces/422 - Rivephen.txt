@@ -1,0 +1,16 @@
+# 422 - Rivephen
+
+# County Title
+title = c_rivephen
+
+# Settlements
+max_settlements = 4
+b_rivephen = castle
+b_delila = temple
+b_dana = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

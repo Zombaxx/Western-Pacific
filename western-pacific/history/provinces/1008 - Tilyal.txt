@@ -1,0 +1,14 @@
+# 1008 - Tilyal
+
+# County Title
+title = c_tilyal
+
+# Settlements
+max_settlements = 2
+b_tilyal = tribal
+
+# Misc
+culture = hausa
+religion = zun_pagan
+
+# History

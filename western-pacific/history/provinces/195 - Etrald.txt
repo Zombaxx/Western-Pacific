@@ -1,0 +1,16 @@
+# 195 - Etrald
+
+# County Title
+title = c_etrald
+
+# Settlements
+max_settlements = 4
+b_etrald = castle
+b_qajayim = temple
+b_ruitlu = city
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

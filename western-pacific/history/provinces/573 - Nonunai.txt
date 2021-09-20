@@ -1,0 +1,14 @@
+# 573 - Nonunai
+
+# County Title
+title = c_nonunai
+
+# Settlements
+max_settlements = 4
+b_nonunai = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

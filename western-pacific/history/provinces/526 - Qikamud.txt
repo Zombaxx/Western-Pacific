@@ -1,0 +1,16 @@
+# 526 - Qikamud
+
+# County Title
+title = c_qikamud
+
+# Settlements
+max_settlements = 4
+b_qikamud = castle
+b_tuneka = temple
+b_sikohn = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

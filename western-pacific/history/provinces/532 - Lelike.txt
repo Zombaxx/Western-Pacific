@@ -1,0 +1,14 @@
+# 532 - Lelike
+
+# County Title
+title = c_lelike
+
+# Settlements
+max_settlements = 2
+b_lelike = castle
+
+# Misc
+culture = han
+religion = sunni
+
+# History

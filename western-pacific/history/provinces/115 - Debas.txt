@@ -1,0 +1,16 @@
+# 115 - Debas
+
+# County Title
+title = c_debas
+
+# Settlements
+max_settlements = 4
+b_debas = castle
+b_rechai = temple
+b_raop = city
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

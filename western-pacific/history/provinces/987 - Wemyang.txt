@@ -1,0 +1,15 @@
+# 987 - Wemyang
+
+# County Title
+title = c_wemyang
+
+# Settlements
+max_settlements = 5
+b_wemyang = tribal
+b_ajayadey = temple
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

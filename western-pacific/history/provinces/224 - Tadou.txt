@@ -1,0 +1,16 @@
+# 224 - Tadou
+
+# County Title
+title = c_tadou
+
+# Settlements
+max_settlements = 4
+b_tadou = castle
+b_kizudo = temple
+b_qili = city
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

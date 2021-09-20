@@ -1,0 +1,15 @@
+# 1505 - Amanahal
+
+# County Title
+title = c_amanahal
+
+# Settlements
+max_settlements = 3
+b_amanahal = castle
+b_emivka = temple
+
+# Misc
+culture = old_saxon
+religion = orthodox
+
+# History

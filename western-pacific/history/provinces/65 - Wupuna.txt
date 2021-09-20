@@ -1,0 +1,16 @@
+# 65 - Wupuna
+
+# County Title
+title = c_wupuna
+
+# Settlements
+max_settlements = 4
+b_wupuna = castle
+b_biderin = temple
+b_lolain = city
+
+# Misc
+culture = marathi
+religion = hindu
+
+# History

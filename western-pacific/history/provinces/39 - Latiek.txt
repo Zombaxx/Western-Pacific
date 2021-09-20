@@ -1,0 +1,15 @@
+# 39 - Latiek
+
+# County Title
+title = c_latiek
+
+# Settlements
+max_settlements = 3
+b_latiek = castle
+b_tangar = temple
+
+# Misc
+culture = sogdian
+religion = zoroastrian
+
+# History

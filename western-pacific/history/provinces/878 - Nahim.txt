@@ -1,0 +1,15 @@
+# 878 - Nahim
+
+# County Title
+title = c_nahim
+
+# Settlements
+max_settlements = 3
+b_nahim = castle
+b_nawassa = temple
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

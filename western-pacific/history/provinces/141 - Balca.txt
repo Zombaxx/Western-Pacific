@@ -1,0 +1,17 @@
+# 141 - Balca
+
+# County Title
+title = c_balca
+
+# Settlements
+max_settlements = 6
+b_balca = castle
+b_ekelelme = temple
+b_renost = city
+b_tetelia = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,17 @@
+# 366 - Kuala Lumpur
+
+# County Title
+title = c_kuala_lumpur
+
+# Settlements
+max_settlements = 6
+b_kuala_lumpur = castle
+b_woronio = temple
+b_pavonis_mons = city
+b_tazahim = castle
+
+# Misc
+culture = telugu
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 326 - Tadeba
+
+# County Title
+title = c_tadeba
+
+# Settlements
+max_settlements = 3
+b_tadeba = castle
+b_ebar = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

@@ -1,0 +1,14 @@
+# 813 - Naduta
+
+# County Title
+title = c_naduta
+
+# Settlements
+max_settlements = 2
+b_naduta = castle
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

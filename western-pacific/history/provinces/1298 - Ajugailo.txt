@@ -1,0 +1,17 @@
+# 1298 - Ajugailo
+
+# County Title
+title = c_ajugailo
+
+# Settlements
+max_settlements = 5
+b_ajugailo = castle
+b_sanya = temple
+b_seraly = city
+b_nobapur = castle
+
+# Misc
+culture = assyrian
+religion = west_african_pagan
+
+# History

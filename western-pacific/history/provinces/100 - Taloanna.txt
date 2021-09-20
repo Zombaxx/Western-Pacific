@@ -1,0 +1,16 @@
+# 100 - Taloanna
+
+# County Title
+title = c_taloanna
+
+# Settlements
+max_settlements = 4
+b_taloanna = castle
+b_totasus = temple
+b_resitya = city
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

@@ -1,0 +1,15 @@
+# 924 - Datan
+
+# County Title
+title = c_datan
+
+# Settlements
+max_settlements = 5
+b_datan = tribal
+b_luruz = temple
+
+# Misc
+culture = zhangzhung
+religion = catholic
+
+# History

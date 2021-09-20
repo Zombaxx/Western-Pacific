@@ -1,0 +1,16 @@
+# 383 - Kirine
+
+# County Title
+title = c_kirine
+
+# Settlements
+max_settlements = 4
+b_kirine = castle
+b_ralit = temple
+b_birit = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

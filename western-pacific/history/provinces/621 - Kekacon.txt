@@ -1,0 +1,14 @@
+# 621 - Kekacon
+
+# County Title
+title = c_kekacon
+
+# Settlements
+max_settlements = 2
+b_kekacon = tribal
+
+# Misc
+culture = visigothic
+religion = zun_pagan
+
+# History

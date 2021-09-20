@@ -1,0 +1,16 @@
+# 196 - Lanyamo
+
+# County Title
+title = c_lanyamo
+
+# Settlements
+max_settlements = 4
+b_lanyamo = castle
+b_kizarun = temple
+b_lava = city
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

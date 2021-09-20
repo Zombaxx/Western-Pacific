@@ -1,0 +1,14 @@
+# 1227 - Axinonn
+
+# County Title
+title = c_axinonn
+
+# Settlements
+max_settlements = 4
+b_axinonn = tribal
+
+# Misc
+culture = greek
+religion = west_african_pagan
+
+# History

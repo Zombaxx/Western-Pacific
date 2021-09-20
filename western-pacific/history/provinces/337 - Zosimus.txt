@@ -1,0 +1,16 @@
+# 337 - Zosimus
+
+# County Title
+title = c_zosimus
+
+# Settlements
+max_settlements = 4
+b_zosimus = castle
+b_nyatayla = temple
+b_etselo = city
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

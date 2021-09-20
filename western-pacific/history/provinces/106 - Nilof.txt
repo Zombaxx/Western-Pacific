@@ -1,0 +1,16 @@
+# 106 - Nilof
+
+# County Title
+title = c_nilof
+
+# Settlements
+max_settlements = 4
+b_nilof = castle
+b_kudak = temple
+b_egreya = city
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

@@ -1,0 +1,15 @@
+# 412 - Qenerna
+
+# County Title
+title = c_qenerna
+
+# Settlements
+max_settlements = 3
+b_qenerna = castle
+b_tauteye = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 1177 - Tobyad
+
+# County Title
+title = c_tobyad
+
+# Settlements
+max_settlements = 5
+b_tobyad = tribal
+b_keri = temple
+
+# Misc
+culture = nubian
+religion = sunni
+
+# History

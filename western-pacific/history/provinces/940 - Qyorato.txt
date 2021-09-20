@@ -1,0 +1,14 @@
+# 940 - Qyorato
+
+# County Title
+title = c_qyorato
+
+# Settlements
+max_settlements = 4
+b_qyorato = tribal
+
+# Misc
+culture = kanuri
+religion = orthodox
+
+# History

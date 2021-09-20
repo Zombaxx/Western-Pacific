@@ -1,0 +1,16 @@
+# 60 - Derew
+
+# County Title
+title = c_derew
+
+# Settlements
+max_settlements = 4
+b_derew = castle
+b_runira = temple
+b_asadalgi = city
+
+# Misc
+culture = marathi
+religion = hindu
+
+# History

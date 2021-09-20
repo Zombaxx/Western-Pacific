@@ -1,0 +1,15 @@
+# 292 - Sima
+
+# County Title
+title = c_sima
+
+# Settlements
+max_settlements = 3
+b_sima = castle
+b_dunoul = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

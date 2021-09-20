@@ -1,0 +1,14 @@
+# 1273 - Korain
+
+# County Title
+title = c_korain
+
+# Settlements
+max_settlements = 2
+b_korain = tribal
+
+# Misc
+culture = english
+religion = orthodox
+
+# History

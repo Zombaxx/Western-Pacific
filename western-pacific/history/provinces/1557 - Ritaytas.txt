@@ -1,0 +1,14 @@
+# 1557 - Ritaytas
+
+# County Title
+title = c_ritaytas
+
+# Settlements
+max_settlements = 3
+b_ritaytas = tribal
+
+# Misc
+culture = irish
+religion = catholic
+
+# History

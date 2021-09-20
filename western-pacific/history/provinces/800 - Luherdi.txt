@@ -1,0 +1,15 @@
+# 800 - Luherdi
+
+# County Title
+title = c_luherdi
+
+# Settlements
+max_settlements = 3
+b_luherdi = castle
+b_dovinga = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

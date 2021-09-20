@@ -1,0 +1,15 @@
+# 1012 - Agaoo
+
+# County Title
+title = c_agaoo
+
+# Settlements
+max_settlements = 5
+b_agaoo = tribal
+b_lebyad = temple
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

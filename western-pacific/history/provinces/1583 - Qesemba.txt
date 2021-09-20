@@ -1,0 +1,15 @@
+# 1583 - Qesemba
+
+# County Title
+title = c_qesemba
+
+# Settlements
+max_settlements = 3
+b_qesemba = castle
+b_ticith = temple
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

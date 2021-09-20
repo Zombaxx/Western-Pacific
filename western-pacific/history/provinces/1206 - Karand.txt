@@ -1,0 +1,16 @@
+# 1206 - Karand
+
+# County Title
+title = c_karand
+
+# Settlements
+max_settlements = 4
+b_karand = castle
+b_kedit = temple
+b_lutuaret = city
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

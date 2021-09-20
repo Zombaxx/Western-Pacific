@@ -1,0 +1,17 @@
+# 1439 - Lieltun
+
+# County Title
+title = c_lieltun
+
+# Settlements
+max_settlements = 5
+b_lieltun = castle
+b_kadijah = temple
+b_telijah = city
+b_tohidar = castle
+
+# Misc
+culture = norse
+religion = hellenic_pagan
+
+# History

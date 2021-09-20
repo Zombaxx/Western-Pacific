@@ -1,0 +1,16 @@
+# 25 - Tuhakk
+
+# County Title
+title = c_tuhakk
+
+# Settlements
+max_settlements = 4
+b_tuhakk = castle
+b_ruulard = temple
+b_notato = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

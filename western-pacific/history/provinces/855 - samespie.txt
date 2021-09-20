@@ -1,5 +1,0 @@
-	title = c_samespie
-	max_settlements = 2
-	culture = croatian
-	religion = waldensian
-	b_timica = tribal

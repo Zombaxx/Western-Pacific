@@ -1,0 +1,1152 @@
+d_pakistan_band = {
+	color={ 169 119 190 }
+	color2={ 255 255 255 }
+	
+	capital = 9
+	
+	culture = sogdian
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = sogdian_band_composition
+}
+d_gujarat_band = {
+	color={ 158 124 167 }
+	color2={ 255 255 255 }
+	
+	capital = 29
+	
+	culture = gujurati
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = gujurati_band_composition
+}
+d_mumbai_band = {
+	color={ 147 115 199 }
+	color2={ 255 255 255 }
+	
+	capital = 34
+	
+	culture = marathi
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = marathi_band_composition
+}
+d_delhi_band = {
+	color={ 127 62 138 }
+	color2={ 255 255 255 }
+	
+	capital = 72
+	
+	culture = hindustani
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = hindustani_band_composition
+}
+d_dravida_band = {
+	color={ 152 79 145 }
+	color2={ 255 255 255 }
+	
+	capital = 143
+	
+	culture = sinhala
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = sinhala_band_composition
+}
+d_sri_lanka_band = {
+	color={ 142 124 159 }
+	color2={ 255 255 255 }
+	
+	capital = 150
+	
+	culture = sinhala
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = sinhala_band_composition
+}
+d_renain_band = {
+	color={ 161 25 144 }
+	color2={ 255 255 255 }
+	
+	capital = 175
+	
+	culture = hindustani
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = hindustani_band_composition
+}
+d_utkalaâ _band = {
+	color={ 149 33 147 }
+	color2={ 255 255 255 }
+	
+	capital = 176
+	
+	culture = hindustani
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = hindustani_band_composition
+}
+d_racidda_band = {
+	color={ 90 53 52 }
+	color2={ 255 255 255 }
+	
+	capital = 205
+	
+	culture = bengali
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = bengali_band_composition
+}
+d_bangladesh_band = {
+	color={ 108 39 23 }
+	color2={ 255 255 255 }
+	
+	capital = 206
+	
+	culture = bengali
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = bengali_band_composition
+}
+d_myanmar_band = {
+	color={ 201 236 178 }
+	color2={ 255 255 255 }
+	
+	capital = 258
+	
+	culture = tangut
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = tangut_band_composition
+}
+d_sumatra_band = {
+	color={ 195 183 234 }
+	color2={ 255 255 255 }
+	
+	capital = 307
+	
+	culture = zhangzhung
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = zhangzhung_band_composition
+}
+d_thailand_band = {
+	color={ 164 7 163 }
+	color2={ 255 255 255 }
+	
+	capital = 335
+	
+	culture = kannada
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = kannada_band_composition
+}
+d_malaysia_band = {
+	color={ 130 89 203 }
+	color2={ 255 255 255 }
+	
+	capital = 366
+	
+	culture = telugu
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = telugu_band_composition
+}
+d_laos_band = {
+	color={ 148 18 163 }
+	color2={ 255 255 255 }
+	
+	capital = 422
+	
+	culture = kannada
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = kannada_band_composition
+}
+d_cambodia_band = {
+	color={ 161 30 201 }
+	color2={ 255 255 255 }
+	
+	capital = 452
+	
+	culture = kannada
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = kannada_band_composition
+}
+d_saroda_band = {
+	color={ 197 158 198 }
+	color2={ 255 255 255 }
+	
+	capital = 486
+	
+	culture = han
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = han_band_composition
+}
+d_java_band = {
+	color={ 166 90 67 }
+	color2={ 255 255 255 }
+	
+	capital = 494
+	
+	culture = nepali
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nepali_band_composition
+}
+d_hainan_band = {
+	color={ 229 162 155 }
+	color2={ 255 255 255 }
+	
+	capital = 514
+	
+	culture = han
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = han_band_composition
+}
+d_westralia_band = {
+	color={ 207 180 3 }
+	color2={ 255 255 255 }
+	
+	capital = 608
+	
+	culture = hausa
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = hausa_band_composition
+}
+d_kalimantan_band = {
+	color={ 223 189 201 }
+	color2={ 255 255 255 }
+	
+	capital = 610
+	
+	culture = zhangzhung
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = zhangzhung_band_composition
+}
+d_guangdong_band = {
+	color={ 238 195 186 }
+	color2={ 255 255 255 }
+	
+	capital = 614
+	
+	culture = han
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = han_band_composition
+}
+d_perth_band = {
+	color={ 205 254 212 }
+	color2={ 255 255 255 }
+	
+	capital = 657
+	
+	culture = visigothic
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = visigothic_band_composition
+}
+d_sulawesi_band = {
+	color={ 185 57 48 }
+	color2={ 255 255 255 }
+	
+	capital = 746
+	
+	culture = nepali
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nepali_band_composition
+}
+d_taiwan_band = {
+	color={ 199 186 192 }
+	color2={ 255 255 255 }
+	
+	capital = 780
+	
+	culture = han
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = han_band_composition
+}
+d_philippines_band = {
+	color={ 243 217 59 }
+	color2={ 255 255 255 }
+	
+	capital = 794
+	
+	culture = sumpa
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = sumpa_band_composition
+}
+d_lesser_sunda_band = {
+	color={ 234 184 239 }
+	color2={ 255 255 255 }
+	
+	capital = 924
+	
+	culture = zhangzhung
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = zhangzhung_band_composition
+}
+d_kwongan_band = {
+	color={ 196 182 49 }
+	color2={ 255 255 255 }
+	
+	capital = 999
+	
+	culture = pictish
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = pictish_band_composition
+}
+d_banda_arc_band = {
+	color={ 253 231 171 }
+	color2={ 255 255 255 }
+	
+	capital = 1015
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
+}
+d_darwin_band = {
+	color={ 25 16 0 }
+	color2={ 255 255 255 }
+	
+	capital = 1032
+	
+	culture = greek
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = greek_band_composition
+}
+d_outback_band = {
+	color={ 205 122 28 }
+	color2={ 255 255 255 }
+	
+	capital = 1057
+	
+	culture = kanuri
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = kanuri_band_composition
+}
+d_papua_band = {
+	color={ 195 178 10 }
+	color2={ 255 255 255 }
+	
+	capital = 1079
+	
+	culture = nubian
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nubian_band_composition
+}
+d_eyre_band = {
+	color={ 127 136 56 }
+	color2={ 255 255 255 }
+	
+	capital = 1170
+	
+	culture = basque
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = basque_band_composition
+}
+d_victoria_band = {
+	color={ 204 186 113 }
+	color2={ 255 255 255 }
+	
+	capital = 1313
+	
+	culture = old_frankish
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = old_frankish_band_composition
+}
+d_guinea_band = {
+	color={ 234 223 147 }
+	color2={ 255 255 255 }
+	
+	capital = 1391
+	
+	culture = daju
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = daju_band_composition
+}
+d_tasmania_band = {
+	color={ 203 80 93 }
+	color2={ 255 255 255 }
+	
+	capital = 1419
+	
+	culture = irish
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = irish_band_composition
+}
+d_canberry_band = {
+	color={ 233 197 126 }
+	color2={ 255 255 255 }
+	
+	capital = 1445
+	
+	culture = mongol
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = mongol_band_composition
+}
+d_aus_band = {
+	color={ 197 116 77 }
+	color2={ 255 255 255 }
+	
+	capital = 1478
+	
+	culture = saxon
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = saxon_band_composition
+}
+d_razani_band = {
+	color={ 184 137 209 }
+	color2={ 255 255 255 }
+	
+	capital = 1492
+	
+	culture = crimean_gothic
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = crimean_gothic_band_composition
+}
+d_tiank_band = {
+	color={ 154 84 207 }
+	color2={ 255 255 255 }
+	
+	capital = 1493
+	
+	culture = crimean_gothic
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = crimean_gothic_band_composition
+}
+d_new_britain_band = {
+	color={ 201 208 160 }
+	color2={ 255 255 255 }
+	
+	capital = 1494
+	
+	culture = daju
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = daju_band_composition
+}
+d_libond_band = {
+	color={ 186 45 13 }
+	color2={ 255 255 255 }
+	
+	capital = 1496
+	
+	culture = old_saxon
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = old_saxon_band_composition
+}
+d_exibavac_band = {
+	color={ 175 11 30 }
+	color2={ 255 255 255 }
+	
+	capital = 1498
+	
+	culture = old_saxon
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = old_saxon_band_composition
+}
+d_queensland_band = {
+	color={ 172 88 169 }
+	color2={ 255 255 255 }
+	
+	capital = 1515
+	
+	culture = crimean_gothic
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = crimean_gothic_band_composition
+}
+d_middle_zealand_band = {
+	color={ 167 50 44 }
+	color2={ 255 255 255 }
+	
+	capital = 1566
+	
+	culture = norse
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = norse_band_composition
+}
+d_aotearoa_band = {
+	color={ 236 231 140 }
+	color2={ 255 255 255 }
+	
+	capital = 1581
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
+}
+d_pacific_band = {
+	color={ 195 239 177 }
+	color2={ 255 255 255 }
+	
+	capital = 1604
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
+}
+d_hawaii_band = {
+	color={ 254 203 151 }
+	color2={ 255 255 255 }
+	
+	capital = 1615
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
+}

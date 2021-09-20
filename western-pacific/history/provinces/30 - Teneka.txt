@@ -1,0 +1,17 @@
+# 30 - Teneka
+
+# County Title
+title = c_teneka
+
+# Settlements
+max_settlements = 5
+b_teneka = castle
+b_kautiat = temple
+b_susidis = city
+b_ehamaut = castle
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

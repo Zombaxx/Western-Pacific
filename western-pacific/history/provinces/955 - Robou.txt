@@ -1,0 +1,14 @@
+# 955 - Robou
+
+# County Title
+title = c_robou
+
+# Settlements
+max_settlements = 4
+b_robou = tribal
+
+# Misc
+culture = zhangzhung
+religion = orthodox
+
+# History

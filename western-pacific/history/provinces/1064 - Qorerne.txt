@@ -1,0 +1,14 @@
+# 1064 - Qorerne
+
+# County Title
+title = c_qorerne
+
+# Settlements
+max_settlements = 1
+b_qorerne = temple
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

@@ -1,0 +1,16 @@
+# 155 - Dalit
+
+# County Title
+title = c_dalit
+
+# Settlements
+max_settlements = 4
+b_dalit = castle
+b_sanar = temple
+b_wubing = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,17 @@
+# 547 - Daniye
+
+# County Title
+title = c_daniye
+
+# Settlements
+max_settlements = 5
+b_daniye = castle
+b_nuoja = temple
+b_aralura = city
+b_arolaud = castle
+
+# Misc
+culture = telugu
+religion = sunni
+
+# History

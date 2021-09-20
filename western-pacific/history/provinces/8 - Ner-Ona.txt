@@ -1,0 +1,16 @@
+# 8 - Ner-Ona
+
+# County Title
+title = c_ner-ona
+
+# Settlements
+max_settlements = 4
+b_ner-ona = castle
+b_nekegin = temple
+b_ryoo = city
+
+# Misc
+culture = sogdian
+religion = zoroastrian
+
+# History

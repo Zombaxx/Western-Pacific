@@ -1,0 +1,15 @@
+# 641 - Takuna
+
+# County Title
+title = c_takuna
+
+# Settlements
+max_settlements = 3
+b_takuna = castle
+b_daculk = temple
+
+# Misc
+culture = han
+religion = orthodox
+
+# History

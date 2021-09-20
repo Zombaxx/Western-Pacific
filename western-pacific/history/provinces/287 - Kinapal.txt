@@ -1,0 +1,14 @@
+# 287 - Kinapal
+
+# County Title
+title = c_kinapal
+
+# Settlements
+max_settlements = 2
+b_kinapal = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

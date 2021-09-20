@@ -1,0 +1,17 @@
+# 433 - Sunuju
+
+# County Title
+title = c_sunuju
+
+# Settlements
+max_settlements = 5
+b_sunuju = castle
+b_noraria = temple
+b_kared = city
+b_befegs = castle
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

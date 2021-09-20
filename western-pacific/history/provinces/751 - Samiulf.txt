@@ -1,0 +1,14 @@
+# 751 - Samiulf
+
+# County Title
+title = c_samiulf
+
+# Settlements
+max_settlements = 3
+b_samiulf = tribal
+
+# Misc
+culture = alan
+religion = messalian
+
+# History

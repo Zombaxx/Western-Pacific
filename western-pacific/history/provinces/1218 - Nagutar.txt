@@ -1,0 +1,14 @@
+# 1218 - Nagutar
+
+# County Title
+title = c_nagutar
+
+# Settlements
+max_settlements = 4
+b_nagutar = tribal
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

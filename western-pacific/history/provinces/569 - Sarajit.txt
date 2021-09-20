@@ -1,0 +1,14 @@
+# 569 - Sarajit
+
+# County Title
+title = c_sarajit
+
+# Settlements
+max_settlements = 2
+b_sarajit = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

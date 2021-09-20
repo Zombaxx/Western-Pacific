@@ -1,0 +1,14 @@
+# 1290 - Rieguis
+
+# County Title
+title = c_rieguis
+
+# Settlements
+max_settlements = 2
+b_rieguis = tribal
+
+# Misc
+culture = pictish
+religion = orthodox
+
+# History

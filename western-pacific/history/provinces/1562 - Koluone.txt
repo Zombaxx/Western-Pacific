@@ -1,0 +1,14 @@
+# 1562 - Koluone
+
+# County Title
+title = c_koluone
+
+# Settlements
+max_settlements = 2
+b_koluone = tribal
+
+# Misc
+culture = nahuatl
+religion = west_african_pagan
+
+# History

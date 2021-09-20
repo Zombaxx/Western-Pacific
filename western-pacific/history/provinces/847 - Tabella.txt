@@ -1,0 +1,14 @@
+# 847 - Tabella
+
+# County Title
+title = c_tabella
+
+# Settlements
+max_settlements = 1
+b_tabella = tribal
+
+# Misc
+culture = hausa
+religion = aztec
+
+# History

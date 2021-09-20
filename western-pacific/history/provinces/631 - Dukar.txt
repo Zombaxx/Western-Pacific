@@ -1,0 +1,16 @@
+# 631 - Dukar
+
+# County Title
+title = c_dukar
+
+# Settlements
+max_settlements = 4
+b_dukar = castle
+b_qiisa = temple
+b_rusucia = city
+
+# Misc
+culture = zhangzhung
+religion = hindu
+
+# History

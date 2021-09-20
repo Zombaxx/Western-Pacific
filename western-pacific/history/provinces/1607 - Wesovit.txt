@@ -1,0 +1,15 @@
+# 1607 - Wesovit
+
+# County Title
+title = c_wesovit
+
+# Settlements
+max_settlements = 5
+b_wesovit = tribal
+b_delaka = temple
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

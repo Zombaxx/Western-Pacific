@@ -1,0 +1,14 @@
+# 905 - Ajolinu
+
+# County Title
+title = c_ajolinu
+
+# Settlements
+max_settlements = 3
+b_ajolinu = tribal
+
+# Misc
+culture = bodpa
+religion = sunni
+
+# History

@@ -1,0 +1,16 @@
+# 242 - Asulisha
+
+# County Title
+title = c_asulisha
+
+# Settlements
+max_settlements = 4
+b_asulisha = castle
+b_tolalku = temple
+b_rupusbu = city
+
+# Misc
+culture = tangut
+religion = jain
+
+# History

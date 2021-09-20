@@ -1,0 +1,14 @@
+# 1628 - Subolas
+
+# County Title
+title = c_subolas
+
+# Settlements
+max_settlements = 4
+b_subolas = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

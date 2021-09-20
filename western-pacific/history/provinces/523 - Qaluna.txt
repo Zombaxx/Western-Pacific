@@ -1,0 +1,14 @@
+# 523 - Qaluna
+
+# County Title
+title = c_qaluna
+
+# Settlements
+max_settlements = 3
+b_qaluna = tribal
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

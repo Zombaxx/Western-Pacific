@@ -1,0 +1,15 @@
+# 963 - Tanorz
+
+# County Title
+title = c_tanorz
+
+# Settlements
+max_settlements = 5
+b_tanorz = tribal
+b_niabas = temple
+
+# Misc
+culture = kanuri
+religion = orthodox
+
+# History

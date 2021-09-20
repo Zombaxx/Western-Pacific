@@ -1,0 +1,17 @@
+# 1380 - Lapagan
+
+# County Title
+title = c_lapagan
+
+# Settlements
+max_settlements = 6
+b_lapagan = castle
+b_dapaud = temple
+b_kavir = city
+b_senad = castle
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

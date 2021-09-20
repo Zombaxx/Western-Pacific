@@ -1,0 +1,17 @@
+# 1390 - Axiarma
+
+# County Title
+title = c_axiarma
+
+# Settlements
+max_settlements = 6
+b_axiarma = castle
+b_ralim = temple
+b_rineuta = city
+b_nenann = castle
+
+# Misc
+culture = nubian
+religion = catholic
+
+# History

@@ -1,0 +1,17 @@
+# 66 - Lulinn
+
+# County Title
+title = c_lulinn
+
+# Settlements
+max_settlements = 6
+b_lulinn = castle
+b_daideva = temple
+b_tilalis = city
+b_byasessa = castle
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

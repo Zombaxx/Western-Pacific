@@ -1,0 +1,14 @@
+# 1190 - Runami
+
+# County Title
+title = c_runami
+
+# Settlements
+max_settlements = 2
+b_runami = tribal
+
+# Misc
+culture = daju
+religion = catholic
+
+# History

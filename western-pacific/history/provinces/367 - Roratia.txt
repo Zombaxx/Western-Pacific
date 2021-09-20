@@ -1,0 +1,15 @@
+# 367 - Roratia
+
+# County Title
+title = c_roratia
+
+# Settlements
+max_settlements = 3
+b_roratia = castle
+b_niloman = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

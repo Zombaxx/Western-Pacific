@@ -1,0 +1,16 @@
+# 1511 - Wikilda
+
+# County Title
+title = c_wikilda
+
+# Settlements
+max_settlements = 4
+b_wikilda = castle
+b_kapani = temple
+b_kadela = city
+
+# Misc
+culture = crimean_gothic
+religion = orthodox
+
+# History

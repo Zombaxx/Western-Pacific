@@ -1,0 +1,16 @@
+# 305 - Wisirai
+
+# County Title
+title = c_wisirai
+
+# Settlements
+max_settlements = 4
+b_wisirai = castle
+b_taravak = temple
+b_roste = city
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

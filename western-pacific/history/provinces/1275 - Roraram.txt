@@ -1,0 +1,15 @@
+# 1275 - Roraram
+
+# County Title
+title = c_roraram
+
+# Settlements
+max_settlements = 5
+b_roraram = tribal
+b_qumarse = temple
+
+# Misc
+culture = daju
+religion = catholic
+
+# History

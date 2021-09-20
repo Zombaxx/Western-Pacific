@@ -1,0 +1,16 @@
+# 154 - Radakh
+
+# County Title
+title = c_radakh
+
+# Settlements
+max_settlements = 4
+b_radakh = castle
+b_nayabai = temple
+b_kabiram = city
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

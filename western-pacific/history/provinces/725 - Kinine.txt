@@ -1,0 +1,14 @@
+# 725 - Kinine
+
+# County Title
+title = c_kinine
+
+# Settlements
+max_settlements = 2
+b_kinine = tribal
+
+# Misc
+culture = alan
+religion = messalian
+
+# History

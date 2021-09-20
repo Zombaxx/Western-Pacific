@@ -1,0 +1,15 @@
+# 263 - Taudnus
+
+# County Title
+title = c_taudnus
+
+# Settlements
+max_settlements = 3
+b_taudnus = castle
+b_sileka = temple
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

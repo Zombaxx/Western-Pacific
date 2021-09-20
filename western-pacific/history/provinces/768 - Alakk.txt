@@ -1,0 +1,15 @@
+# 768 - Alakk
+
+# County Title
+title = c_alakk
+
+# Settlements
+max_settlements = 3
+b_alakk = castle
+b_daboke = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

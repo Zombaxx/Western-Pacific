@@ -1,0 +1,14 @@
+# 1166 - Datilal
+
+# County Title
+title = c_datilal
+
+# Settlements
+max_settlements = 1
+b_datilal = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

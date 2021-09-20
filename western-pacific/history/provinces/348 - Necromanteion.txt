@@ -1,0 +1,16 @@
+# 348 - Necromanteion
+
+# County Title
+title = c_necromanteion
+
+# Settlements
+max_settlements = 4
+b_necromanteion = castle
+b_wanaul = temple
+b_wageuta = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

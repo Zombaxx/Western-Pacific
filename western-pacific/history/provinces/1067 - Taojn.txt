@@ -1,0 +1,14 @@
+# 1067 - Taojn
+
+# County Title
+title = c_taojn
+
+# Settlements
+max_settlements = 1
+b_taojn = tribal
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

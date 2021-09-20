@@ -1,0 +1,14 @@
+# 1618 - Korarda
+
+# County Title
+title = c_korarda
+
+# Settlements
+max_settlements = 3
+b_korarda = tribal
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

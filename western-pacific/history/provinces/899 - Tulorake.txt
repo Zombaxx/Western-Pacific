@@ -1,0 +1,14 @@
+# 899 - Tulorake
+
+# County Title
+title = c_tulorake
+
+# Settlements
+max_settlements = 3
+b_tulorake = tribal
+
+# Misc
+culture = sumpa
+religion = orthodox
+
+# History

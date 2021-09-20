@@ -1,0 +1,14 @@
+# 1072 - Nonenda
+
+# County Title
+title = c_nonenda
+
+# Settlements
+max_settlements = 3
+b_nonenda = tribal
+
+# Misc
+culture = greek
+religion = west_african_pagan
+
+# History

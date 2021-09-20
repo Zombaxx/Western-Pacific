@@ -1,0 +1,17 @@
+# 74 - Aprarma
+
+# County Title
+title = c_aprarma
+
+# Settlements
+max_settlements = 5
+b_aprarma = castle
+b_reciruz = temple
+b_dadost = city
+b_nogoj = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

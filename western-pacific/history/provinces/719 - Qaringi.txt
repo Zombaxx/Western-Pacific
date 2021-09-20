@@ -1,0 +1,14 @@
+# 719 - Qaringi
+
+# County Title
+title = c_qaringi
+
+# Settlements
+max_settlements = 4
+b_qaringi = tribal
+
+# Misc
+culture = visigothic
+religion = zun_pagan
+
+# History

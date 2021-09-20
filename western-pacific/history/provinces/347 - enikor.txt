@@ -1,5 +1,0 @@
-	title = c_enikor
-	max_settlements = 2
-	culture = kannada
-	religion = interface_skin
-	b_qenotan = tribal

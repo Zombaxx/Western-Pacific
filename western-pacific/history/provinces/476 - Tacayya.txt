@@ -1,0 +1,16 @@
+# 476 - Tacayya
+
+# County Title
+title = c_tacayya
+
+# Settlements
+max_settlements = 4
+b_tacayya = castle
+b_taraya = temple
+b_barory = city
+
+# Misc
+culture = uyghur
+religion = catholic
+
+# History

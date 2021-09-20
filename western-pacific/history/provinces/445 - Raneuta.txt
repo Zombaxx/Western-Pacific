@@ -1,0 +1,16 @@
+# 445 - Raneuta
+
+# County Title
+title = c_raneuta
+
+# Settlements
+max_settlements = 4
+b_raneuta = castle
+b_ekeneuta = temple
+b_tenerna = city
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

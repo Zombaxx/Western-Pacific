@@ -1,0 +1,14 @@
+# 707 - Kakusbu
+
+# County Title
+title = c_kakusbu
+
+# Settlements
+max_settlements = 1
+b_kakusbu = tribal
+
+# Misc
+culture = alan
+religion = west_african_pagan
+
+# History

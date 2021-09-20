@@ -1,0 +1,16 @@
+# 858 - Kacita
+
+# County Title
+title = c_kacita
+
+# Settlements
+max_settlements = 4
+b_kacita = castle
+b_wiuvda = temple
+b_qiuvaud = city
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

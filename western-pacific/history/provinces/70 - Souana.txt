@@ -1,0 +1,15 @@
+# 70 - Souana
+
+# County Title
+title = c_souana
+
+# Settlements
+max_settlements = 3
+b_souana = castle
+b_rolabur = temple
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 374 - Kaneuta
+
+# County Title
+title = c_kaneuta
+
+# Settlements
+max_settlements = 3
+b_kaneuta = castle
+b_kubasin = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

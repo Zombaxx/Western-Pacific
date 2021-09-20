@@ -1,0 +1,14 @@
+# 801 - Ekenulk
+
+# County Title
+title = c_ekenulk
+
+# Settlements
+max_settlements = 1
+b_ekenulk = tribal
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

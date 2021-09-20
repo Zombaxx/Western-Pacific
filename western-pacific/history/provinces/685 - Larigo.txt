@@ -1,0 +1,14 @@
+# 685 - Larigo
+
+# County Title
+title = c_larigo
+
+# Settlements
+max_settlements = 3
+b_larigo = tribal
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 1228 - Tencia
+
+# County Title
+title = c_tencia
+
+# Settlements
+max_settlements = 4
+b_tencia = tribal
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

@@ -1,0 +1,14 @@
+# 1285 - Tyaniz
+
+# County Title
+title = c_tyaniz
+
+# Settlements
+max_settlements = 1
+b_tyaniz = tribal
+
+# Misc
+culture = zaghawa
+religion = orthodox
+
+# History

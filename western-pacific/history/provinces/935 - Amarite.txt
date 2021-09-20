@@ -1,0 +1,14 @@
+# 935 - Amarite
+
+# County Title
+title = c_amarite
+
+# Settlements
+max_settlements = 3
+b_amarite = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

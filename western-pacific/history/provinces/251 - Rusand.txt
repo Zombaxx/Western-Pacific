@@ -1,0 +1,14 @@
+# 251 - Rusand
+
+# County Title
+title = c_rusand
+
+# Settlements
+max_settlements = 3
+b_rusand = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

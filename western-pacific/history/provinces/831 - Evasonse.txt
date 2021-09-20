@@ -1,0 +1,14 @@
+# 831 - Evasonse
+
+# County Title
+title = c_evasonse
+
+# Settlements
+max_settlements = 3
+b_evasonse = tribal
+
+# Misc
+culture = bodpa
+religion = orthodox
+
+# History

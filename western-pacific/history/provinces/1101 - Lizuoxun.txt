@@ -1,0 +1,14 @@
+# 1101 - Lizuoxun
+
+# County Title
+title = c_lizuoxun
+
+# Settlements
+max_settlements = 3
+b_lizuoxun = tribal
+
+# Misc
+culture = greek
+religion = catholic
+
+# History

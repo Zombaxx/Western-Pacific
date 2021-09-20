@@ -1,0 +1,14 @@
+# 789 - Rarude
+
+# County Title
+title = c_rarude
+
+# Settlements
+max_settlements = 3
+b_rarude = tribal
+
+# Misc
+culture = alan
+religion = messalian
+
+# History

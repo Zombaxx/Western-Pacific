@@ -1,0 +1,15 @@
+# 1602 - Tezakin
+
+# County Title
+title = c_tezakin
+
+# Settlements
+max_settlements = 3
+b_tezakin = castle
+b_tiemavo = temple
+
+# Misc
+culture = nahuatl
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 1138 - Lulais
+
+# County Title
+title = c_lulais
+
+# Settlements
+max_settlements = 6
+b_lulais = tribal
+b_kinela = temple
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

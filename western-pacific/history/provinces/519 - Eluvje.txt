@@ -1,0 +1,15 @@
+# 519 - Eluvje
+
+# County Title
+title = c_eluvje
+
+# Settlements
+max_settlements = 3
+b_eluvje = castle
+b_sethua = temple
+
+# Misc
+culture = tamil
+religion = buddhist
+
+# History

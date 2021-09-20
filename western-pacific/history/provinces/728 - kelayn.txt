@@ -1,5 +1,0 @@
-	title = c_kelayn
-	max_settlements = 2
-	culture = prussian
-	religion = interface_skin
-	b_qabouh = tribal

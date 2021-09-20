@@ -1,0 +1,16 @@
+# 36 - Activia
+
+# County Title
+title = c_activia
+
+# Settlements
+max_settlements = 4
+b_activia = castle
+b_tunavo = temple
+b_rarala = city
+
+# Misc
+culture = sogdian
+religion = zoroastrian
+
+# History

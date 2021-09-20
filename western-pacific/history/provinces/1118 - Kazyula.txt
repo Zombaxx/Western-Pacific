@@ -1,0 +1,15 @@
+# 1118 - Kazyula
+
+# County Title
+title = c_kazyula
+
+# Settlements
+max_settlements = 6
+b_kazyula = tribal
+b_asotara = temple
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

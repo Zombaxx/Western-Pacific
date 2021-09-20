@@ -1,0 +1,14 @@
+# 952 - Tahou
+
+# County Title
+title = c_tahou
+
+# Settlements
+max_settlements = 1
+b_tahou = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

@@ -1,0 +1,16 @@
+# 1599 - Korila
+
+# County Title
+title = c_korila
+
+# Settlements
+max_settlements = 4
+b_korila = castle
+b_takiga = temple
+b_basatha = city
+
+# Misc
+culture = nahuatl
+religion = west_african_pagan
+
+# History

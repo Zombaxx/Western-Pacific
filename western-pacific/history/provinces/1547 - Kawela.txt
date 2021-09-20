@@ -1,0 +1,14 @@
+# 1547 - Kawela
+
+# County Title
+title = c_kawela
+
+# Settlements
+max_settlements = 3
+b_kawela = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

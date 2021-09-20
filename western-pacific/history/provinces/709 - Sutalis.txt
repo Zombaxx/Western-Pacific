@@ -1,0 +1,15 @@
+# 709 - Sutalis
+
+# County Title
+title = c_sutalis
+
+# Settlements
+max_settlements = 5
+b_sutalis = tribal
+b_dumuna = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

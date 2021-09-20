@@ -1,0 +1,14 @@
+# 960 - Amubiva
+
+# County Title
+title = c_amubiva
+
+# Settlements
+max_settlements = 3
+b_amubiva = tribal
+
+# Misc
+culture = kanuri
+religion = orthodox
+
+# History

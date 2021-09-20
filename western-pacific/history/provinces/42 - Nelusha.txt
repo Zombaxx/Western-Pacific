@@ -1,0 +1,16 @@
+# 42 - Nelusha
+
+# County Title
+title = c_nelusha
+
+# Settlements
+max_settlements = 4
+b_nelusha = castle
+b_bumann = temple
+b_loucoul = city
+
+# Misc
+culture = sogdian
+religion = manichean
+
+# History

@@ -1,0 +1,17 @@
+# 477 - Dunache
+
+# County Title
+title = c_dunache
+
+# Settlements
+max_settlements = 5
+b_dunache = castle
+b_kotujri = temple
+b_decalih = city
+b_abaudin = castle
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

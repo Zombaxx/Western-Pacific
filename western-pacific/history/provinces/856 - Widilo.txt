@@ -1,0 +1,14 @@
+# 856 - Widilo
+
+# County Title
+title = c_widilo
+
+# Settlements
+max_settlements = 1
+b_widilo = tribal
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

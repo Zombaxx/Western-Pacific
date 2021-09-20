@@ -1,0 +1,14 @@
+# 1192 - Qimate
+
+# County Title
+title = c_qimate
+
+# Settlements
+max_settlements = 3
+b_qimate = tribal
+
+# Misc
+culture = daju
+religion = sunni
+
+# History

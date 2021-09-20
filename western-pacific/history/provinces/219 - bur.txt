@@ -1,5 +1,0 @@
-	title = c_bur
-	max_settlements = 2
-	culture = dalmatian
-	religion = taoist
-	b_kecann = tribal

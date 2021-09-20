@@ -1,0 +1,14 @@
+# 1111 - Sozira
+
+# County Title
+title = c_sozira
+
+# Settlements
+max_settlements = 3
+b_sozira = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

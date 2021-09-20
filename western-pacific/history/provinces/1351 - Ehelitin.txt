@@ -1,0 +1,16 @@
+# 1351 - Ehelitin
+
+# County Title
+title = c_ehelitin
+
+# Settlements
+max_settlements = 4
+b_ehelitin = castle
+b_daetosa = temple
+b_eninars = city
+
+# Misc
+culture = norse
+religion = tengri_pagan
+
+# History

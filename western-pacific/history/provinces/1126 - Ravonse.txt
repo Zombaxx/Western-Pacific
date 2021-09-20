@@ -1,0 +1,15 @@
+# 1126 - Ravonse
+
+# County Title
+title = c_ravonse
+
+# Settlements
+max_settlements = 5
+b_ravonse = tribal
+b_qemena = temple
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

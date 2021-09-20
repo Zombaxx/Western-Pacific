@@ -1,0 +1,17 @@
+# 193 - Ramampa
+
+# County Title
+title = c_ramampa
+
+# Settlements
+max_settlements = 5
+b_ramampa = castle
+b_sinala = temple
+b_emareek = city
+b_benana = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

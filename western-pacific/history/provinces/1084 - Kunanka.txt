@@ -1,0 +1,14 @@
+# 1084 - Kunanka
+
+# County Title
+title = c_kunanka
+
+# Settlements
+max_settlements = 4
+b_kunanka = tribal
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

@@ -1,0 +1,14 @@
+# 875 - Kisoke
+
+# County Title
+title = c_kisoke
+
+# Settlements
+max_settlements = 4
+b_kisoke = tribal
+
+# Misc
+culture = zhangzhung
+religion = orthodox
+
+# History

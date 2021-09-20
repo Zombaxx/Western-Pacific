@@ -1,0 +1,14 @@
+# 666 - Badatevi
+
+# County Title
+title = c_badatevi
+
+# Settlements
+max_settlements = 3
+b_badatevi = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

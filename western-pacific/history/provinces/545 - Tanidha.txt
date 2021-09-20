@@ -1,0 +1,17 @@
+# 545 - Tanidha
+
+# County Title
+title = c_tanidha
+
+# Settlements
+max_settlements = 5
+b_tanidha = castle
+b_dirabahu = temple
+b_talangir = city
+b_dyaluda = castle
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

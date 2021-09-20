@@ -1,0 +1,18 @@
+# 814 - Leleshi
+
+# County Title
+title = c_leleshi
+
+# Settlements
+max_settlements = 7
+b_leleshi = city
+b_lamelm = temple
+b_aquinelm = castle
+b_eos = city
+b_rarasad = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

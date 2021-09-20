@@ -1,0 +1,14 @@
+# 701 - Tomucha
+
+# County Title
+title = c_tomucha
+
+# Settlements
+max_settlements = 2
+b_tomucha = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

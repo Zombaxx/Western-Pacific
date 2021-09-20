@@ -1,0 +1,14 @@
+# 1040 - Kacing
+
+# County Title
+title = c_kacing
+
+# Settlements
+max_settlements = 3
+b_kacing = tribal
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

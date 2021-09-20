@@ -1,0 +1,15 @@
+# 350 - Dali
+
+# County Title
+title = c_dali
+
+# Settlements
+max_settlements = 3
+b_dali = castle
+b_egisorri = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 959 - Timor Leste
+
+# County Title
+title = c_timor_leste
+
+# Settlements
+max_settlements = 5
+b_timor_leste = tribal
+b_tozar = temple
+
+# Misc
+culture = zhangzhung
+religion = catholic
+
+# History

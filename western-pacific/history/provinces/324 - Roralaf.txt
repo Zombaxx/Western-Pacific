@@ -1,0 +1,16 @@
+# 324 - Roralaf
+
+# County Title
+title = c_roralaf
+
+# Settlements
+max_settlements = 4
+b_roralaf = castle
+b_eranka = temple
+b_surka = city
+
+# Misc
+culture = zhangzhung
+religion = orthodox
+
+# History

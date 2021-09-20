@@ -1,0 +1,14 @@
+# 1091 - Ladyan
+
+# County Title
+title = c_ladyan
+
+# Settlements
+max_settlements = 3
+b_ladyan = tribal
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

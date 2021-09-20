@@ -1,0 +1,16 @@
+# 323 - Nolang
+
+# County Title
+title = c_nolang
+
+# Settlements
+max_settlements = 4
+b_nolang = castle
+b_qaytire = temple
+b_libida = city
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

@@ -1,0 +1,15 @@
+# 1401 - Rareis
+
+# County Title
+title = c_rareis
+
+# Settlements
+max_settlements = 5
+b_rareis = tribal
+b_rekotan = temple
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

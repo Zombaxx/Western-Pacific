@@ -1,0 +1,15 @@
+# 378 - Tomanka
+
+# County Title
+title = c_tomanka
+
+# Settlements
+max_settlements = 3
+b_tomanka = castle
+b_laluin = temple
+
+# Misc
+culture = uyghur
+religion = buddhist
+
+# History

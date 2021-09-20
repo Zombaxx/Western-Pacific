@@ -1,0 +1,16 @@
+# 340 - Esali
+
+# County Title
+title = c_esali
+
+# Settlements
+max_settlements = 4
+b_esali = castle
+b_banali = temple
+b_letotha = city
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

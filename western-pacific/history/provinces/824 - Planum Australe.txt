@@ -1,0 +1,14 @@
+# 824 - Planum Australe
+
+# County Title
+title = c_planum_australe
+
+# Settlements
+max_settlements = 4
+b_planum_australe = tribal
+
+# Misc
+culture = pictish
+religion = catholic
+
+# History

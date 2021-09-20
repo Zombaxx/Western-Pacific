@@ -1,0 +1,14 @@
+# 956 - Neneuta
+
+# County Title
+title = c_neneuta
+
+# Settlements
+max_settlements = 1
+b_neneuta = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

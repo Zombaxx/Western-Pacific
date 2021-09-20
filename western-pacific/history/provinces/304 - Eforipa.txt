@@ -1,0 +1,15 @@
+# 304 - Eforipa
+
+# County Title
+title = c_eforipa
+
+# Settlements
+max_settlements = 3
+b_eforipa = castle
+b_kahadro = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

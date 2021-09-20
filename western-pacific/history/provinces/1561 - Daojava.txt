@@ -1,0 +1,17 @@
+# 1561 - Daojava
+
+# County Title
+title = c_daojava
+
+# Settlements
+max_settlements = 5
+b_daojava = castle
+b_taiw = temple
+b_daralda = city
+b_sibeter = castle
+
+# Misc
+culture = norse
+religion = catholic
+
+# History

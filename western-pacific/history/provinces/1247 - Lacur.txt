@@ -1,0 +1,16 @@
+# 1247 - Lacur
+
+# County Title
+title = c_lacur
+
+# Settlements
+max_settlements = 4
+b_lacur = castle
+b_rukapur = temple
+b_kabar = city
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

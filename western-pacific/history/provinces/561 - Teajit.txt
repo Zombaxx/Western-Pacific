@@ -1,0 +1,16 @@
+# 561 - Teajit
+
+# County Title
+title = c_teajit
+
+# Settlements
+max_settlements = 4
+b_teajit = castle
+b_dilory = temple
+b_wavisa = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

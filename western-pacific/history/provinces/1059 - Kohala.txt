@@ -1,0 +1,14 @@
+# 1059 - Kohala
+
+# County Title
+title = c_kohala
+
+# Settlements
+max_settlements = 4
+b_kohala = tribal
+
+# Misc
+culture = nubian
+religion = sunni
+
+# History

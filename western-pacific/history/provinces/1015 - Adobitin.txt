@@ -1,0 +1,15 @@
+# 1015 - Adobitin
+
+# County Title
+title = c_adobitin
+
+# Settlements
+max_settlements = 5
+b_adobitin = tribal
+b_bicania = temple
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

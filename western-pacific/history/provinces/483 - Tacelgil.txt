@@ -1,0 +1,15 @@
+# 483 - Tacelgil
+
+# County Title
+title = c_tacelgil
+
+# Settlements
+max_settlements = 3
+b_tacelgil = castle
+b_wodarma = temple
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

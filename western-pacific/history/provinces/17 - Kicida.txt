@@ -1,0 +1,16 @@
+# 17 - Kicida
+
+# County Title
+title = c_kicida
+
+# Settlements
+max_settlements = 4
+b_kicida = castle
+b_talapo = temple
+b_qilayya = city
+
+# Misc
+culture = sogdian
+religion = zoroastrian
+
+# History

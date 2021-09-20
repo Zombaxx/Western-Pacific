@@ -1,0 +1,15 @@
+# 774 - Laney
+
+# County Title
+title = c_laney
+
+# Settlements
+max_settlements = 5
+b_laney = tribal
+b_sicenes = temple
+
+# Misc
+culture = nepali
+religion = orthodox
+
+# History

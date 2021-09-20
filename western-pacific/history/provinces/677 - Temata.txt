@@ -1,0 +1,14 @@
+# 677 - Temata
+
+# County Title
+title = c_temata
+
+# Settlements
+max_settlements = 2
+b_temata = tribal
+
+# Misc
+culture = alan
+religion = zun_pagan
+
+# History

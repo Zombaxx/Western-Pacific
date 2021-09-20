@@ -1,0 +1,17 @@
+# 591 - Ramiyay
+
+# County Title
+title = c_ramiyay
+
+# Settlements
+max_settlements = 5
+b_ramiyay = castle
+b_wiorore = temple
+b_kamasil = city
+b_rudomez = castle
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 1506 - Kuhivka
+
+# County Title
+title = c_kuhivka
+
+# Settlements
+max_settlements = 3
+b_kuhivka = castle
+b_biya = temple
+
+# Misc
+culture = old_saxon
+religion = orthodox
+
+# History

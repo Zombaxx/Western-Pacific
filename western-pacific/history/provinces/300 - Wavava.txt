@@ -1,0 +1,17 @@
+# 300 - Wavava
+
+# County Title
+title = c_wavava
+
+# Settlements
+max_settlements = 5
+b_wavava = castle
+b_kolaya = temple
+b_loter = city
+b_ejudolas = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

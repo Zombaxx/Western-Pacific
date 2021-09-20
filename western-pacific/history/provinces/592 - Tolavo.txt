@@ -1,0 +1,15 @@
+# 592 - Tolavo
+
+# County Title
+title = c_tolavo
+
+# Settlements
+max_settlements = 3
+b_tolavo = city
+b_serirad = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

@@ -1,0 +1,15 @@
+# 150 - Taviya
+
+# County Title
+title = c_taviya
+
+# Settlements
+max_settlements = 3
+b_taviya = castle
+b_nalofan = temple
+
+# Misc
+culture = sinhala
+religion = buddhist
+
+# History

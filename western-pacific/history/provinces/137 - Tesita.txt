@@ -1,0 +1,16 @@
+# 137 - Tesita
+
+# County Title
+title = c_tesita
+
+# Settlements
+max_settlements = 4
+b_tesita = castle
+b_kibatta = temple
+b_karolad = city
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

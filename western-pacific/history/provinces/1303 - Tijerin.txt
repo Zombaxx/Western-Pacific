@@ -1,0 +1,15 @@
+# 1303 - Tijerin
+
+# County Title
+title = c_tijerin
+
+# Settlements
+max_settlements = 3
+b_tijerin = castle
+b_togakh = temple
+
+# Misc
+culture = old_frankish
+religion = orthodox
+
+# History

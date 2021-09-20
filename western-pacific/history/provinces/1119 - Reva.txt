@@ -1,0 +1,15 @@
+# 1119 - Reva
+
+# County Title
+title = c_reva
+
+# Settlements
+max_settlements = 6
+b_reva = tribal
+b_retozar = temple
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

@@ -1,0 +1,16 @@
+# 254 - Bulono
+
+# County Title
+title = c_bulono
+
+# Settlements
+max_settlements = 4
+b_bulono = castle
+b_bonto = temple
+b_elein = city
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

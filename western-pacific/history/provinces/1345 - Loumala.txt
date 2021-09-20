@@ -1,0 +1,14 @@
+# 1345 - Loumala
+
+# County Title
+title = c_loumala
+
+# Settlements
+max_settlements = 1
+b_loumala = castle
+
+# Misc
+culture = nubian
+religion = miaphysite
+
+# History

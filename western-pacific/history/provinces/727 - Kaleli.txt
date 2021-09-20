@@ -1,0 +1,15 @@
+# 727 - Kaleli
+
+# County Title
+title = c_kaleli
+
+# Settlements
+max_settlements = 3
+b_kaleli = castle
+b_banohai = temple
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History

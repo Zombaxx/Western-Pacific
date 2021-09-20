@@ -1,0 +1,17 @@
+# 1365 - Ebetuvje
+
+# County Title
+title = c_ebetuvje
+
+# Settlements
+max_settlements = 5
+b_ebetuvje = castle
+b_alaksje = temple
+b_dabas = city
+b_abudenia = castle
+
+# Misc
+culture = saxon
+religion = tengri_pagan
+
+# History

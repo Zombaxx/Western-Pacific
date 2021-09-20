@@ -1,0 +1,16 @@
+# 450 - Berning
+
+# County Title
+title = c_berning
+
+# Settlements
+max_settlements = 4
+b_berning = castle
+b_qernlu = temple
+b_elikiya = city
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

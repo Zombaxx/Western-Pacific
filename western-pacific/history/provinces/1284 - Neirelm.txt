@@ -1,0 +1,17 @@
+# 1284 - Neirelm
+
+# County Title
+title = c_neirelm
+
+# Settlements
+max_settlements = 5
+b_neirelm = castle
+b_beoek = temple
+b_tyet = city
+b_belugun = castle
+
+# Misc
+culture = assyrian
+religion = catholic
+
+# History

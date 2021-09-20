@@ -1,0 +1,16 @@
+# 235 - Wazilge
+
+# County Title
+title = c_wazilge
+
+# Settlements
+max_settlements = 4
+b_wazilge = castle
+b_wakid = temple
+b_qalarde = city
+
+# Misc
+culture = tangut
+religion = jain
+
+# History

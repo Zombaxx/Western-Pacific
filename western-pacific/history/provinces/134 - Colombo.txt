@@ -1,0 +1,16 @@
+# 134 - Colombo
+
+# County Title
+title = c_colombo
+
+# Settlements
+max_settlements = 4
+b_colombo = castle
+b_rineig = temple
+b_rorri = city
+
+# Misc
+culture = sinhala
+religion = buddhist
+
+# History

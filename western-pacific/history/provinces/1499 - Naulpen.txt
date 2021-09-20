@@ -1,0 +1,17 @@
+# 1499 - Naulpen
+
+# County Title
+title = c_naulpen
+
+# Settlements
+max_settlements = 5
+b_naulpen = castle
+b_rimatan = temple
+b_ratutai = city
+b_esinik = castle
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

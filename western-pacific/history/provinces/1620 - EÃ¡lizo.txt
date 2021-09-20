@@ -1,0 +1,14 @@
+# 1620 - EÃ¡lizo
+
+# County Title
+title = c_eã¡lizo
+
+# Settlements
+max_settlements = 3
+b_eã¡lizo = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

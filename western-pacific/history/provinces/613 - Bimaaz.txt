@@ -1,0 +1,14 @@
+# 613 - Bimaaz
+
+# County Title
+title = c_bimaaz
+
+# Settlements
+max_settlements = 2
+b_bimaaz = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

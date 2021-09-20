@@ -1,0 +1,16 @@
+# 463 - Roriat
+
+# County Title
+title = c_roriat
+
+# Settlements
+max_settlements = 4
+b_roriat = castle
+b_bajeruz = temple
+b_ahudoste = city
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

@@ -1,0 +1,14 @@
+# 669 - Ajohonda
+
+# County Title
+title = c_ajohonda
+
+# Settlements
+max_settlements = 1
+b_ajohonda = tribal
+
+# Misc
+culture = alan
+religion = aztec
+
+# History

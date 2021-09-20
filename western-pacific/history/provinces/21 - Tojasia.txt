@@ -1,0 +1,14 @@
+# 21 - Tojasia
+
+# County Title
+title = c_tojasia
+
+# Settlements
+max_settlements = 1
+b_tojasia = castle
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

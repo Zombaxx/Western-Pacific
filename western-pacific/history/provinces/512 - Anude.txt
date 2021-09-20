@@ -1,0 +1,15 @@
+# 512 - Anude
+
+# County Title
+title = c_anude
+
+# Settlements
+max_settlements = 3
+b_anude = castle
+b_kimar = temple
+
+# Misc
+culture = tamil
+religion = buddhist
+
+# History

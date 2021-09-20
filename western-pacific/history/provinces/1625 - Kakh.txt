@@ -1,0 +1,15 @@
+# 1625 - Kakh
+
+# County Title
+title = c_kakh
+
+# Settlements
+max_settlements = 5
+b_kakh = tribal
+b_nohanu = temple
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

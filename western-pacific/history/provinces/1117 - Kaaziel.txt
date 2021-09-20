@@ -1,0 +1,15 @@
+# 1117 - Kaaziel
+
+# County Title
+title = c_kaaziel
+
+# Settlements
+max_settlements = 5
+b_kaaziel = tribal
+b_rameric = temple
+
+# Misc
+culture = greek
+religion = catholic
+
+# History

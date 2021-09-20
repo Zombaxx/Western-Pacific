@@ -1,0 +1,17 @@
+# 1462 - Wardin
+
+# County Title
+title = c_wardin
+
+# Settlements
+max_settlements = 5
+b_wardin = castle
+b_dayoshi = temple
+b_ragha = city
+b_ralepi = castle
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

@@ -1,0 +1,14 @@
+# 1020 - Kaineva
+
+# County Title
+title = c_kaineva
+
+# Settlements
+max_settlements = 1
+b_kaineva = tribal
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

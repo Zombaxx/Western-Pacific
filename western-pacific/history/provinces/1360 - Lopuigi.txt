@@ -1,0 +1,15 @@
+# 1360 - Lopuigi
+
+# County Title
+title = c_lopuigi
+
+# Settlements
+max_settlements = 3
+b_lopuigi = castle
+b_donuna = temple
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

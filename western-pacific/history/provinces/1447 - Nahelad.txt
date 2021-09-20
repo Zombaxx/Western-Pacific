@@ -1,0 +1,14 @@
+# 1447 - Nahelad
+
+# County Title
+title = c_nahelad
+
+# Settlements
+max_settlements = 3
+b_nahelad = tribal
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

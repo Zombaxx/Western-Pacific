@@ -1,0 +1,16 @@
+# 419 - Ascraeus Mons
+
+# County Title
+title = c_ascraeus_mons
+
+# Settlements
+max_settlements = 4
+b_ascraeus_mons = castle
+b_derelda = temple
+b_kaserd = city
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

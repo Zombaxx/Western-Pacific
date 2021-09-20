@@ -1,0 +1,15 @@
+# 773 - Kibios
+
+# County Title
+title = c_kibios
+
+# Settlements
+max_settlements = 3
+b_kibios = castle
+b_toleas = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

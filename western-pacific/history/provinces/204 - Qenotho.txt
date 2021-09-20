@@ -1,0 +1,17 @@
+# 204 - Qenotho
+
+# County Title
+title = c_qenotho
+
+# Settlements
+max_settlements = 5
+b_qenotho = castle
+b_tate = temple
+b_eburita = city
+b_kisipaz = castle
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

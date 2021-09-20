@@ -1,0 +1,14 @@
+# 338 - Tuyajan
+
+# County Title
+title = c_tuyajan
+
+# Settlements
+max_settlements = 2
+b_tuyajan = castle
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

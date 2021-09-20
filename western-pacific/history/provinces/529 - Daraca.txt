@@ -1,0 +1,15 @@
+# 529 - Daraca
+
+# County Title
+title = c_daraca
+
+# Settlements
+max_settlements = 3
+b_daraca = castle
+b_talaca = temple
+
+# Misc
+culture = han
+religion = sunni
+
+# History

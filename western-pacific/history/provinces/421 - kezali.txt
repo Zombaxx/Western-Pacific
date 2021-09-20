@@ -1,5 +1,0 @@
-	title = c_kezali
-	max_settlements = 2
-	culture = catalan
-	religion = zun_pagan
-	b_bidaya = tribal

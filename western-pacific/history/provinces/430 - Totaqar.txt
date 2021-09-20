@@ -1,0 +1,16 @@
+# 430 - Totaqar
+
+# County Title
+title = c_totaqar
+
+# Settlements
+max_settlements = 4
+b_totaqar = castle
+b_begin = temple
+b_nisa = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

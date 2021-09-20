@@ -1,0 +1,15 @@
+# 928 - Qairuna
+
+# County Title
+title = c_qairuna
+
+# Settlements
+max_settlements = 5
+b_qairuna = tribal
+b_nonima = temple
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

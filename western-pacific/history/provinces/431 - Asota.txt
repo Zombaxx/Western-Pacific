@@ -1,0 +1,15 @@
+# 431 - Asota
+
+# County Title
+title = c_asota
+
+# Settlements
+max_settlements = 3
+b_asota = castle
+b_tenes = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

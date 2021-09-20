@@ -1,0 +1,15 @@
+# 1419 - Lemui
+
+# County Title
+title = c_lemui
+
+# Settlements
+max_settlements = 3
+b_lemui = castle
+b_tyanonse = temple
+
+# Misc
+culture = irish
+religion = orthodox
+
+# History

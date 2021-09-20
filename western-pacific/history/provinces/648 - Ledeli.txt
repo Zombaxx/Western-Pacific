@@ -1,0 +1,14 @@
+# 648 - Ledeli
+
+# County Title
+title = c_ledeli
+
+# Settlements
+max_settlements = 2
+b_ledeli = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

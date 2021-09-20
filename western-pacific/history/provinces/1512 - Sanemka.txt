@@ -1,0 +1,16 @@
+# 1512 - Sanemka
+
+# County Title
+title = c_sanemka
+
+# Settlements
+max_settlements = 4
+b_sanemka = castle
+b_reyeol = temple
+b_daleike = city
+
+# Misc
+culture = crimean_gothic
+religion = catholic
+
+# History

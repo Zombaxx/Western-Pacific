@@ -1,0 +1,14 @@
+# 726 - Wailm
+
+# County Title
+title = c_wailm
+
+# Settlements
+max_settlements = 3
+b_wailm = tribal
+
+# Misc
+culture = visigothic
+religion = orthodox
+
+# History

@@ -1,0 +1,15 @@
+# 296 - Kamaam
+
+# County Title
+title = c_kamaam
+
+# Settlements
+max_settlements = 6
+b_kamaam = tribal
+b_neonca = temple
+
+# Misc
+culture = zhangzhung
+religion = orthodox
+
+# History

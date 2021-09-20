@@ -1,0 +1,14 @@
+# 479 - Nenuo
+
+# County Title
+title = c_nenuo
+
+# Settlements
+max_settlements = 2
+b_nenuo = castle
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

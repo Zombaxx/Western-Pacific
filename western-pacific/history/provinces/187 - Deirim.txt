@@ -1,0 +1,17 @@
+# 187 - Deirim
+
+# County Title
+title = c_deirim
+
+# Settlements
+max_settlements = 5
+b_deirim = castle
+b_baqarma = temple
+b_raralih = city
+b_qyevons = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

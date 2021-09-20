@@ -1,5 +1,0 @@
-	title = c_tajera
-	max_settlements = 2
-	culture = kannada
-	religion = jewish
-	b_raudera = tribal

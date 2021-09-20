@@ -1,0 +1,15 @@
+# 1242 - Etreis
+
+# County Title
+title = c_etreis
+
+# Settlements
+max_settlements = 3
+b_etreis = castle
+b_naymarid = temple
+
+# Misc
+culture = english
+religion = orthodox
+
+# History

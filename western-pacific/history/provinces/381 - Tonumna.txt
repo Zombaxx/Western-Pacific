@@ -1,0 +1,15 @@
+# 381 - Tonumna
+
+# County Title
+title = c_tonumna
+
+# Settlements
+max_settlements = 3
+b_tonumna = castle
+b_bitacob = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

@@ -1,0 +1,14 @@
+# 1567 - Qusela
+
+# County Title
+title = c_qusela
+
+# Settlements
+max_settlements = 2
+b_qusela = castle
+
+# Misc
+culture = norse
+religion = orthodox
+
+# History

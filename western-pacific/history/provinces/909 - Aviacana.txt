@@ -1,0 +1,15 @@
+# 909 - Aviacana
+
+# County Title
+title = c_aviacana
+
+# Settlements
+max_settlements = 5
+b_aviacana = tribal
+b_kabusha = temple
+
+# Misc
+culture = kanuri
+religion = orthodox
+
+# History

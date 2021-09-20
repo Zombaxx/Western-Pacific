@@ -1,0 +1,14 @@
+# 713 - Dengar
+
+# County Title
+title = c_dengar
+
+# Settlements
+max_settlements = 4
+b_dengar = tribal
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

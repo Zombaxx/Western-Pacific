@@ -1,0 +1,14 @@
+# 3 - Kabdoras
+
+# County Title
+title = c_kabdoras
+
+# Settlements
+max_settlements = 4
+b_kabdoras = tribal
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

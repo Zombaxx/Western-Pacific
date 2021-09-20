@@ -1,0 +1,16 @@
+# 332 - Rarilai
+
+# County Title
+title = c_rarilai
+
+# Settlements
+max_settlements = 4
+b_rarilai = castle
+b_lisida = temple
+b_sakaim = city
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

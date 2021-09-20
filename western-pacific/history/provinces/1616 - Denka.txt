@@ -1,0 +1,15 @@
+# 1616 - Denka
+
+# County Title
+title = c_denka
+
+# Settlements
+max_settlements = 6
+b_denka = tribal
+b_wisayla = temple
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

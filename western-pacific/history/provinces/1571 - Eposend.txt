@@ -1,0 +1,16 @@
+# 1571 - Eposend
+
+# County Title
+title = c_eposend
+
+# Settlements
+max_settlements = 4
+b_eposend = castle
+b_enyayre = temple
+b_tabewar = city
+
+# Misc
+culture = norse
+religion = catholic
+
+# History

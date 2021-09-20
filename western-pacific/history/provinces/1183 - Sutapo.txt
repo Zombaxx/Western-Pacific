@@ -1,0 +1,16 @@
+# 1183 - Sutapo
+
+# County Title
+title = c_sutapo
+
+# Settlements
+max_settlements = 4
+b_sutapo = castle
+b_lalis = temple
+b_winluo = city
+
+# Misc
+culture = basque
+religion = norse_pagan
+
+# History

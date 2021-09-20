@@ -1,0 +1,17 @@
+# 842 - Rotinga
+
+# County Title
+title = c_rotinga
+
+# Settlements
+max_settlements = 5
+b_rotinga = castle
+b_dasonne = temple
+b_danotus = city
+b_ratin = castle
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

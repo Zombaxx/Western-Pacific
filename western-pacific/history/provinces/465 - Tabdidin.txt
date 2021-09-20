@@ -1,0 +1,17 @@
+# 465 - Tabdidin
+
+# County Title
+title = c_tabdidin
+
+# Settlements
+max_settlements = 5
+b_tabdidin = castle
+b_tatona = temple
+b_dizahar = city
+b_tasidia = castle
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

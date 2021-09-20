@@ -1,0 +1,16 @@
+# 586 - Lisonne
+
+# County Title
+title = c_lisonne
+
+# Settlements
+max_settlements = 4
+b_lisonne = castle
+b_qokunda = temple
+b_tenana = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

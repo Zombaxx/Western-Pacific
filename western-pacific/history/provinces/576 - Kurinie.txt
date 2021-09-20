@@ -1,0 +1,14 @@
+# 576 - Kurinie
+
+# County Title
+title = c_kurinie
+
+# Settlements
+max_settlements = 2
+b_kurinie = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

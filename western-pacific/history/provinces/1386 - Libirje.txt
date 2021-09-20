@@ -1,0 +1,14 @@
+# 1386 - Libirje
+
+# County Title
+title = c_libirje
+
+# Settlements
+max_settlements = 3
+b_libirje = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

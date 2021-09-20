@@ -1,0 +1,15 @@
+# 1525 - Turying
+
+# County Title
+title = c_turying
+
+# Settlements
+max_settlements = 5
+b_turying = tribal
+b_ababisa = temple
+
+# Misc
+culture = daju
+religion = catholic
+
+# History

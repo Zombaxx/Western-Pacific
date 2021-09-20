@@ -1,0 +1,14 @@
+# 1044 - Beteri
+
+# County Title
+title = c_beteri
+
+# Settlements
+max_settlements = 3
+b_beteri = tribal
+
+# Misc
+culture = basque
+religion = catholic
+
+# History

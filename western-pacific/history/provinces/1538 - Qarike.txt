@@ -1,0 +1,15 @@
+# 1538 - Qarike
+
+# County Title
+title = c_qarike
+
+# Settlements
+max_settlements = 5
+b_qarike = tribal
+b_rezolad = temple
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

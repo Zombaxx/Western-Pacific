@@ -1,0 +1,14 @@
+# 1321 - Kudrd
+
+# County Title
+title = c_kudrd
+
+# Settlements
+max_settlements = 3
+b_kudrd = tribal
+
+# Misc
+culture = pictish
+religion = orthodox
+
+# History

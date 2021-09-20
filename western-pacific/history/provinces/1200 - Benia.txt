@@ -1,0 +1,15 @@
+# 1200 - Benia
+
+# County Title
+title = c_benia
+
+# Settlements
+max_settlements = 3
+b_benia = castle
+b_teling = temple
+
+# Misc
+culture = english
+religion = west_african_pagan
+
+# History

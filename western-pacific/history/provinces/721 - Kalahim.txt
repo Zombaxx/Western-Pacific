@@ -1,0 +1,14 @@
+# 721 - Kalahim
+
+# County Title
+title = c_kalahim
+
+# Settlements
+max_settlements = 2
+b_kalahim = tribal
+
+# Misc
+culture = alan
+religion = aztec
+
+# History

@@ -1,0 +1,16 @@
+# 123 - Belgil
+
+# County Title
+title = c_belgil
+
+# Settlements
+max_settlements = 4
+b_belgil = castle
+b_dyal = temple
+b_dareka = city
+
+# Misc
+culture = hindustani
+religion = buddhist
+
+# History

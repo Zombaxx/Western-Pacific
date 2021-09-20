@@ -1,0 +1,14 @@
+# 1215 - Tivyuk
+
+# County Title
+title = c_tivyuk
+
+# Settlements
+max_settlements = 4
+b_tivyuk = tribal
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

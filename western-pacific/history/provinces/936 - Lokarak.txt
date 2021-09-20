@@ -1,0 +1,15 @@
+# 936 - Lokarak
+
+# County Title
+title = c_lokarak
+
+# Settlements
+max_settlements = 5
+b_lokarak = tribal
+b_qatayah = temple
+
+# Misc
+culture = sumpa
+religion = sunni
+
+# History

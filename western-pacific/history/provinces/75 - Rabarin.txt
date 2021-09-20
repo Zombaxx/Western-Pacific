@@ -1,0 +1,17 @@
+# 75 - Rabarin
+
+# County Title
+title = c_rabarin
+
+# Settlements
+max_settlements = 5
+b_rabarin = castle
+b_tuoxun = temple
+b_renusa = city
+b_nasuatl = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

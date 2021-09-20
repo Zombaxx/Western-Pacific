@@ -1,0 +1,14 @@
+# 1254 - Lotyuk
+
+# County Title
+title = c_lotyuk
+
+# Settlements
+max_settlements = 4
+b_lotyuk = tribal
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

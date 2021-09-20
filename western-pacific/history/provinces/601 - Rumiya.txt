@@ -1,0 +1,16 @@
+# 601 - Rumiya
+
+# County Title
+title = c_rumiya
+
+# Settlements
+max_settlements = 4
+b_rumiya = castle
+b_tahelme = temple
+b_akeer = city
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

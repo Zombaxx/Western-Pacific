@@ -1,0 +1,17 @@
+# 241 - Wanory
+
+# County Title
+title = c_wanory
+
+# Settlements
+max_settlements = 5
+b_wanory = castle
+b_kasaham = temple
+b_ebugoj = city
+b_quravid = castle
+
+# Misc
+culture = tangut
+religion = jain
+
+# History

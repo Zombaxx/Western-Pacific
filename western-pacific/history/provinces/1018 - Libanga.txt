@@ -1,0 +1,14 @@
+# 1018 - Libanga
+
+# County Title
+title = c_libanga
+
+# Settlements
+max_settlements = 2
+b_libanga = tribal
+
+# Misc
+culture = greek
+religion = west_african_pagan
+
+# History

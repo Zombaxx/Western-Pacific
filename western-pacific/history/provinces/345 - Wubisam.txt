@@ -1,0 +1,15 @@
+# 345 - Wubisam
+
+# County Title
+title = c_wubisam
+
+# Settlements
+max_settlements = 3
+b_wubisam = castle
+b_taseth = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

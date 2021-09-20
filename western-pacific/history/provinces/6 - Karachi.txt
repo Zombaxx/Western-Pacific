@@ -1,0 +1,17 @@
+# 6 - Karachi
+
+# County Title
+title = c_karachi
+
+# Settlements
+max_settlements = 5
+b_karachi = castle
+b_raniel = temple
+b_keis = city
+b_taba = castle
+
+# Misc
+culture = sogdian
+religion = zoroastrian
+
+# History

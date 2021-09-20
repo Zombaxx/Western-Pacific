@@ -1,0 +1,14 @@
+# 1049 - Biludo
+
+# County Title
+title = c_biludo
+
+# Settlements
+max_settlements = 3
+b_biludo = tribal
+
+# Misc
+culture = greek
+religion = west_african_pagan
+
+# History

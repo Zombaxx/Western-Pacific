@@ -1,0 +1,14 @@
+# 1564 - Qenilay
+
+# County Title
+title = c_qenilay
+
+# Settlements
+max_settlements = 3
+b_qenilay = tribal
+
+# Misc
+culture = norse
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 1435 - Nameek
+
+# County Title
+title = c_nameek
+
+# Settlements
+max_settlements = 4
+b_nameek = tribal
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

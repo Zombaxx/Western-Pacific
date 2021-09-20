@@ -1,0 +1,14 @@
+# 1630 - Roran
+
+# County Title
+title = c_roran
+
+# Settlements
+max_settlements = 4
+b_roran = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

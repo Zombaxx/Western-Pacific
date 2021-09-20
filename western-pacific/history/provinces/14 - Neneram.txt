@@ -1,0 +1,15 @@
+# 14 - Neneram
+
+# County Title
+title = c_neneram
+
+# Settlements
+max_settlements = 3
+b_neneram = castle
+b_rarolon = temple
+
+# Misc
+culture = sogdian
+religion = zoroastrian
+
+# History

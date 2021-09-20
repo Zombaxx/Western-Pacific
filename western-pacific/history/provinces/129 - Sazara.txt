@@ -1,0 +1,16 @@
+# 129 - Sazara
+
+# County Title
+title = c_sazara
+
+# Settlements
+max_settlements = 4
+b_sazara = castle
+b_tuirn = temple
+b_tuminde = city
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

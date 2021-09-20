@@ -1,0 +1,16 @@
+# 575 - Qoyaude
+
+# County Title
+title = c_qoyaude
+
+# Settlements
+max_settlements = 4
+b_qoyaude = castle
+b_selahah = temple
+b_banude = city
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History

@@ -1,0 +1,15 @@
+# 146 - Kilacob
+
+# County Title
+title = c_kilacob
+
+# Settlements
+max_settlements = 3
+b_kilacob = castle
+b_raojeph = temple
+
+# Misc
+culture = sinhala
+religion = buddhist
+
+# History

@@ -1,0 +1,14 @@
+# 656 - Wardis
+
+# County Title
+title = c_wardis
+
+# Settlements
+max_settlements = 2
+b_wardis = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

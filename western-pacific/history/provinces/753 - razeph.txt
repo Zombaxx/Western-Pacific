@@ -1,5 +1,0 @@
-	title = c_razeph
-	max_settlements = 2
-	culture = saka
-	religion = waldensian
-	b_kyu = tribal

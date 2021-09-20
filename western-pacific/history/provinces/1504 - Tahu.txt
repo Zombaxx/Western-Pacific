@@ -1,0 +1,15 @@
+# 1504 - Tahu
+
+# County Title
+title = c_tahu
+
+# Settlements
+max_settlements = 3
+b_tahu = castle
+b_tibying = temple
+
+# Misc
+culture = crimean_gothic
+religion = catholic
+
+# History

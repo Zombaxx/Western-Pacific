@@ -1,0 +1,17 @@
+# 1393 - Tuzerin
+
+# County Title
+title = c_tuzerin
+
+# Settlements
+max_settlements = 5
+b_tuzerin = castle
+b_nachana = temple
+b_nit = city
+b_kanail = castle
+
+# Misc
+culture = assyrian
+religion = catholic
+
+# History

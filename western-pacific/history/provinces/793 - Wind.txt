@@ -1,0 +1,14 @@
+# 793 - Wind
+
+# County Title
+title = c_wind
+
+# Settlements
+max_settlements = 1
+b_wind = tribal
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

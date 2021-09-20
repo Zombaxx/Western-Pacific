@@ -1,0 +1,17 @@
+# 162 - Nopand
+
+# County Title
+title = c_nopand
+
+# Settlements
+max_settlements = 5
+b_nopand = castle
+b_kabitya = temple
+b_asar = city
+b_kanalme = castle
+
+# Misc
+culture = sinhala
+religion = norse_pagan
+
+# History

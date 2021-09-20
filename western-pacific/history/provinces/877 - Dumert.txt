@@ -1,0 +1,14 @@
+# 877 - Dumert
+
+# County Title
+title = c_dumert
+
+# Settlements
+max_settlements = 4
+b_dumert = tribal
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

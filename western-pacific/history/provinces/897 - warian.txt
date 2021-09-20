@@ -1,5 +1,0 @@
-	title = c_warian
-	max_settlements = 2
-	culture = saka
-	religion = catholic
-	b_arunai = tribal

@@ -1,0 +1,15 @@
+# 222 - Luhailo
+
+# County Title
+title = c_luhailo
+
+# Settlements
+max_settlements = 3
+b_luhailo = castle
+b_kayyubt = temple
+
+# Misc
+culture = bengali
+religion = catholic
+
+# History

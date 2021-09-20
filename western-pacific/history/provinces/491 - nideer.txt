@@ -1,5 +1,0 @@
-	title = c_nideer
-	max_settlements = 2
-	culture = occitan
-	religion = ibadi
-	b_kegeer = tribal

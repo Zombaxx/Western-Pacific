@@ -1,0 +1,18 @@
+# 452 - Phnom Penh
+
+# County Title
+title = c_phnom_penh
+
+# Settlements
+max_settlements = 7
+b_phnom_penh = castle
+b_tosadra = temple
+b_rohabet = city
+b_tielbat = castle
+b_tikobos = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

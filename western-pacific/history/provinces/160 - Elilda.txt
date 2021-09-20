@@ -1,0 +1,17 @@
+# 160 - Elilda
+
+# County Title
+title = c_elilda
+
+# Settlements
+max_settlements = 6
+b_elilda = castle
+b_noctis_labyrinthus = temple
+b_reitl = city
+b_wacahra = castle
+
+# Misc
+culture = hindustani
+religion = buddhist
+
+# History

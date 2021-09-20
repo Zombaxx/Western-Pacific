@@ -1,0 +1,15 @@
+# 634 - Tonimha
+
+# County Title
+title = c_tonimha
+
+# Settlements
+max_settlements = 3
+b_tonimha = castle
+b_narand = temple
+
+# Misc
+culture = visigothic
+religion = tengri_pagan
+
+# History

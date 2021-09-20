@@ -1,0 +1,14 @@
+# 990 - Ralyar
+
+# County Title
+title = c_ralyar
+
+# Settlements
+max_settlements = 2
+b_ralyar = tribal
+
+# Misc
+culture = hausa
+religion = zun_pagan
+
+# History

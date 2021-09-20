@@ -1,0 +1,15 @@
+# 551 - Radarun
+
+# County Title
+title = c_radarun
+
+# Settlements
+max_settlements = 3
+b_radarun = castle
+b_dautomo = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

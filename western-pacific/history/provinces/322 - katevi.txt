@@ -1,5 +1,0 @@
-	title = c_katevi
-	max_settlements = 2
-	culture = bosnian
-	religion = monophysite
-	b_qadaya = tribal

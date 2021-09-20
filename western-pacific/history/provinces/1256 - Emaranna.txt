@@ -1,0 +1,14 @@
+# 1256 - Emaranna
+
+# County Title
+title = c_emaranna
+
+# Settlements
+max_settlements = 3
+b_emaranna = tribal
+
+# Misc
+culture = pictish
+religion = catholic
+
+# History

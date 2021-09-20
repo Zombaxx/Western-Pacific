@@ -1,0 +1,17 @@
+# 461 - Rosach
+
+# County Title
+title = c_rosach
+
+# Settlements
+max_settlements = 5
+b_rosach = castle
+b_nay-ita = temple
+b_tebinda = city
+b_nucodis = castle
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

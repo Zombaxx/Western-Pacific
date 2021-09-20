@@ -1,5 +1,0 @@
-	title = c_darohn
-	max_settlements = 2
-	culture = english
-	religion = norse_pagan
-	b_taleuta = tribal

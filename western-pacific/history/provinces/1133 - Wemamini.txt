@@ -1,0 +1,14 @@
+# 1133 - Wemamini
+
+# County Title
+title = c_wemamini
+
+# Settlements
+max_settlements = 4
+b_wemamini = tribal
+
+# Misc
+culture = nubian
+religion = catholic
+
+# History

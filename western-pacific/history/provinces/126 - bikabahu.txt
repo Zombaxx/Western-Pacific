@@ -1,5 +1,0 @@
-	title = c_bikabahu
-	max_settlements = 2
-	culture = armenian
-	religion = jewish
-	b_savuzma = tribal

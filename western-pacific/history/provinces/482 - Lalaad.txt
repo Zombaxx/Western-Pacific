@@ -1,0 +1,15 @@
+# 482 - Lalaad
+
+# County Title
+title = c_lalaad
+
+# Settlements
+max_settlements = 3
+b_lalaad = castle
+b_kermanie = temple
+
+# Misc
+culture = tamil
+religion = buddhist
+
+# History

@@ -1,5 +1,0 @@
-	title = c_dogas
-	max_settlements = 2
-	culture = afghan
-	religion = aztec_reformed
-	b_larure = tribal

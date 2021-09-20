@@ -1,0 +1,14 @@
+# 850 - Teynana
+
+# County Title
+title = c_teynana
+
+# Settlements
+max_settlements = 3
+b_teynana = tribal
+
+# Misc
+culture = zhangzhung
+religion = hindu
+
+# History

@@ -1,0 +1,14 @@
+# 742 - Narta
+
+# County Title
+title = c_narta
+
+# Settlements
+max_settlements = 1
+b_narta = tribal
+
+# Misc
+culture = greek
+religion = zun_pagan
+
+# History

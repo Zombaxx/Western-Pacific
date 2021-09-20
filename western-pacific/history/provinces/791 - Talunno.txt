@@ -1,0 +1,14 @@
+# 791 - Talunno
+
+# County Title
+title = c_talunno
+
+# Settlements
+max_settlements = 2
+b_talunno = tribal
+
+# Misc
+culture = zhangzhung
+religion = buddhist
+
+# History

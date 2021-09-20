@@ -1,0 +1,16 @@
+# 156 - Keparcia
+
+# County Title
+title = c_keparcia
+
+# Settlements
+max_settlements = 4
+b_keparcia = castle
+b_tatelbo = temple
+b_reyalan = city
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

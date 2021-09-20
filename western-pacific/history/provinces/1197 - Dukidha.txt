@@ -1,0 +1,14 @@
+# 1197 - Dukidha
+
+# County Title
+title = c_dukidha
+
+# Settlements
+max_settlements = 3
+b_dukidha = tribal
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

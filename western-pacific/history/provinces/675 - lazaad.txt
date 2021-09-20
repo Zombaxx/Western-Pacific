@@ -1,5 +1,0 @@
-	title = c_lazaad
-	max_settlements = 2
-	culture = norse
-	religion = nestorian
-	b_nunouz = tribal

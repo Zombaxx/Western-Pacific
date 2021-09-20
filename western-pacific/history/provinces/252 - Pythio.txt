@@ -1,0 +1,14 @@
+# 252 - Pythio
+
+# County Title
+title = c_pythio
+
+# Settlements
+max_settlements = 4
+b_pythio = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

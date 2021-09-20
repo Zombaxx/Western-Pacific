@@ -1,0 +1,15 @@
+# 496 - Nahyho
+
+# County Title
+title = c_nahyho
+
+# Settlements
+max_settlements = 3
+b_nahyho = castle
+b_ropay = temple
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

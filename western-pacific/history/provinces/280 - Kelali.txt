@@ -1,0 +1,14 @@
+# 280 - Kelali
+
+# County Title
+title = c_kelali
+
+# Settlements
+max_settlements = 3
+b_kelali = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

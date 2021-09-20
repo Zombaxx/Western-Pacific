@@ -1,0 +1,14 @@
+# 277 - Nyudadiq
+
+# County Title
+title = c_nyudadiq
+
+# Settlements
+max_settlements = 2
+b_nyudadiq = castle
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

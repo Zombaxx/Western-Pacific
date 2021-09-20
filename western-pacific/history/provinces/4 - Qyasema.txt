@@ -1,0 +1,14 @@
+# 4 - Qyasema
+
+# County Title
+title = c_qyasema
+
+# Settlements
+max_settlements = 4
+b_qyasema = tribal
+
+# Misc
+culture = afghan
+religion = shiite
+
+# History

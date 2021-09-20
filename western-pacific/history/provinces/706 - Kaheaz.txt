@@ -1,0 +1,14 @@
+# 706 - Kaheaz
+
+# County Title
+title = c_kaheaz
+
+# Settlements
+max_settlements = 3
+b_kaheaz = tribal
+
+# Misc
+culture = alan
+religion = catholic
+
+# History

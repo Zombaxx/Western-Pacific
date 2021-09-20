@@ -1,0 +1,15 @@
+# 818 - Bach
+
+# County Title
+title = c_bach
+
+# Settlements
+max_settlements = 3
+b_bach = castle
+b_rarifa = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

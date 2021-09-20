@@ -1,0 +1,14 @@
+# 1041 - Aruju
+
+# County Title
+title = c_aruju
+
+# Settlements
+max_settlements = 1
+b_aruju = tribal
+
+# Misc
+culture = pictish
+religion = zun_pagan
+
+# History

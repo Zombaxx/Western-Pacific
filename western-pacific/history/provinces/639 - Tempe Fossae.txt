@@ -1,0 +1,14 @@
+# 639 - Tempe Fossae
+
+# County Title
+title = c_tempe_fossae
+
+# Settlements
+max_settlements = 1
+b_tempe_fossae = tribal
+
+# Misc
+culture = khitan
+religion = orthodox
+
+# History

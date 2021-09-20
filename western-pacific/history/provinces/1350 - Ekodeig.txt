@@ -1,0 +1,15 @@
+# 1350 - Ekodeig
+
+# County Title
+title = c_ekodeig
+
+# Settlements
+max_settlements = 3
+b_ekodeig = castle
+b_lavualis = temple
+
+# Misc
+culture = old_frankish
+religion = hellenic_pagan
+
+# History

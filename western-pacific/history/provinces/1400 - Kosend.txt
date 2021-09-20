@@ -1,0 +1,14 @@
+# 1400 - Kosend
+
+# County Title
+title = c_kosend
+
+# Settlements
+max_settlements = 4
+b_kosend = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

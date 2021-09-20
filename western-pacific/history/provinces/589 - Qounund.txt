@@ -1,0 +1,14 @@
+# 589 - Qounund
+
+# County Title
+title = c_qounund
+
+# Settlements
+max_settlements = 4
+b_qounund = tribal
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

@@ -1,0 +1,14 @@
+# 734 - Terra Cimmeria
+
+# County Title
+title = c_terra_cimmeria
+
+# Settlements
+max_settlements = 1
+b_terra_cimmeria = tribal
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

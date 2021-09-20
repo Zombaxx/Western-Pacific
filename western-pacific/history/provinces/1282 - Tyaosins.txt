@@ -1,0 +1,15 @@
+# 1282 - Tyaosins
+
+# County Title
+title = c_tyaosins
+
+# Settlements
+max_settlements = 3
+b_tyaosins = castle
+b_telad = temple
+
+# Misc
+culture = english
+religion = orthodox
+
+# History

@@ -1,0 +1,14 @@
+# 1509 - Nakegs
+
+# County Title
+title = c_nakegs
+
+# Settlements
+max_settlements = 3
+b_nakegs = tribal
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

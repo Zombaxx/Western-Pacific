@@ -1,0 +1,14 @@
+# 339 - Rayduti
+
+# County Title
+title = c_rayduti
+
+# Settlements
+max_settlements = 2
+b_rayduti = castle
+
+# Misc
+culture = uyghur
+religion = bon
+
+# History

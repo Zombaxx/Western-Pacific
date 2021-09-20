@@ -1,0 +1,16 @@
+# 895 - Ekenapa
+
+# County Title
+title = c_ekenapa
+
+# Settlements
+max_settlements = 4
+b_ekenapa = castle
+b_azakarun = temple
+b_beagha = city
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

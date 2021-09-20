@@ -1,0 +1,17 @@
+# 1588 - Tehofia
+
+# County Title
+title = c_tehofia
+
+# Settlements
+max_settlements = 6
+b_tehofia = castle
+b_nomela = temple
+b_keloda = city
+b_selela = castle
+
+# Misc
+culture = norse
+religion = orthodox
+
+# History

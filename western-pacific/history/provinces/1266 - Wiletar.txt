@@ -1,0 +1,14 @@
+# 1266 - Wiletar
+
+# County Title
+title = c_wiletar
+
+# Settlements
+max_settlements = 2
+b_wiletar = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

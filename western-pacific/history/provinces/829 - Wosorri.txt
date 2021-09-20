@@ -1,0 +1,14 @@
+# 829 - Wosorri
+
+# County Title
+title = c_wosorri
+
+# Settlements
+max_settlements = 4
+b_wosorri = tribal
+
+# Misc
+culture = zhangzhung
+religion = hindu
+
+# History

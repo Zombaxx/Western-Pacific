@@ -1,0 +1,14 @@
+# 1403 - Kyoukine
+
+# County Title
+title = c_kyoukine
+
+# Settlements
+max_settlements = 3
+b_kyoukine = tribal
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

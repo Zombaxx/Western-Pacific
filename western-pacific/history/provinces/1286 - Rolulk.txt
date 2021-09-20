@@ -1,0 +1,14 @@
+# 1286 - Rolulk
+
+# County Title
+title = c_rolulk
+
+# Settlements
+max_settlements = 2
+b_rolulk = castle
+
+# Misc
+culture = daju
+religion = miaphysite
+
+# History

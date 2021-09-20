@@ -1,0 +1,14 @@
+# 1312 - Tautai
+
+# County Title
+title = c_tautai
+
+# Settlements
+max_settlements = 1
+b_tautai = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

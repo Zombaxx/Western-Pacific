@@ -1,0 +1,17 @@
+# 58 - Secilal
+
+# County Title
+title = c_secilal
+
+# Settlements
+max_settlements = 5
+b_secilal = castle
+b_daneuta = temple
+b_kesarma = city
+b_ahonn = castle
+
+# Misc
+culture = marathi
+religion = jain
+
+# History

@@ -1,0 +1,15 @@
+# 399 - Doratok
+
+# County Title
+title = c_doratok
+
+# Settlements
+max_settlements = 2
+b_doratok = castle
+b_rania = temple
+
+# Misc
+culture = uyghur
+religion = bon
+
+# History

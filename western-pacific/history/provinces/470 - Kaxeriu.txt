@@ -1,0 +1,16 @@
+# 470 - Kaxeriu
+
+# County Title
+title = c_kaxeriu
+
+# Settlements
+max_settlements = 4
+b_kaxeriu = castle
+b_datiyel = temple
+b_bumita = city
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

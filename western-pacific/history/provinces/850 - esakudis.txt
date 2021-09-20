@@ -1,5 +1,0 @@
-	title = c_esakudis
-	max_settlements = 2
-	culture = ilmenian
-	religion = druze
-	b_qaraoji = tribal

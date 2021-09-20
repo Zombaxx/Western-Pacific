@@ -1,0 +1,16 @@
+# 590 - Tusakra
+
+# County Title
+title = c_tusakra
+
+# Settlements
+max_settlements = 4
+b_tusakra = castle
+b_legeriu = temple
+b_qanoka = city
+
+# Misc
+culture = zhangzhung
+religion = hindu
+
+# History

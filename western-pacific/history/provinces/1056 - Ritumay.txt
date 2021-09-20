@@ -1,0 +1,14 @@
+# 1056 - Ritumay
+
+# County Title
+title = c_ritumay
+
+# Settlements
+max_settlements = 1
+b_ritumay = tribal
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

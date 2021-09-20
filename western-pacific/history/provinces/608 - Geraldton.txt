@@ -1,0 +1,15 @@
+# 608 - Geraldton
+
+# County Title
+title = c_geraldton
+
+# Settlements
+max_settlements = 4
+b_geraldton = tribal
+b_dokaman = temple
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

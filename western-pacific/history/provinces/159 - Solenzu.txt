@@ -1,0 +1,17 @@
+# 159 - Solenzu
+
+# County Title
+title = c_solenzu
+
+# Settlements
+max_settlements = 5
+b_solenzu = castle
+b_tuzaram = temple
+b_tonantia = city
+b_larey = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

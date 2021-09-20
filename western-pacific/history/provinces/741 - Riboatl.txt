@@ -1,0 +1,14 @@
+# 741 - Riboatl
+
+# County Title
+title = c_riboatl
+
+# Settlements
+max_settlements = 3
+b_riboatl = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

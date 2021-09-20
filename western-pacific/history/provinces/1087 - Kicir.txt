@@ -1,0 +1,14 @@
+# 1087 - Kicir
+
+# County Title
+title = c_kicir
+
+# Settlements
+max_settlements = 1
+b_kicir = castle
+
+# Misc
+culture = basque
+religion = zun_pagan
+
+# History

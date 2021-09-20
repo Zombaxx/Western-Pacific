@@ -1,0 +1,14 @@
+# 711 - Nalarya
+
+# County Title
+title = c_nalarya
+
+# Settlements
+max_settlements = 3
+b_nalarya = tribal
+
+# Misc
+culture = alan
+religion = aztec
+
+# History

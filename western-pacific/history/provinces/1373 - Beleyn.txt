@@ -1,0 +1,15 @@
+# 1373 - Beleyn
+
+# County Title
+title = c_beleyn
+
+# Settlements
+max_settlements = 3
+b_beleyn = castle
+b_kegeras = temple
+
+# Misc
+culture = old_frankish
+religion = hellenic_pagan
+
+# History

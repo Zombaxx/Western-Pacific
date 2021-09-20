@@ -1,0 +1,17 @@
+# 56 - Sarofie
+
+# County Title
+title = c_sarofie
+
+# Settlements
+max_settlements = 5
+b_sarofie = castle
+b_qajeco = temple
+b_ryusian = city
+b_raihund = castle
+
+# Misc
+culture = marathi
+religion = jain
+
+# History

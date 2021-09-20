@@ -1,5 +1,0 @@
-	title = c_dawalim
-	max_settlements = 2
-	culture = dutch
-	religion = waldensian
-	b_esanuluk = tribal

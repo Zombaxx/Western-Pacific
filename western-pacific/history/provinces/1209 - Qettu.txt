@@ -1,0 +1,16 @@
+# 1209 - Qettu
+
+# County Title
+title = c_qettu
+
+# Settlements
+max_settlements = 4
+b_qettu = castle
+b_taydam = temple
+b_tehana = city
+
+# Misc
+culture = english
+religion = tengri_pagan
+
+# History

@@ -1,5 +1,0 @@
-	title = c_aguilp
-	max_settlements = 2
-	culture = bodpa
-	religion = nestorian
-	b_kawonse = tribal

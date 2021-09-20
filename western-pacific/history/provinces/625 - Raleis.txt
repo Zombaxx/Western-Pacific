@@ -1,0 +1,14 @@
+# 625 - Raleis
+
+# County Title
+title = c_raleis
+
+# Settlements
+max_settlements = 2
+b_raleis = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

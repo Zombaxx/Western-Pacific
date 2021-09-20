@@ -1,0 +1,15 @@
+# 961 - Laykas
+
+# County Title
+title = c_laykas
+
+# Settlements
+max_settlements = 6
+b_laykas = tribal
+b_edamied = temple
+
+# Misc
+culture = sumpa
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 978 - Araveth
+
+# County Title
+title = c_araveth
+
+# Settlements
+max_settlements = 5
+b_araveth = tribal
+b_tebozar = temple
+
+# Misc
+culture = kanuri
+religion = catholic
+
+# History

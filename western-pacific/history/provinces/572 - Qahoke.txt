@@ -1,0 +1,17 @@
+# 572 - Qahoke
+
+# County Title
+title = c_qahoke
+
+# Settlements
+max_settlements = 6
+b_qahoke = castle
+b_tyiat = temple
+b_qeyaam = city
+b_ryaakavy = castle
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

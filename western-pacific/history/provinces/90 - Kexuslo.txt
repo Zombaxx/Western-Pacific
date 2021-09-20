@@ -1,0 +1,17 @@
+# 90 - Kexuslo
+
+# County Title
+title = c_kexuslo
+
+# Settlements
+max_settlements = 5
+b_kexuslo = castle
+b_qagira = temple
+b_badank = city
+b_kodian = castle
+
+# Misc
+culture = marathi
+religion = hindu
+
+# History

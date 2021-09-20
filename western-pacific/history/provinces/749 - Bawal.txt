@@ -1,0 +1,14 @@
+# 749 - Bawal
+
+# County Title
+title = c_bawal
+
+# Settlements
+max_settlements = 1
+b_bawal = tribal
+
+# Misc
+culture = alan
+religion = catholic
+
+# History

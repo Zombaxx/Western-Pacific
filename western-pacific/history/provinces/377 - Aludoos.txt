@@ -1,0 +1,15 @@
+# 377 - Aludoos
+
+# County Title
+title = c_aludoos
+
+# Settlements
+max_settlements = 3
+b_aludoos = castle
+b_tobarya = temple
+
+# Misc
+culture = khitan
+religion = jain
+
+# History

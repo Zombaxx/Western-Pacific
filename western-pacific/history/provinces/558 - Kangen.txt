@@ -1,0 +1,14 @@
+# 558 - Kangen
+
+# County Title
+title = c_kangen
+
+# Settlements
+max_settlements = 2
+b_kangen = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

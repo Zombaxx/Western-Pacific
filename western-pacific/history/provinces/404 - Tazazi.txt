@@ -1,0 +1,14 @@
+# 404 - Tazazi
+
+# County Title
+title = c_tazazi
+
+# Settlements
+max_settlements = 2
+b_tazazi = castle
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

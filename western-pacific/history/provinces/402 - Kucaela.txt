@@ -1,0 +1,16 @@
+# 402 - Kucaela
+
+# County Title
+title = c_kucaela
+
+# Settlements
+max_settlements = 4
+b_kucaela = castle
+b_setayor = temple
+b_lozar = city
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

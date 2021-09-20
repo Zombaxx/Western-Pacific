@@ -1,0 +1,15 @@
+# 262 - Duninda
+
+# County Title
+title = c_duninda
+
+# Settlements
+max_settlements = 3
+b_duninda = castle
+b_tebava = temple
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

@@ -1,0 +1,14 @@
+# 922 - Kulavo
+
+# County Title
+title = c_kulavo
+
+# Settlements
+max_settlements = 3
+b_kulavo = tribal
+
+# Misc
+culture = bodpa
+religion = sunni
+
+# History

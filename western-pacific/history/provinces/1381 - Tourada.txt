@@ -1,0 +1,14 @@
+# 1381 - Tourada
+
+# County Title
+title = c_tourada
+
+# Settlements
+max_settlements = 2
+b_tourada = tribal
+
+# Misc
+culture = pictish
+religion = orthodox
+
+# History

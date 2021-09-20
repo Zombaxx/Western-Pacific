@@ -1,0 +1,16 @@
+# 415 - Tobars
+
+# County Title
+title = c_tobars
+
+# Settlements
+max_settlements = 4
+b_tobars = castle
+b_qugei = temple
+b_bigabur = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

@@ -1,0 +1,16 @@
+# 29 - Ahmedabad
+
+# County Title
+title = c_ahmedabad
+
+# Settlements
+max_settlements = 4
+b_ahmedabad = castle
+b_ryi = temple
+b_wijonne = city
+
+# Misc
+culture = gujurati
+religion = hindu
+
+# History

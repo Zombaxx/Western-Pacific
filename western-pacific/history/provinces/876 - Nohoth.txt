@@ -1,0 +1,14 @@
+# 876 - Nohoth
+
+# County Title
+title = c_nohoth
+
+# Settlements
+max_settlements = 1
+b_nohoth = tribal
+
+# Misc
+culture = pictish
+religion = messalian
+
+# History

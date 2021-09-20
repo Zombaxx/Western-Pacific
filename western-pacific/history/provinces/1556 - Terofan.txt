@@ -1,0 +1,14 @@
+# 1556 - Terofan
+
+# County Title
+title = c_terofan
+
+# Settlements
+max_settlements = 1
+b_terofan = tribal
+
+# Misc
+culture = norse
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,17 @@
+# 527 - Bugelle
+
+# County Title
+title = c_bugelle
+
+# Settlements
+max_settlements = 5
+b_bugelle = castle
+b_bughur = temple
+b_deubit = city
+b_wicania = castle
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

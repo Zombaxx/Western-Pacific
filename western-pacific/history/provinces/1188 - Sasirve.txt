@@ -1,0 +1,14 @@
+# 1188 - Sasirve
+
+# County Title
+title = c_sasirve
+
+# Settlements
+max_settlements = 4
+b_sasirve = tribal
+
+# Misc
+culture = nubian
+religion = sunni
+
+# History

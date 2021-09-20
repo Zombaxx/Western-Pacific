@@ -1,0 +1,16 @@
+# 182 - Rorepi
+
+# County Title
+title = c_rorepi
+
+# Settlements
+max_settlements = 4
+b_rorepi = castle
+b_ruoranos = temple
+b_kagina = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

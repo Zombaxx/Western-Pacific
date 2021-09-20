@@ -1,5 +1,0 @@
-	title = c_lenua
-	max_settlements = 2
-	culture = assamese
-	religion = qarmatian
-	b_rozouh = tribal

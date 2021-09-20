@@ -1,0 +1,14 @@
+# 1140 - Kicta
+
+# County Title
+title = c_kicta
+
+# Settlements
+max_settlements = 1
+b_kicta = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

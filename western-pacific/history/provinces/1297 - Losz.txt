@@ -1,0 +1,14 @@
+# 1297 - Losz
+
+# County Title
+title = c_losz
+
+# Settlements
+max_settlements = 4
+b_losz = tribal
+
+# Misc
+culture = assyrian
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 671 - Toderlo
+
+# County Title
+title = c_toderlo
+
+# Settlements
+max_settlements = 2
+b_toderlo = castle
+
+# Misc
+culture = alan
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 823 - Dobami
+
+# County Title
+title = c_dobami
+
+# Settlements
+max_settlements = 3
+b_dobami = castle
+b_kakulk = temple
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

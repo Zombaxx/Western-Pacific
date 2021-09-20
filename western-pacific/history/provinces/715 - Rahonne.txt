@@ -1,0 +1,15 @@
+# 715 - Rahonne
+
+# County Title
+title = c_rahonne
+
+# Settlements
+max_settlements = 5
+b_rahonne = tribal
+b_bunuju = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

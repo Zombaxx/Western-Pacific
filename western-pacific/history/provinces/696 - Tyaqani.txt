@@ -1,0 +1,14 @@
+# 696 - Tyaqani
+
+# County Title
+title = c_tyaqani
+
+# Settlements
+max_settlements = 3
+b_tyaqani = tribal
+
+# Misc
+culture = alan
+religion = zun_pagan
+
+# History

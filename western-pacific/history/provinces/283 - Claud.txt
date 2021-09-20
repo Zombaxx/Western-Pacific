@@ -1,0 +1,14 @@
+# 283 - Claud
+
+# County Title
+title = c_claud
+
+# Settlements
+max_settlements = 2
+b_claud = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

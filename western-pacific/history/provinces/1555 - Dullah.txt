@@ -1,0 +1,14 @@
+# 1555 - Dullah
+
+# County Title
+title = c_dullah
+
+# Settlements
+max_settlements = 4
+b_dullah = tribal
+
+# Misc
+culture = irish
+religion = catholic
+
+# History

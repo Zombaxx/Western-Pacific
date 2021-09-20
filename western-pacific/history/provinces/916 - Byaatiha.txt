@@ -1,0 +1,14 @@
+# 916 - Byaatiha
+
+# County Title
+title = c_byaatiha
+
+# Settlements
+max_settlements = 1
+b_byaatiha = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

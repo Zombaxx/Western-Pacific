@@ -1,0 +1,15 @@
+# 1496 - Nimiss
+
+# County Title
+title = c_nimiss
+
+# Settlements
+max_settlements = 1
+b_nimiss = castle
+b_akarati = temple
+
+# Misc
+culture = old_saxon
+religion = orthodox
+
+# History

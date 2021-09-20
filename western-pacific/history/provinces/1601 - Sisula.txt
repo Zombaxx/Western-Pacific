@@ -1,0 +1,14 @@
+# 1601 - Sisula
+
+# County Title
+title = c_sisula
+
+# Settlements
+max_settlements = 3
+b_sisula = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

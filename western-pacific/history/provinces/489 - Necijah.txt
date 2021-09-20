@@ -1,0 +1,17 @@
+# 489 - Necijah
+
+# County Title
+title = c_necijah
+
+# Settlements
+max_settlements = 5
+b_necijah = castle
+b_wevavid = temple
+b_qeganca = city
+b_ahecam = castle
+
+# Misc
+culture = tamil
+religion = bon
+
+# History

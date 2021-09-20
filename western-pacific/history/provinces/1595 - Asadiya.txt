@@ -1,0 +1,16 @@
+# 1595 - Asadiya
+
+# County Title
+title = c_asadiya
+
+# Settlements
+max_settlements = 4
+b_asadiya = castle
+b_nioleth = temple
+b_ryagas = city
+
+# Misc
+culture = norse
+religion = orthodox
+
+# History

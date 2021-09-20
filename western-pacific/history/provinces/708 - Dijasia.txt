@@ -1,0 +1,14 @@
+# 708 - Dijasia
+
+# County Title
+title = c_dijasia
+
+# Settlements
+max_settlements = 3
+b_dijasia = tribal
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

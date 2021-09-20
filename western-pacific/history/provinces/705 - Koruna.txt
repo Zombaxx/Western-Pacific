@@ -1,0 +1,14 @@
+# 705 - Koruna
+
+# County Title
+title = c_koruna
+
+# Settlements
+max_settlements = 1
+b_koruna = tribal
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

@@ -1,0 +1,14 @@
+# 1371 - Sigapa
+
+# County Title
+title = c_sigapa
+
+# Settlements
+max_settlements = 2
+b_sigapa = tribal
+
+# Misc
+culture = irish
+religion = zun_pagan
+
+# History

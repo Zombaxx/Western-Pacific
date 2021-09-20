@@ -1,0 +1,15 @@
+# 525 - Keodiel
+
+# County Title
+title = c_keodiel
+
+# Settlements
+max_settlements = 3
+b_keodiel = castle
+b_renuin = temple
+
+# Misc
+culture = tamil
+religion = buddhist
+
+# History

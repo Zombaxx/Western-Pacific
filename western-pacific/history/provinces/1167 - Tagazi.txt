@@ -1,0 +1,14 @@
+# 1167 - Tagazi
+
+# County Title
+title = c_tagazi
+
+# Settlements
+max_settlements = 1
+b_tagazi = castle
+
+# Misc
+culture = basque
+religion = aztec
+
+# History

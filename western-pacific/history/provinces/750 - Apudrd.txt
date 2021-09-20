@@ -1,0 +1,15 @@
+# 750 - Apudrd
+
+# County Title
+title = c_apudrd
+
+# Settlements
+max_settlements = 5
+b_apudrd = tribal
+b_laruin = temple
+
+# Misc
+culture = zhangzhung
+religion = hindu
+
+# History

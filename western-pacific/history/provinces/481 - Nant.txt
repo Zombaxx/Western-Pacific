@@ -1,0 +1,16 @@
+# 481 - Nant
+
+# County Title
+title = c_nant
+
+# Settlements
+max_settlements = 4
+b_nant = castle
+b_qota = temple
+b_qahedey = city
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

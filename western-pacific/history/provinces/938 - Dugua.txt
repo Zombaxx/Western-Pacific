@@ -1,0 +1,14 @@
+# 938 - Dugua
+
+# County Title
+title = c_dugua
+
+# Settlements
+max_settlements = 4
+b_dugua = tribal
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

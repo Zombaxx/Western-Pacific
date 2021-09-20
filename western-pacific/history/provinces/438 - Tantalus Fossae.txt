@@ -1,0 +1,16 @@
+# 438 - Tantalus Fossae
+
+# County Title
+title = c_tantalus_fossae
+
+# Settlements
+max_settlements = 4
+b_tantalus_fossae = castle
+b_kieloa = temple
+b_loranka = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

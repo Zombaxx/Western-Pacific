@@ -1,0 +1,17 @@
+# 49 - Nohas
+
+# County Title
+title = c_nohas
+
+# Settlements
+max_settlements = 5
+b_nohas = castle
+b_likinie = temple
+b_ragakh = city
+b_dadall = castle
+
+# Misc
+culture = sogdian
+religion = manichean
+
+# History

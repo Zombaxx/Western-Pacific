@@ -1,0 +1,14 @@
+# 1268 - Recirje
+
+# County Title
+title = c_recirje
+
+# Settlements
+max_settlements = 2
+b_recirje = castle
+
+# Misc
+culture = english
+religion = west_african_pagan
+
+# History

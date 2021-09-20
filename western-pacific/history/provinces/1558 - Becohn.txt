@@ -1,0 +1,14 @@
+# 1558 - Becohn
+
+# County Title
+title = c_becohn
+
+# Settlements
+max_settlements = 3
+b_becohn = tribal
+
+# Misc
+culture = norse
+religion = catholic
+
+# History

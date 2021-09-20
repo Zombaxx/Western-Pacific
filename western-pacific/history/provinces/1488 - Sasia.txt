@@ -1,0 +1,16 @@
+# 1488 - Sasia
+
+# County Title
+title = c_sasia
+
+# Settlements
+max_settlements = 4
+b_sasia = castle
+b_ketenia = temple
+b_biveike = city
+
+# Misc
+culture = crimean_gothic
+religion = catholic
+
+# History

@@ -1,0 +1,16 @@
+# 147 - Qaring
+
+# County Title
+title = c_qaring
+
+# Settlements
+max_settlements = 4
+b_qaring = castle
+b_wabance = temple
+b_tasing = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

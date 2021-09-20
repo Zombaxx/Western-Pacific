@@ -1,0 +1,17 @@
+# 471 - Toding
+
+# County Title
+title = c_toding
+
+# Settlements
+max_settlements = 6
+b_toding = castle
+b_sinina = temple
+b_kubevit = city
+b_ejawandi = castle
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

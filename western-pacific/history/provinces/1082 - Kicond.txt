@@ -1,0 +1,15 @@
+# 1082 - Kicond
+
+# County Title
+title = c_kicond
+
+# Settlements
+max_settlements = 6
+b_kicond = tribal
+b_abaiole = temple
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

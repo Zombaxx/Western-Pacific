@@ -1,0 +1,16 @@
+# 191 - Subyuk
+
+# County Title
+title = c_subyuk
+
+# Settlements
+max_settlements = 4
+b_subyuk = castle
+b_etrayaad = temple
+b_kebish = city
+
+# Misc
+culture = bengali
+religion = buddhist
+
+# History

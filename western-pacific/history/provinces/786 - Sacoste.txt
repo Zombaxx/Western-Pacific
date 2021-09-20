@@ -1,0 +1,14 @@
+# 786 - Sacoste
+
+# County Title
+title = c_sacoste
+
+# Settlements
+max_settlements = 3
+b_sacoste = tribal
+
+# Misc
+culture = zhangzhung
+religion = orthodox
+
+# History

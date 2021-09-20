@@ -1,0 +1,15 @@
+# 923 - Wabayor
+
+# County Title
+title = c_wabayor
+
+# Settlements
+max_settlements = 5
+b_wabayor = tribal
+b_winoto = temple
+
+# Misc
+culture = sumpa
+religion = orthodox
+
+# History

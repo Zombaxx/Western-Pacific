@@ -1,0 +1,14 @@
+# 1073 - Tasin
+
+# County Title
+title = c_tasin
+
+# Settlements
+max_settlements = 1
+b_tasin = tribal
+
+# Misc
+culture = kanuri
+religion = zun_pagan
+
+# History

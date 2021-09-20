@@ -1,0 +1,14 @@
+# 619 - Dawoses
+
+# County Title
+title = c_dawoses
+
+# Settlements
+max_settlements = 3
+b_dawoses = tribal
+
+# Misc
+culture = alan
+religion = orthodox
+
+# History

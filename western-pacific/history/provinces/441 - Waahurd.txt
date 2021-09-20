@@ -1,0 +1,15 @@
+# 441 - Waahurd
+
+# County Title
+title = c_waahurd
+
+# Settlements
+max_settlements = 3
+b_waahurd = castle
+b_nakas = temple
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

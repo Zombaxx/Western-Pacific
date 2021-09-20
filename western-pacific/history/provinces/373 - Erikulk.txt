@@ -1,0 +1,16 @@
+# 373 - Erikulk
+
+# County Title
+title = c_erikulk
+
+# Settlements
+max_settlements = 4
+b_erikulk = castle
+b_erila = temple
+b_komir = city
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

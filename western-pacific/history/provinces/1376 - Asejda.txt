@@ -1,0 +1,14 @@
+# 1376 - Asejda
+
+# County Title
+title = c_asejda
+
+# Settlements
+max_settlements = 3
+b_asejda = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

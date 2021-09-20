@@ -1,0 +1,14 @@
+# 1491 - Ririli
+
+# County Title
+title = c_ririli
+
+# Settlements
+max_settlements = 2
+b_ririli = castle
+
+# Misc
+culture = old_saxon
+religion = orthodox
+
+# History

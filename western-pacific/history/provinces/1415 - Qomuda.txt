@@ -1,0 +1,14 @@
+# 1415 - Qomuda
+
+# County Title
+title = c_qomuda
+
+# Settlements
+max_settlements = 3
+b_qomuda = tribal
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

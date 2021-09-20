@@ -1,0 +1,15 @@
+# 1498 - Roborz
+
+# County Title
+title = c_roborz
+
+# Settlements
+max_settlements = 1
+b_roborz = castle
+b_lermisla = temple
+
+# Misc
+culture = old_saxon
+religion = orthodox
+
+# History

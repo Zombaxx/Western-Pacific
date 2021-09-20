@@ -1,0 +1,15 @@
+# 1086 - Athirila
+
+# County Title
+title = c_athirila
+
+# Settlements
+max_settlements = 5
+b_athirila = tribal
+b_tinil = temple
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

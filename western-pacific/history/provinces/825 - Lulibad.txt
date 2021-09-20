@@ -1,0 +1,14 @@
+# 825 - Lulibad
+
+# County Title
+title = c_lulibad
+
+# Settlements
+max_settlements = 3
+b_lulibad = tribal
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

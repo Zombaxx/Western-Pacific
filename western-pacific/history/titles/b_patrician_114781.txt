@@ -1,0 +1,5 @@
+1059.1.1 = {
+	holding_dynasty = 114781 # of Qawach - makes this a FAMILY_PALACE type Holding
+	liege="d_sydney"
+	holder = 229560
+}

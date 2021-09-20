@@ -1,5 +1,0 @@
-	title = c_wonegin
-	max_settlements = 2
-	culture = manden
-	religion = cathar
-	b_rubarqan = tribal

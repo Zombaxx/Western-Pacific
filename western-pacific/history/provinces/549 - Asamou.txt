@@ -1,0 +1,15 @@
+# 549 - Asamou
+
+# County Title
+title = c_asamou
+
+# Settlements
+max_settlements = 3
+b_asamou = castle
+b_baralis = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

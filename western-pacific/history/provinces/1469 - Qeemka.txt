@@ -1,0 +1,16 @@
+# 1469 - Qeemka
+
+# County Title
+title = c_qeemka
+
+# Settlements
+max_settlements = 4
+b_qeemka = castle
+b_syogyu = temple
+b_kelezhav = city
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

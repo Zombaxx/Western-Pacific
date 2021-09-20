@@ -1,0 +1,14 @@
+# 1004 - Ranava
+
+# County Title
+title = c_ranava
+
+# Settlements
+max_settlements = 1
+b_ranava = tribal
+
+# Misc
+culture = kanuri
+religion = zun_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 740 - Woroya
+
+# County Title
+title = c_woroya
+
+# Settlements
+max_settlements = 5
+b_woroya = tribal
+b_kodifa = temple
+
+# Misc
+culture = bodpa
+religion = sunni
+
+# History

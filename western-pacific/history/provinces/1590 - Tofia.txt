@@ -1,0 +1,16 @@
+# 1590 - Tofia
+
+# County Title
+title = c_tofia
+
+# Settlements
+max_settlements = 4
+b_tofia = castle
+b_adaguin = temple
+b_beloda = city
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

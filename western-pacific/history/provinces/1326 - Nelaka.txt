@@ -1,0 +1,17 @@
+# 1326 - Nelaka
+
+# County Title
+title = c_nelaka
+
+# Settlements
+max_settlements = 5
+b_nelaka = city
+b_namitya = temple
+b_tilitya = castle
+b_eramayya = city
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

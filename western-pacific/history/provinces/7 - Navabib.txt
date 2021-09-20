@@ -1,0 +1,14 @@
+# 7 - Navabib
+
+# County Title
+title = c_navabib
+
+# Settlements
+max_settlements = 3
+b_navabib = tribal
+
+# Misc
+culture = sogdian
+religion = zoroastrian
+
+# History

@@ -1,0 +1,16 @@
+# 1344 - Dilivi
+
+# County Title
+title = c_dilivi
+
+# Settlements
+max_settlements = 4
+b_dilivi = castle
+b_takictor = temple
+b_dahmud = city
+
+# Misc
+culture = old_frankish
+religion = hellenic_pagan
+
+# History

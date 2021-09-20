@@ -1,0 +1,14 @@
+# 1009 - Lujion
+
+# County Title
+title = c_lujion
+
+# Settlements
+max_settlements = 4
+b_lujion = tribal
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

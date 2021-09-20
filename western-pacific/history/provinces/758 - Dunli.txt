@@ -1,0 +1,15 @@
+# 758 - Dunli
+
+# County Title
+title = c_dunli
+
+# Settlements
+max_settlements = 5
+b_dunli = tribal
+b_tagaaq = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

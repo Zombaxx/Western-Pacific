@@ -1,0 +1,15 @@
+# 443 - Tunoste
+
+# County Title
+title = c_tunoste
+
+# Settlements
+max_settlements = 3
+b_tunoste = castle
+b_kanusz = temple
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History

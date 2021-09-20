@@ -1,5 +1,0 @@
-	title = c_tanion
-	max_settlements = 2
-	culture = frisian
-	religion = norse_pagan_reformed
-	b_adanohn = tribal

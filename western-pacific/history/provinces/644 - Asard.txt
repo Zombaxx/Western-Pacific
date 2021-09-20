@@ -1,0 +1,14 @@
+# 644 - Asard
+
+# County Title
+title = c_asard
+
+# Settlements
+max_settlements = 1
+b_asard = tribal
+
+# Misc
+culture = visigothic
+religion = zun_pagan
+
+# History

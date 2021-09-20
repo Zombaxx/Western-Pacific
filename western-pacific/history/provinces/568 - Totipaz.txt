@@ -1,0 +1,15 @@
+# 568 - Totipaz
+
+# County Title
+title = c_totipaz
+
+# Settlements
+max_settlements = 3
+b_totipaz = castle
+b_wilipaz = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

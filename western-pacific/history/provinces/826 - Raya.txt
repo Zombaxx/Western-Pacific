@@ -1,0 +1,14 @@
+# 826 - Raya
+
+# County Title
+title = c_raya
+
+# Settlements
+max_settlements = 3
+b_raya = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

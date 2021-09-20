@@ -1,0 +1,16 @@
+# 368 - Anaawar
+
+# County Title
+title = c_anaawar
+
+# Settlements
+max_settlements = 4
+b_anaawar = castle
+b_kahibad = temple
+b_kancis = city
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

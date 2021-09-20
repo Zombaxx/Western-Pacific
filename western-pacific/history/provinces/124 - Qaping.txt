@@ -1,0 +1,16 @@
+# 124 - Qaping
+
+# County Title
+title = c_qaping
+
+# Settlements
+max_settlements = 4
+b_qaping = castle
+b_rivudo = temple
+b_korail = city
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

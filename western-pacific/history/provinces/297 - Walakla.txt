@@ -1,0 +1,15 @@
+# 297 - Walakla
+
+# County Title
+title = c_walakla
+
+# Settlements
+max_settlements = 3
+b_walakla = castle
+b_kaham = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

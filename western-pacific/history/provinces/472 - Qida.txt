@@ -1,0 +1,17 @@
+# 472 - Qida
+
+# County Title
+title = c_qida
+
+# Settlements
+max_settlements = 5
+b_qida = castle
+b_lohokha = temple
+b_buenida = city
+b_binawma = castle
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

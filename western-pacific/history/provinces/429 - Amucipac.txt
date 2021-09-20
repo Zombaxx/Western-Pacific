@@ -1,0 +1,17 @@
+# 429 - Amucipac
+
+# County Title
+title = c_amucipac
+
+# Settlements
+max_settlements = 5
+b_amucipac = castle
+b_karius = temple
+b_damapal = city
+b_duleda = castle
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

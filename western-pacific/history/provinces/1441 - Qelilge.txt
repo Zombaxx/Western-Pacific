@@ -1,0 +1,16 @@
+# 1441 - Qelilge
+
+# County Title
+title = c_qelilge
+
+# Settlements
+max_settlements = 4
+b_qelilge = castle
+b_qehemir = temple
+b_kuxuba = city
+
+# Misc
+culture = assyrian
+religion = west_african_pagan
+
+# History

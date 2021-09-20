@@ -1,0 +1,5 @@
+1061.1.1 = {
+	holding_dynasty = 113132 # de Derim - makes this a FAMILY_PALACE type Holding
+	liege="d_melbourne"
+	holder = 226265
+}

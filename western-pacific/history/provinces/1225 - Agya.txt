@@ -1,0 +1,14 @@
+# 1225 - Agya
+
+# County Title
+title = c_agya
+
+# Settlements
+max_settlements = 3
+b_agya = tribal
+
+# Misc
+culture = assyrian
+religion = west_african_pagan
+
+# History

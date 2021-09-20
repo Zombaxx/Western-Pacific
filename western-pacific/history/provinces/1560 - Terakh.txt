@@ -1,0 +1,14 @@
+# 1560 - Terakh
+
+# County Title
+title = c_terakh
+
+# Settlements
+max_settlements = 1
+b_terakh = tribal
+
+# Misc
+culture = irish
+religion = west_african_pagan
+
+# History

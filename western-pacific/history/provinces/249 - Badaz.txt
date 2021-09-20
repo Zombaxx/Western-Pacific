@@ -1,0 +1,16 @@
+# 249 - Badaz
+
+# County Title
+title = c_badaz
+
+# Settlements
+max_settlements = 4
+b_badaz = castle
+b_dilobel = temple
+b_worelmo = city
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

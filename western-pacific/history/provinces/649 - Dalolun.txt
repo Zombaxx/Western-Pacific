@@ -1,0 +1,16 @@
+# 649 - Dalolun
+
+# County Title
+title = c_dalolun
+
+# Settlements
+max_settlements = 4
+b_dalolun = castle
+b_nemunli = temple
+b_kubulad = city
+
+# Misc
+culture = visigothic
+religion = tengri_pagan
+
+# History

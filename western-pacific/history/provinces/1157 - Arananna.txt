@@ -1,0 +1,14 @@
+# 1157 - Arananna
+
+# County Title
+title = c_arananna
+
+# Settlements
+max_settlements = 2
+b_arananna = tribal
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

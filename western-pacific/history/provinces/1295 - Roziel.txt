@@ -1,0 +1,14 @@
+# 1295 - Roziel
+
+# County Title
+title = c_roziel
+
+# Settlements
+max_settlements = 1
+b_roziel = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,17 @@
+# 114 - Byouska
+
+# County Title
+title = c_byouska
+
+# Settlements
+max_settlements = 5
+b_byouska = castle
+b_abojory = temple
+b_ahecine = city
+b_keireer = castle
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

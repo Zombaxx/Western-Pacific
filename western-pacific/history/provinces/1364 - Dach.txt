@@ -1,0 +1,14 @@
+# 1364 - Dach
+
+# County Title
+title = c_dach
+
+# Settlements
+max_settlements = 3
+b_dach = tribal
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

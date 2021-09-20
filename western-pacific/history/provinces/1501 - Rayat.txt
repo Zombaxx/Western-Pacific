@@ -1,0 +1,16 @@
+# 1501 - Rayat
+
+# County Title
+title = c_rayat
+
+# Settlements
+max_settlements = 4
+b_rayat = castle
+b_nagati = temple
+b_lehane = city
+
+# Misc
+culture = crimean_gothic
+religion = catholic
+
+# History

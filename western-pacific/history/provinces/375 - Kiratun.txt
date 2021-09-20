@@ -1,0 +1,14 @@
+# 375 - Kiratun
+
+# County Title
+title = c_kiratun
+
+# Settlements
+max_settlements = 2
+b_kiratun = castle
+
+# Misc
+culture = uyghur
+religion = bon
+
+# History

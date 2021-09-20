@@ -1,0 +1,15 @@
+# 158 - Tanagan
+
+# County Title
+title = c_tanagan
+
+# Settlements
+max_settlements = 3
+b_tanagan = castle
+b_wokinn = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

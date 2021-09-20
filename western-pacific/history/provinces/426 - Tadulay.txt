@@ -1,0 +1,14 @@
+# 426 - Tadulay
+
+# County Title
+title = c_tadulay
+
+# Settlements
+max_settlements = 2
+b_tadulay = castle
+
+# Misc
+culture = uyghur
+religion = bon
+
+# History

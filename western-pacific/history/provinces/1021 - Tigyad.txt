@@ -1,0 +1,15 @@
+# 1021 - Tigyad
+
+# County Title
+title = c_tigyad
+
+# Settlements
+max_settlements = 5
+b_tigyad = tribal
+b_anelen = temple
+
+# Misc
+culture = greek
+religion = messalian
+
+# History

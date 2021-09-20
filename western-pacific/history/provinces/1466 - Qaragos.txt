@@ -1,0 +1,15 @@
+# 1466 - Qaragos
+
+# County Title
+title = c_qaragos
+
+# Settlements
+max_settlements = 3
+b_qaragos = castle
+b_sanca = temple
+
+# Misc
+culture = saxon
+religion = fraticelli
+
+# History

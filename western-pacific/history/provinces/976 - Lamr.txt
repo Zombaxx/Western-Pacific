@@ -1,0 +1,14 @@
+# 976 - Lamr
+
+# County Title
+title = c_lamr
+
+# Settlements
+max_settlements = 3
+b_lamr = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

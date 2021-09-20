@@ -1,5 +1,0 @@
-	title = c_dageer
-	max_settlements = 2
-	culture = suebi
-	religion = color
-	b_weneth = tribal

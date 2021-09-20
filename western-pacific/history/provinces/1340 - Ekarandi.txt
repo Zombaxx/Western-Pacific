@@ -1,0 +1,16 @@
+# 1340 - Ekarandi
+
+# County Title
+title = c_ekarandi
+
+# Settlements
+max_settlements = 4
+b_ekarandi = castle
+b_sumuone = temple
+b_ekumasia = city
+
+# Misc
+culture = assyrian
+religion = west_african_pagan
+
+# History

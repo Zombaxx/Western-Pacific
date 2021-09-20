@@ -1,0 +1,15 @@
+# 1464 - Kermivoj
+
+# County Title
+title = c_kermivoj
+
+# Settlements
+max_settlements = 3
+b_kermivoj = castle
+b_lasiga = temple
+
+# Misc
+culture = saxon
+religion = buddhist
+
+# History

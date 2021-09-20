@@ -1,5 +1,0 @@
-	title = c_qubaga
-	max_settlements = 2
-	culture = saka
-	religion = hindu
-	b_kabaga = tribal

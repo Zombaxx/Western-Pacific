@@ -1,0 +1,14 @@
+# 807 - Tadan
+
+# County Title
+title = c_tadan
+
+# Settlements
+max_settlements = 1
+b_tadan = tribal
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

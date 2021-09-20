@@ -1,0 +1,14 @@
+# 819 - Buyamoc
+
+# County Title
+title = c_buyamoc
+
+# Settlements
+max_settlements = 3
+b_buyamoc = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

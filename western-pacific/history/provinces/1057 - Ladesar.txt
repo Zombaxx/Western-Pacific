@@ -1,0 +1,15 @@
+# 1057 - Ladesar
+
+# County Title
+title = c_ladesar
+
+# Settlements
+max_settlements = 1
+b_ladesar = tribal
+b_wasous = temple
+
+# Misc
+culture = kanuri
+religion = aztec
+
+# History

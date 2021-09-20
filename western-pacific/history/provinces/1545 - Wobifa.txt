@@ -1,0 +1,15 @@
+# 1545 - Wobifa
+
+# County Title
+title = c_wobifa
+
+# Settlements
+max_settlements = 6
+b_wobifa = tribal
+b_edobakh = temple
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 473 - Dumiuva
+
+# County Title
+title = c_dumiuva
+
+# Settlements
+max_settlements = 4
+b_dumiuva = castle
+b_kumoras = temple
+b_rabdote = city
+
+# Misc
+culture = tamil
+religion = bon
+
+# History

@@ -1,5 +1,0 @@
-	title = c_rabilay
-	max_settlements = 2
-	culture = tamil
-	religion = slavic_pagan
-	b_qenemka = tribal

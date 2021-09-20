@@ -1,0 +1,14 @@
+# 278 - Tugaut
+
+# County Title
+title = c_tugaut
+
+# Settlements
+max_settlements = 4
+b_tugaut = tribal
+
+# Misc
+culture = zhangzhung
+religion = orthodox
+
+# History

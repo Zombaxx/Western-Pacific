@@ -1,5 +1,0 @@
-	title = c_barold
-	max_settlements = 2
-	culture = outremer
-	religion = catholic
-	b_kajeof = tribal

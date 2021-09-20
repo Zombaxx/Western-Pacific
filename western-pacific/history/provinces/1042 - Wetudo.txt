@@ -1,0 +1,14 @@
+# 1042 - Wetudo
+
+# County Title
+title = c_wetudo
+
+# Settlements
+max_settlements = 4
+b_wetudo = tribal
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

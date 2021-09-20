@@ -1,0 +1,14 @@
+# 342 - Timirai
+
+# County Title
+title = c_timirai
+
+# Settlements
+max_settlements = 2
+b_timirai = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

@@ -1,0 +1,14 @@
+# 962 - Maluku
+
+# County Title
+title = c_maluku
+
+# Settlements
+max_settlements = 4
+b_maluku = tribal
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

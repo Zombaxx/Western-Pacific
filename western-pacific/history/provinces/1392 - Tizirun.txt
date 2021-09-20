@@ -1,0 +1,14 @@
+# 1392 - Tizirun
+
+# County Title
+title = c_tizirun
+
+# Settlements
+max_settlements = 3
+b_tizirun = tribal
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

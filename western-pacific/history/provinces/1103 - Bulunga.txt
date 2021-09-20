@@ -1,0 +1,15 @@
+# 1103 - Bulunga
+
+# County Title
+title = c_bulunga
+
+# Settlements
+max_settlements = 5
+b_bulunga = tribal
+b_ramyab = temple
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

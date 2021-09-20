@@ -1,0 +1,15 @@
+# 563 - Tyasuda
+
+# County Title
+title = c_tyasuda
+
+# Settlements
+max_settlements = 3
+b_tyasuda = castle
+b_ejosedey = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

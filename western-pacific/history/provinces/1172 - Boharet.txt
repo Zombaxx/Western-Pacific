@@ -1,0 +1,14 @@
+# 1172 - Boharet
+
+# County Title
+title = c_boharet
+
+# Settlements
+max_settlements = 4
+b_boharet = tribal
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

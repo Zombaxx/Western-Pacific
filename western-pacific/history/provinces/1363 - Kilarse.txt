@@ -1,0 +1,14 @@
+# 1363 - Kilarse
+
+# County Title
+title = c_kilarse
+
+# Settlements
+max_settlements = 2
+b_kilarse = castle
+
+# Misc
+culture = daju
+religion = catholic
+
+# History

@@ -1,5 +1,0 @@
-	title = c_bepafa
-	max_settlements = 2
-	culture = soninke
-	religion = sunni
-	b_nuditune = tribal

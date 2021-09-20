@@ -1,0 +1,14 @@
+# 388 - Kosita
+
+# County Title
+title = c_kosita
+
+# Settlements
+max_settlements = 2
+b_kosita = castle
+
+# Misc
+culture = uyghur
+religion = bon
+
+# History

@@ -1,0 +1,15 @@
+# 226 - Kyaa
+
+# County Title
+title = c_kyaa
+
+# Settlements
+max_settlements = 3
+b_kyaa = castle
+b_avitutai = temple
+
+# Misc
+culture = bengali
+religion = sunni
+
+# History

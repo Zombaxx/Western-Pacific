@@ -1,0 +1,15 @@
+# 1099 - Qibert
+
+# County Title
+title = c_qibert
+
+# Settlements
+max_settlements = 5
+b_qibert = tribal
+b_kolert = temple
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

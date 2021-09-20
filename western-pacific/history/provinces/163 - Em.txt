@@ -1,0 +1,16 @@
+# 163 - Em
+
+# County Title
+title = c_em
+
+# Settlements
+max_settlements = 4
+b_em = castle
+b_rutunda = temple
+b_tuderas = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

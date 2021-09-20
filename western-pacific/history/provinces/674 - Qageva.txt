@@ -1,0 +1,16 @@
+# 674 - Qageva
+
+# County Title
+title = c_qageva
+
+# Settlements
+max_settlements = 4
+b_qageva = castle
+b_wahra = temple
+b_sakadan = city
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 827 - Byusato
+
+# County Title
+title = c_byusato
+
+# Settlements
+max_settlements = 5
+b_byusato = tribal
+b_seoniya = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

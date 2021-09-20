@@ -1,0 +1,17 @@
+# 513 - Latucia
+
+# County Title
+title = c_latucia
+
+# Settlements
+max_settlements = 6
+b_latucia = castle
+b_ebozaaz = temple
+b_wuhidis = city
+b_kyuving = castle
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

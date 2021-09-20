@@ -1,0 +1,14 @@
+# 992 - Kucipac
+
+# County Title
+title = c_kucipac
+
+# Settlements
+max_settlements = 3
+b_kucipac = tribal
+
+# Misc
+culture = kanuri
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 997 - Ekubulad
+
+# County Title
+title = c_ekubulad
+
+# Settlements
+max_settlements = 3
+b_ekubulad = tribal
+
+# Misc
+culture = hausa
+religion = zun_pagan
+
+# History

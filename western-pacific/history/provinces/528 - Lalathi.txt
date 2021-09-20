@@ -1,0 +1,17 @@
+# 528 - Lalathi
+
+# County Title
+title = c_lalathi
+
+# Settlements
+max_settlements = 5
+b_lalathi = castle
+b_baneka = temple
+b_qabahra = city
+b_duneka = castle
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

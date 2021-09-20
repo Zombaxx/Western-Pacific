@@ -1,0 +1,16 @@
+# 544 - Naimma
+
+# County Title
+title = c_naimma
+
+# Settlements
+max_settlements = 4
+b_naimma = castle
+b_kimela = temple
+b_detuara = city
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

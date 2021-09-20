@@ -1,5 +1,0 @@
-	title = c_renike
-	max_settlements = 2
-	culture = swedish
-	religion = messalian
-	b_sirgen = tribal

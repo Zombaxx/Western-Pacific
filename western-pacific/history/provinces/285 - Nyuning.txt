@@ -1,0 +1,16 @@
+# 285 - Nyuning
+
+# County Title
+title = c_nyuning
+
+# Settlements
+max_settlements = 4
+b_nyuning = castle
+b_karyuk = temple
+b_welovai = city
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

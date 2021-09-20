@@ -1,0 +1,16 @@
+# 836 - Aharacon
+
+# County Title
+title = c_aharacon
+
+# Settlements
+max_settlements = 4
+b_aharacon = castle
+b_sanohn = temple
+b_qugaria = city
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

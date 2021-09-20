@@ -1,0 +1,14 @@
+# 918 - Wobuo
+
+# County Title
+title = c_wobuo
+
+# Settlements
+max_settlements = 1
+b_wobuo = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

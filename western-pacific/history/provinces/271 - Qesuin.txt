@@ -1,0 +1,15 @@
+# 271 - Qesuin
+
+# County Title
+title = c_qesuin
+
+# Settlements
+max_settlements = 3
+b_qesuin = castle
+b_benit = temple
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

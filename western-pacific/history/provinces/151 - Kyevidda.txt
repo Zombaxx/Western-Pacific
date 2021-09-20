@@ -1,0 +1,17 @@
+# 151 - Kyevidda
+
+# County Title
+title = c_kyevidda
+
+# Settlements
+max_settlements = 5
+b_kyevidda = castle
+b_tujin = temple
+b_dacaham = city
+b_nagujin = castle
+
+# Misc
+culture = sinhala
+religion = buddhist
+
+# History

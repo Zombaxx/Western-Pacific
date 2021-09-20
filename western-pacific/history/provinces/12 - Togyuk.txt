@@ -1,0 +1,16 @@
+# 12 - Togyuk
+
+# County Title
+title = c_togyuk
+
+# Settlements
+max_settlements = 4
+b_togyuk = castle
+b_wabdurna = temple
+b_lakoka = city
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

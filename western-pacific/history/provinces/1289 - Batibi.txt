@@ -1,0 +1,16 @@
+# 1289 - Batibi
+
+# County Title
+title = c_batibi
+
+# Settlements
+max_settlements = 4
+b_batibi = castle
+b_kegeli = temple
+b_sashir = city
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

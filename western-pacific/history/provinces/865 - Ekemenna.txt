@@ -1,0 +1,16 @@
+# 865 - Ekemenna
+
+# County Title
+title = c_ekemenna
+
+# Settlements
+max_settlements = 4
+b_ekemenna = castle
+b_karagha = temple
+b_kemusbu = city
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

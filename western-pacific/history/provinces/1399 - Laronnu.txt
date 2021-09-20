@@ -1,0 +1,14 @@
+# 1399 - Laronnu
+
+# County Title
+title = c_laronnu
+
+# Settlements
+max_settlements = 3
+b_laronnu = tribal
+
+# Misc
+culture = daju
+religion = miaphysite
+
+# History

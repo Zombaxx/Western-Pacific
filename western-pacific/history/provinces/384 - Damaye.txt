@@ -1,0 +1,15 @@
+# 384 - Damaye
+
+# County Title
+title = c_damaye
+
+# Settlements
+max_settlements = 3
+b_damaye = castle
+b_tilew = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

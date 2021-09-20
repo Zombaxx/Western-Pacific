@@ -1,0 +1,15 @@
+# 1267 - Rakudan
+
+# County Title
+title = c_rakudan
+
+# Settlements
+max_settlements = 3
+b_rakudan = castle
+b_riba = temple
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

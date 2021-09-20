@@ -1,0 +1,16 @@
+# 372 - Lainith
+
+# County Title
+title = c_lainith
+
+# Settlements
+max_settlements = 4
+b_lainith = castle
+b_qarayah = temple
+b_nuhaca = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

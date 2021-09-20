@@ -1,0 +1,14 @@
+# 761 - Aparya
+
+# County Title
+title = c_aparya
+
+# Settlements
+max_settlements = 1
+b_aparya = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

@@ -1,0 +1,14 @@
+# 798 - Eteegus
+
+# County Title
+title = c_eteegus
+
+# Settlements
+max_settlements = 4
+b_eteegus = tribal
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

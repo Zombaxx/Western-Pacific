@@ -1,0 +1,14 @@
+# 1327 - Basivka
+
+# County Title
+title = c_basivka
+
+# Settlements
+max_settlements = 3
+b_basivka = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

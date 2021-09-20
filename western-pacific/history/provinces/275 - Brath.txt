@@ -1,0 +1,15 @@
+# 275 - Brath
+
+# County Title
+title = c_brath
+
+# Settlements
+max_settlements = 3
+b_brath = castle
+b_kunaha = temple
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

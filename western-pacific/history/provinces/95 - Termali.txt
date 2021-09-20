@@ -1,0 +1,15 @@
+# 95 - Termali
+
+# County Title
+title = c_termali
+
+# Settlements
+max_settlements = 3
+b_termali = castle
+b_nizozar = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

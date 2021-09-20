@@ -1,0 +1,14 @@
+# 1584 - Adobati
+
+# County Title
+title = c_adobati
+
+# Settlements
+max_settlements = 4
+b_adobati = tribal
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

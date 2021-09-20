@@ -1,0 +1,14 @@
+# 778 - Charitum
+
+# County Title
+title = c_charitum
+
+# Settlements
+max_settlements = 3
+b_charitum = tribal
+
+# Misc
+culture = greek
+religion = zun_pagan
+
+# History

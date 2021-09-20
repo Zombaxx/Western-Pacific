@@ -1,0 +1,14 @@
+# 796 - Kafaca
+
+# County Title
+title = c_kafaca
+
+# Settlements
+max_settlements = 2
+b_kafaca = castle
+
+# Misc
+culture = zhangzhung
+religion = buddhist
+
+# History

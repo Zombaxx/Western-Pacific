@@ -1,0 +1,14 @@
+# 891 - Kaia
+
+# County Title
+title = c_kaia
+
+# Settlements
+max_settlements = 4
+b_kaia = tribal
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

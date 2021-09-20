@@ -1,0 +1,16 @@
+# 83 - Reinohn
+
+# County Title
+title = c_reinohn
+
+# Settlements
+max_settlements = 4
+b_reinohn = castle
+b_toviuva = temple
+b_kisune = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

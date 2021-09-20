@@ -1,0 +1,15 @@
+# 797 - Nagatan
+
+# County Title
+title = c_nagatan
+
+# Settlements
+max_settlements = 3
+b_nagatan = castle
+b_lodudao = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

@@ -1,5 +1,0 @@
-	title = c_weisohn
-	max_settlements = 2
-	culture = carantanian
-	religion = qarmatian
-	b_qidena = tribal

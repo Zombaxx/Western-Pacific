@@ -1,0 +1,16 @@
+# 1456 - Qolad
+
+# County Title
+title = c_qolad
+
+# Settlements
+max_settlements = 4
+b_qolad = castle
+b_nain = temple
+b_rilaha = city
+
+# Misc
+culture = saxon
+religion = hellenic_pagan
+
+# History

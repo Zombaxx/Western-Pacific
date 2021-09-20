@@ -1,0 +1,16 @@
+# 330 - Alajid
+
+# County Title
+title = c_alajid
+
+# Settlements
+max_settlements = 4
+b_alajid = castle
+b_ranaod = temple
+b_qonenes = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

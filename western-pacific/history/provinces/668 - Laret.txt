@@ -1,0 +1,14 @@
+# 668 - Laret
+
+# County Title
+title = c_laret
+
+# Settlements
+max_settlements = 3
+b_laret = tribal
+
+# Misc
+culture = khitan
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 1347 - Ahalujri
+
+# County Title
+title = c_ahalujri
+
+# Settlements
+max_settlements = 2
+b_ahalujri = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

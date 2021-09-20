@@ -1,0 +1,16 @@
+# 116 - Qula
+
+# County Title
+title = c_qula
+
+# Settlements
+max_settlements = 4
+b_qula = castle
+b_qarita = temple
+b_ejesine = city
+
+# Misc
+culture = marathi
+religion = hindu
+
+# History

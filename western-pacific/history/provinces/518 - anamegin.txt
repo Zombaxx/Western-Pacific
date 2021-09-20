@@ -1,5 +1,0 @@
-	title = c_anamegin
-	max_settlements = 2
-	culture = roman
-	religion = zun_pagan
-	b_tanuluk = tribal

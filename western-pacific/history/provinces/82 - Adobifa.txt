@@ -1,0 +1,15 @@
+# 82 - Adobifa
+
+# County Title
+title = c_adobifa
+
+# Settlements
+max_settlements = 3
+b_adobifa = castle
+b_losoku = temple
+
+# Misc
+culture = marathi
+religion = hindu
+
+# History

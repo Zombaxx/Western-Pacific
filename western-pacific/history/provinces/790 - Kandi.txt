@@ -1,0 +1,15 @@
+# 790 - Kandi
+
+# County Title
+title = c_kandi
+
+# Settlements
+max_settlements = 3
+b_kandi = city
+b_nanu = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

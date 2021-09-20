@@ -1,0 +1,15 @@
+# 530 - Winija
+
+# County Title
+title = c_winija
+
+# Settlements
+max_settlements = 3
+b_winija = castle
+b_karit = temple
+
+# Misc
+culture = tamil
+religion = buddhist
+
+# History

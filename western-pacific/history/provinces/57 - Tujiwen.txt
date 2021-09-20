@@ -1,0 +1,16 @@
+# 57 - Tujiwen
+
+# County Title
+title = c_tujiwen
+
+# Settlements
+max_settlements = 4
+b_tujiwen = castle
+b_azozulk = temple
+b_resemka = city
+
+# Misc
+culture = marathi
+religion = jain
+
+# History

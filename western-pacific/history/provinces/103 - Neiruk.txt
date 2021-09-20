@@ -1,0 +1,16 @@
+# 103 - Neiruk
+
+# County Title
+title = c_neiruk
+
+# Settlements
+max_settlements = 4
+b_neiruk = castle
+b_wetari = temple
+b_sidia = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

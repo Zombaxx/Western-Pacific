@@ -1,0 +1,14 @@
+# 1100 - Lusyad
+
+# County Title
+title = c_lusyad
+
+# Settlements
+max_settlements = 2
+b_lusyad = tribal
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

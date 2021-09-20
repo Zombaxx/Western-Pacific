@@ -1,5 +1,0 @@
-	title = c_kinyuva
-	max_settlements = 2
-	culture = kirghiz
-	religion = hellenic_pagan
-	b_toterin = tribal

@@ -1,0 +1,15 @@
+# 414 - Kaheran
+
+# County Title
+title = c_kaheran
+
+# Settlements
+max_settlements = 3
+b_kaheran = castle
+b_wisa = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

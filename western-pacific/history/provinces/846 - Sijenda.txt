@@ -1,0 +1,14 @@
+# 846 - Sijenda
+
+# County Title
+title = c_sijenda
+
+# Settlements
+max_settlements = 3
+b_sijenda = tribal
+
+# Misc
+culture = pictish
+religion = zun_pagan
+
+# History

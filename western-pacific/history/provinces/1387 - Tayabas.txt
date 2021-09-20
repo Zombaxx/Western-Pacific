@@ -1,0 +1,14 @@
+# 1387 - Tayabas
+
+# County Title
+title = c_tayabas
+
+# Settlements
+max_settlements = 3
+b_tayabas = tribal
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

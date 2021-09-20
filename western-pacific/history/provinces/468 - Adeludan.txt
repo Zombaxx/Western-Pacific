@@ -1,0 +1,15 @@
+# 468 - Adeludan
+
+# County Title
+title = c_adeludan
+
+# Settlements
+max_settlements = 3
+b_adeludan = castle
+b_neleuta = temple
+
+# Misc
+culture = han
+religion = catholic
+
+# History

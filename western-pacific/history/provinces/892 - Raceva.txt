@@ -1,0 +1,14 @@
+# 892 - Raceva
+
+# County Title
+title = c_raceva
+
+# Settlements
+max_settlements = 1
+b_raceva = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

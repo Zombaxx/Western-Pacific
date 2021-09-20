@@ -1,0 +1,15 @@
+# 327 - Tonast
+
+# County Title
+title = c_tonast
+
+# Settlements
+max_settlements = 3
+b_tonast = castle
+b_taesigo = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

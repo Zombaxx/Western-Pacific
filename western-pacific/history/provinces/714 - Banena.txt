@@ -1,0 +1,15 @@
+# 714 - Banena
+
+# County Title
+title = c_banena
+
+# Settlements
+max_settlements = 5
+b_banena = tribal
+b_bagol = temple
+
+# Misc
+culture = bodpa
+religion = sunni
+
+# History

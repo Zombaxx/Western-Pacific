@@ -1,0 +1,14 @@
+# 1025 - Tibeen
+
+# County Title
+title = c_tibeen
+
+# Settlements
+max_settlements = 4
+b_tibeen = tribal
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

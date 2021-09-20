@@ -1,0 +1,16 @@
+# 102 - Wadali
+
+# County Title
+title = c_wadali
+
+# Settlements
+max_settlements = 4
+b_wadali = castle
+b_rizuatl = temple
+b_qanarin = city
+
+# Misc
+culture = marathi
+religion = jain
+
+# History

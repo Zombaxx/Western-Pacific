@@ -1,0 +1,15 @@
+# 1436 - Dayabia
+
+# County Title
+title = c_dayabia
+
+# Settlements
+max_settlements = 3
+b_dayabia = castle
+b_quvje = temple
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

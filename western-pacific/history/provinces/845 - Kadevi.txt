@@ -1,0 +1,14 @@
+# 845 - Kadevi
+
+# County Title
+title = c_kadevi
+
+# Settlements
+max_settlements = 1
+b_kadevi = tribal
+
+# Misc
+culture = pictish
+religion = catholic
+
+# History

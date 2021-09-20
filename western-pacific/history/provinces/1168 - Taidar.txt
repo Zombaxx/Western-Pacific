@@ -1,0 +1,14 @@
+# 1168 - Taidar
+
+# County Title
+title = c_taidar
+
+# Settlements
+max_settlements = 1
+b_taidar = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

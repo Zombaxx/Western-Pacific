@@ -1,0 +1,15 @@
+# 816 - Sotui
+
+# County Title
+title = c_sotui
+
+# Settlements
+max_settlements = 3
+b_sotui = castle
+b_kudanret = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 860 - Waroa
+
+# County Title
+title = c_waroa
+
+# Settlements
+max_settlements = 5
+b_waroa = tribal
+b_ereinita = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

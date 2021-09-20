@@ -1,0 +1,15 @@
+# 1279 - Keraga
+
+# County Title
+title = c_keraga
+
+# Settlements
+max_settlements = 3
+b_keraga = castle
+b_kilonas = temple
+
+# Misc
+culture = old_frankish
+religion = fraticelli
+
+# History

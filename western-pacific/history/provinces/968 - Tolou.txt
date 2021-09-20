@@ -1,0 +1,14 @@
+# 968 - Tolou
+
+# County Title
+title = c_tolou
+
+# Settlements
+max_settlements = 1
+b_tolou = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

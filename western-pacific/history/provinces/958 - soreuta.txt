@@ -1,5 +1,0 @@
-	title = c_soreuta
-	max_settlements = 2
-	culture = saka
-	religion = pagan
-	b_bagohn = tribal

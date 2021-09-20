@@ -1,0 +1,15 @@
+# 40 - Koloul
+
+# County Title
+title = c_koloul
+
+# Settlements
+max_settlements = 3
+b_koloul = castle
+b_kojara = temple
+
+# Misc
+culture = sogdian
+religion = zoroastrian
+
+# History

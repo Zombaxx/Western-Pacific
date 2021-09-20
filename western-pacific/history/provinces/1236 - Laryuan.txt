@@ -1,0 +1,14 @@
+# 1236 - Laryuan
+
+# County Title
+title = c_laryuan
+
+# Settlements
+max_settlements = 2
+b_laryuan = tribal
+
+# Misc
+culture = nubian
+religion = catholic
+
+# History

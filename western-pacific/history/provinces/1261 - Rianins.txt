@@ -1,0 +1,16 @@
+# 1261 - Rianins
+
+# County Title
+title = c_rianins
+
+# Settlements
+max_settlements = 4
+b_rianins = castle
+b_wyogan = temple
+b_roryu = city
+
+# Misc
+culture = assyrian
+religion = catholic
+
+# History

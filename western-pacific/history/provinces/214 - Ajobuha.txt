@@ -1,0 +1,17 @@
+# 214 - Ajobuha
+
+# County Title
+title = c_ajobuha
+
+# Settlements
+max_settlements = 5
+b_ajobuha = castle
+b_sisau = temple
+b_acluida = city
+b_daisou = castle
+
+# Misc
+culture = bengali
+religion = sunni
+
+# History

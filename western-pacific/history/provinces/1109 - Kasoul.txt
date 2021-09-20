@@ -1,0 +1,14 @@
+# 1109 - Kasoul
+
+# County Title
+title = c_kasoul
+
+# Settlements
+max_settlements = 3
+b_kasoul = tribal
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

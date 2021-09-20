@@ -1,5 +1,0 @@
-	title = c_qarara
-	max_settlements = 2
-	culture = greek
-	religion = karaite
-	b_samonn = tribal

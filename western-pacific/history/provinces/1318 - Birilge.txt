@@ -1,0 +1,16 @@
+# 1318 - Birilge
+
+# County Title
+title = c_birilge
+
+# Settlements
+max_settlements = 4
+b_birilge = castle
+b_regite = temple
+b_ryaosuna = city
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

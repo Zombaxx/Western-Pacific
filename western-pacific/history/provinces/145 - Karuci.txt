@@ -1,0 +1,17 @@
+# 145 - Karuci
+
+# County Title
+title = c_karuci
+
+# Settlements
+max_settlements = 5
+b_karuci = castle
+b_alucooma = temple
+b_kamsam = city
+b_keaney = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

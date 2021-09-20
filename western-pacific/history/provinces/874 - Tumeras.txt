@@ -1,0 +1,14 @@
+# 874 - Tumeras
+
+# County Title
+title = c_tumeras
+
+# Settlements
+max_settlements = 4
+b_tumeras = tribal
+
+# Misc
+culture = zhangzhung
+religion = hindu
+
+# History

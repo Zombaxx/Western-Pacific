@@ -1,0 +1,14 @@
+# 1405 - Wararam
+
+# County Title
+title = c_wararam
+
+# Settlements
+max_settlements = 2
+b_wararam = tribal
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

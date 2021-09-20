@@ -1,0 +1,14 @@
+# 1352 - Kagirve
+
+# County Title
+title = c_kagirve
+
+# Settlements
+max_settlements = 3
+b_kagirve = tribal
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

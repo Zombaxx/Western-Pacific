@@ -1,0 +1,17 @@
+# 175 - Edavimar
+
+# County Title
+title = c_edavimar
+
+# Settlements
+max_settlements = 5
+b_edavimar = castle
+b_livenes = temple
+b_asvepes = city
+b_surei = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,15 @@
+# 268 - Ezbaye
+
+# County Title
+title = c_ezbaye
+
+# Settlements
+max_settlements = 5
+b_ezbaye = tribal
+b_aslarti = temple
+
+# Misc
+culture = zhangzhung
+religion = orthodox
+
+# History

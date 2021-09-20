@@ -1,0 +1,14 @@
+# 949 - Kanilay
+
+# County Title
+title = c_kanilay
+
+# Settlements
+max_settlements = 3
+b_kanilay = tribal
+
+# Misc
+culture = kanuri
+religion = orthodox
+
+# History

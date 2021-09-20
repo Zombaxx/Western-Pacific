@@ -1,0 +1,17 @@
+# 535 - Aurorae Planum
+
+# County Title
+title = c_aurorae_planum
+
+# Settlements
+max_settlements = 5
+b_aurorae_planum = castle
+b_ebayine = temple
+b_niatakk = city
+b_kaminoi = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

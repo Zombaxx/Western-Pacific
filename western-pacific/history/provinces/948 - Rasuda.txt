@@ -1,0 +1,14 @@
+# 948 - Rasuda
+
+# County Title
+title = c_rasuda
+
+# Settlements
+max_settlements = 1
+b_rasuda = tribal
+
+# Misc
+culture = hausa
+religion = aztec
+
+# History

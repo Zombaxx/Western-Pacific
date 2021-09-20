@@ -1,0 +1,15 @@
+# 1237 - Qenerd
+
+# County Title
+title = c_qenerd
+
+# Settlements
+max_settlements = 3
+b_qenerd = castle
+b_tutsen = temple
+
+# Misc
+culture = old_frankish
+religion = buddhist
+
+# History

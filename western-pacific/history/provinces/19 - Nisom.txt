@@ -1,0 +1,16 @@
+# 19 - Nisom
+
+# County Title
+title = c_nisom
+
+# Settlements
+max_settlements = 4
+b_nisom = castle
+b_aluulena = temple
+b_tautigun = city
+
+# Misc
+culture = gujurati
+religion = zoroastrian
+
+# History

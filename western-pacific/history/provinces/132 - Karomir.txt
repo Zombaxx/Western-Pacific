@@ -1,0 +1,16 @@
+# 132 - Karomir
+
+# County Title
+title = c_karomir
+
+# Settlements
+max_settlements = 4
+b_karomir = castle
+b_kogenna = temple
+b_radeva = city
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

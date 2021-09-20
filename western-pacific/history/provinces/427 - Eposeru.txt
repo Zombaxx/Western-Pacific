@@ -1,0 +1,15 @@
+# 427 - Eposeru
+
+# County Title
+title = c_eposeru
+
+# Settlements
+max_settlements = 3
+b_eposeru = castle
+b_weetisa = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

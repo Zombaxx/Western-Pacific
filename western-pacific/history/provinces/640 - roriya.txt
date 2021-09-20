@@ -1,5 +1,0 @@
-	title = c_roriya
-	max_settlements = 2
-	culture = old_frankish
-	religion = kharijite
-	b_sathena = tribal

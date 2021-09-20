@@ -1,0 +1,16 @@
+# 1510 - Rodew
+
+# County Title
+title = c_rodew
+
+# Settlements
+max_settlements = 4
+b_rodew = castle
+b_lukepi = temple
+b_dilahu = city
+
+# Misc
+culture = assyrian
+religion = tengri_pagan
+
+# History

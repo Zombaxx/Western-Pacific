@@ -1,0 +1,18 @@
+# 494 - Jakarta
+
+# County Title
+title = c_jakarta
+
+# Settlements
+max_settlements = 7
+b_jakarta = castle
+b_qunes = temple
+b_etyaa = city
+b_qavund = castle
+b_tavair = temple
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

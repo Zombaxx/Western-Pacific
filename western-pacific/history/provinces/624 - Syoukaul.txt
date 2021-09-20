@@ -1,0 +1,14 @@
+# 624 - Syoukaul
+
+# County Title
+title = c_syoukaul
+
+# Settlements
+max_settlements = 3
+b_syoukaul = tribal
+
+# Misc
+culture = alan
+religion = zun_pagan
+
+# History

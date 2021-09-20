@@ -1,0 +1,15 @@
+# 861 - Womidha
+
+# County Title
+title = c_womidha
+
+# Settlements
+max_settlements = 3
+b_womidha = castle
+b_syoete = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

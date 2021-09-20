@@ -1,0 +1,16 @@
+# 53 - Torala
+
+# County Title
+title = c_torala
+
+# Settlements
+max_settlements = 4
+b_torala = castle
+b_elikusa = temple
+b_kaxira = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

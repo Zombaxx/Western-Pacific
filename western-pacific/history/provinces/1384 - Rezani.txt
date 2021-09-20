@@ -1,0 +1,14 @@
+# 1384 - Rezani
+
+# County Title
+title = c_rezani
+
+# Settlements
+max_settlements = 3
+b_rezani = tribal
+
+# Misc
+culture = assyrian
+religion = west_african_pagan
+
+# History

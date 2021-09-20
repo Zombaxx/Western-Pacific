@@ -1,0 +1,16 @@
+# 410 - Licyu
+
+# County Title
+title = c_licyu
+
+# Settlements
+max_settlements = 4
+b_licyu = castle
+b_kaulila = temple
+b_lazida = city
+
+# Misc
+culture = khitan
+religion = buddhist
+
+# History

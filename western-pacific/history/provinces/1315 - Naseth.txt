@@ -1,0 +1,14 @@
+# 1315 - Naseth
+
+# County Title
+title = c_naseth
+
+# Settlements
+max_settlements = 2
+b_naseth = tribal
+
+# Misc
+culture = zaghawa
+religion = orthodox
+
+# History

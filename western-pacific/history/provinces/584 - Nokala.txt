@@ -1,0 +1,16 @@
+# 584 - Nokala
+
+# County Title
+title = c_nokala
+
+# Settlements
+max_settlements = 4
+b_nokala = castle
+b_tinozar = temple
+b_weireer = city
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History

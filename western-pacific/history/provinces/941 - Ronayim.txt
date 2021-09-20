@@ -1,0 +1,15 @@
+# 941 - Ronayim
+
+# County Title
+title = c_ronayim
+
+# Settlements
+max_settlements = 7
+b_ronayim = tribal
+b_bonyad = temple
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

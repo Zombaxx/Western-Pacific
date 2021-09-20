@@ -1,0 +1,15 @@
+# 834 - Radaide
+
+# County Title
+title = c_radaide
+
+# Settlements
+max_settlements = 3
+b_radaide = castle
+b_ekubun = temple
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

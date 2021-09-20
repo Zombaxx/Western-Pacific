@@ -1,0 +1,15 @@
+# 257 - Rabiwan
+
+# County Title
+title = c_rabiwan
+
+# Settlements
+max_settlements = 3
+b_rabiwan = castle
+b_nunitya = temple
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

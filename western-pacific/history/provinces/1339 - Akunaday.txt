@@ -1,0 +1,14 @@
+# 1339 - Akunaday
+
+# County Title
+title = c_akunaday
+
+# Settlements
+max_settlements = 3
+b_akunaday = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 811 - Botian
+
+# County Title
+title = c_botian
+
+# Settlements
+max_settlements = 1
+b_botian = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

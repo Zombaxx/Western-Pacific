@@ -1,0 +1,16 @@
+# 464 - Remanjor
+
+# County Title
+title = c_remanjor
+
+# Settlements
+max_settlements = 4
+b_remanjor = castle
+b_sifegin = temple
+b_duzoja = city
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

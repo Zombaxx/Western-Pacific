@@ -1,5 +1,0 @@
-	title = c_qolila
-	max_settlements = 2
-	culture = volhynian
-	religion = kharijite
-	b_ecamavi = tribal

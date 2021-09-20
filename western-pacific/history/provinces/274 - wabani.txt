@@ -1,5 +1,0 @@
-	title = c_wabani
-	max_settlements = 2
-	culture = avar
-	religion = slavic_pagan_reformed
-	b_totaham = tribal

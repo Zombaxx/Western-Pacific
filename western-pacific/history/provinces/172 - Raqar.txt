@@ -1,0 +1,17 @@
+# 172 - Raqar
+
+# County Title
+title = c_raqar
+
+# Settlements
+max_settlements = 5
+b_raqar = castle
+b_taboke = temple
+b_werenda = city
+b_rorirve = castle
+
+# Misc
+culture = bengali
+religion = buddhist
+
+# History

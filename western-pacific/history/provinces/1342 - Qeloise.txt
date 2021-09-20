@@ -1,0 +1,14 @@
+# 1342 - Qeloise
+
+# County Title
+title = c_qeloise
+
+# Settlements
+max_settlements = 3
+b_qeloise = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

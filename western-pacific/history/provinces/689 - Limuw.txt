@@ -1,0 +1,14 @@
+# 689 - Limuw
+
+# County Title
+title = c_limuw
+
+# Settlements
+max_settlements = 3
+b_limuw = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

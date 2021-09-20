@@ -1,0 +1,15 @@
+# 376 - Araneda
+
+# County Title
+title = c_araneda
+
+# Settlements
+max_settlements = 3
+b_araneda = castle
+b_wemanhad = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

@@ -1,0 +1,14 @@
+# 1198 - Kamart
+
+# County Title
+title = c_kamart
+
+# Settlements
+max_settlements = 1
+b_kamart = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

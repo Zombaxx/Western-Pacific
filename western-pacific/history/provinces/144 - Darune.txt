@@ -1,0 +1,16 @@
+# 144 - Darune
+
+# County Title
+title = c_darune
+
+# Settlements
+max_settlements = 4
+b_darune = castle
+b_enunir = temple
+b_welagha = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

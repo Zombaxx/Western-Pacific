@@ -1,0 +1,14 @@
+# 647 - Qoimyan
+
+# County Title
+title = c_qoimyan
+
+# Settlements
+max_settlements = 2
+b_qoimyan = tribal
+
+# Misc
+culture = visigothic
+religion = zun_pagan
+
+# History

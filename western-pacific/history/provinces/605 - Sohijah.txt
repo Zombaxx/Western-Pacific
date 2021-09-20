@@ -1,0 +1,14 @@
+# 605 - Sohijah
+
+# County Title
+title = c_sohijah
+
+# Settlements
+max_settlements = 2
+b_sohijah = tribal
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

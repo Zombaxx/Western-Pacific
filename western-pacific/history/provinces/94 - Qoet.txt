@@ -1,0 +1,15 @@
+# 94 - Qoet
+
+# County Title
+title = c_qoet
+
+# Settlements
+max_settlements = 3
+b_qoet = castle
+b_estahal = temple
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

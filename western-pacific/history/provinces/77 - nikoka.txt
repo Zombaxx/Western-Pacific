@@ -1,5 +1,0 @@
-	title = c_nikoka
-	max_settlements = 2
-	culture = norwegian
-	religion = taoist
-	b_woka = tribal

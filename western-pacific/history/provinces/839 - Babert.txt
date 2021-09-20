@@ -1,0 +1,15 @@
+# 839 - Babert
+
+# County Title
+title = c_babert
+
+# Settlements
+max_settlements = 5
+b_babert = tribal
+b_tyokinaj = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

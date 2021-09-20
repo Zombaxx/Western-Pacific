@@ -1,0 +1,14 @@
+# 660 - Siloras
+
+# County Title
+title = c_siloras
+
+# Settlements
+max_settlements = 2
+b_siloras = tribal
+
+# Misc
+culture = visigothic
+religion = zun_pagan
+
+# History

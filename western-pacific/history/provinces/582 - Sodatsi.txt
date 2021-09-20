@@ -1,0 +1,14 @@
+# 582 - Sodatsi
+
+# County Title
+title = c_sodatsi
+
+# Settlements
+max_settlements = 3
+b_sodatsi = tribal
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

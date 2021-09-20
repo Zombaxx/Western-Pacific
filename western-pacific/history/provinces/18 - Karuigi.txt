@@ -1,0 +1,15 @@
+# 18 - Karuigi
+
+# County Title
+title = c_karuigi
+
+# Settlements
+max_settlements = 3
+b_karuigi = castle
+b_wereuta = temple
+
+# Misc
+culture = sogdian
+religion = zoroastrian
+
+# History

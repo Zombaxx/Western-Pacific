@@ -1,0 +1,15 @@
+# 313 - Lounasa
+
+# County Title
+title = c_lounasa
+
+# Settlements
+max_settlements = 3
+b_lounasa = castle
+b_bicavo = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

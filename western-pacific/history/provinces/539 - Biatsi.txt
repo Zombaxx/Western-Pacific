@@ -1,0 +1,15 @@
+# 539 - Biatsi
+
+# County Title
+title = c_biatsi
+
+# Settlements
+max_settlements = 3
+b_biatsi = castle
+b_leroto = temple
+
+# Misc
+culture = han
+religion = sunni
+
+# History

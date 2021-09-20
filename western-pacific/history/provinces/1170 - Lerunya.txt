@@ -1,0 +1,17 @@
+# 1170 - Lerunya
+
+# County Title
+title = c_lerunya
+
+# Settlements
+max_settlements = 5
+b_lerunya = castle
+b_kelira = temple
+b_atekain = city
+b_kekeye = castle
+
+# Misc
+culture = basque
+religion = aztec
+
+# History

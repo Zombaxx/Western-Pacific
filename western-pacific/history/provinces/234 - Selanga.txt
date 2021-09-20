@@ -1,0 +1,15 @@
+# 234 - Selanga
+
+# County Title
+title = c_selanga
+
+# Settlements
+max_settlements = 3
+b_selanga = castle
+b_rakitya = temple
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

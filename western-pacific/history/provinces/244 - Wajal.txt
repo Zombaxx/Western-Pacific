@@ -1,0 +1,16 @@
+# 244 - Wajal
+
+# County Title
+title = c_wajal
+
+# Settlements
+max_settlements = 4
+b_wajal = castle
+b_kizepi = temple
+b_razomas = city
+
+# Misc
+culture = tangut
+religion = jain
+
+# History

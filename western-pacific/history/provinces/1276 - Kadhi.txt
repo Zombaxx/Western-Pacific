@@ -1,0 +1,14 @@
+# 1276 - Kadhi
+
+# County Title
+title = c_kadhi
+
+# Settlements
+max_settlements = 3
+b_kadhi = tribal
+
+# Misc
+culture = daju
+religion = miaphysite
+
+# History

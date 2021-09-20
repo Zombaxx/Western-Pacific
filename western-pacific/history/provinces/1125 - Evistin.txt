@@ -1,0 +1,14 @@
+# 1125 - Evistin
+
+# County Title
+title = c_evistin
+
+# Settlements
+max_settlements = 1
+b_evistin = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

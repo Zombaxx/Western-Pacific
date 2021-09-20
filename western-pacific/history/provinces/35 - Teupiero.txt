@@ -1,0 +1,15 @@
+# 35 - Teupiero
+
+# County Title
+title = c_teupiero
+
+# Settlements
+max_settlements = 3
+b_teupiero = castle
+b_kivana = temple
+
+# Misc
+culture = gujurati
+religion = hindu
+
+# History

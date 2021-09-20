@@ -1,0 +1,17 @@
+# 1445 - Canberry
+
+# County Title
+title = c_canberry
+
+# Settlements
+max_settlements = 6
+b_canberry = castle
+b_ecasulia = temple
+b_lacesh = city
+b_kabatha = castle
+
+# Misc
+culture = mongol
+religion = buddhist
+
+# History

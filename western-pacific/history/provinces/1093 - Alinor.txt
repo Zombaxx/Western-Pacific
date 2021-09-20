@@ -1,0 +1,14 @@
+# 1093 - Alinor
+
+# County Title
+title = c_alinor
+
+# Settlements
+max_settlements = 2
+b_alinor = castle
+
+# Misc
+culture = basque
+religion = zun_pagan
+
+# History

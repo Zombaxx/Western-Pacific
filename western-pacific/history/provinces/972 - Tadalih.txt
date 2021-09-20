@@ -1,0 +1,15 @@
+# 972 - Tadalih
+
+# County Title
+title = c_tadalih
+
+# Settlements
+max_settlements = 6
+b_tadalih = temple
+b_tinonza = tribal
+
+# Misc
+culture = sumpa
+religion = orthodox
+
+# History

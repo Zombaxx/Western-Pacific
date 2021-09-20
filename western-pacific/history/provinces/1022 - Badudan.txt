@@ -1,0 +1,14 @@
+# 1022 - Badudan
+
+# County Title
+title = c_badudan
+
+# Settlements
+max_settlements = 1
+b_badudan = tribal
+
+# Misc
+culture = pictish
+religion = zun_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 663 - Tacoya
+
+# County Title
+title = c_tacoya
+
+# Settlements
+max_settlements = 3
+b_tacoya = castle
+b_aloquz = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

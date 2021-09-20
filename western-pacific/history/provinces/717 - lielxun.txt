@@ -1,5 +1,0 @@
-	title = c_lielxun
-	max_settlements = 2
-	culture = outremer
-	religion = aztec_reformed
-	b_kakiulf = tribal

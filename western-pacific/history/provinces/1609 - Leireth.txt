@@ -1,0 +1,15 @@
+# 1609 - Leireth
+
+# County Title
+title = c_leireth
+
+# Settlements
+max_settlements = 6
+b_leireth = tribal
+b_wageth = temple
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

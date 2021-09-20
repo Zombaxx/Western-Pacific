@@ -1,0 +1,14 @@
+# 1367 - Keming
+
+# County Title
+title = c_keming
+
+# Settlements
+max_settlements = 3
+b_keming = tribal
+
+# Misc
+culture = assyrian
+religion = west_african_pagan
+
+# History

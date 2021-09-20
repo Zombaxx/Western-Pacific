@@ -1,0 +1,14 @@
+# 775 - Ragnus
+
+# County Title
+title = c_ragnus
+
+# Settlements
+max_settlements = 1
+b_ragnus = tribal
+
+# Misc
+culture = greek
+religion = zun_pagan
+
+# History

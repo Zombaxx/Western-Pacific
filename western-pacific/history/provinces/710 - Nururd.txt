@@ -1,0 +1,14 @@
+# 710 - Nururd
+
+# County Title
+title = c_nururd
+
+# Settlements
+max_settlements = 1
+b_nururd = castle
+
+# Misc
+culture = visigothic
+religion = aztec
+
+# History

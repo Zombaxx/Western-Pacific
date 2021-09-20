@@ -1,0 +1,16 @@
+# 272 - Losasin
+
+# County Title
+title = c_losasin
+
+# Settlements
+max_settlements = 4
+b_losasin = castle
+b_nekirek = temple
+b_kadeliel = city
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

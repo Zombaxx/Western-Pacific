@@ -1,0 +1,14 @@
+# 1179 - Kahand
+
+# County Title
+title = c_kahand
+
+# Settlements
+max_settlements = 3
+b_kahand = tribal
+
+# Misc
+culture = nubian
+religion = catholic
+
+# History

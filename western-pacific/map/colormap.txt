@@ -1,2 +1,0 @@
-name = "map\\terrain\\colormap.dds"
-multiplier = 1

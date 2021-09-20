@@ -1,0 +1,15 @@
+# 1598 - Robomir
+
+# County Title
+title = c_robomir
+
+# Settlements
+max_settlements = 3
+b_robomir = castle
+b_egrourou = temple
+
+# Misc
+culture = norse
+religion = west_african_pagan
+
+# History

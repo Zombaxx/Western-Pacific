@@ -1,0 +1,5 @@
+1064.1.1 = {
+	holding_dynasty = 106144 # Ralong - makes this a FAMILY_PALACE type Holding
+	liege="d_hong_kong"
+	holder = 212295
+}

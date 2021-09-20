@@ -1,0 +1,16 @@
+# 887 - Buwadevi
+
+# County Title
+title = c_buwadevi
+
+# Settlements
+max_settlements = 4
+b_buwadevi = castle
+b_emaluji = temple
+b_ruwuji = city
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

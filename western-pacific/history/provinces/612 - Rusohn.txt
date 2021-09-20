@@ -1,0 +1,14 @@
+# 612 - Rusohn
+
+# County Title
+title = c_rusohn
+
+# Settlements
+max_settlements = 2
+b_rusohn = tribal
+
+# Misc
+culture = khitan
+religion = orthodox
+
+# History

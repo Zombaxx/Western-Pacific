@@ -1,0 +1,14 @@
+# 1408 - Eguil
+
+# County Title
+title = c_eguil
+
+# Settlements
+max_settlements = 2
+b_eguil = castle
+
+# Misc
+culture = english
+religion = hellenic_pagan
+
+# History

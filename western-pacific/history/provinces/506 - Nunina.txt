@@ -1,0 +1,14 @@
+# 506 - Nunina
+
+# County Title
+title = c_nunina
+
+# Settlements
+max_settlements = 2
+b_nunina = castle
+
+# Misc
+culture = nepali
+religion = shiite
+
+# History

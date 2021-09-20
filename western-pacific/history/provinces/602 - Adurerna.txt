@@ -1,0 +1,17 @@
+# 602 - Adurerna
+
+# County Title
+title = c_adurerna
+
+# Settlements
+max_settlements = 6
+b_adurerna = castle
+b_bimali = temple
+b_levar = city
+b_nurude = castle
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History

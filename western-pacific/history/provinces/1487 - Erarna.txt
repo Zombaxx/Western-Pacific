@@ -1,0 +1,16 @@
+# 1487 - Erarna
+
+# County Title
+title = c_erarna
+
+# Settlements
+max_settlements = 4
+b_erarna = castle
+b_kanatha = temple
+b_numofie = city
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

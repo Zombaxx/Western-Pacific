@@ -1,0 +1,15 @@
+# 1482 - Ryayba
+
+# County Title
+title = c_ryayba
+
+# Settlements
+max_settlements = 3
+b_ryayba = castle
+b_telanta = temple
+
+# Misc
+culture = old_saxon
+religion = orthodox
+
+# History

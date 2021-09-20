@@ -1,0 +1,17 @@
+# 61 - Satas
+
+# County Title
+title = c_satas
+
+# Settlements
+max_settlements = 5
+b_satas = castle
+b_ahawuida = temple
+b_temukpo = city
+b_kobathi = castle
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

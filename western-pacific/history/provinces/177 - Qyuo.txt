@@ -1,0 +1,16 @@
+# 177 - Qyuo
+
+# County Title
+title = c_qyuo
+
+# Settlements
+max_settlements = 4
+b_qyuo = castle
+b_koste = temple
+b_wucuzma = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,14 @@
+# 270 - Rarine
+
+# County Title
+title = c_rarine
+
+# Settlements
+max_settlements = 3
+b_rarine = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

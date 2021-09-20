@@ -1,0 +1,14 @@
+# 264 - Anihisam
+
+# County Title
+title = c_anihisam
+
+# Settlements
+max_settlements = 4
+b_anihisam = tribal
+
+# Misc
+culture = zhangzhung
+religion = orthodox
+
+# History

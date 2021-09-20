@@ -1,0 +1,17 @@
+# 454 - Rerava
+
+# County Title
+title = c_rerava
+
+# Settlements
+max_settlements = 5
+b_rerava = castle
+b_takius = temple
+b_qeinavi = city
+b_nudahar = castle
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

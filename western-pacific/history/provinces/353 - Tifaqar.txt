@@ -1,0 +1,15 @@
+# 353 - Tifaqar
+
+# County Title
+title = c_tifaqar
+
+# Settlements
+max_settlements = 3
+b_tifaqar = castle
+b_suripaz = temple
+
+# Misc
+culture = telugu
+religion = bon
+
+# History

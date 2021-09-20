@@ -1,0 +1,14 @@
+# 1379 - Rasogna
+
+# County Title
+title = c_rasogna
+
+# Settlements
+max_settlements = 3
+b_rasogna = tribal
+
+# Misc
+culture = pictish
+religion = orthodox
+
+# History

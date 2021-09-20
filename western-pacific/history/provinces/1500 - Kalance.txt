@@ -1,0 +1,16 @@
+# 1500 - Kalance
+
+# County Title
+title = c_kalance
+
+# Settlements
+max_settlements = 4
+b_kalance = castle
+b_sunewar = temple
+b_sabaut = city
+
+# Misc
+culture = crimean_gothic
+religion = orthodox
+
+# History

@@ -1,0 +1,14 @@
+# 1361 - Lukanna
+
+# County Title
+title = c_lukanna
+
+# Settlements
+max_settlements = 3
+b_lukanna = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 498 - Bumiuva
+
+# County Title
+title = c_bumiuva
+
+# Settlements
+max_settlements = 3
+b_bumiuva = castle
+b_aviuva = temple
+
+# Misc
+culture = tamil
+religion = bon
+
+# History

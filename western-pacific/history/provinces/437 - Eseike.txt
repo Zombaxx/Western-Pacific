@@ -1,0 +1,16 @@
+# 437 - Eseike
+
+# County Title
+title = c_eseike
+
+# Settlements
+max_settlements = 4
+b_eseike = castle
+b_laniya = temple
+b_etukinn = city
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

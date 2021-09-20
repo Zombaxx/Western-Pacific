@@ -1,0 +1,14 @@
+# 1328 - Asund
+
+# County Title
+title = c_asund
+
+# Settlements
+max_settlements = 4
+b_asund = tribal
+
+# Misc
+culture = assyrian
+religion = norse_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 117 - Kevovai
+
+# County Title
+title = c_kevovai
+
+# Settlements
+max_settlements = 4
+b_kevovai = castle
+b_kayang = temple
+b_wuhiklef = city
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

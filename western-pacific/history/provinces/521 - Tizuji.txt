@@ -1,0 +1,16 @@
+# 521 - Tizuji
+
+# County Title
+title = c_tizuji
+
+# Settlements
+max_settlements = 4
+b_tizuji = castle
+b_egyida = temple
+b_erata = city
+
+# Misc
+culture = telugu
+religion = catholic
+
+# History

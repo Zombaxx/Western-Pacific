@@ -1,0 +1,16 @@
+# 51 - Avimena
+
+# County Title
+title = c_avimena
+
+# Settlements
+max_settlements = 4
+b_avimena = castle
+b_asahund = temple
+b_kalaud = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

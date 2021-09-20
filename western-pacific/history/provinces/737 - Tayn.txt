@@ -1,0 +1,15 @@
+# 737 - Tayn
+
+# County Title
+title = c_tayn
+
+# Settlements
+max_settlements = 5
+b_tayn = tribal
+b_ticagha = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

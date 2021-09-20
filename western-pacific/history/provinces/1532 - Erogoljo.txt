@@ -1,0 +1,15 @@
+# 1532 - Erogoljo
+
+# County Title
+title = c_erogoljo
+
+# Settlements
+max_settlements = 6
+b_erogoljo = tribal
+b_reisifa = temple
+
+# Misc
+culture = nahuatl
+religion = tengri_pagan
+
+# History

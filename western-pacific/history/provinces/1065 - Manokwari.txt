@@ -1,0 +1,15 @@
+# 1065 - Manokwari
+
+# County Title
+title = c_manokwari
+
+# Settlements
+max_settlements = 6
+b_manokwari = temple
+b_qelavo = tribal
+
+# Misc
+culture = nubian
+religion = sunni
+
+# History

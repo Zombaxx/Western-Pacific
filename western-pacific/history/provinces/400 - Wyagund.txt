@@ -1,0 +1,15 @@
+# 400 - Wyagund
+
+# County Title
+title = c_wyagund
+
+# Settlements
+max_settlements = 3
+b_wyagund = castle
+b_rotorri = temple
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

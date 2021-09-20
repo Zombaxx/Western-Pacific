@@ -1,0 +1,16 @@
+# 392 - Enaca
+
+# County Title
+title = c_enaca
+
+# Settlements
+max_settlements = 4
+b_enaca = castle
+b_badarti = temple
+b_aseyfigo = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

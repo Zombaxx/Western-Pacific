@@ -1,0 +1,14 @@
+# 571 - Kander
+
+# County Title
+title = c_kander
+
+# Settlements
+max_settlements = 3
+b_kander = tribal
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

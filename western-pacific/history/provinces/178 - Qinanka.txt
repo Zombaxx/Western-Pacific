@@ -1,0 +1,15 @@
+# 178 - Qinanka
+
+# County Title
+title = c_qinanka
+
+# Settlements
+max_settlements = 3
+b_qinanka = castle
+b_totyamo = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

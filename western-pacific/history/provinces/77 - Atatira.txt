@@ -1,0 +1,17 @@
+# 77 - Atatira
+
+# County Title
+title = c_atatira
+
+# Settlements
+max_settlements = 5
+b_atatira = castle
+b_limava = temple
+b_secusi = city
+b_ericemma = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

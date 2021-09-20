@@ -1,0 +1,14 @@
+# 1163 - Bemikkel
+
+# County Title
+title = c_bemikkel
+
+# Settlements
+max_settlements = 2
+b_bemikkel = tribal
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

@@ -1,0 +1,14 @@
+# 1629 - Qarar
+
+# County Title
+title = c_qarar
+
+# Settlements
+max_settlements = 4
+b_qarar = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

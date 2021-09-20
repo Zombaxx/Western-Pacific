@@ -1,0 +1,15 @@
+# 690 - Dyud
+
+# County Title
+title = c_dyud
+
+# Settlements
+max_settlements = 4
+b_dyud = tribal
+b_bonaly = temple
+
+# Misc
+culture = visigothic
+religion = zun_pagan
+
+# History

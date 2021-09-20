@@ -1,0 +1,15 @@
+# 659 - Qanali
+
+# County Title
+title = c_qanali
+
+# Settlements
+max_settlements = 5
+b_qanali = tribal
+b_lurai = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

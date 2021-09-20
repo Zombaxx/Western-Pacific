@@ -1,0 +1,16 @@
+# 217 - Temandar
+
+# County Title
+title = c_temandar
+
+# Settlements
+max_settlements = 4
+b_temandar = castle
+b_sainay = temple
+b_lohisa = city
+
+# Misc
+culture = bengali
+religion = sunni
+
+# History

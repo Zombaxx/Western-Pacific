@@ -1,0 +1,17 @@
+# 135 - Tagamr
+
+# County Title
+title = c_tagamr
+
+# Settlements
+max_settlements = 5
+b_tagamr = castle
+b_nola-va = temple
+b_nisam = city
+b_seteva = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

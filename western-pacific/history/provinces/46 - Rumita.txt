@@ -1,0 +1,16 @@
+# 46 - Rumita
+
+# County Title
+title = c_rumita
+
+# Settlements
+max_settlements = 4
+b_rumita = castle
+b_sarotan = temple
+b_kerule = city
+
+# Misc
+culture = marathi
+religion = catholic
+
+# History

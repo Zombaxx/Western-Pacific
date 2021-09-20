@@ -1,5 +1,0 @@
-	title = c_bezaghu
-	max_settlements = 2
-	culture = kirghiz
-	religion = taoist
-	b_teorge = tribal

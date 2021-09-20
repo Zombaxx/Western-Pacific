@@ -1,0 +1,14 @@
+# 862 - Linathi
+
+# County Title
+title = c_linathi
+
+# Settlements
+max_settlements = 4
+b_linathi = tribal
+
+# Misc
+culture = zhangzhung
+religion = hindu
+
+# History

@@ -1,0 +1,15 @@
+# 611 - Torurna
+
+# County Title
+title = c_torurna
+
+# Settlements
+max_settlements = 3
+b_torurna = city
+b_nomiaco = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

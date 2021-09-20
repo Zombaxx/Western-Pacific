@@ -1,0 +1,16 @@
+# 194 - Lilaig
+
+# County Title
+title = c_lilaig
+
+# Settlements
+max_settlements = 4
+b_lilaig = castle
+b_qamunka = temple
+b_emawud = city
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

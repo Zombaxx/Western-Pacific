@@ -1,0 +1,14 @@
+# 1448 - Dasine
+
+# County Title
+title = c_dasine
+
+# Settlements
+max_settlements = 4
+b_dasine = tribal
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

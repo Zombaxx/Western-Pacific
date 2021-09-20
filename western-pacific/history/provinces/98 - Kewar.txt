@@ -1,0 +1,16 @@
+# 98 - Kewar
+
+# County Title
+title = c_kewar
+
+# Settlements
+max_settlements = 4
+b_kewar = castle
+b_tadoka = temple
+b_eiunes = city
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

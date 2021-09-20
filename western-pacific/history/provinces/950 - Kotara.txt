@@ -1,0 +1,14 @@
+# 950 - Kotara
+
+# County Title
+title = c_kotara
+
+# Settlements
+max_settlements = 2
+b_kotara = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

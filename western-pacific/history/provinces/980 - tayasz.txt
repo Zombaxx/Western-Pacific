@@ -1,5 +1,0 @@
-	title = c_tayasz
-	max_settlements = 2
-	culture = frisian
-	religion = shiite
-	b_akalupo = tribal

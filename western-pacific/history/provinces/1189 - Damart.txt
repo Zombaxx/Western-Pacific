@@ -1,0 +1,14 @@
+# 1189 - Damart
+
+# County Title
+title = c_damart
+
+# Settlements
+max_settlements = 3
+b_damart = tribal
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

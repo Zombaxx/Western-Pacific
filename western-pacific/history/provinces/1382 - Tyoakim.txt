@@ -1,0 +1,14 @@
+# 1382 - Tyoakim
+
+# County Title
+title = c_tyoakim
+
+# Settlements
+max_settlements = 4
+b_tyoakim = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 1292 - Ranid
+
+# County Title
+title = c_ranid
+
+# Settlements
+max_settlements = 4
+b_ranid = castle
+b_nanyad = temple
+b_egajomez = city
+
+# Misc
+culture = old_frankish
+religion = fraticelli
+
+# History

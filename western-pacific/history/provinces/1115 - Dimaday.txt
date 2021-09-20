@@ -1,0 +1,15 @@
+# 1115 - Dimaday
+
+# County Title
+title = c_dimaday
+
+# Settlements
+max_settlements = 5
+b_dimaday = tribal
+b_necagop = temple
+
+# Misc
+culture = greek
+religion = catholic
+
+# History

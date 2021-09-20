@@ -1,0 +1,15 @@
+# 1357 - Ronenr
+
+# County Title
+title = c_ronenr
+
+# Settlements
+max_settlements = 3
+b_ronenr = castle
+b_qamaba = temple
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

@@ -1,0 +1,16 @@
+# 71 - Lamelec
+
+# County Title
+title = c_lamelec
+
+# Settlements
+max_settlements = 4
+b_lamelec = castle
+b_tadoya = temple
+b_keunda = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

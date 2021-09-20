@@ -1,0 +1,15 @@
+# 1431 - Tanit
+
+# County Title
+title = c_tanit
+
+# Settlements
+max_settlements = 3
+b_tanit = castle
+b_rivoffer = temple
+
+# Misc
+culture = old_saxon
+religion = orthodox
+
+# History

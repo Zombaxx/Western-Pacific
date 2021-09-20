@@ -1,0 +1,14 @@
+# 1186 - Kusoan
+
+# County Title
+title = c_kusoan
+
+# Settlements
+max_settlements = 2
+b_kusoan = tribal
+
+# Misc
+culture = assyrian
+religion = west_african_pagan
+
+# History

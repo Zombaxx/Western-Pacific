@@ -1,0 +1,14 @@
+# 1307 - Simavid
+
+# County Title
+title = c_simavid
+
+# Settlements
+max_settlements = 2
+b_simavid = tribal
+
+# Misc
+culture = pictish
+religion = orthodox
+
+# History

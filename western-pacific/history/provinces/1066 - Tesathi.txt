@@ -1,0 +1,14 @@
+# 1066 - Tesathi
+
+# County Title
+title = c_tesathi
+
+# Settlements
+max_settlements = 3
+b_tesathi = tribal
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

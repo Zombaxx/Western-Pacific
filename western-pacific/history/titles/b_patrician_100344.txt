@@ -1,0 +1,5 @@
+1055.1.1 = {
+	holding_dynasty = 100344 # Jatigid - makes this a FAMILY_PALACE type Holding
+	liege="d_mumai"
+	holder = 200695
+}

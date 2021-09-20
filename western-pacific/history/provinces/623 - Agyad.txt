@@ -1,0 +1,14 @@
+# 623 - Agyad
+
+# County Title
+title = c_agyad
+
+# Settlements
+max_settlements = 1
+b_agyad = tribal
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

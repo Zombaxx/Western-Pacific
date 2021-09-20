@@ -1,0 +1,16 @@
+# 165 - Samati
+
+# County Title
+title = c_samati
+
+# Settlements
+max_settlements = 4
+b_samati = castle
+b_dyaakka = temple
+b_axibisii = city
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

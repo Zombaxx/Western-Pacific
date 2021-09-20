@@ -1,0 +1,14 @@
+# 451 - Wukaac
+
+# County Title
+title = c_wukaac
+
+# Settlements
+max_settlements = 2
+b_wukaac = castle
+
+# Misc
+culture = han
+religion = bon
+
+# History

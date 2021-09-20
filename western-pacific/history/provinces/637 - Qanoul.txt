@@ -1,0 +1,21 @@
+# 637 - Qanoul
+
+# County Title
+title = c_qanoul
+
+# Settlements
+max_settlements = 7
+b_qanoul = city
+b_bujaud = temple
+b_sehobor = castle
+b_tadaud = city
+b_ladoul = temple
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_106370
+}

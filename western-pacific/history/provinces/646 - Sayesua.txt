@@ -1,0 +1,17 @@
+# 646 - Sayesua
+
+# County Title
+title = c_sayesua
+
+# Settlements
+max_settlements = 5
+b_sayesua = castle
+b_raleter = temple
+b_kijus = city
+b_ripac = castle
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

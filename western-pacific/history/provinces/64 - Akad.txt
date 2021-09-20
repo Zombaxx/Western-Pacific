@@ -1,0 +1,17 @@
+# 64 - Akad
+
+# County Title
+title = c_akad
+
+# Settlements
+max_settlements = 5
+b_akad = castle
+b_bilund = temple
+b_edrasta = city
+b_liciwan = castle
+
+# Misc
+culture = marathi
+religion = hindu
+
+# History

@@ -1,0 +1,17 @@
+# 185 - Kinomir
+
+# County Title
+title = c_kinomir
+
+# Settlements
+max_settlements = 5
+b_kinomir = castle
+b_wuragan = temple
+b_ducune = city
+b_kory = castle
+
+# Misc
+culture = bengali
+religion = buddhist
+
+# History

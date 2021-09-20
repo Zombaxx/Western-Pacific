@@ -1,0 +1,15 @@
+# 385 - Tautert
+
+# County Title
+title = c_tautert
+
+# Settlements
+max_settlements = 3
+b_tautert = castle
+b_weda = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

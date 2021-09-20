@@ -1,0 +1,14 @@
+# 1570 - Awilibor
+
+# County Title
+title = c_awilibor
+
+# Settlements
+max_settlements = 3
+b_awilibor = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

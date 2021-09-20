@@ -1,0 +1,14 @@
+# 1239 - Dawa
+
+# County Title
+title = c_dawa
+
+# Settlements
+max_settlements = 1
+b_dawa = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

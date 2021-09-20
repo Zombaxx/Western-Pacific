@@ -1,0 +1,15 @@
+# 557 - Teraret
+
+# County Title
+title = c_teraret
+
+# Settlements
+max_settlements = 5
+b_teraret = tribal
+b_budotog = temple
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

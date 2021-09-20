@@ -1,0 +1,15 @@
+# 1522 - Esilof
+
+# County Title
+title = c_esilof
+
+# Settlements
+max_settlements = 6
+b_esilof = tribal
+b_niurou = temple
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

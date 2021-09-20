@@ -1,0 +1,15 @@
+# 492 - Riatam
+
+# County Title
+title = c_riatam
+
+# Settlements
+max_settlements = 3
+b_riatam = castle
+b_qavari = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

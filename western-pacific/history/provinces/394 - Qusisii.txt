@@ -1,0 +1,15 @@
+# 394 - Qusisii
+
+# County Title
+title = c_qusisii
+
+# Settlements
+max_settlements = 3
+b_qusisii = castle
+b_teluolun = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

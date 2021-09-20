@@ -1,0 +1,15 @@
+# 474 - Hesperia
+
+# County Title
+title = c_hesperia
+
+# Settlements
+max_settlements = 3
+b_hesperia = castle
+b_baleter = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

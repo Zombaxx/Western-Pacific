@@ -1,5 +1,0 @@
-	title = c_wekohn
-	max_settlements = 2
-	culture = volhynian
-	religion = finnish_pagan
-	b_beisory = tribal

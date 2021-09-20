@@ -1,0 +1,16 @@
+# 467 - Senuna
+
+# County Title
+title = c_senuna
+
+# Settlements
+max_settlements = 4
+b_senuna = castle
+b_tadoger = temple
+b_kamernat = city
+
+# Misc
+culture = uyghur
+religion = bon
+
+# History

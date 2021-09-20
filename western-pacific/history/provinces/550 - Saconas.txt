@@ -1,0 +1,16 @@
+# 550 - Saconas
+
+# County Title
+title = c_saconas
+
+# Settlements
+max_settlements = 4
+b_saconas = castle
+b_taevegs = temple
+b_syia = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

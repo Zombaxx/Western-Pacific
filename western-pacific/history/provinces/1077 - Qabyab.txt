@@ -1,0 +1,14 @@
+# 1077 - Qabyab
+
+# County Title
+title = c_qabyab
+
+# Settlements
+max_settlements = 3
+b_qabyab = tribal
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

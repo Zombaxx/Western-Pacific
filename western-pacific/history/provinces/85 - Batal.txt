@@ -1,0 +1,15 @@
+# 85 - Batal
+
+# County Title
+title = c_batal
+
+# Settlements
+max_settlements = 3
+b_batal = castle
+b_dosutai = temple
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

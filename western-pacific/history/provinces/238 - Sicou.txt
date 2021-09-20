@@ -1,0 +1,16 @@
+# 238 - Sicou
+
+# County Title
+title = c_sicou
+
+# Settlements
+max_settlements = 4
+b_sicou = castle
+b_aherija = temple
+b_reelafn = city
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

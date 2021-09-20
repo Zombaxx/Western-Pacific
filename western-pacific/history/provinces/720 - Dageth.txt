@@ -1,0 +1,14 @@
+# 720 - Dageth
+
+# County Title
+title = c_dageth
+
+# Settlements
+max_settlements = 4
+b_dageth = tribal
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

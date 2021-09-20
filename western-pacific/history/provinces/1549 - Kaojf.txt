@@ -1,0 +1,14 @@
+# 1549 - Kaojf
+
+# County Title
+title = c_kaojf
+
+# Settlements
+max_settlements = 4
+b_kaojf = tribal
+
+# Misc
+culture = irish
+religion = catholic
+
+# History

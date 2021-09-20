@@ -1,0 +1,14 @@
+# 1443 - Eraheova
+
+# County Title
+title = c_eraheova
+
+# Settlements
+max_settlements = 4
+b_eraheova = tribal
+
+# Misc
+culture = assyrian
+religion = fraticelli
+
+# History

@@ -1,0 +1,17 @@
+# 45 - Nuxisam
+
+# County Title
+title = c_nuxisam
+
+# Settlements
+max_settlements = 5
+b_nuxisam = castle
+b_kenoise = temple
+b_ticarat = city
+b_tinoka = castle
+
+# Misc
+culture = gujurati
+religion = catholic
+
+# History

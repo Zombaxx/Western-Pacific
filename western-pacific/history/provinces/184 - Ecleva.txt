@@ -1,0 +1,16 @@
+# 184 - Ecleva
+
+# County Title
+title = c_ecleva
+
+# Settlements
+max_settlements = 4
+b_ecleva = castle
+b_terakrim = temple
+b_esiruall = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

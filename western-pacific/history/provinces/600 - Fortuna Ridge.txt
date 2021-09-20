@@ -1,0 +1,16 @@
+# 600 - Fortuna Ridge
+
+# County Title
+title = c_fortuna_ridge
+
+# Settlements
+max_settlements = 4
+b_fortuna_ridge = castle
+b_eromas = temple
+b_layamas = city
+
+# Misc
+culture = han
+religion = sunni
+
+# History

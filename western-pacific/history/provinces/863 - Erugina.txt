@@ -1,0 +1,14 @@
+# 863 - Erugina
+
+# County Title
+title = c_erugina
+
+# Settlements
+max_settlements = 1
+b_erugina = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

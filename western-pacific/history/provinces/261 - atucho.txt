@@ -1,5 +1,0 @@
-	title = c_atucho
-	max_settlements = 2
-	culture = dalmatian
-	religion = lollard
-	b_rekeo = tribal

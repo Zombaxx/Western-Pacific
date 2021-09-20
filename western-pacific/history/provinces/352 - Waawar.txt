@@ -1,0 +1,15 @@
+# 352 - Waawar
+
+# County Title
+title = c_waawar
+
+# Settlements
+max_settlements = 3
+b_waawar = castle
+b_senaud = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

@@ -1,0 +1,17 @@
+# 1338 - Rapajit
+
+# County Title
+title = c_rapajit
+
+# Settlements
+max_settlements = 5
+b_rapajit = castle
+b_qajit = temple
+b_reanerd = city
+b_lapajit = castle
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

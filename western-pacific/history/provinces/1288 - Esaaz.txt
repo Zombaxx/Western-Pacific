@@ -1,0 +1,16 @@
+# 1288 - Esaaz
+
+# County Title
+title = c_esaaz
+
+# Settlements
+max_settlements = 4
+b_esaaz = castle
+b_rashir = temple
+b_evisonn = city
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

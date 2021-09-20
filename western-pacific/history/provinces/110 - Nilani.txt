@@ -1,0 +1,17 @@
+# 110 - Nilani
+
+# County Title
+title = c_nilani
+
+# Settlements
+max_settlements = 5
+b_nilani = castle
+b_ritva = temple
+b_sidilal = city
+b_tamata = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

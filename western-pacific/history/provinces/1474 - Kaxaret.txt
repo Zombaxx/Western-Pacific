@@ -1,0 +1,18 @@
+# 1474 - Kaxaret
+
+# County Title
+title = c_kaxaret
+
+# Settlements
+max_settlements = 7
+b_kaxaret = castle
+b_ajayalgi = temple
+b_kutucio = city
+b_lerugo = castle
+b_ronifa = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

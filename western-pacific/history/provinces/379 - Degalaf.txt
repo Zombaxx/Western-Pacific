@@ -1,0 +1,14 @@
+# 379 - Degalaf
+
+# County Title
+title = c_degalaf
+
+# Settlements
+max_settlements = 2
+b_degalaf = castle
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

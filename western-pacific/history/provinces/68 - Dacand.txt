@@ -1,0 +1,16 @@
+# 68 - Dacand
+
+# County Title
+title = c_dacand
+
+# Settlements
+max_settlements = 4
+b_dacand = castle
+b_biduna = temple
+b_divuna = city
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

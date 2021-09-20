@@ -1,0 +1,16 @@
+# 1592 - Ejeka
+
+# County Title
+title = c_ejeka
+
+# Settlements
+max_settlements = 4
+b_ejeka = castle
+b_ashahavo = temple
+b_edifa = city
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

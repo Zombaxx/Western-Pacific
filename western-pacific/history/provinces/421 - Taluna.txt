@@ -1,0 +1,16 @@
+# 421 - Taluna
+
+# County Title
+title = c_taluna
+
+# Settlements
+max_settlements = 4
+b_taluna = castle
+b_lanoor = temple
+b_sosoisi = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

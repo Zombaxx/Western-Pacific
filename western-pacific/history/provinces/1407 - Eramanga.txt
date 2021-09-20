@@ -1,0 +1,14 @@
+# 1407 - Eramanga
+
+# County Title
+title = c_eramanga
+
+# Settlements
+max_settlements = 3
+b_eramanga = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

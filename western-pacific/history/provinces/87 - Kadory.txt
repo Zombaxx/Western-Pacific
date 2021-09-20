@@ -1,0 +1,17 @@
+# 87 - Kadory
+
+# County Title
+title = c_kadory
+
+# Settlements
+max_settlements = 5
+b_kadory = castle
+b_aolita = temple
+b_numencia = city
+b_letebia = castle
+
+# Misc
+culture = marathi
+religion = hindu
+
+# History

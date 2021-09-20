@@ -1,0 +1,14 @@
+# 1145 - Raracco
+
+# County Title
+title = c_raracco
+
+# Settlements
+max_settlements = 2
+b_raracco = tribal
+
+# Misc
+culture = nubian
+religion = catholic
+
+# History

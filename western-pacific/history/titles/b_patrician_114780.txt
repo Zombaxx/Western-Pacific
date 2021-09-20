@@ -1,0 +1,14 @@
+931.1.1 = {
+	holding_dynasty = 114780 # of Qawach - makes this a FAMILY_PALACE type Holding
+	liege="d_sydney"
+	holder = 114780
+}
+1007.1.1 = {
+	holder = 114781
+}
+1019.1.1 = {
+	holder = 114782
+}
+1051.1.1 = {
+	holder = 114785
+}

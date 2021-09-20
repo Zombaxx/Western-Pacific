@@ -1,5 +1,0 @@
-	title = c_ria
-	max_settlements = 2
-	culture = kannada
-	religion = hurufi
-	b_kanekel = tribal

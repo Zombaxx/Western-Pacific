@@ -1,0 +1,14 @@
+# 1063 - Bevenda
+
+# County Title
+title = c_bevenda
+
+# Settlements
+max_settlements = 2
+b_bevenda = castle
+
+# Misc
+culture = basque
+religion = zun_pagan
+
+# History

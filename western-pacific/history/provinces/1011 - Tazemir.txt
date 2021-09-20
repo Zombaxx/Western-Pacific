@@ -1,0 +1,14 @@
+# 1011 - Tazemir
+
+# County Title
+title = c_tazemir
+
+# Settlements
+max_settlements = 3
+b_tazemir = tribal
+
+# Misc
+culture = basque
+religion = fraticelli
+
+# History

@@ -1,0 +1,14 @@
+# 1019 - Ageireer
+
+# County Title
+title = c_ageireer
+
+# Settlements
+max_settlements = 1
+b_ageireer = tribal
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

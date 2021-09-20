@@ -1,0 +1,14 @@
+# 1553 - Sinor
+
+# County Title
+title = c_sinor
+
+# Settlements
+max_settlements = 4
+b_sinor = tribal
+
+# Misc
+culture = norse
+religion = catholic
+
+# History

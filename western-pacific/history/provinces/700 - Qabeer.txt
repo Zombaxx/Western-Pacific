@@ -1,0 +1,15 @@
+# 700 - Qabeer
+
+# County Title
+title = c_qabeer
+
+# Settlements
+max_settlements = 5
+b_qabeer = tribal
+b_soramy = temple
+
+# Misc
+culture = zhangzhung
+religion = hindu
+
+# History

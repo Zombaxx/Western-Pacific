@@ -1,0 +1,15 @@
+# 1411 - Sibuwe
+
+# County Title
+title = c_sibuwe
+
+# Settlements
+max_settlements = 3
+b_sibuwe = castle
+b_tarins = temple
+
+# Misc
+culture = english
+religion = fraticelli
+
+# History

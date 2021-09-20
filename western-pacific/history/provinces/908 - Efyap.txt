@@ -1,0 +1,15 @@
+# 908 - Efyap
+
+# County Title
+title = c_efyap
+
+# Settlements
+max_settlements = 5
+b_efyap = temple
+b_qiman = tribal
+
+# Misc
+culture = zhangzhung
+religion = orthodox
+
+# History

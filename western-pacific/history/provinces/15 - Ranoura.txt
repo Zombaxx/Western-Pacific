@@ -1,0 +1,15 @@
+# 15 - Ranoura
+
+# County Title
+title = c_ranoura
+
+# Settlements
+max_settlements = 3
+b_ranoura = castle
+b_bizarya = temple
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

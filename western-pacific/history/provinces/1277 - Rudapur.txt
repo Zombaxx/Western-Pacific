@@ -1,0 +1,16 @@
+# 1277 - Rudapur
+
+# County Title
+title = c_rudapur
+
+# Settlements
+max_settlements = 4
+b_rudapur = castle
+b_kutomas = temple
+b_eleontas = city
+
+# Misc
+culture = assyrian
+religion = west_african_pagan
+
+# History

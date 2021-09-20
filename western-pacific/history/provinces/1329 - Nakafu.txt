@@ -1,0 +1,15 @@
+# 1329 - Nakafu
+
+# County Title
+title = c_nakafu
+
+# Settlements
+max_settlements = 3
+b_nakafu = castle
+b_abhaneka = temple
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

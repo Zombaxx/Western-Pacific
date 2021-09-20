@@ -1,0 +1,14 @@
+# 697 - Said
+
+# County Title
+title = c_said
+
+# Settlements
+max_settlements = 3
+b_said = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

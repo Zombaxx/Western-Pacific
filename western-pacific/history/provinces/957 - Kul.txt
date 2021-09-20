@@ -1,0 +1,14 @@
+# 957 - Kul
+
+# County Title
+title = c_kul
+
+# Settlements
+max_settlements = 3
+b_kul = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

@@ -1,0 +1,15 @@
+# 1606 - Kyayre
+
+# County Title
+title = c_kyayre
+
+# Settlements
+max_settlements = 5
+b_kyayre = tribal
+b_suraide = temple
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

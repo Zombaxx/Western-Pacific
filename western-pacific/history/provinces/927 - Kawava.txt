@@ -1,0 +1,14 @@
+# 927 - Kawava
+
+# County Title
+title = c_kawava
+
+# Settlements
+max_settlements = 1
+b_kawava = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

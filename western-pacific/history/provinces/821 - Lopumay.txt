@@ -1,0 +1,14 @@
+# 821 - Lopumay
+
+# County Title
+title = c_lopumay
+
+# Settlements
+max_settlements = 3
+b_lopumay = tribal
+
+# Misc
+culture = visigothic
+religion = zun_pagan
+
+# History

@@ -1,0 +1,17 @@
+# 281 - Syuvodis
+
+# County Title
+title = c_syuvodis
+
+# Settlements
+max_settlements = 5
+b_syuvodis = castle
+b_baatun = temple
+b_qarais = city
+b_welaud = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

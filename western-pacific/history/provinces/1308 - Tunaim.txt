@@ -1,0 +1,15 @@
+# 1308 - Tunaim
+
+# County Title
+title = c_tunaim
+
+# Settlements
+max_settlements = 4
+b_tunaim = tribal
+b_qisella = temple
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

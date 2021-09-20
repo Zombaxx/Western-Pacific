@@ -1,0 +1,17 @@
+# 517 - Rudana
+
+# County Title
+title = c_rudana
+
+# Settlements
+max_settlements = 5
+b_rudana = castle
+b_qehitya = temple
+b_benalaf = city
+b_ecalih = castle
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

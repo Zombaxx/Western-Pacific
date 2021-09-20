@@ -1,0 +1,14 @@
+# 1226 - Somatis
+
+# County Title
+title = c_somatis
+
+# Settlements
+max_settlements = 4
+b_somatis = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

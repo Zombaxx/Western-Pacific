@@ -1,5 +1,0 @@
-	title = c_emosein
-	max_settlements = 2
-	culture = slovieni
-	religion = tengri_pagan
-	b_emagol = tribal

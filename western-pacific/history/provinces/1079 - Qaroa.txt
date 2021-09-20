@@ -1,0 +1,15 @@
+# 1079 - Qaroa
+
+# County Title
+title = c_qaroa
+
+# Settlements
+max_settlements = 4
+b_qaroa = tribal
+b_qageer = temple
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

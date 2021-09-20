@@ -1,5 +1,0 @@
-	title = c_ahalune
-	max_settlements = 2
-	culture = nubian
-	religion = lollard
-	b_rilabet = tribal

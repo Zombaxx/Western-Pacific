@@ -1,0 +1,17 @@
+# 657 - Perth
+
+# County Title
+title = c_perth
+
+# Settlements
+max_settlements = 6
+b_perth = castle
+b_silal = temple
+b_teiruna = city
+b_anareer = castle
+
+# Misc
+culture = visigothic
+religion = orthodox
+
+# History

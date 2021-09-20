@@ -1,0 +1,14 @@
+# 658 - Dormoz
+
+# County Title
+title = c_dormoz
+
+# Settlements
+max_settlements = 3
+b_dormoz = tribal
+
+# Misc
+culture = han
+religion = sunni
+
+# History

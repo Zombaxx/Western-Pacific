@@ -1,0 +1,14 @@
+# 815 - Wamasa
+
+# County Title
+title = c_wamasa
+
+# Settlements
+max_settlements = 4
+b_wamasa = tribal
+
+# Misc
+culture = bodpa
+religion = bon
+
+# History

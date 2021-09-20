@@ -1,0 +1,15 @@
+# 1440 - Tafua
+
+# County Title
+title = c_tafua
+
+# Settlements
+max_settlements = 3
+b_tafua = castle
+b_rutoise = temple
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

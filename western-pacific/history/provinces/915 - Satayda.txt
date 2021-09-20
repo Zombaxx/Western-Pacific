@@ -1,0 +1,14 @@
+# 915 - Satayda
+
+# County Title
+title = c_satayda
+
+# Settlements
+max_settlements = 3
+b_satayda = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

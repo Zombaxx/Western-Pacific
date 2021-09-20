@@ -1,0 +1,16 @@
+# 566 - Kalric
+
+# County Title
+title = c_kalric
+
+# Settlements
+max_settlements = 4
+b_kalric = castle
+b_ekue = temple
+b_eteula = city
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

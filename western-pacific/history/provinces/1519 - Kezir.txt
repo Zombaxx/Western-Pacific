@@ -1,0 +1,15 @@
+# 1519 - Kezir
+
+# County Title
+title = c_kezir
+
+# Settlements
+max_settlements = 3
+b_kezir = castle
+b_naim = temple
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

@@ -1,0 +1,15 @@
+# 694 - Temew
+
+# County Title
+title = c_temew
+
+# Settlements
+max_settlements = 5
+b_temew = tribal
+b_qabdoj = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

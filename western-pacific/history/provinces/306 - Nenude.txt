@@ -1,0 +1,15 @@
+# 306 - Nenude
+
+# County Title
+title = c_nenude
+
+# Settlements
+max_settlements = 3
+b_nenude = castle
+b_kabyan = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

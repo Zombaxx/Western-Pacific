@@ -1,0 +1,17 @@
+# 1507 - Seupaka
+
+# County Title
+title = c_seupaka
+
+# Settlements
+max_settlements = 5
+b_seupaka = castle
+b_serenna = temple
+b_kebalp = city
+b_etatamud = castle
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

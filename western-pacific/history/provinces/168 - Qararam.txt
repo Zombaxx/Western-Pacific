@@ -1,0 +1,16 @@
+# 168 - Qararam
+
+# County Title
+title = c_qararam
+
+# Settlements
+max_settlements = 4
+b_qararam = castle
+b_tareya = temple
+b_amita = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

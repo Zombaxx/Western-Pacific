@@ -1,0 +1,5 @@
+1060.1.1 = {
+	holding_dynasty = 107801 # Erasia - makes this a FAMILY_PALACE type Holding
+	liege="d_taipei"
+	holder = 215600
+}

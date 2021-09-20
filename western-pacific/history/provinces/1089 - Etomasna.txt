@@ -1,0 +1,14 @@
+# 1089 - Etomasna
+
+# County Title
+title = c_etomasna
+
+# Settlements
+max_settlements = 2
+b_etomasna = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

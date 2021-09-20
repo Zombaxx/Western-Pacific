@@ -1,0 +1,16 @@
+# 515 - Tuti
+
+# County Title
+title = c_tuti
+
+# Settlements
+max_settlements = 4
+b_tuti = castle
+b_sudo = temple
+b_lyasuluk = city
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

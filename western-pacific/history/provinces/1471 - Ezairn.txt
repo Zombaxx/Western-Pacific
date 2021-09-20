@@ -1,0 +1,16 @@
+# 1471 - Ezairn
+
+# County Title
+title = c_ezairn
+
+# Settlements
+max_settlements = 4
+b_ezairn = castle
+b_rohars = temple
+b_qaganjay = city
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

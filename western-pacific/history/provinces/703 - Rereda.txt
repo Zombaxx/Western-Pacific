@@ -1,0 +1,14 @@
+# 703 - Rereda
+
+# County Title
+title = c_rereda
+
+# Settlements
+max_settlements = 3
+b_rereda = tribal
+
+# Misc
+culture = visigothic
+religion = zun_pagan
+
+# History

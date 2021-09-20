@@ -1,0 +1,17 @@
+# 1515 - Brisbane
+
+# County Title
+title = c_brisbane
+
+# Settlements
+max_settlements = 6
+b_brisbane = castle
+b_tavid = temple
+b_tyalew = city
+b_edobugei = castle
+
+# Misc
+culture = crimean_gothic
+religion = orthodox
+
+# History

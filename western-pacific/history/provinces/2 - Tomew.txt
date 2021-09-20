@@ -1,0 +1,14 @@
+# 2 - Tomew
+
+# County Title
+title = c_tomew
+
+# Settlements
+max_settlements = 3
+b_tomew = tribal
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

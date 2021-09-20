@@ -1,5 +1,0 @@
-	title = c_kirita
-	max_settlements = 2
-	culture = manden
-	religion = color
-	b_terann = tribal

@@ -1,0 +1,14 @@
+# 925 - Qyoa
+
+# County Title
+title = c_qyoa
+
+# Settlements
+max_settlements = 1
+b_qyoa = tribal
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

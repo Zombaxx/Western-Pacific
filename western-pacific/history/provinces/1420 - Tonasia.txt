@@ -1,0 +1,15 @@
+# 1420 - Tonasia
+
+# County Title
+title = c_tonasia
+
+# Settlements
+max_settlements = 3
+b_tonasia = castle
+b_dudalis = temple
+
+# Misc
+culture = norse
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,17 @@
+# 514 - Nicenia
+
+# County Title
+title = c_nicenia
+
+# Settlements
+max_settlements = 5
+b_nicenia = castle
+b_arotte = temple
+b_qusaba = city
+b_rusunku = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

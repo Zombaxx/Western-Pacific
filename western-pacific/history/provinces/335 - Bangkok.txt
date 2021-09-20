@@ -1,0 +1,18 @@
+# 335 - Bangkok
+
+# County Title
+title = c_bangkok
+
+# Settlements
+max_settlements = 7
+b_bangkok = castle
+b_aduharde = temple
+b_kucith = city
+b_ahonaha = castle
+b_divia = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

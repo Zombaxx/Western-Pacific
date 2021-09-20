@@ -1,0 +1,14 @@
+# 1377 - Qisla
+
+# County Title
+title = c_qisla
+
+# Settlements
+max_settlements = 3
+b_qisla = tribal
+
+# Misc
+culture = pictish
+religion = orthodox
+
+# History

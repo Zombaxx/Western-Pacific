@@ -1,0 +1,15 @@
+# 218 - Rikavy
+
+# County Title
+title = c_rikavy
+
+# Settlements
+max_settlements = 3
+b_rikavy = castle
+b_banory = temple
+
+# Misc
+culture = bengali
+religion = catholic
+
+# History

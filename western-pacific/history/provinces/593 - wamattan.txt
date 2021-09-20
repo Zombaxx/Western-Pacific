@@ -1,5 +1,0 @@
-	title = c_wamattan
-	max_settlements = 2
-	culture = marathi
-	religion = karaite
-	b_babautas = tribal

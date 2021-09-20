@@ -1,0 +1,16 @@
+# 341 - Qereth
+
+# County Title
+title = c_qereth
+
+# Settlements
+max_settlements = 4
+b_qereth = castle
+b_rerefan = temple
+b_keulami = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

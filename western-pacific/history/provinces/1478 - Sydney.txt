@@ -1,0 +1,19 @@
+# 1478 - Sydney
+
+# County Title
+title = c_sydney
+
+# Settlements
+max_settlements = 4
+b_sydney = city
+b_qawach = temple
+b_tadali = castle
+
+# Misc
+culture = saxon
+religion = fraticelli
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_114780
+}

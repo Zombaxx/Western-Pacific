@@ -1,0 +1,16 @@
+# 844 - Ebilirad
+
+# County Title
+title = c_ebilirad
+
+# Settlements
+max_settlements = 4
+b_ebilirad = castle
+b_kacyuns = temple
+b_livyuns = city
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

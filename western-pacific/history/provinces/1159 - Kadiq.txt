@@ -1,0 +1,14 @@
+# 1159 - Kadiq
+
+# County Title
+title = c_kadiq
+
+# Settlements
+max_settlements = 1
+b_kadiq = castle
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

@@ -1,0 +1,17 @@
+# 1494 - Rabaul
+
+# County Title
+title = c_rabaul
+
+# Settlements
+max_settlements = 6
+b_rabaul = castle
+b_kimaus = temple
+b_karion = city
+b_wasavo = castle
+
+# Misc
+culture = daju
+religion = catholic
+
+# History

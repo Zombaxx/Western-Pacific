@@ -1,0 +1,14 @@
+# 809 - Damava
+
+# County Title
+title = c_damava
+
+# Settlements
+max_settlements = 1
+b_damava = tribal
+
+# Misc
+culture = han
+religion = taoist
+
+# History

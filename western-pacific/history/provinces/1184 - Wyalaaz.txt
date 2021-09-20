@@ -1,0 +1,14 @@
+# 1184 - Wyalaaz
+
+# County Title
+title = c_wyalaaz
+
+# Settlements
+max_settlements = 1
+b_wyalaaz = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

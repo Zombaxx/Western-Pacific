@@ -1,0 +1,14 @@
+# 1477 - Tecid
+
+# County Title
+title = c_tecid
+
+# Settlements
+max_settlements = 4
+b_tecid = tribal
+
+# Misc
+culture = crimean_gothic
+religion = fraticelli
+
+# History

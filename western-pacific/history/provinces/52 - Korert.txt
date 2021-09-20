@@ -1,0 +1,16 @@
+# 52 - Korert
+
+# County Title
+title = c_korert
+
+# Settlements
+max_settlements = 4
+b_korert = castle
+b_agabiwan = temple
+b_evyet = city
+
+# Misc
+culture = marathi
+religion = hindu
+
+# History

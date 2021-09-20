@@ -1,0 +1,15 @@
+# 654 - Kerd
+
+# County Title
+title = c_kerd
+
+# Settlements
+max_settlements = 3
+b_kerd = castle
+b_ekerd = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

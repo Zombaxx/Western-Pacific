@@ -1,0 +1,15 @@
+# 1461 - Ruranyo
+
+# County Title
+title = c_ruranyo
+
+# Settlements
+max_settlements = 3
+b_ruranyo = castle
+b_rahsa = temple
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

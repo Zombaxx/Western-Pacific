@@ -1,0 +1,14 @@
+# 273 - Nalbin
+
+# County Title
+title = c_nalbin
+
+# Settlements
+max_settlements = 2
+b_nalbin = castle
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

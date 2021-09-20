@@ -1,0 +1,16 @@
+# 1582 - Nehawma
+
+# County Title
+title = c_nehawma
+
+# Settlements
+max_settlements = 4
+b_nehawma = castle
+b_wikeig = temple
+b_naluna = city
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

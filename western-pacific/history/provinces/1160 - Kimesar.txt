@@ -1,0 +1,14 @@
+# 1160 - Kimesar
+
+# County Title
+title = c_kimesar
+
+# Settlements
+max_settlements = 2
+b_kimesar = tribal
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

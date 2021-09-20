@@ -1,0 +1,17 @@
+# 1232 - Neliguta
+
+# County Title
+title = c_neliguta
+
+# Settlements
+max_settlements = 5
+b_neliguta = castle
+b_kayaman = temple
+b_konihal = city
+b_keph = castle
+
+# Misc
+culture = zaghawa
+religion = catholic
+
+# History

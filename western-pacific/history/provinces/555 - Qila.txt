@@ -1,0 +1,16 @@
+# 555 - Qila
+
+# County Title
+title = c_qila
+
+# Settlements
+max_settlements = 4
+b_qila = castle
+b_sikofan = temple
+b_totohai = city
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

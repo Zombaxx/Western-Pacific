@@ -1,0 +1,14 @@
+# 867 - Depune
+
+# County Title
+title = c_depune
+
+# Settlements
+max_settlements = 4
+b_depune = tribal
+
+# Misc
+culture = pictish
+religion = zun_pagan
+
+# History

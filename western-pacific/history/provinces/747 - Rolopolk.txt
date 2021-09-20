@@ -1,0 +1,14 @@
+# 747 - Rolopolk
+
+# County Title
+title = c_rolopolk
+
+# Settlements
+max_settlements = 4
+b_rolopolk = tribal
+
+# Misc
+culture = visigothic
+religion = zun_pagan
+
+# History

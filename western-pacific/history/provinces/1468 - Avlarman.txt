@@ -1,0 +1,15 @@
+# 1468 - Avlarman
+
+# County Title
+title = c_avlarman
+
+# Settlements
+max_settlements = 3
+b_avlarman = castle
+b_lameuta = temple
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

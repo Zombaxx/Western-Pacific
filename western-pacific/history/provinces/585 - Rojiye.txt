@@ -1,0 +1,14 @@
+# 585 - Rojiye
+
+# County Title
+title = c_rojiye
+
+# Settlements
+max_settlements = 2
+b_rojiye = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

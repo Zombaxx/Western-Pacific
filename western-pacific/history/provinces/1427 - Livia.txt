@@ -1,0 +1,17 @@
+# 1427 - Livia
+
+# County Title
+title = c_livia
+
+# Settlements
+max_settlements = 5
+b_livia = castle
+b_rirgen = temple
+b_eludisha = city
+b_korivia = castle
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

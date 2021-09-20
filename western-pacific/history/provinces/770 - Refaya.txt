@@ -1,0 +1,15 @@
+# 770 - Refaya
+
+# County Title
+title = c_refaya
+
+# Settlements
+max_settlements = 3
+b_refaya = castle
+b_baedey = temple
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

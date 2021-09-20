@@ -1,0 +1,14 @@
+# 1374 - Talita
+
+# County Title
+title = c_talita
+
+# Settlements
+max_settlements = 2
+b_talita = tribal
+
+# Misc
+culture = daju
+religion = miaphysite
+
+# History

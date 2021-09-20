@@ -1,0 +1,14 @@
+# 653 - Rorom
+
+# County Title
+title = c_rorom
+
+# Settlements
+max_settlements = 2
+b_rorom = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

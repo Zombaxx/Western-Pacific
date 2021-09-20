@@ -1,0 +1,14 @@
+# 16 - Aluuliga
+
+# County Title
+title = c_aluuliga
+
+# Settlements
+max_settlements = 2
+b_aluuliga = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

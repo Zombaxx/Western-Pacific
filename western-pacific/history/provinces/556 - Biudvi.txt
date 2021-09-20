@@ -1,0 +1,16 @@
+# 556 - Biudvi
+
+# County Title
+title = c_biudvi
+
+# Settlements
+max_settlements = 4
+b_biudvi = castle
+b_kyasa = temple
+b_balvor = city
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 1563 - Daralgi
+
+# County Title
+title = c_daralgi
+
+# Settlements
+max_settlements = 3
+b_daralgi = castle
+b_loneova = temple
+
+# Misc
+culture = norse
+religion = catholic
+
+# History

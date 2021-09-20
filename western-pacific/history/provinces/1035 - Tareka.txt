@@ -1,0 +1,14 @@
+# 1035 - Tareka
+
+# County Title
+title = c_tareka
+
+# Settlements
+max_settlements = 4
+b_tareka = tribal
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

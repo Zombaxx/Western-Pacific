@@ -1,5 +1,0 @@
-	title = c_sekikkel
-	max_settlements = 2
-	culture = georgian
-	religion = interface_skin
-	b_nofur = tribal

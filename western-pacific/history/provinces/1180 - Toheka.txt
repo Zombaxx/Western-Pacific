@@ -1,0 +1,15 @@
+# 1180 - Toheka
+
+# County Title
+title = c_toheka
+
+# Settlements
+max_settlements = 3
+b_toheka = castle
+b_asoshi = temple
+
+# Misc
+culture = basque
+religion = aztec
+
+# History

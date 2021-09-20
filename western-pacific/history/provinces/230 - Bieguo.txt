@@ -1,0 +1,16 @@
+# 230 - Bieguo
+
+# County Title
+title = c_bieguo
+
+# Settlements
+max_settlements = 4
+b_bieguo = castle
+b_dizora = temple
+b_ninafn = city
+
+# Misc
+culture = tangut
+religion = hindu
+
+# History

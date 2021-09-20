@@ -1,0 +1,15 @@
+# 119 - Telamd
+
+# County Title
+title = c_telamd
+
+# Settlements
+max_settlements = 3
+b_telamd = castle
+b_randew = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

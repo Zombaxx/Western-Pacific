@@ -1,5 +1,0 @@
-	title = c_telerin
-	max_settlements = 2
-	culture = russian
-	religion = zoroastrian
-	b_rosatok = tribal

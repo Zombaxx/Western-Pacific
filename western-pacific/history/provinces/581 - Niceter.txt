@@ -1,0 +1,14 @@
+# 581 - Niceter
+
+# County Title
+title = c_niceter
+
+# Settlements
+max_settlements = 2
+b_niceter = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

@@ -1,0 +1,15 @@
+# 857 - Kiard
+
+# County Title
+title = c_kiard
+
+# Settlements
+max_settlements = 3
+b_kiard = castle
+b_tinand = temple
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

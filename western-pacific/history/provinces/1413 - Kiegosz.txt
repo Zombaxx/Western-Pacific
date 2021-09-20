@@ -1,0 +1,15 @@
+# 1413 - Kiegosz
+
+# County Title
+title = c_kiegosz
+
+# Settlements
+max_settlements = 3
+b_kiegosz = castle
+b_nodyt = temple
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

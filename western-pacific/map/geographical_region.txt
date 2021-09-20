@@ -1,170 +1,161 @@
-akineuta = {
+# Geographical regions
+world_kanaud = {
 	duchies = {
-			d_keiruna d_qeof d_tarold d_qanekel d_ramaret d_lararet d_enari d_dareuta d_nodyad d_nagaret d_kigalda d_karohn d_nenaraya d_damaret d_sanda d_kadutan d_nai d_sajeof d_luceph d_kalumpal d_nazouz d_sanira d_qanit d_nigica d_nadas d_qacari d_reidadu d_kahra d_belayla d_tadyu d_akalica d_neslav d_tyao d_duhaaq d_wuhiam d_buleas d_kodilay d_emahilal d_kadaret d_qokian d_talann	}
+		# k_pakistan
+		d_bijaim d_bibirai d_qedideva d_karachi 
+	}
 }
-
-ahjann = {
+world_toisi = {
 	duchies = {
-			d_aluin d_bineuta d_kaleuta d_nyoor d_kerit	}
+		# k_gujarat
+		d_eferagan d_borine d_taxelm d_nyatine d_wayteye d_ahmedabad 
+	}
 }
-
-ryeh = {
+world_bharat = {
 	duchies = {
-			d_adageuta d_seiroa d_wenita d_kamyu d_rirohn d_kyeh d_wedyu	}
+		# k_renain
+		d_esviat 
+		# k_utkalaâ 
+		d_watun d_bulaide d_raurde d_korort d_tibeph d_nonno d_toluvje d_visakhapatnam 
+		# k_bangladesh
+		d_soley d_kalaf d_salilen d_kasukar d_keana d_adaguti d_tenart d_dumandar d_tolaac d_kulian d_dhaka 
+		# k_delhi
+		d_balam d_kerair d_wiludo d_egasin d_togimha d_sagoka d_ditulun d_rivurd d_qusith d_new_delhi 
+	}
 }
-
-kaziam = {
+world_dakshina = {
 	duchies = {
-			d_redeph d_qunoor d_loseph d_taziam d_lamahra d_ecyaa d_sadonas d_rinnani d_reconas d_echaly d_rabotho d_sameph d_bonas	}
+		# k_mumbai
+		d_karogs d_qusbu d_delemba d_kyaca d_karabai d_tavicta d_layania d_mumai 
+		# k_dravida
+		d_enarying d_nosardu d_radeter d_layabia d_bageuta d_nechem d_chennai 
+		# k_sri_lanka
+		d_asogiya d_beriz d_colombo 
+	}
 }
-
-sakisa = {
+world_saridda = {
 	duchies = {
-			d_karimon d_barurga d_selayn d_timon d_demayn d_dulurga d_egulouh d_lelayn d_telafur d_ekipalib d_qabutta d_weleas d_lenar d_asabafur d_dakayn d_saynaud d_berulam	}
+		# k_racidda
+		d_tosidda 
+	}
 }
-
-abozua = {
+world_siam = {
 	duchies = {
-			d_lusafur d_echophia d_dumatevi d_tifaul d_tanda d_sikara d_egyeh d_ajulara d_kanara d_efira d_roralta	}
+		# k_myanmar
+		d_wolitya d_abadamur d_bizai d_kucala d_ruocb d_norevan d_sohyuan d_wateir d_dagaide d_kanine d_kopata d_yangon 
+		# k_laos
+		d_tajeter d_qadaatun d_lacarid d_tenilii d_raleka d_epokatok d_naranna d_vientiane 
+		# k_cambodia
+		d_echomeus d_dalar d_darapal d_phnom_penh 
+		# k_saroda
+		d_dyasork d_tohunda d_kadald d_eranius d_savac d_qumegin d_qerge d_datavid 
+		# k_thailand
+		d_baumaug d_risius d_detagan d_duzniq d_tyamilvi d_dajawit d_rauste d_sahins d_reineka d_bire d_asusisam d_wanude d_eriobn d_dubyula d_rivicha d_elassona d_bangkok 
+	}
 }
-
-siel = {
+world_archipelago = {
 	duchies = {
-			d_kulanda d_amayada d_toumara d_bilabet d_kumara d_biel d_lauliel d_kimaud d_balekaud d_kaunda d_wyai d_sulam d_kuolune d_tanalim d_laurm d_liferhi	}
+		# k_sumatra
+		d_kinandi d_wamatan d_nudis d_naret d_olympus_mons d_wuneas d_qadahim d_nonazi d_sinozar d_rilire d_tusayah d_qyarapa d_navanca d_banosz d_siat d_medan 
+		# k_malaysia
+		d_ronaha d_komahar d_sund d_detyuns d_ehelaka d_kofiin d_likar d_kund d_baham d_kuala_lumpur 
+		# k_kalimantan
+		d_qatuma d_recodai d_kelepe d_dugou d_rulura d_syagali d_kepersin d_wuloman d_qeitl d_tesha d_balikpapan d_racunpu 
+		# k_sulawesi
+		d_wyilatar d_riacna d_ruena d_nenunpu d_kaniwen d_qobantay d_luaret d_makassar 
+		# k_philippines
+		d_rubyuan d_apulavo d_sinya d_kelalaf d_lernka d_nicakk d_ruhuzma d_iusen d_kueka d_teginda d_juventian d_kenomas d_ramoljo d_esahahim d_kiyeork d_kucamun d_reloan d_rumyuan d_manila 
+		# k_lesser_sunda
+		d_toryhan d_timor_leste 
+		# k_banda_arc
+		d_lukifa d_kebinni d_awilaret d_maluku 
+		# k_papua
+		d_diegawa d_temoshi d_manokwari d_qagalo d_larotos d_keleodat d_ruoete d_darura d_acanena d_tarta d_lanavar d_qalabha 
+		# k_guinea
+		d_acaseriu d_karayim d_ranba d_tirimon d_ladory d_qanala d_lyunarak d_edalvor d_agalelec d_port_moresby 
+		# k_new_britain
+		d_kayaraq d_lasena d_rabaul 
+		# k_java
+		d_qefeni d_wanjay d_rooromo d_sonooma d_kamaba d_nakasus d_jakarta 
+	}
 }
-
-nubing = {
+world_south_china = {
 	duchies = {
-			d_azhaya d_talim d_sunalim d_akelardu d_nintas d_tonas d_rolalli d_kulam d_limaud d_nyakone d_erapathi d_tobutas d_salekdas d_qerone d_ebarqan d_lekonno d_lubegin d_lanutas d_kianan d_kiferhi d_ranga	}
+		# k_hainan
+		d_leahaig d_kageriu d_ronedek d_lazaide d_tatsi d_berula d_haikou d_barelm d_tayyuo 
+		# k_guangdong
+		d_esakilia d_qinann d_byevuis d_enauluk d_bilili d_sucha d_qeash d_taisami d_tegua d_hong_kong 
+		# k_taiwan
+		d_rimou d_taipei 
+	}
 }
-
-kone = {
+world_outback = {
 	duchies = {
-			d_ranine d_wekawuj d_daytaram d_dakanga d_roucara d_kanga d_boralta d_rakava d_kolonno	}
+		# k_westralia
+		d_saliam d_naram d_talui d_tilost d_kamajid d_kohon d_qalija d_syolailo d_argyre_islands d_raata d_nedyrk d_kerund d_salit d_kenira d_karad d_roreer d_geraldton 
+		# k_kwongan
+		d_avaluti d_ripira d_lemyuchi d_rerisa d_saram d_ryanata d_dusine d_evaladra d_qodika d_wodora d_rato d_eucla 
+		# k_darwin
+		d_aragine d_binat d_wiliero d_kehala d_baromo d_qayita d_daymeda d_datana d_lohyay d_simika d_qusambiz d_lanna d_kamakla d_sara d_esmaht d_ebalella d_darwin 
+		# k_outback
+		d_wenodan d_leonurre d_logeria d_kamavid d_samart d_dalaya d_dajayda d_lalacob d_tukeir d_tarajid d_alice_springs 
+		# k_perth
+		d_kemamze d_ridatan d_acililal d_emeling d_rogawa d_wasoila d_teneru d_qunuigi d_qainet d_nadahat d_kudusa d_perth 
+	}
 }
-
-nyehous = {
+world_aus = {
 	duchies = {
-			d_tilulay d_wenena d_abelayor d_deveusz d_wayalia d_ryehena d_syoland d_detomir d_wadi d_tilegen	}
+		# k_eyre
+		d_eloa d_tagodan d_lawasus d_wabacob d_tusanna d_epirma d_kaduslo d_lyemude d_qatong d_ecamawma d_teonika d_kimunka d_lolaula d_tohiek d_qoriwal d_dekahat d_waikin d_adelaide 
+		# k_victoria
+		d_rekeye d_balomo d_bepipava d_kuhing d_tasawa d_esanua d_badahtu d_kanegn d_recila d_qeonyab d_racatis d_baurand d_tachebia d_seiroro d_melbourne 
+		# k_tasmania
+		d_sudathi d_wojaig d_silid d_hobart 
+		# k_canberry
+		d_kelg d_canberry 
+		# k_queensland
+		d_nelen d_ratan d_tacabib d_tonayaad d_tonakk d_bucakh d_lelasia d_dasala d_dezasia d_qahera d_tietika d_kasuliu d_dogatis d_qaridia d_banazgul d_bavudo d_ruwucha d_salnan d_setebia d_sonoch d_demars d_qoseike d_limanas d_telilla d_naraug d_tinicta d_kepipava d_taulirc d_rasilia d_niraka d_brisbane 
+		# k_aus
+		d_kyaytok d_redela d_dusoda d_dalli d_avasissa d_kadeter d_letati d_waseva d_nikohas d_badali d_lozalih d_bajiuva d_nerdi d_wazavac d_ladisii d_sydney 
+	}
 }
-
-qaloshi = {
+world_agenuzer = {
 	duchies = {
-			d_talaoji d_afagunai d_bakaoji d_dalou d_lagou d_weorge d_laguyan d_karunai d_talunai d_dakumna d_sayn d_basudis d_kaiti d_rezardus d_kanayn d_wyunaghu d_kime d_nanaya d_qila d_kusunai d_tekashu d_kekaji d_woheorge d_tacera d_deusz d_qidera d_koheusz d_qohena d_bukaud d_telad d_kepokha d_aviseer d_leodohn d_leeth	}
+		# k_razani
+		d_edameka 
+	}
 }
-
-damaret = {
+world_tiriala = {
 	duchies = {
-			d_emaheteh d_tashir	}
+		# k_tiank
+		d_weorge 
+	}
 }
-
-dyihar = {
+world_tagyaske = {
 	duchies = {
-			d_sine d_nyila	}
+		# k_libond
+		d_sovane 
+	}
 }
-
-baisatas = {
+world_razivka = {
 	duchies = {
-			d_kaisilay	}
+		# k_exibavac
+		d_kadisii 
+	}
 }
-
-ryeraud = {
+world_zealandia = {
 	duchies = {
-			d_sarilia	}
+		# k_middle_zealand
+		d_dazibor d_telolad d_qiesija d_kadine d_reisaut d_kivisa d_ecrerfn d_edoras 
+		# k_aotearoa
+		d_ekinatta d_kadandi d_ralunia d_radali d_arupula d_torabba d_ratta d_auckland 
+	}
 }
-
-emekacob = {
+world_kaheka = {
 	duchies = {
-			d_lurigid d_basucho d_lemobbo d_notan d_botobbo d_tarles d_tolous d_awinicha d_rawaham d_dunan d_qanjor d_kya d_wicha d_koakim d_akroakim d_qalvor d_banjor d_taham d_niias d_tuber d_esofous	}
+		# k_pacific
+		d_ralasa d_neladay d_kabaun d_rermugo d_kalg d_kupo d_saikict d_wudaim d_kalekre d_koiveir d_nolana d_fiji 
+		# k_hawaii
+		d_ekugaun d_talomir d_kalk d_sarak d_fiji 
+	}
 }
-
-walder = {
-	duchies = {
-			d_emuberin d_weironna d_sinyuva d_diann d_rayban d_layla d_apauling d_kaham d_kulias d_tausalc d_latra d_topigid d_nenitya d_kanana d_tunima d_wibara d_kuidone d_lanaga d_keisida d_wafiy d_kida d_katra d_ezaig	}
-}
-
-ribafa = {
-	duchies = {
-			d_erawong d_qepila d_nepali d_ejibooma d_erawedo d_raurina d_kanina d_tuwunno d_sanjizo d_aleonilo d_kawain	}
-}
-
-kuukmo = {
-	duchies = {
-			d_nerid d_lebeter	}
-}
-
-rorier = {
-	duchies = {
-			d_dairacco	}
-}
-
-kawotan = {
-	duchies = {
-			d_sototan d_asacaham d_demolun d_tenunia d_kenotan d_elekila d_tulida d_rauska d_bouhi d_kelavi d_buhyla d_tideuta	}
-}
-
-retavi = {
-	duchies = {
-			d_telara d_radavi d_regaday d_nidila d_talekavi d_bolatevi	}
-}
-
-nameer = {
-	duchies = {
-			d_delodu d_tidodu d_badeka d_ezhodu d_efrila d_ladael d_tamulam d_solavi d_tulila d_sosaday d_abagude d_ladenr	}
-}
-
-amagerim = {
-	duchies = {
-			d_rodudan	}
-}
-
-kopolk = {
-	duchies = {
-			d_kaline d_baverdi d_nalim d_tikabahu d_kamuslan d_kaguin d_kereva d_kajeva d_kaverdi d_epaveva d_babahu d_buzaga d_seynuin d_dedafiy d_ruzma d_wyavim d_tiakh d_nogoid d_adanida d_baronn d_buzohn d_lanatra	}
-}
-
-taned = {
-	duchies = {
-			d_qanion d_bijohn d_taga d_tekion d_weupilay d_bartaig d_kyi	}
-}
-
-duzaga = {
-	duchies = {
-			d_kamed	}
-}
-
-saria = {
-	duchies = {
-			d_taifr d_robas d_ristan d_nobaz d_negn d_lilay d_beren d_tecegn d_bobonn d_ture d_selaig d_witulay d_kazeorn d_koharid d_qorelen d_qomez	}
-}
-
-ahreytn = {
-	duchies = {
-			d_wavaz d_bedaig	}
-}
-
-darara = {
-	duchies = {
-			d_asopilay	}
-}
-
-nalulay = {
-	duchies = {
-			d_sucho d_nirek d_sohuina	}
-}
-
-lavid = {
-	duchies = {
-			d_dinarka	}
-}
-
-axibiku = {
-	duchies = {
-			d_tabenzu d_eparalku d_ryidory	}
-}
-
-acaidund = {
-	duchies = {
-			d_rareph	}
-}
-

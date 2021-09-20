@@ -1,0 +1,16 @@
+# 456 - Kajelim
+
+# County Title
+title = c_kajelim
+
+# Settlements
+max_settlements = 4
+b_kajelim = castle
+b_winengar = temple
+b_tigeka = city
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History

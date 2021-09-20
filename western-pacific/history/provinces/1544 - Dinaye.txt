@@ -1,0 +1,14 @@
+# 1544 - Dinaye
+
+# County Title
+title = c_dinaye
+
+# Settlements
+max_settlements = 4
+b_dinaye = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

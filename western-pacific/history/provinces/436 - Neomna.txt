@@ -1,0 +1,16 @@
+# 436 - Neomna
+
+# County Title
+title = c_neomna
+
+# Settlements
+max_settlements = 4
+b_neomna = castle
+b_kayduna = temple
+b_karuti = city
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

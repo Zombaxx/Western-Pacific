@@ -1,0 +1,15 @@
+# 1417 - Alilisii
+
+# County Title
+title = c_alilisii
+
+# Settlements
+max_settlements = 3
+b_alilisii = castle
+b_ribaka = temple
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

@@ -1,0 +1,15 @@
+# 425 - Nukani
+
+# County Title
+title = c_nukani
+
+# Settlements
+max_settlements = 3
+b_nukani = castle
+b_risya = temple
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

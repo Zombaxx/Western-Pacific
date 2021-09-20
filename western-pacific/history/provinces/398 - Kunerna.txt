@@ -1,0 +1,16 @@
+# 398 - Kunerna
+
+# County Title
+title = c_kunerna
+
+# Settlements
+max_settlements = 4
+b_kunerna = castle
+b_taneya = temple
+b_difory = city
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

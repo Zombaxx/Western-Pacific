@@ -1,0 +1,14 @@
+# 293 - Rifaqar
+
+# County Title
+title = c_rifaqar
+
+# Settlements
+max_settlements = 2
+b_rifaqar = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

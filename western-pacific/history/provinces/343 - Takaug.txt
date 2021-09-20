@@ -1,0 +1,15 @@
+# 343 - Takaug
+
+# County Title
+title = c_takaug
+
+# Settlements
+max_settlements = 3
+b_takaug = castle
+b_kazimon = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

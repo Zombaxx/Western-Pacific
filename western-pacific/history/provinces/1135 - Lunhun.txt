@@ -1,0 +1,16 @@
+# 1135 - Lunhun
+
+# County Title
+title = c_lunhun
+
+# Settlements
+max_settlements = 4
+b_lunhun = castle
+b_qarilof = temple
+b_karard = city
+
+# Misc
+culture = basque
+religion = norse_pagan
+
+# History

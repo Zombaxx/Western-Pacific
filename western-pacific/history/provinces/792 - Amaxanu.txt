@@ -1,0 +1,14 @@
+# 792 - Amaxanu
+
+# County Title
+title = c_amaxanu
+
+# Settlements
+max_settlements = 4
+b_amaxanu = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

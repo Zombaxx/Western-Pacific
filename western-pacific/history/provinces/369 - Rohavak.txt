@@ -1,0 +1,15 @@
+# 369 - Rohavak
+
+# County Title
+title = c_rohavak
+
+# Settlements
+max_settlements = 3
+b_rohavak = castle
+b_kimaha = temple
+
+# Misc
+culture = uyghur
+religion = bon
+
+# History

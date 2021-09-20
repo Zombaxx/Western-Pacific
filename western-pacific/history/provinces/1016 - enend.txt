@@ -1,5 +1,0 @@
-	title = c_enend
-	max_settlements = 2
-	culture = khitan
-	religion = interface_skin
-	b_nuremhar = tribal

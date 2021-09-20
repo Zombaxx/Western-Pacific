@@ -1,0 +1,15 @@
+# 355 - Retert
+
+# County Title
+title = c_retert
+
+# Settlements
+max_settlements = 3
+b_retert = castle
+b_wahine = temple
+
+# Misc
+culture = telugu
+religion = hindu
+
+# History

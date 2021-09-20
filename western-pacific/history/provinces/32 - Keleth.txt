@@ -1,0 +1,16 @@
+# 32 - Keleth
+
+# County Title
+title = c_keleth
+
+# Settlements
+max_settlements = 4
+b_keleth = city
+b_dyia = temple
+b_loputlu = castle
+
+# Misc
+culture = marathi
+religion = jain
+
+# History

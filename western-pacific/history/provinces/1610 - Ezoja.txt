@@ -1,0 +1,15 @@
+# 1610 - Ezoja
+
+# County Title
+title = c_ezoja
+
+# Settlements
+max_settlements = 6
+b_ezoja = tribal
+b_niirija = temple
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

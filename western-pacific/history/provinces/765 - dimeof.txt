@@ -1,5 +1,0 @@
-	title = c_dimeof
-	max_settlements = 2
-	culture = bolghar
-	religion = kharijite
-	b_arekel = tribal

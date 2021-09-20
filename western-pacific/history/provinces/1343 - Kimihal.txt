@@ -1,0 +1,14 @@
+# 1343 - Kimihal
+
+# County Title
+title = c_kimihal
+
+# Settlements
+max_settlements = 3
+b_kimihal = tribal
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

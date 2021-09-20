@@ -1,0 +1,15 @@
+# 633 - Korew
+
+# County Title
+title = c_korew
+
+# Settlements
+max_settlements = 3
+b_korew = castle
+b_riderin = temple
+
+# Misc
+culture = alan
+religion = buddhist
+
+# History

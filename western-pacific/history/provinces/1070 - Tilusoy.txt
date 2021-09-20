@@ -1,0 +1,15 @@
+# 1070 - Tilusoy
+
+# County Title
+title = c_tilusoy
+
+# Settlements
+max_settlements = 3
+b_tilusoy = castle
+b_qeledar = temple
+
+# Misc
+culture = basque
+religion = catholic
+
+# History

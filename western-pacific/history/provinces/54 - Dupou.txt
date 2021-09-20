@@ -1,0 +1,15 @@
+# 54 - Dupou
+
+# County Title
+title = c_dupou
+
+# Settlements
+max_settlements = 3
+b_dupou = castle
+b_taura = temple
+
+# Misc
+culture = marathi
+religion = jain
+
+# History

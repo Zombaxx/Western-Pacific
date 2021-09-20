@@ -1,0 +1,15 @@
+# 548 - Haikou
+
+# County Title
+title = c_haikou
+
+# Settlements
+max_settlements = 3
+b_haikou = castle
+b_nauluida = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

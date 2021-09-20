@@ -1,0 +1,14 @@
+# 1230 - Sanci
+
+# County Title
+title = c_sanci
+
+# Settlements
+max_settlements = 4
+b_sanci = tribal
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

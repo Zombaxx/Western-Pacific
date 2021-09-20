@@ -1,0 +1,15 @@
+# 594 - Abhle
+
+# County Title
+title = c_abhle
+
+# Settlements
+max_settlements = 3
+b_abhle = castle
+b_baralka = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

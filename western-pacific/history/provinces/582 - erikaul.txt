@@ -1,5 +1,0 @@
-	title = c_erikaul
-	max_settlements = 2
-	culture = songhay
-	religion = catholic
-	b_raniel = tribal

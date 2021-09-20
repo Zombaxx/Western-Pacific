@@ -1,0 +1,15 @@
+# 795 - Rirek
+
+# County Title
+title = c_rirek
+
+# Settlements
+max_settlements = 3
+b_rirek = castle
+b_rarofie = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

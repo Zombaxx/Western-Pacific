@@ -1,5 +1,0 @@
-	title = c_revanna
-	max_settlements = 2
-	culture = pictish
-	religion = monothelite
-	b_kivaret = tribal

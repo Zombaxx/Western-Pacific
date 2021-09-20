@@ -1,0 +1,15 @@
+# 266 - Qahendi
+
+# County Title
+title = c_qahendi
+
+# Settlements
+max_settlements = 3
+b_qahendi = castle
+b_amegawit = temple
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

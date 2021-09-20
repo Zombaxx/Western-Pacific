@@ -1,0 +1,14 @@
+# 220 - Kuaneco
+
+# County Title
+title = c_kuaneco
+
+# Settlements
+max_settlements = 3
+b_kuaneco = tribal
+
+# Misc
+culture = telugu
+religion = norse_pagan
+
+# History

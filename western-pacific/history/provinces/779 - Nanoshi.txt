@@ -1,0 +1,14 @@
+# 779 - Nanoshi
+
+# County Title
+title = c_nanoshi
+
+# Settlements
+max_settlements = 4
+b_nanoshi = tribal
+
+# Misc
+culture = visigothic
+religion = zun_pagan
+
+# History

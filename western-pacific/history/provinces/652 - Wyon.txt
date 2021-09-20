@@ -1,0 +1,14 @@
+# 652 - Wyon
+
+# County Title
+title = c_wyon
+
+# Settlements
+max_settlements = 4
+b_wyon = tribal
+
+# Misc
+culture = visigothic
+religion = zun_pagan
+
+# History

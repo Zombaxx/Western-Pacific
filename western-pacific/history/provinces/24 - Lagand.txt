@@ -1,0 +1,17 @@
+# 24 - Lagand
+
+# County Title
+title = c_lagand
+
+# Settlements
+max_settlements = 6
+b_lagand = castle
+b_nelaria = temple
+b_pavonis = city
+b_keansa = castle
+
+# Misc
+culture = gujurati
+religion = hindu
+
+# History

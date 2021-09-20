@@ -1,0 +1,15 @@
+# 221 - Bopisha
+
+# County Title
+title = c_bopisha
+
+# Settlements
+max_settlements = 6
+b_bopisha = tribal
+b_kotemey = temple
+
+# Misc
+culture = telugu
+religion = norse_pagan
+
+# History

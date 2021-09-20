@@ -1,0 +1,16 @@
+# 325 - Beinaud
+
+# County Title
+title = c_beinaud
+
+# Settlements
+max_settlements = 4
+b_beinaud = castle
+b_kasilay = temple
+b_kaubeph = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

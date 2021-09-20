@@ -1,0 +1,14 @@
+# 440 - Lanail
+
+# County Title
+title = c_lanail
+
+# Settlements
+max_settlements = 2
+b_lanail = castle
+
+# Misc
+culture = uyghur
+religion = buddhist
+
+# History

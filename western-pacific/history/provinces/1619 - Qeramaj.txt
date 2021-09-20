@@ -1,0 +1,14 @@
+# 1619 - Qeramaj
+
+# County Title
+title = c_qeramaj
+
+# Settlements
+max_settlements = 3
+b_qeramaj = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

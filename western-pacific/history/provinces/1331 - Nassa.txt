@@ -1,0 +1,14 @@
+# 1331 - Nassa
+
+# County Title
+title = c_nassa
+
+# Settlements
+max_settlements = 3
+b_nassa = tribal
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

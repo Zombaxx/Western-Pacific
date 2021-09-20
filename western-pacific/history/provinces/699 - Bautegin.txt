@@ -1,0 +1,14 @@
+# 699 - Bautegin
+
+# County Title
+title = c_bautegin
+
+# Settlements
+max_settlements = 2
+b_bautegin = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

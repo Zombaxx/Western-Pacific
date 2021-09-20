@@ -1,5 +1,0 @@
-	title = c_tattan
-	max_settlements = 2
-	culture = zaghawa
-	religion = color
-	b_daga = tribal

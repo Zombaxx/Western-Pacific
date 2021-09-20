@@ -1,0 +1,14 @@
+932.1.1 = {
+	holding_dynasty = 113130 # de Qeirobas - makes this a FAMILY_PALACE type Holding
+	liege="d_melbourne"
+	holder = 113130
+}
+1014.1.1 = {
+	holder = 113131
+}
+1050.1.1 = {
+	holder = 113132
+}
+1052.1.1 = {
+	holder = 113135
+}

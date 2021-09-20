@@ -1,0 +1,18 @@
+# 486 - Tesecol
+
+# County Title
+title = c_tesecol
+
+# Settlements
+max_settlements = 7
+b_tesecol = castle
+b_nakazja = temple
+b_rekano = city
+b_nizaac = castle
+b_tarita = temple
+
+# Misc
+culture = han
+religion = catholic
+
+# History

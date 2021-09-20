@@ -1,0 +1,14 @@
+# 1046 - Athala
+
+# County Title
+title = c_athala
+
+# Settlements
+max_settlements = 4
+b_athala = tribal
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

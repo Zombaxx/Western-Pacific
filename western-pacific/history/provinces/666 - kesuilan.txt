@@ -1,5 +1,0 @@
-	title = c_kesuilan
-	max_settlements = 2
-	culture = bosnian
-	religion = kharijite
-	b_sozafur = tribal

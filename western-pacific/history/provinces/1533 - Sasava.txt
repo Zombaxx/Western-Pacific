@@ -1,0 +1,14 @@
+# 1533 - Sasava
+
+# County Title
+title = c_sasava
+
+# Settlements
+max_settlements = 3
+b_sasava = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

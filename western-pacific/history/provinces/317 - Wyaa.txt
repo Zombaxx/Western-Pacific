@@ -1,0 +1,16 @@
+# 317 - Wyaa
+
+# County Title
+title = c_wyaa
+
+# Settlements
+max_settlements = 4
+b_wyaa = castle
+b_akropolis = temple
+b_bohisii = city
+
+# Misc
+culture = kannada
+religion = jain
+
+# History

@@ -1,0 +1,14 @@
+# 1173 - Taloth
+
+# County Title
+title = c_taloth
+
+# Settlements
+max_settlements = 3
+b_taloth = tribal
+
+# Misc
+culture = nubian
+religion = catholic
+
+# History

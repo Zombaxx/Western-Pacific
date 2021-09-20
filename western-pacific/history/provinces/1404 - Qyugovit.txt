@@ -1,0 +1,14 @@
+# 1404 - Qyugovit
+
+# County Title
+title = c_qyugovit
+
+# Settlements
+max_settlements = 3
+b_qyugovit = tribal
+
+# Misc
+culture = pictish
+religion = orthodox
+
+# History

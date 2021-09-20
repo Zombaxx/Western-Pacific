@@ -1,0 +1,744 @@
+# Kanaud
+technology = {
+	titles = {
+		d_bijaim
+	}
+	1066 = {
+		military = 1.0
+		economy = 2.0
+		culture = 3.0
+	}
+}
+technology = {
+	titles = {
+		d_karachi
+		d_bibirai
+		d_qedideva
+	}
+	1066 = {
+		military = 3.0
+		economy = 2.0
+		culture = 1.0
+	}
+}
+
+# Toisi
+technology = {
+	titles = {
+		d_eferagan
+		d_ahmedabad
+		d_borine
+		d_taxelm
+		d_nyatine
+		d_wayteye
+	}
+	1066 = {
+		military = 3.0
+		economy = 2.0
+		culture = 1.0
+	}
+}
+
+# Bharat
+technology = {
+	titles = {
+		d_balam
+		d_new_delhi
+		d_kerair
+		d_wiludo
+		d_egasin
+		d_togimha
+		d_sagoka
+		d_ditulun
+		d_rivurd
+		d_qusith
+		d_watun
+		d_bulaide
+		d_raurde
+		d_korort
+		d_tibeph
+		d_esviat
+		d_visakhapatnam
+		d_nonno
+		d_soley
+		d_kalaf
+		d_toluvje
+		d_salilen
+		d_kasukar
+		d_keana
+		d_dhaka
+		d_adaguti
+		d_tenart
+		d_dumandar
+		d_tolaac
+		d_kulian
+	}
+	1066 = {
+		military = 3.0
+		economy = 2.0
+		culture = 1.0
+	}
+}
+
+# Dakshina
+technology = {
+	titles = {
+		d_mumai
+	}
+	1066 = {
+		military = 2.0
+		economy = 3.0
+		culture = 1.0
+	}
+}
+technology = {
+	titles = {
+		d_karogs
+		d_qusbu
+		d_enarying
+		d_delemba
+		d_kyaca
+		d_karabai
+		d_tavicta
+		d_nosardu
+		d_radeter
+		d_layania
+		d_layabia
+		d_bageuta
+		d_chennai
+		d_colombo
+		d_asogiya
+		d_nechem
+	}
+	1066 = {
+		military = 3.0
+		economy = 2.0
+		culture = 1.0
+	}
+}
+technology = {
+	titles = {
+		d_beriz
+	}
+	1066 = {
+		military = 1.0
+		economy = 2.0
+		culture = 3.0
+	}
+}
+
+# Saridda
+technology = {
+	titles = {
+		d_tosidda
+	}
+	1066 = {
+		military = 3.0
+		economy = 2.0
+		culture = 1.0
+	}
+}
+
+# Siam
+technology = {
+	titles = {
+		d_wolitya
+		d_abadamur
+		d_bizai
+		d_kucala
+		d_ruocb
+		d_norevan
+		d_yangon
+		d_sohyuan
+		d_wateir
+		d_dagaide
+		d_kanine
+		d_kopata
+		d_baumaug
+		d_risius
+		d_detagan
+		d_duzniq
+		d_tyamilvi
+		d_dajawit
+		d_rauste
+		d_sahins
+		d_reineka
+		d_bangkok
+		d_bire
+		d_asusisam
+		d_wanude
+		d_tajeter
+		d_eriobn
+		d_dubyula
+		d_rivicha
+		d_qadaatun
+		d_lacarid
+		d_tenilii
+		d_elassona
+		d_vientiane
+		d_echomeus
+		d_dalar
+		d_raleka
+		d_phnom_penh
+		d_dyasork
+		d_tohunda
+		d_kadald
+		d_epokatok
+		d_darapal
+		d_datavid
+		d_naranna
+		d_eranius
+		d_savac
+		d_qumegin
+		d_qerge
+	}
+	1066 = {
+		military = 3.0
+		economy = 2.0
+		culture = 1.0
+	}
+}
+
+# Archipelago
+technology = {
+	titles = {
+		d_komahar
+		d_nakasus
+	}
+	1066 = {
+		military = 2.0
+		economy = 3.0
+		culture = 1.0
+	}
+}
+technology = {
+	titles = {
+		d_kofiin
+		d_esahahim
+		d_kebinni
+		d_manokwari
+	}
+	1066 = {
+		military = 1.0
+		economy = 3.0
+		culture = 2.0
+	}
+}
+technology = {
+	titles = {
+		d_kinandi
+		d_wamatan
+		d_nudis
+		d_sonooma
+		d_ehelaka
+		d_syagali
+		d_wuloman
+		d_tesha
+		d_likar
+		d_kund
+		d_balikpapan
+		d_baham
+		d_toryhan
+		d_rubyuan
+		d_wyilatar
+		d_sinya
+		d_kelalaf
+		d_lernka
+		d_ruhuzma
+		d_ruena
+		d_nenunpu
+		d_kaniwen
+		d_juventian
+		d_qobantay
+		d_kenomas
+		d_kiyeork
+		d_kucamun
+		d_luaret
+		d_reloan
+		d_rumyuan
+		d_timor_leste
+		d_lukifa
+		d_awilaret
+		d_maluku
+		d_diegawa
+		d_temoshi
+		d_qagalo
+		d_larotos
+		d_keleodat
+		d_ruoete
+		d_darura
+		d_acanena
+		d_acaseriu
+		d_tarta
+		d_karayim
+		d_lanavar
+		d_ranba
+		d_qalabha
+		d_tirimon
+		d_ladory
+		d_edalvor
+	}
+	1066 = {
+		military = 1.0
+		economy = 2.0
+		culture = 3.0
+	}
+}
+technology = {
+	titles = {
+		d_naret
+		d_medan
+		d_olympus_mons
+		d_wuneas
+		d_kuala_lumpur
+		d_qadahim
+		d_nonazi
+		d_sinozar
+		d_rilire
+		d_tusayah
+		d_ronaha
+		d_qyarapa
+		d_navanca
+		d_banosz
+		d_siat
+		d_jakarta
+		d_qefeni
+		d_qatuma
+		d_wanjay
+		d_recodai
+		d_rooromo
+		d_sund
+		d_kelepe
+		d_dugou
+		d_detyuns
+		d_kamaba
+		d_rulura
+		d_racunpu
+		d_kepersin
+		d_qeitl
+		d_makassar
+		d_riacna
+		d_apulavo
+		d_manila
+		d_nicakk
+		d_iusen
+		d_kueka
+		d_teginda
+		d_ramoljo
+		d_qanala
+		d_port_moresby
+		d_lyunarak
+		d_agalelec
+		d_rabaul
+		d_kayaraq
+		d_lasena
+	}
+	1066 = {
+		military = 3.0
+		economy = 2.0
+		culture = 1.0
+	}
+}
+
+# South China
+technology = {
+	titles = {
+		d_hong_kong
+		d_taipei
+	}
+	1066 = {
+		military = 2.0
+		economy = 3.0
+		culture = 1.0
+	}
+}
+technology = {
+	titles = {
+		d_leahaig
+		d_kageriu
+		d_ronedek
+		d_lazaide
+		d_tatsi
+		d_tayyuo
+		d_berula
+		d_haikou
+		d_esakilia
+		d_barelm
+		d_qinann
+		d_byevuis
+		d_enauluk
+		d_bilili
+		d_sucha
+		d_qeash
+		d_taisami
+		d_tegua
+		d_rimou
+	}
+	1066 = {
+		military = 3.0
+		economy = 2.0
+		culture = 1.0
+	}
+}
+
+# Outback
+technology = {
+	titles = {
+		d_darwin
+	}
+	1066 = {
+		military = 1.0
+		economy = 3.0
+		culture = 2.0
+	}
+}
+technology = {
+	titles = {
+		d_geraldton
+		d_saliam
+		d_kemamze
+		d_acililal
+		d_naram
+		d_emeling
+		d_rogawa
+		d_teneru
+		d_qunuigi
+		d_qainet
+		d_kohon
+		d_qalija
+		d_nadahat
+		d_argyre_islands
+		d_kudusa
+		d_ripira
+		d_lemyuchi
+		d_salit
+		d_rerisa
+		d_ryanata
+		d_aragine
+		d_karad
+		d_evaladra
+		d_binat
+		d_wiliero
+		d_wodora
+		d_kehala
+		d_eucla
+		d_rato
+		d_qayita
+		d_daymeda
+		d_datana
+		d_lohyay
+		d_lanna
+		d_kamakla
+		d_sara
+		d_esmaht
+		d_tukeir
+		d_tarajid
+	}
+	1066 = {
+		military = 1.0
+		economy = 2.0
+		culture = 3.0
+	}
+}
+technology = {
+	titles = {
+		d_ridatan
+		d_perth
+	}
+	1066 = {
+		military = 3.0
+		economy = 2.0
+		culture = 1.0
+	}
+}
+technology = {
+	titles = {
+		d_wasoila
+		d_talui
+		d_tilost
+		d_kamajid
+		d_syolailo
+		d_avaluti
+		d_raata
+		d_nedyrk
+		d_kerund
+		d_saram
+		d_kenira
+		d_dusine
+		d_roreer
+		d_qodika
+		d_wenodan
+		d_leonurre
+		d_baromo
+		d_logeria
+		d_kamavid
+		d_samart
+		d_alice_springs
+		d_simika
+		d_qusambiz
+		d_ebalella
+		d_dalaya
+		d_dajayda
+		d_lalacob
+	}
+	1066 = {
+		military = 1.0
+		economy = 1.0
+		culture = 0.0
+	}
+}
+
+# Aus
+technology = {
+	titles = {
+		d_melbourne
+		d_sydney
+	}
+	1066 = {
+		military = 2.0
+		economy = 3.0
+		culture = 1.0
+	}
+}
+technology = {
+	titles = {
+		d_eloa
+		d_kaduslo
+		d_qatong
+		d_nelen
+		d_ratan
+		d_tohiek
+		d_bepipava
+		d_tacabib
+		d_qoriwal
+		d_tonayaad
+		d_esanua
+		d_waikin
+		d_bucakh
+		d_lelasia
+		d_dasala
+		d_tietika
+		d_kasuliu
+		d_dogatis
+		d_kyaytok
+		d_redela
+		d_qaridia
+		d_sudathi
+		d_bavudo
+		d_ruwucha
+		d_dusoda
+		d_salnan
+		d_dalli
+		d_avasissa
+		d_kadeter
+		d_waseva
+		d_qoseike
+		d_limanas
+		d_telilla
+		d_naraug
+		d_nerdi
+	}
+	1066 = {
+		military = 1.0
+		economy = 2.0
+		culture = 3.0
+	}
+}
+technology = {
+	titles = {
+		d_tagodan
+		d_lawasus
+		d_wabacob
+		d_tusanna
+		d_epirma
+		d_lyemude
+		d_teonika
+		d_adelaide
+		d_kimunka
+		d_rekeye
+		d_balomo
+		d_kuhing
+		d_tasawa
+		d_badahtu
+		d_tonakk
+		d_kanegn
+		d_dezasia
+		d_qahera
+		d_recila
+		d_qeonyab
+		d_racatis
+		d_banazgul
+		d_baurand
+		d_setebia
+		d_tachebia
+		d_wojaig
+		d_kelg
+		d_hobart
+		d_sonoch
+		d_silid
+		d_letati
+		d_demars
+		d_seiroro
+		d_canberry
+		d_nikohas
+		d_badali
+		d_lozalih
+		d_tinicta
+		d_bajiuva
+		d_kepipava
+		d_wazavac
+		d_taulirc
+		d_rasilia
+		d_ladisii
+		d_brisbane
+		d_niraka
+	}
+	1066 = {
+		military = 3.0
+		economy = 2.0
+		culture = 1.0
+	}
+}
+technology = {
+	titles = {
+		d_ecamawma
+		d_lolaula
+		d_dekahat
+	}
+	1066 = {
+		military = 1.0
+		economy = 1.0
+		culture = 0.0
+	}
+}
+
+# Agenuzer
+technology = {
+	titles = {
+		d_edameka
+	}
+	1066 = {
+		military = 3.0
+		economy = 2.0
+		culture = 1.0
+	}
+}
+
+# Tiriala
+technology = {
+	titles = {
+		d_weorge
+	}
+	1066 = {
+		military = 3.0
+		economy = 2.0
+		culture = 1.0
+	}
+}
+
+# Tagyaske
+technology = {
+	titles = {
+		d_sovane
+	}
+	1066 = {
+		military = 3.0
+		economy = 2.0
+		culture = 1.0
+	}
+}
+
+# Razivka
+technology = {
+	titles = {
+		d_kadisii
+	}
+	1066 = {
+		military = 3.0
+		economy = 2.0
+		culture = 1.0
+	}
+}
+
+# Zealandia
+technology = {
+	titles = {
+		d_telolad
+	}
+	1066 = {
+		military = 1.0
+		economy = 3.0
+		culture = 2.0
+	}
+}
+technology = {
+	titles = {
+		d_dazibor
+		d_qiesija
+		d_kadine
+		d_ratta
+	}
+	1066 = {
+		military = 1.0
+		economy = 2.0
+		culture = 3.0
+	}
+}
+technology = {
+	titles = {
+		d_reisaut
+		d_kivisa
+		d_edoras
+		d_ecrerfn
+		d_ekinatta
+		d_auckland
+		d_kadandi
+		d_ralunia
+		d_radali
+		d_arupula
+		d_torabba
+	}
+	1066 = {
+		military = 3.0
+		economy = 2.0
+		culture = 1.0
+	}
+}
+
+# Kaheka
+technology = {
+	titles = {
+		d_fiji
+	}
+	1066 = {
+		military = 1.0
+		economy = 3.0
+		culture = 2.0
+	}
+}
+technology = {
+	titles = {
+		d_ralasa
+		d_neladay
+		d_kabaun
+		d_rermugo
+		d_kalg
+		d_kupo
+		d_saikict
+		d_wudaim
+		d_kalekre
+		d_fiji
+		d_koiveir
+		d_ekugaun
+		d_talomir
+		d_kalk
+		d_sarak
+		d_nolana
+	}
+	1066 = {
+		military = 1.0
+		economy = 2.0
+		culture = 3.0
+	}
+}
+

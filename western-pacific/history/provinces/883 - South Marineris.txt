@@ -1,0 +1,15 @@
+# 883 - South Marineris
+
+# County Title
+title = c_south_marineris
+
+# Settlements
+max_settlements = 6
+b_south_marineris = tribal
+b_qugacob = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

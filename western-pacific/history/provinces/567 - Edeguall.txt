@@ -1,0 +1,15 @@
+# 567 - Edeguall
+
+# County Title
+title = c_edeguall
+
+# Settlements
+max_settlements = 3
+b_edeguall = castle
+b_sucepi = temple
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

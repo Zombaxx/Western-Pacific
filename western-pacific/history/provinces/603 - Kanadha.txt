@@ -1,0 +1,14 @@
+# 603 - Kanadha
+
+# County Title
+title = c_kanadha
+
+# Settlements
+max_settlements = 3
+b_kanadha = tribal
+
+# Misc
+culture = kanuri
+religion = zun_pagan
+
+# History

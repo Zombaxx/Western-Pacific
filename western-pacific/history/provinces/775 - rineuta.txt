@@ -1,5 +1,0 @@
-	title = c_rineuta
-	max_settlements = 2
-	culture = castillan
-	religion = interface_skin
-	b_soroa = tribal

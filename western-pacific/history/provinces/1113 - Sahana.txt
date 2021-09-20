@@ -1,0 +1,14 @@
+# 1113 - Sahana
+
+# County Title
+title = c_sahana
+
+# Settlements
+max_settlements = 4
+b_sahana = tribal
+
+# Misc
+culture = nubian
+religion = catholic
+
+# History

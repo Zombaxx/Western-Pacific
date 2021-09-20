@@ -1,0 +1,15 @@
+# 702 - Riudail
+
+# County Title
+title = c_riudail
+
+# Settlements
+max_settlements = 3
+b_riudail = castle
+b_nislav = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

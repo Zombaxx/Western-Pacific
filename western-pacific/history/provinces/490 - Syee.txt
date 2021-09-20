@@ -1,0 +1,15 @@
+# 490 - Syee
+
+# County Title
+title = c_syee
+
+# Settlements
+max_settlements = 3
+b_syee = castle
+b_qosecol = temple
+
+# Misc
+culture = tamil
+religion = buddhist
+
+# History

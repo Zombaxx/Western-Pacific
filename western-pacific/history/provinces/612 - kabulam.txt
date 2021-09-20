@@ -1,5 +1,0 @@
-	title = c_kabulam
-	max_settlements = 2
-	culture = italian
-	religion = bon
-	b_nuning = tribal

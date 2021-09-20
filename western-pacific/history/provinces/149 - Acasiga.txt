@@ -1,0 +1,16 @@
+# 149 - Acasiga
+
+# County Title
+title = c_acasiga
+
+# Settlements
+max_settlements = 4
+b_acasiga = castle
+b_tinaud = temple
+b_qasudo = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

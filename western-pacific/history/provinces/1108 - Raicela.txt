@@ -1,0 +1,15 @@
+# 1108 - Raicela
+
+# County Title
+title = c_raicela
+
+# Settlements
+max_settlements = 6
+b_raicela = tribal
+b_anund = temple
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

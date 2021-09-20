@@ -1,0 +1,14 @@
+# 1202 - Nocapa
+
+# County Title
+title = c_nocapa
+
+# Settlements
+max_settlements = 1
+b_nocapa = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

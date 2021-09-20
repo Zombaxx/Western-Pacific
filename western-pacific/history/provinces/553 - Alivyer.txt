@@ -1,0 +1,14 @@
+# 553 - Alivyer
+
+# County Title
+title = c_alivyer
+
+# Settlements
+max_settlements = 2
+b_alivyer = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

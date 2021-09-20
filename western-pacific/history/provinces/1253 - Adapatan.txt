@@ -1,0 +1,14 @@
+# 1253 - Adapatan
+
+# County Title
+title = c_adapatan
+
+# Settlements
+max_settlements = 3
+b_adapatan = tribal
+
+# Misc
+culture = greek
+religion = west_african_pagan
+
+# History

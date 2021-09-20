@@ -1,0 +1,14 @@
+# 265 - Ezucius
+
+# County Title
+title = c_ezucius
+
+# Settlements
+max_settlements = 3
+b_ezucius = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

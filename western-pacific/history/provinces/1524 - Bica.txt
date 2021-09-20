@@ -1,0 +1,15 @@
+# 1524 - Bica
+
+# County Title
+title = c_bica
+
+# Settlements
+max_settlements = 6
+b_bica = tribal
+b_seleuta = temple
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

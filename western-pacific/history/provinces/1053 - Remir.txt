@@ -1,0 +1,14 @@
+# 1053 - Remir
+
+# County Title
+title = c_remir
+
+# Settlements
+max_settlements = 3
+b_remir = tribal
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

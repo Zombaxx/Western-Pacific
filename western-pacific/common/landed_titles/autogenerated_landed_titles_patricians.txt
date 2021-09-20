@@ -1,0 +1,147 @@
+# Mumai Merchant Republic Palaces
+b_patrician_100340 = {
+	culture = marathi
+	religion = jain
+}
+b_patrician_100341 = {
+	culture = marathi
+	religion = jain
+}
+b_patrician_100342 = {
+	culture = marathi
+	religion = jain
+}
+b_patrician_100343 = {
+	culture = marathi
+	religion = jain
+}
+b_patrician_100344 = {
+	culture = marathi
+	religion = jain
+}
+# Komahar Merchant Republic Palaces
+b_patrician_104390 = {
+	culture = han
+	religion = buddhist
+}
+b_patrician_104391 = {
+	culture = han
+	religion = buddhist
+}
+b_patrician_104392 = {
+	culture = han
+	religion = buddhist
+}
+b_patrician_104393 = {
+	culture = han
+	religion = buddhist
+}
+b_patrician_104394 = {
+	culture = han
+	religion = buddhist
+}
+# Nakasus Merchant Republic Palaces
+b_patrician_106370 = {
+	culture = nepali
+	religion = hindu
+}
+b_patrician_106371 = {
+	culture = nepali
+	religion = hindu
+}
+b_patrician_106372 = {
+	culture = nepali
+	religion = hindu
+}
+b_patrician_106373 = {
+	culture = nepali
+	religion = hindu
+}
+b_patrician_106374 = {
+	culture = nepali
+	religion = hindu
+}
+# Hong Kong Merchant Republic Palaces
+b_patrician_106140 = {
+	culture = han
+	religion = taoist
+}
+b_patrician_106141 = {
+	culture = han
+	religion = taoist
+}
+b_patrician_106142 = {
+	culture = han
+	religion = taoist
+}
+b_patrician_106143 = {
+	culture = han
+	religion = taoist
+}
+b_patrician_106144 = {
+	culture = han
+	religion = taoist
+}
+# Taipei Merchant Republic Palaces
+b_patrician_107800 = {
+	culture = han
+	religion = catholic
+}
+b_patrician_107801 = {
+	culture = han
+	religion = catholic
+}
+b_patrician_107802 = {
+	culture = han
+	religion = catholic
+}
+b_patrician_107803 = {
+	culture = han
+	religion = catholic
+}
+b_patrician_107804 = {
+	culture = han
+	religion = catholic
+}
+# Melbourne Merchant Republic Palaces
+b_patrician_113130 = {
+	culture = old_frankish
+	religion = buddhist
+}
+b_patrician_113131 = {
+	culture = old_frankish
+	religion = buddhist
+}
+b_patrician_113132 = {
+	culture = old_frankish
+	religion = buddhist
+}
+b_patrician_113133 = {
+	culture = old_frankish
+	religion = buddhist
+}
+b_patrician_113134 = {
+	culture = old_frankish
+	religion = buddhist
+}
+# Sydney Merchant Republic Palaces
+b_patrician_114780 = {
+	culture = saxon
+	religion = fraticelli
+}
+b_patrician_114781 = {
+	culture = saxon
+	religion = fraticelli
+}
+b_patrician_114782 = {
+	culture = saxon
+	religion = fraticelli
+}
+b_patrician_114783 = {
+	culture = saxon
+	religion = fraticelli
+}
+b_patrician_114784 = {
+	culture = saxon
+	religion = fraticelli
+}

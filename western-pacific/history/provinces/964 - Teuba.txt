@@ -1,0 +1,14 @@
+# 964 - Teuba
+
+# County Title
+title = c_teuba
+
+# Settlements
+max_settlements = 1
+b_teuba = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

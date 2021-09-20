@@ -1,0 +1,14 @@
+# 1005 - Kehosai
+
+# County Title
+title = c_kehosai
+
+# Settlements
+max_settlements = 2
+b_kehosai = tribal
+
+# Misc
+culture = kanuri
+religion = zun_pagan
+
+# History

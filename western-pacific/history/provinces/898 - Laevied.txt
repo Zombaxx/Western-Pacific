@@ -1,0 +1,15 @@
+# 898 - Laevied
+
+# County Title
+title = c_laevied
+
+# Settlements
+max_settlements = 5
+b_laevied = tribal
+b_qal = temple
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

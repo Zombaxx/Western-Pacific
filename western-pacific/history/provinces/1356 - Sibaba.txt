@@ -1,0 +1,14 @@
+# 1356 - Sibaba
+
+# County Title
+title = c_sibaba
+
+# Settlements
+max_settlements = 3
+b_sibaba = tribal
+
+# Misc
+culture = pictish
+religion = orthodox
+
+# History

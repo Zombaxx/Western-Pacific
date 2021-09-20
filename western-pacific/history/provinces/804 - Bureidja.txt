@@ -1,0 +1,14 @@
+# 804 - Bureidja
+
+# County Title
+title = c_bureidja
+
+# Settlements
+max_settlements = 1
+b_bureidja = tribal
+
+# Misc
+culture = zhangzhung
+religion = jain
+
+# History

@@ -1,0 +1,14 @@
+# 1171 - Bilatis
+
+# County Title
+title = c_bilatis
+
+# Settlements
+max_settlements = 4
+b_bilatis = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

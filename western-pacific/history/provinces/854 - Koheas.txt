@@ -1,0 +1,14 @@
+# 854 - Koheas
+
+# County Title
+title = c_koheas
+
+# Settlements
+max_settlements = 1
+b_koheas = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

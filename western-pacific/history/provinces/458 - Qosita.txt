@@ -1,0 +1,15 @@
+# 458 - Qosita
+
+# County Title
+title = c_qosita
+
+# Settlements
+max_settlements = 3
+b_qosita = castle
+b_edieltun = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

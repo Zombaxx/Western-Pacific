@@ -1,0 +1,15 @@
+# 364 - Neyao
+
+# County Title
+title = c_neyao
+
+# Settlements
+max_settlements = 3
+b_neyao = castle
+b_qelelen = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

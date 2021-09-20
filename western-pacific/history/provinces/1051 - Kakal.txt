@@ -1,0 +1,14 @@
+# 1051 - Kakal
+
+# County Title
+title = c_kakal
+
+# Settlements
+max_settlements = 3
+b_kakal = tribal
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

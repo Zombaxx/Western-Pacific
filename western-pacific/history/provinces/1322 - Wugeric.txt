@@ -1,0 +1,15 @@
+# 1322 - Wugeric
+
+# County Title
+title = c_wugeric
+
+# Settlements
+max_settlements = 3
+b_wugeric = castle
+b_qanangar = temple
+
+# Misc
+culture = old_frankish
+religion = tengri_pagan
+
+# History

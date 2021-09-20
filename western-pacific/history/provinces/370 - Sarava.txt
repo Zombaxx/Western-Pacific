@@ -1,0 +1,16 @@
+# 370 - Sarava
+
+# County Title
+title = c_sarava
+
+# Settlements
+max_settlements = 4
+b_sarava = castle
+b_kinian = temple
+b_kelle = city
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

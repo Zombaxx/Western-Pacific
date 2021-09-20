@@ -1,0 +1,27 @@
+china = {
+	trade_post_display_trigger = {
+		china_trade_post_display_trigger =  yes
+	}
+	
+	modifier = {	# How the trade route modifies the provinces it passes
+		castle_tax_modifier = 0.10
+		city_tax_modifier = 0.10
+		temple_tax_modifier = 0.10
+		tribal_tax_modifier = 0.10
+		trade_route_value = 15
+		local_movement_speed = 0.20
+		tech_growth_modifier = 0.20
+		icon = 4
+	}
+	
+	start = {				# Start provinces of trade route
+		736
+	}
+	
+	path = { #1515;11
+		736 716 614 550 548 486 519 477 452
+	} #1141;417
+
+	wealth = 9 # Total base wealth of china
+
+}

@@ -1,0 +1,17 @@
+# 153 - Esanard
+
+# County Title
+title = c_esanard
+
+# Settlements
+max_settlements = 5
+b_esanard = castle
+b_ebozaba = temple
+b_tict = city
+b_duigun = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

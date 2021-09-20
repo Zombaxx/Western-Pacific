@@ -1,0 +1,15 @@
+# 1023 - Luke
+
+# County Title
+title = c_luke
+
+# Settlements
+max_settlements = 6
+b_luke = tribal
+b_dokevna = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

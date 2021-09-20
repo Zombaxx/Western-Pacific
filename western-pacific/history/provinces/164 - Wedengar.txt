@@ -1,0 +1,16 @@
+# 164 - Wedengar
+
+# County Title
+title = c_wedengar
+
+# Settlements
+max_settlements = 4
+b_wedengar = castle
+b_rinaimi = temple
+b_qumeya = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,14 @@
+# 739 - Lininga
+
+# County Title
+title = c_lininga
+
+# Settlements
+max_settlements = 3
+b_lininga = tribal
+
+# Misc
+culture = alan
+religion = aztec
+
+# History

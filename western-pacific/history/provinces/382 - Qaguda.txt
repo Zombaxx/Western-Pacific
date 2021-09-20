@@ -1,0 +1,15 @@
+# 382 - Qaguda
+
+# County Title
+title = c_qaguda
+
+# Settlements
+max_settlements = 3
+b_qaguda = castle
+b_ryevanna = temple
+
+# Misc
+culture = kannada
+religion = sunni
+
+# History

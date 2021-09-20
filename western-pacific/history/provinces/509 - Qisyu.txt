@@ -1,0 +1,15 @@
+# 509 - Qisyu
+
+# County Title
+title = c_qisyu
+
+# Settlements
+max_settlements = 3
+b_qisyu = castle
+b_leburli = temple
+
+# Misc
+culture = tamil
+religion = catholic
+
+# History

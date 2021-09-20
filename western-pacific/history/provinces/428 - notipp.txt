@@ -1,5 +1,0 @@
-	title = c_notipp
-	max_settlements = 2
-	culture = armenian
-	religion = lollard
-	b_qanig = tribal

@@ -1,0 +1,15 @@
+# 44 - Wubinai
+
+# County Title
+title = c_wubinai
+
+# Settlements
+max_settlements = 3
+b_wubinai = castle
+b_arars = temple
+
+# Misc
+culture = sogdian
+religion = manichean
+
+# History

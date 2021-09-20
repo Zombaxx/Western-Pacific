@@ -1,0 +1,16 @@
+# 580 - Kebinda
+
+# County Title
+title = c_kebinda
+
+# Settlements
+max_settlements = 4
+b_kebinda = castle
+b_enaka = temple
+b_seruna = city
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

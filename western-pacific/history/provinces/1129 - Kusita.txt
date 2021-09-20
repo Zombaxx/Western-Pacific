@@ -1,0 +1,14 @@
+# 1129 - Kusita
+
+# County Title
+title = c_kusita
+
+# Settlements
+max_settlements = 4
+b_kusita = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

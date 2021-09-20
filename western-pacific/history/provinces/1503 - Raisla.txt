@@ -1,0 +1,14 @@
+# 1503 - Raisla
+
+# County Title
+title = c_raisla
+
+# Settlements
+max_settlements = 2
+b_raisla = castle
+
+# Misc
+culture = old_saxon
+religion = orthodox
+
+# History

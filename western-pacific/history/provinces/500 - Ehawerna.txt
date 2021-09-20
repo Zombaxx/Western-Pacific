@@ -1,0 +1,15 @@
+# 500 - Ehawerna
+
+# County Title
+title = c_ehawerna
+
+# Settlements
+max_settlements = 3
+b_ehawerna = castle
+b_rielyg = temple
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

@@ -1,0 +1,18 @@
+# 72 - New Delhi
+
+# County Title
+title = c_new_delhi
+
+# Settlements
+max_settlements = 7
+b_new_delhi = castle
+b_dyasateh = temple
+b_tetona = city
+b_watilal = castle
+b_raihona = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

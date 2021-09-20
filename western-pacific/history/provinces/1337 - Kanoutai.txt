@@ -1,0 +1,14 @@
+# 1337 - Kanoutai
+
+# County Title
+title = c_kanoutai
+
+# Settlements
+max_settlements = 4
+b_kanoutai = tribal
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

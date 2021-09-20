@@ -1,0 +1,15 @@
+# 1604 - Fiji
+
+# County Title
+title = c_fiji
+
+# Settlements
+max_settlements = 6
+b_fiji = tribal
+b_qajeni = temple
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

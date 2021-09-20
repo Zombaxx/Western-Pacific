@@ -1,5 +1,0 @@
-	title = c_danund
-	max_settlements = 2
-	culture = mordvin
-	religion = mazdaki
-	b_lalurtam = tribal

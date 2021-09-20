@@ -1,0 +1,14 @@
+# 682 - Kunya
+
+# County Title
+title = c_kunya
+
+# Settlements
+max_settlements = 2
+b_kunya = tribal
+
+# Misc
+culture = alan
+religion = aztec
+
+# History

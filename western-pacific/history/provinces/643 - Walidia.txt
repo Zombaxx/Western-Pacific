@@ -1,0 +1,17 @@
+# 643 - Walidia
+
+# County Title
+title = c_walidia
+
+# Settlements
+max_settlements = 5
+b_walidia = castle
+b_rirudo = temple
+b_kebigo = city
+b_segudan = castle
+
+# Misc
+culture = alan
+religion = buddhist
+
+# History

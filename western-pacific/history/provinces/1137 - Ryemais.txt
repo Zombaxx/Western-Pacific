@@ -1,0 +1,16 @@
+# 1137 - Ryemais
+
+# County Title
+title = c_ryemais
+
+# Settlements
+max_settlements = 4
+b_ryemais = castle
+b_tamavid = temple
+b_durais = city
+
+# Misc
+culture = old_frankish
+religion = aztec
+
+# History

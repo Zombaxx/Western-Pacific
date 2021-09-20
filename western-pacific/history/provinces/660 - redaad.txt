@@ -1,5 +1,0 @@
-	title = c_redaad
-	max_settlements = 2
-	culture = afghan
-	religion = manichean
-	b_kaa = tribal

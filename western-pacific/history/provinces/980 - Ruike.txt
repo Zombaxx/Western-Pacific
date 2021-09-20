@@ -1,0 +1,14 @@
+# 980 - Ruike
+
+# County Title
+title = c_ruike
+
+# Settlements
+max_settlements = 3
+b_ruike = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

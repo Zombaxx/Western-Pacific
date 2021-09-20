@@ -1,0 +1,15 @@
+# 401 - Qiesanca
+
+# County Title
+title = c_qiesanca
+
+# Settlements
+max_settlements = 3
+b_qiesanca = castle
+b_kivalotl = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

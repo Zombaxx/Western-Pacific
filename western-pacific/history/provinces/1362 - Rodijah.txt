@@ -1,0 +1,14 @@
+# 1362 - Rodijah
+
+# County Title
+title = c_rodijah
+
+# Settlements
+max_settlements = 3
+b_rodijah = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

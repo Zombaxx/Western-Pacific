@@ -1,0 +1,14 @@
+# 943 - Diayay
+
+# County Title
+title = c_diayay
+
+# Settlements
+max_settlements = 2
+b_diayay = tribal
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 347 - Kibahar
+
+# County Title
+title = c_kibahar
+
+# Settlements
+max_settlements = 3
+b_kibahar = castle
+b_qajan = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

@@ -1,0 +1,15 @@
+# 781 - Wuwuna
+
+# County Title
+title = c_wuwuna
+
+# Settlements
+max_settlements = 3
+b_wuwuna = castle
+b_dya = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

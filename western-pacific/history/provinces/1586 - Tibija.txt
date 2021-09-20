@@ -1,0 +1,15 @@
+# 1586 - Tibija
+
+# County Title
+title = c_tibija
+
+# Settlements
+max_settlements = 3
+b_tibija = castle
+b_qiegohn = temple
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

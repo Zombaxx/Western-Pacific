@@ -1,0 +1,16 @@
+# 487 - Kosava
+
+# County Title
+title = c_kosava
+
+# Settlements
+max_settlements = 4
+b_kosava = castle
+b_lalahar = temple
+b_kintis = city
+
+# Misc
+culture = tamil
+religion = catholic
+
+# History

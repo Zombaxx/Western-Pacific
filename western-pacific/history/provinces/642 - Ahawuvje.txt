@@ -1,0 +1,14 @@
+# 642 - Ahawuvje
+
+# County Title
+title = c_ahawuvje
+
+# Settlements
+max_settlements = 2
+b_ahawuvje = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

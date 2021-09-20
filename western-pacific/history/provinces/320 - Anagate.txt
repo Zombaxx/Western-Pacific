@@ -1,0 +1,15 @@
+# 320 - Anagate
+
+# County Title
+title = c_anagate
+
+# Settlements
+max_settlements = 3
+b_anagate = castle
+b_sepanta = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

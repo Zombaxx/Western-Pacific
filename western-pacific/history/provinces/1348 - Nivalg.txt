@@ -1,0 +1,14 @@
+# 1348 - Nivalg
+
+# County Title
+title = c_nivalg
+
+# Settlements
+max_settlements = 3
+b_nivalg = tribal
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

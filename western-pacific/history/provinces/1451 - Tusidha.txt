@@ -1,0 +1,16 @@
+# 1451 - Tusidha
+
+# County Title
+title = c_tusidha
+
+# Settlements
+max_settlements = 4
+b_tusidha = castle
+b_ryuu = temple
+b_domayn = city
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

@@ -1,0 +1,14 @@
+# 664 - Tyaserd
+
+# County Title
+title = c_tyaserd
+
+# Settlements
+max_settlements = 1
+b_tyaserd = tribal
+
+# Misc
+culture = alan
+religion = west_african_pagan
+
+# History

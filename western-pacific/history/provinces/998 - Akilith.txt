@@ -1,0 +1,14 @@
+# 998 - Akilith
+
+# County Title
+title = c_akilith
+
+# Settlements
+max_settlements = 3
+b_akilith = tribal
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

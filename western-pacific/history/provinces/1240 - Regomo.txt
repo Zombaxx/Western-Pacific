@@ -1,0 +1,14 @@
+# 1240 - Regomo
+
+# County Title
+title = c_regomo
+
+# Settlements
+max_settlements = 4
+b_regomo = tribal
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

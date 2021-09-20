@@ -1,0 +1,14 @@
+# 745 - Qadapa
+
+# County Title
+title = c_qadapa
+
+# Settlements
+max_settlements = 3
+b_qadapa = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

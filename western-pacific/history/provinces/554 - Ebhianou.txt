@@ -1,0 +1,16 @@
+# 554 - Ebhianou
+
+# County Title
+title = c_ebhianou
+
+# Settlements
+max_settlements = 4
+b_ebhianou = castle
+b_narimon = temple
+b_rakesind = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

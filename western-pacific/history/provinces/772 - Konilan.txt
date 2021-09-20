@@ -1,0 +1,14 @@
+# 772 - Konilan
+
+# County Title
+title = c_konilan
+
+# Settlements
+max_settlements = 3
+b_konilan = tribal
+
+# Misc
+culture = bodpa
+religion = bon
+
+# History

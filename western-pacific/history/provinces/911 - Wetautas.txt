@@ -1,0 +1,14 @@
+# 911 - Wetautas
+
+# County Title
+title = c_wetautas
+
+# Settlements
+max_settlements = 4
+b_wetautas = tribal
+
+# Misc
+culture = basque
+religion = zun_pagan
+
+# History

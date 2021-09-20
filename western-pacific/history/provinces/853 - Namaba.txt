@@ -1,0 +1,15 @@
+# 853 - Namaba
+
+# County Title
+title = c_namaba
+
+# Settlements
+max_settlements = 3
+b_namaba = castle
+b_kyaviya = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

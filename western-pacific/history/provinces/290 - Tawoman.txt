@@ -1,0 +1,14 @@
+# 290 - Tawoman
+
+# County Title
+title = c_tawoman
+
+# Settlements
+max_settlements = 3
+b_tawoman = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

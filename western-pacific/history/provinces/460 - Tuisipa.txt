@@ -1,0 +1,16 @@
+# 460 - Tuisipa
+
+# County Title
+title = c_tuisipa
+
+# Settlements
+max_settlements = 4
+b_tuisipa = castle
+b_neoan = temple
+b_anapos = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

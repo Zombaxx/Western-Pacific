@@ -1,0 +1,14 @@
+# 1033 - Raakudo
+
+# County Title
+title = c_raakudo
+
+# Settlements
+max_settlements = 3
+b_raakudo = tribal
+
+# Misc
+culture = greek
+religion = west_african_pagan
+
+# History

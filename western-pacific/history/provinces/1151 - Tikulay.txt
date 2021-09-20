@@ -1,0 +1,14 @@
+# 1151 - Tikulay
+
+# County Title
+title = c_tikulay
+
+# Settlements
+max_settlements = 1
+b_tikulay = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 180 - Toman
+
+# County Title
+title = c_toman
+
+# Settlements
+max_settlements = 4
+b_toman = castle
+b_taazika = temple
+b_leyeos = city
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

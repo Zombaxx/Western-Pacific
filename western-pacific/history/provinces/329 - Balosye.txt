@@ -1,0 +1,16 @@
+# 329 - Balosye
+
+# County Title
+title = c_balosye
+
+# Settlements
+max_settlements = 4
+b_balosye = castle
+b_qanasad = temple
+b_bolerhi = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

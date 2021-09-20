@@ -1,0 +1,15 @@
+# 1270 - Rohijah
+
+# County Title
+title = c_rohijah
+
+# Settlements
+max_settlements = 3
+b_rohijah = castle
+b_bageta = temple
+
+# Misc
+culture = old_frankish
+religion = fraticelli
+
+# History

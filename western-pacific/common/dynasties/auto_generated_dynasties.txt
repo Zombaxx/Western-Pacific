@@ -1,0 +1,8155 @@
+100010={
+	name="Akbarid"
+	culture="afghan"
+	religion="sunni"
+}
+100020={
+	name="Gulrid"
+	culture="afghan"
+	religion="sunni"
+}
+100030={
+	name="Azzatid"
+	culture="afghan"
+	religion="sunni"
+}
+100040={
+	name="Abdiesid"
+	culture="afghan"
+	religion="shiite"
+}
+100050={
+	name="Khudayfarnid"
+	culture="sogdian"
+	religion="zoroastrian"
+}
+100060={
+	name="Bahramid"
+	culture="sogdian"
+	religion="zoroastrian"
+}
+100070={
+	name="Kundakkid"
+	culture="sogdian"
+	religion="zoroastrian"
+}
+100080={
+	name="Methakanid"
+	culture="sogdian"
+	religion="zoroastrian"
+}
+100090={
+	name="Khwatawchid"
+	culture="sogdian"
+	religion="zoroastrian"
+}
+100100={
+	name="Quauhtlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+100110={
+	name="Esfandiarid"
+	culture="sogdian"
+	religion="zoroastrian"
+}
+100120={
+	name="Azfaarid"
+	culture="afghan"
+	religion="sunni"
+}
+100130={
+	name="Chakhrenid"
+	culture="sogdian"
+	religion="zoroastrian"
+}
+100140={
+	name="Nithanid"
+	culture="sogdian"
+	religion="zoroastrian"
+}
+100150={
+	name="Dadvarid"
+	culture="afghan"
+	religion="sunni"
+}
+100160={
+	name="Ahuitzotlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+100170={
+	name="Ramchid"
+	culture="sogdian"
+	religion="zoroastrian"
+}
+100180={
+	name="Xeykhosrowid"
+	culture="sogdian"
+	religion="zoroastrian"
+}
+100190={
+	name="Kshemrajid"
+	culture="gujurati"
+	religion="zoroastrian"
+}
+100200={
+	name="Udayasimhid"
+	culture="gujurati"
+	religion="hindu"
+}
+100210={
+	name="Tabsheerid"
+	culture="afghan"
+	religion="shiite"
+}
+100220={
+	name="Rajyapalid"
+	culture="gujurati"
+	religion="jain"
+}
+100230={
+	name="Azoomid"
+	culture="afghan"
+	religion="sunni"
+}
+100240={
+	name="Bhuvan-Singhid"
+	culture="gujurati"
+	religion="hindu"
+}
+100250={
+	name="Vallabharajid"
+	culture="gujurati"
+	religion="jain"
+}
+100260={
+	name="Lakshmivarmanid"
+	culture="gujurati"
+	religion="jain"
+}
+100270={
+	name="Arzhangid"
+	culture="afghan"
+	religion="sunni"
+}
+100280={
+	name="Govindid"
+	culture="gujurati"
+	religion="jain"
+}
+100290={
+	name="Guhasenid"
+	culture="gujurati"
+	religion="hindu"
+}
+100300={
+	name="Sindhurajid"
+	culture="gujurati"
+	religion="jain"
+}
+100310={
+	name="Lavanyakarnid"
+	culture="gujurati"
+	religion="jain"
+}
+100330={
+	name="Sheshchid"
+	culture="sogdian"
+	religion="zoroastrian"
+}
+100340={
+	name="Mallikarjunid"
+	culture="marathi"
+	religion="jain"
+}
+100341={
+	name="Bhavadattid"
+	culture="marathi"
+	religion="jain"
+}
+100342={
+	name="Haripaladevid"
+	culture="marathi"
+	religion="jain"
+}
+100343={
+	name="Bhavadattid"
+	culture="marathi"
+	religion="jain"
+}
+100344={
+	name="Jatigid"
+	culture="marathi"
+	religion="jain"
+}
+100350={
+	name="Bhatarkid"
+	culture="gujurati"
+	religion="hindu"
+}
+100360={
+	name="Wanrazmakid"
+	culture="sogdian"
+	religion="zoroastrian"
+}
+100370={
+	name="Shahrokhid"
+	culture="sogdian"
+	religion="zoroastrian"
+}
+100390={
+	name="Ramchid"
+	culture="sogdian"
+	religion="zoroastrian"
+}
+100400={
+	name="Indukid"
+	culture="sogdian"
+	religion="zoroastrian"
+}
+100410={
+	name="Jendrarajid"
+	culture="gujurati"
+	religion="jain"
+}
+100420={
+	name="Chakhrenid"
+	culture="sogdian"
+	religion="manichean"
+}
+100430={
+	name="Sohid"
+	culture="gujurati"
+	religion="jain"
+}
+100440={
+	name="Resanid"
+	culture="sogdian"
+	religion="manichean"
+}
+100450={
+	name="Viramid"
+	culture="gujurati"
+	religion="catholic"
+}
+100460={
+	name="Madhavrid"
+	culture="marathi"
+	religion="catholic"
+}
+100470={
+	name="Mahendrapalid"
+	culture="gujurati"
+	religion="jain"
+}
+100480={
+	name="Pritampalid"
+	culture="hindustani"
+	religion="hindu"
+}
+100490={
+	name="Kurushid"
+	culture="sogdian"
+	religion="manichean"
+}
+100500={
+	name="Samarasimhid"
+	culture="gujurati"
+	religion="jain"
+}
+100510={
+	name="Shuchi-Vermid"
+	culture="gujurati"
+	religion="jain"
+}
+100520={
+	name="Bhavadattid"
+	culture="marathi"
+	religion="hindu"
+}
+100530={
+	name="Jayasimhid"
+	culture="gujurati"
+	religion="jain"
+}
+100540={
+	name="Shahujid"
+	culture="marathi"
+	religion="jain"
+}
+100550={
+	name="Vikramaditid"
+	culture="gujurati"
+	religion="jain"
+}
+100560={
+	name="Jayakeshid"
+	culture="marathi"
+	religion="jain"
+}
+100570={
+	name="Gonkid"
+	culture="marathi"
+	religion="jain"
+}
+100580={
+	name="Bhimid"
+	culture="marathi"
+	religion="jain"
+}
+100590={
+	name="Madhavrid"
+	culture="marathi"
+	religion="hindu"
+}
+100600={
+	name="Gandaraditid"
+	culture="marathi"
+	religion="hindu"
+}
+100610={
+	name="Jayasimhid"
+	culture="hindustani"
+	religion="jain"
+}
+100620={
+	name="Tolpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+100630={
+	name="Chaud-Singhid"
+	culture="gujurati"
+	religion="jain"
+}
+100640={
+	name="Nanasahebid"
+	culture="marathi"
+	religion="hindu"
+}
+100650={
+	name="Dattajid"
+	culture="marathi"
+	religion="hindu"
+}
+100660={
+	name="Mahipalid"
+	culture="gujurati"
+	religion="jain"
+}
+100670={
+	name="Martandrid"
+	culture="marathi"
+	religion="jain"
+}
+100680={
+	name="Akhtarid"
+	culture="afghan"
+	religion="sunni"
+}
+100690={
+	name="Prithvid"
+	culture="hindustani"
+	religion="hindu"
+}
+100700={
+	name="Akramid"
+	culture="afghan"
+	religion="sunni"
+}
+100710={
+	name="Krsnapid"
+	culture="hindustani"
+	religion="hindu"
+}
+100720={
+	name="Jagatpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+100730={
+	name="Vishwanathpantid"
+	culture="marathi"
+	religion="jain"
+}
+100740={
+	name="Krishnrid"
+	culture="hindustani"
+	religion="hindu"
+}
+100750={
+	name="Sukhinpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+100760={
+	name="Mihidalid"
+	culture="sinhala"
+	religion="catholic"
+}
+100770={
+	name="Udayaditid"
+	culture="hindustani"
+	religion="hindu"
+}
+100780={
+	name="Jansherid"
+	culture="afghan"
+	religion="sunni"
+}
+100790={
+	name="Shahujid"
+	culture="marathi"
+	religion="jain"
+}
+100800={
+	name="Madhavrid"
+	culture="marathi"
+	religion="hindu"
+}
+100810={
+	name="Bajirid"
+	culture="marathi"
+	religion="jain"
+}
+100820={
+	name="Narayanrid"
+	culture="marathi"
+	religion="hindu"
+}
+100830={
+	name="Uddharandevid"
+	culture="hindustani"
+	religion="hindu"
+}
+100840={
+	name="Shahid"
+	culture="afghan"
+	religion="sunni"
+}
+100850={
+	name="Butisamanid"
+	culture="sinhala"
+	religion="hindu"
+}
+100860={
+	name="Soddhalid"
+	culture="marathi"
+	religion="hindu"
+}
+100870={
+	name="Vishwanathpantid"
+	culture="marathi"
+	religion="hindu"
+}
+100880={
+	name="Krishnrid"
+	culture="hindustani"
+	religion="jain"
+}
+100890={
+	name="Chimnajid"
+	culture="marathi"
+	religion="jain"
+}
+100900={
+	name="Gandaraditid"
+	culture="marathi"
+	religion="hindu"
+}
+100910={
+	name="Aaqelid"
+	culture="afghan"
+	religion="sunni"
+}
+100920={
+	name="Prithvipalid"
+	culture="hindustani"
+	religion="hindu"
+}
+100930={
+	name="Marsimhid"
+	culture="marathi"
+	religion="jain"
+}
+100940={
+	name="Agibutid"
+	culture="sinhala"
+	religion="hindu"
+}
+100950={
+	name="Mahipalid"
+	culture="hindustani"
+	religion="hindu"
+}
+100960={
+	name="Ganapatidevid"
+	culture="hindustani"
+	religion="jain"
+}
+100970={
+	name="Pritampalid"
+	culture="hindustani"
+	religion="hindu"
+}
+100980={
+	name="Vimaladharmasurid"
+	culture="sinhala"
+	religion="hindu"
+}
+100990={
+	name="Indradattid"
+	culture="marathi"
+	religion="jain"
+}
+101000={
+	name="Kanvarpalid"
+	culture="hindustani"
+	religion="jain"
+}
+101010={
+	name="Rajasinhid"
+	culture="sinhala"
+	religion="hindu"
+}
+101020={
+	name="Daharasenid"
+	culture="marathi"
+	religion="jain"
+}
+101030={
+	name="Shurapalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101040={
+	name="Chhittarajid"
+	culture="marathi"
+	religion="buddhist"
+}
+101050={
+	name="Rampalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101060={
+	name="Ladahachandrid"
+	culture="hindustani"
+	religion="jain"
+}
+101070={
+	name="Sadhatissid"
+	culture="sinhala"
+	religion="hindu"
+}
+101080={
+	name="Jayasaktid"
+	culture="hindustani"
+	religion="buddhist"
+}
+101090={
+	name="Hamirid"
+	culture="hindustani"
+	religion="jain"
+}
+101100={
+	name="Indrapalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101110={
+	name="Ramaswamid"
+	culture="marathi"
+	religion="hindu"
+}
+101120={
+	name="Danamittid"
+	culture="sinhala"
+	religion="hindu"
+}
+101130={
+	name="Digasumanid"
+	culture="sinhala"
+	religion="hindu"
+}
+101140={
+	name="Ayasmanthid"
+	culture="sinhala"
+	religion="hindu"
+}
+101150={
+	name="Peepalrajid"
+	culture="hindustani"
+	religion="jain"
+}
+101160={
+	name="Arthapathid"
+	culture="marathi"
+	religion="hindu"
+}
+101170={
+	name="Sadhatissid"
+	culture="sinhala"
+	religion="hindu"
+}
+101180={
+	name="Kanhadid"
+	culture="hindustani"
+	religion="hindu"
+}
+101190={
+	name="Brahmapalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101200={
+	name="Rangrajid"
+	culture="hindustani"
+	religion="hindu"
+}
+101210={
+	name="Arikesarinid"
+	culture="marathi"
+	religion="hindu"
+}
+101220={
+	name="Vijayabahid"
+	culture="sinhala"
+	religion="hindu"
+}
+101230={
+	name="Nihaalid"
+	culture="hindustani"
+	religion="buddhist"
+}
+101240={
+	name="Jatanpalid"
+	culture="hindustani"
+	religion="jain"
+}
+101250={
+	name="Jagdevid"
+	culture="hindustani"
+	religion="hindu"
+}
+101260={
+	name="Chandid"
+	culture="hindustani"
+	religion="jain"
+}
+101270={
+	name="Tissid"
+	culture="sinhala"
+	religion="hindu"
+}
+101280={
+	name="Dharmasokid"
+	culture="sinhala"
+	religion="hindu"
+}
+101290={
+	name="Kalkurnid"
+	culture="hindustani"
+	religion="jain"
+}
+101300={
+	name="Bhopalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101310={
+	name="Mahasenid"
+	culture="sinhala"
+	religion="hindu"
+}
+101320={
+	name="Nandamittid"
+	culture="sinhala"
+	religion="hindu"
+}
+101330={
+	name="Jhotisenid"
+	culture="sinhala"
+	religion="buddhist"
+}
+101340={
+	name="Surakitid"
+	culture="sinhala"
+	religion="buddhist"
+}
+101350={
+	name="Nagdid"
+	culture="hindustani"
+	religion="hindu"
+}
+101360={
+	name="Dathappabhutid"
+	culture="sinhala"
+	religion="hindu"
+}
+101370={
+	name="Paditid"
+	culture="sinhala"
+	religion="hindu"
+}
+101380={
+	name="Mangaldevid"
+	culture="hindustani"
+	religion="hindu"
+}
+101390={
+	name="Traillokyachandrid"
+	culture="hindustani"
+	religion="jain"
+}
+101400={
+	name="Upatissid"
+	culture="sinhala"
+	religion="hindu"
+}
+101410={
+	name="Jagatpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101420={
+	name="Mihidalid"
+	culture="sinhala"
+	religion="hindu"
+}
+101430={
+	name="Upatissid"
+	culture="sinhala"
+	religion="hindu"
+}
+101440={
+	name="Ishtpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101450={
+	name="Peepalrajid"
+	culture="hindustani"
+	religion="hindu"
+}
+101460={
+	name="Vimaladharmasurid"
+	culture="sinhala"
+	religion="buddhist"
+}
+101470={
+	name="Jhetpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101480={
+	name="Kittivarmid"
+	culture="sinhala"
+	religion="buddhist"
+}
+101490={
+	name="Surajpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101500={
+	name="Sanghatissid"
+	culture="sinhala"
+	religion="buddhist"
+}
+101510={
+	name="Kittid"
+	culture="sinhala"
+	religion="buddhist"
+}
+101520={
+	name="Aggabodhid"
+	culture="sinhala"
+	religion="hindu"
+}
+101530={
+	name="Indrapalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101540={
+	name="Mahanagid"
+	culture="sinhala"
+	religion="hindu"
+}
+101550={
+	name="Tejpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101560={
+	name="Naseefid"
+	culture="afghan"
+	religion="sunni"
+}
+101570={
+	name="Prithvirajid"
+	culture="hindustani"
+	religion="hindu"
+}
+101580={
+	name="Vapyatid"
+	culture="hindustani"
+	religion="hindu"
+}
+101590={
+	name="Varshapalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101600={
+	name="Bhojid"
+	culture="hindustani"
+	religion="buddhist"
+}
+101610={
+	name="Vassabid"
+	culture="sinhala"
+	religion="hindu"
+}
+101620={
+	name="Hadanid"
+	culture="sinhala"
+	religion="norse_pagan"
+}
+101630={
+	name="Viravarmanid"
+	culture="hindustani"
+	religion="hindu"
+}
+101640={
+	name="Trilochanpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101650={
+	name="Qammarid"
+	culture="afghan"
+	religion="sunni"
+}
+101660={
+	name="Surajpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101670={
+	name="Prithvirajid"
+	culture="hindustani"
+	religion="hindu"
+}
+101680={
+	name="Sonpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101690={
+	name="Ratnapalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101700={
+	name="Rajyapalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101710={
+	name="Lakshmandevid"
+	culture="hindustani"
+	religion="hindu"
+}
+101720={
+	name="Raghudevid"
+	culture="bengali"
+	religion="buddhist"
+}
+101730={
+	name="Vachhalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101740={
+	name="Sultanpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101750={
+	name="Prithvid"
+	culture="hindustani"
+	religion="hindu"
+}
+101760={
+	name="Govindarajid"
+	culture="hindustani"
+	religion="hindu"
+}
+101770={
+	name="Dilipapalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101780={
+	name="Vijayasaktid"
+	culture="hindustani"
+	religion="hindu"
+}
+101790={
+	name="Junpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101800={
+	name="Narasinghid"
+	culture="bengali"
+	religion="hindu"
+}
+101810={
+	name="Govindapalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101820={
+	name="Gopalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101830={
+	name="Bhojid"
+	culture="hindustani"
+	religion="hindu"
+}
+101840={
+	name="Dharmapalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101850={
+	name="Vapyatid"
+	culture="bengali"
+	religion="buddhist"
+}
+101860={
+	name="Devapalid"
+	culture="bengali"
+	religion="hindu"
+}
+101870={
+	name="Trailokyavarmanid"
+	culture="hindustani"
+	religion="hindu"
+}
+101880={
+	name="Dhirsinghid"
+	culture="bengali"
+	religion="hindu"
+}
+101890={
+	name="Adelid"
+	culture="afghan"
+	religion="sunni"
+}
+101900={
+	name="Jatanpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+101910={
+	name=""Laxman Sen"id"
+	culture="bengali"
+	religion="buddhist"
+}
+101920={
+	name="Danujmadhavid"
+	culture="bengali"
+	religion="hindu"
+}
+101930={
+	name="Achalrajid"
+	culture="hindustani"
+	religion="hindu"
+}
+101940={
+	name="Vasudevid"
+	culture="bengali"
+	religion="hindu"
+}
+101950={
+	name="Rajabhatid"
+	culture="bengali"
+	religion="hindu"
+}
+101960={
+	name="Mahendrasinghid"
+	culture="bengali"
+	religion="hindu"
+}
+101970={
+	name="Afshinid"
+	culture="afghan"
+	religion="sunni"
+}
+101980={
+	name="Bahnamid"
+	culture="afghan"
+	religion="sunni"
+}
+101990={
+	name="Hariyamandalid"
+	culture="bengali"
+	religion="hindu"
+}
+102000={
+	name="Gopalid"
+	culture="bengali"
+	religion="hindu"
+}
+102010={
+	name="Vasudevid"
+	culture="bengali"
+	religion="hindu"
+}
+102020={
+	name="Khadgodyamid"
+	culture="bengali"
+	religion="sunni"
+}
+102030={
+	name=""Dev Singh"id"
+	culture="bengali"
+	religion="hindu"
+}
+102040={
+	name="Kamalnarayanid"
+	culture="bengali"
+	religion="hindu"
+}
+102050={
+	name="Khadgodyamid"
+	culture="bengali"
+	religion="sunni"
+}
+102060={
+	name="Bhimsinghid"
+	culture="bengali"
+	religion="hindu"
+}
+102070={
+	name="Sukhdevid"
+	culture="bengali"
+	religion="sunni"
+}
+102080={
+	name="Subarnachandrid"
+	culture="bengali"
+	religion="sunni"
+}
+102090={
+	name="Harendranarayanid"
+	culture="bengali"
+	religion="sunni"
+}
+102100={
+	name=""Ganeshwar Singh"id"
+	culture="bengali"
+	religion="sunni"
+}
+102110={
+	name="Mahendrapalid"
+	culture="bengali"
+	religion="sunni"
+}
+102120={
+	name="Ranjitsinghid"
+	culture="bengali"
+	religion="sunni"
+}
+102130={
+	name=""Kameshwar"id"
+	culture="bengali"
+	religion="shiite"
+}
+102140={
+	name="Dhireshwarid"
+	culture="bengali"
+	religion="sunni"
+}
+102150={
+	name="Sukhdevid"
+	culture="bengali"
+	religion="sunni"
+}
+102160={
+	name="Govindapalid"
+	culture="bengali"
+	religion="shiite"
+}
+102170={
+	name="Udirnakhadgid"
+	culture="bengali"
+	religion="sunni"
+}
+102180={
+	name="Rajadinajid"
+	culture="bengali"
+	religion="catholic"
+}
+102190={
+	name="Bhattid"
+	culture="bengali"
+	religion="sunni"
+}
+102200={
+	name="Mahakalid"
+	culture="telugu"
+	religion="norse_pagan"
+}
+102210={
+	name="Ammarajid"
+	culture="telugu"
+	religion="norse_pagan"
+}
+102220={
+	name="Pratapnarayanid"
+	culture="bengali"
+	religion="catholic"
+}
+102230={
+	name="Ayyapid"
+	culture="telugu"
+	religion="buddhist"
+}
+102240={
+	name=""Laxminath Singh Dev"id"
+	culture="bengali"
+	religion="hindu"
+}
+102250={
+	name=""Samant Sen"id"
+	culture="bengali"
+	religion="catholic"
+}
+102260={
+	name="Rameshwarid"
+	culture="bengali"
+	religion="sunni"
+}
+102270={
+	name="Bhikharid"
+	culture="bengali"
+	religion="hindu"
+}
+102280={
+	name="Mallapid"
+	culture="telugu"
+	religion="norse_pagan"
+}
+102290={
+	name="Tananjay"
+	culture="tangut"
+	religion="hindu"
+}
+102300={
+	name="Bieguo"
+	culture="tangut"
+	religion="hindu"
+}
+102310={
+	name="Keleph"
+	culture="tangut"
+	religion="catholic"
+}
+102320={
+	name="Baidiye"
+	culture="tangut"
+	religion="catholic"
+}
+102330={
+	name="Egomyana"
+	culture="tangut"
+	religion="hindu"
+}
+102340={
+	name="Selanga"
+	culture="tangut"
+	religion="buddhist"
+}
+102350={
+	name="Wazilge"
+	culture="tangut"
+	religion="jain"
+}
+102360={
+	name="Weruoxun"
+	culture="tangut"
+	religion="buddhist"
+}
+102370={
+	name="Nyang"
+	culture="tangut"
+	religion="jain"
+}
+102380={
+	name="Sicou"
+	culture="tangut"
+	religion="buddhist"
+}
+102390={
+	name="Afadari"
+	culture="tangut"
+	religion="jain"
+}
+102400={
+	name="Kanavac"
+	culture="tangut"
+	religion="buddhist"
+}
+102410={
+	name="Wanory"
+	culture="tangut"
+	religion="jain"
+}
+102420={
+	name="Asulisha"
+	culture="tangut"
+	religion="jain"
+}
+102430={
+	name="Noliss"
+	culture="tangut"
+	religion="buddhist"
+}
+102440={
+	name="Wajal"
+	culture="tangut"
+	religion="jain"
+}
+102450={
+	name="Qaria"
+	culture="tangut"
+	religion="jain"
+}
+102460={
+	name="Watur"
+	culture="tangut"
+	religion="buddhist"
+}
+102470={
+	name="Lauftun"
+	culture="tangut"
+	religion="jain"
+}
+102480={
+	name="Sampsiceramia"
+	culture="zhangzhung"
+	religion="sunni"
+}
+102490={
+	name="Badaz"
+	culture="tangut"
+	religion="buddhist"
+}
+102500={
+	name="Kulay"
+	culture="tangut"
+	religion="buddhist"
+}
+102510={
+	name="Rusand"
+	culture="zhangzhung"
+	religion="sunni"
+}
+102520={
+	name="Pythio"
+	culture="zhangzhung"
+	religion="sunni"
+}
+102530={
+	name="Tulia"
+	culture="tangut"
+	religion="jain"
+}
+102540={
+	name="Bulono"
+	culture="tangut"
+	religion="buddhist"
+}
+102550={
+	name="Silini"
+	culture="tangut"
+	religion="buddhist"
+}
+102560={
+	name="Rabujie"
+	culture="tangut"
+	religion="jain"
+}
+102570={
+	name="Rabiwan"
+	culture="tangut"
+	religion="buddhist"
+}
+102580={
+	name="Yangon"
+	culture="tangut"
+	religion="buddhist"
+}
+102590={
+	name="Raham"
+	culture="tangut"
+	religion="jain"
+}
+102600={
+	name="Rugarse"
+	culture="tangut"
+	religion="jain"
+}
+102610={
+	name="Rimatha"
+	culture="tangut"
+	religion="buddhist"
+}
+102620={
+	name="Duninda"
+	culture="tangut"
+	religion="buddhist"
+}
+102630={
+	name="Taudnus"
+	culture="tangut"
+	religion="buddhist"
+}
+102640={
+	name="Anihisam"
+	culture="zhangzhung"
+	religion="orthodox"
+}
+102650={
+	name="Ezucius"
+	culture="zhangzhung"
+	religion="sunni"
+}
+102660={
+	name="Qahendi"
+	culture="tangut"
+	religion="buddhist"
+}
+102670={
+	name="Kara"
+	culture="zhangzhung"
+	religion="orthodox"
+}
+102680={
+	name="Ezbaye"
+	culture="zhangzhung"
+	religion="orthodox"
+}
+102690={
+	name="Kaytaha"
+	culture="tangut"
+	religion="buddhist"
+}
+102700={
+	name="Rarine"
+	culture="zhangzhung"
+	religion="sunni"
+}
+102710={
+	name="Qesuin"
+	culture="tangut"
+	religion="buddhist"
+}
+102720={
+	name="Losasin"
+	culture="tangut"
+	religion="buddhist"
+}
+102730={
+	name="Nalbin"
+	culture="tangut"
+	religion="buddhist"
+}
+102740={
+	name="Rorura"
+	culture="tangut"
+	religion="buddhist"
+}
+102750={
+	name="Brath"
+	culture="tangut"
+	religion="buddhist"
+}
+102760={
+	name="Danet"
+	culture="zhangzhung"
+	religion="orthodox"
+}
+102770={
+	name="Nyudadiq"
+	culture="tangut"
+	religion="buddhist"
+}
+102780={
+	name="Tugaut"
+	culture="zhangzhung"
+	religion="orthodox"
+}
+102790={
+	name="Evereth"
+	culture="tangut"
+	religion="bon"
+}
+102800={
+	name="Kelali"
+	culture="zhangzhung"
+	religion="sunni"
+}
+102810={
+	name="Kumaragirid"
+	culture="telugu"
+	religion="buddhist"
+}
+102820={
+	name="Prataparudrid"
+	culture="telugu"
+	religion="buddhist"
+}
+102830={
+	name="Mahakalid"
+	culture="telugu"
+	religion="buddhist"
+}
+102840={
+	name="Ganapathinayakid"
+	culture="telugu"
+	religion="buddhist"
+}
+102850={
+	name="Niravadyadhavalid"
+	culture="telugu"
+	religion="buddhist"
+}
+102860={
+	name="Prolayavemid"
+	culture="telugu"
+	religion="buddhist"
+}
+102870={
+	name="Mahakalid"
+	culture="telugu"
+	religion="buddhist"
+}
+102880={
+	name="Nachanid"
+	culture="telugu"
+	religion="buddhist"
+}
+102890={
+	name="Kazilia"
+	culture="tangut"
+	religion="bon"
+}
+102900={
+	name="Tawoman"
+	culture="zhangzhung"
+	religion="sunni"
+}
+102910={
+	name="Prolayavemid"
+	culture="telugu"
+	religion="buddhist"
+}
+102920={
+	name="Sima"
+	culture="zhangzhung"
+	religion="sunni"
+}
+102930={
+	name="Mangiyuvarajid"
+	culture="telugu"
+	religion="buddhist"
+}
+102940={
+	name="Ammarajid"
+	culture="telugu"
+	religion="buddhist"
+}
+102950={
+	name="Prthiviyarajid"
+	culture="telugu"
+	religion="buddhist"
+}
+102960={
+	name="Kamaam"
+	culture="zhangzhung"
+	religion="orthodox"
+}
+102970={
+	name="Walakla"
+	culture="zhangzhung"
+	religion="sunni"
+}
+102980={
+	name="Rudradevid"
+	culture="telugu"
+	religion="buddhist"
+}
+102990={
+	name="Durgarajid"
+	culture="telugu"
+	religion="buddhist"
+}
+103000={
+	name="Yuddamallid"
+	culture="telugu"
+	religion="buddhist"
+}
+103010={
+	name="Ammarajid"
+	culture="telugu"
+	religion="buddhist"
+}
+103020={
+	name="Kaluzniq"
+	culture="tangut"
+	religion="bon"
+}
+103030={
+	name="Baladitid"
+	culture="telugu"
+	religion="buddhist"
+}
+103040={
+	name="Jayasimhid"
+	culture="telugu"
+	religion="buddhist"
+}
+103050={
+	name="Anavemid"
+	culture="telugu"
+	religion="buddhist"
+}
+103060={
+	name="Nachanid"
+	culture="telugu"
+	religion="buddhist"
+}
+103070={
+	name="Medan"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103080={
+	name="Ayannid"
+	culture="kannada"
+	religion="buddhist"
+}
+103090={
+	name="Durvinitid"
+	culture="kannada"
+	religion="buddhist"
+}
+103100={
+	name="Awalalda"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103110={
+	name="Ballaladevid"
+	culture="telugu"
+	religion="buddhist"
+}
+103120={
+	name="Vishnuvardhanid"
+	culture="telugu"
+	religion="buddhist"
+}
+103130={
+	name="Lounasa"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103140={
+	name="Virabhadrid"
+	culture="telugu"
+	religion="buddhist"
+}
+103150={
+	name="Karkid"
+	culture="kannada"
+	religion="buddhist"
+}
+103160={
+	name="Seretin"
+	culture="han"
+	religion="bon"
+}
+103170={
+	name="Sharvid"
+	culture="kannada"
+	religion="jain"
+}
+103180={
+	name="Ügid"
+	culture="uyghur"
+	religion="buddhist"
+}
+103190={
+	name="Olympian"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103200={
+	name="Anagate"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103210={
+	name="Çeçemid"
+	culture="uyghur"
+	religion="bon"
+}
+103220={
+	name="Katayavemid"
+	culture="telugu"
+	religion="buddhist"
+}
+103230={
+	name="Anavotid"
+	culture="telugu"
+	religion="buddhist"
+}
+103240={
+	name="Roralaf"
+	culture="zhangzhung"
+	religion="orthodox"
+}
+103250={
+	name="Karkid"
+	culture="kannada"
+	religion="buddhist"
+}
+103260={
+	name="Danamavid"
+	culture="telugu"
+	religion="buddhist"
+}
+103270={
+	name="Mallapid"
+	culture="telugu"
+	religion="buddhist"
+}
+103280={
+	name="Rajanayakid"
+	culture="telugu"
+	religion="buddhist"
+}
+103290={
+	name="Mushkarid"
+	culture="kannada"
+	religion="buddhist"
+}
+103300={
+	name="Bukkid"
+	culture="kannada"
+	religion="buddhist"
+}
+103310={
+	name="Bayanid"
+	culture="uyghur"
+	religion="bon"
+}
+103320={
+	name="Katayavemid"
+	culture="telugu"
+	religion="buddhist"
+}
+103330={
+	name="Vishnuvardhanid"
+	culture="kannada"
+	religion="buddhist"
+}
+103340={
+	name="Kotaod"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103350={
+	name="Polavirid"
+	culture="kannada"
+	religion="buddhist"
+}
+103360={
+	name="Yuddhamallid"
+	culture="telugu"
+	religion="buddhist"
+}
+103370={
+	name="Zosimus"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103380={
+	name="Tuyajan"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103390={
+	name="Süçügid"
+	culture="uyghur"
+	religion="bon"
+}
+103400={
+	name="Jogamid"
+	culture="kannada"
+	religion="hindu"
+}
+103410={
+	name="Jagarid"
+	culture="kannada"
+	religion="buddhist"
+}
+103420={
+	name="Baladitid"
+	culture="telugu"
+	religion="buddhist"
+}
+103430={
+	name="Achyutadevid"
+	culture="kannada"
+	religion="buddhist"
+}
+103440={
+	name="Srivikramid"
+	culture="kannada"
+	religion="hindu"
+}
+103450={
+	name="Wubisam"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103460={
+	name="Rudradevid"
+	culture="telugu"
+	religion="buddhist"
+}
+103470={
+	name="Srirangid"
+	culture="kannada"
+	religion="buddhist"
+}
+103480={
+	name="Vinayaditid"
+	culture="kannada"
+	religion="buddhist"
+}
+103490={
+	name="Eçshünid"
+	culture="uyghur"
+	religion="bon"
+}
+103500={
+	name="Dali"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103510={
+	name="Eporodup"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103520={
+	name="Waawar"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103530={
+	name="Vishnuvardhanid"
+	culture="telugu"
+	religion="bon"
+}
+103540={
+	name="Yaghïzçorid"
+	culture="uyghur"
+	religion="bon"
+}
+103550={
+	name="Narendrid"
+	culture="telugu"
+	religion="hindu"
+}
+103560={
+	name="Jagattungid"
+	culture="kannada"
+	religion="buddhist"
+}
+103570={
+	name="Indrid"
+	culture="kannada"
+	religion="buddhist"
+}
+103580={
+	name="Sanita"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103590={
+	name="Vijayaditid"
+	culture="kannada"
+	religion="buddhist"
+}
+103600={
+	name="Dantidurgid"
+	culture="kannada"
+	religion="buddhist"
+}
+103610={
+	name="Saditya"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103620={
+	name="Lade"
+	culture="han"
+	religion="bon"
+}
+103630={
+	name="Vinayaditid"
+	culture="kannada"
+	religion="buddhist"
+}
+103640={
+	name="Ayannid"
+	culture="kannada"
+	religion="buddhist"
+}
+103650={
+	name="Purandaradasid"
+	culture="kannada"
+	religion="buddhist"
+}
+103660={
+	name="Mangiyuvarajid"
+	culture="telugu"
+	religion="sunni"
+}
+103670={
+	name="Pulakesid"
+	culture="kannada"
+	religion="buddhist"
+}
+103680={
+	name="Saladid"
+	culture="khitan"
+	religion="sunni"
+}
+103690={
+	name="Yaghïçid"
+	culture="uyghur"
+	religion="bon"
+}
+103700={
+	name="Sarava"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103710={
+	name="Gobburid"
+	culture="kannada"
+	religion="buddhist"
+}
+103720={
+	name="Durvinitid"
+	culture="kannada"
+	religion="buddhist"
+}
+103730={
+	name="Erikulk"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103740={
+	name="Kaneuta"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103750={
+	name="Börid"
+	culture="uyghur"
+	religion="bon"
+}
+103760={
+	name="Araneda"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103770={
+	name="Mohubid"
+	culture="khitan"
+	religion="jain"
+}
+103780={
+	name="Señgid"
+	culture="uyghur"
+	religion="buddhist"
+}
+103790={
+	name="Degalaf"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103800={
+	name="Khottigid"
+	culture="kannada"
+	religion="buddhist"
+}
+103810={
+	name="Sripadarid"
+	culture="kannada"
+	religion="buddhist"
+}
+103820={
+	name="Kiriyasagid"
+	culture="kannada"
+	religion="sunni"
+}
+103830={
+	name="Bijjamid"
+	culture="kannada"
+	religion="buddhist"
+}
+103840={
+	name="Yachamanedid"
+	culture="kannada"
+	religion="buddhist"
+}
+103850={
+	name="Sharvid"
+	culture="kannada"
+	religion="buddhist"
+}
+103860={
+	name="Gajankushid"
+	culture="kannada"
+	religion="buddhist"
+}
+103870={
+	name="Ranita"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103880={
+	name="Iltughunid"
+	culture="uyghur"
+	religion="bon"
+}
+103890={
+	name="Singamanayakid"
+	culture="telugu"
+	religion="sunni"
+}
+103900={
+	name="Dodoku"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103910={
+	name="Agutid"
+	culture="uyghur"
+	religion="buddhist"
+}
+103920={
+	name="Vendakadrid"
+	culture="kannada"
+	religion="buddhist"
+}
+103930={
+	name="Dashavarmanid"
+	culture="kannada"
+	religion="buddhist"
+}
+103940={
+	name="Qusisii"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103950={
+	name="Yargatid"
+	culture="uyghur"
+	religion="bon"
+}
+103960={
+	name="Tain"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103970={
+	name="Nilus Dorsa"
+	culture="zhangzhung"
+	religion="sunni"
+}
+103980={
+	name="Liugid"
+	culture="khitan"
+	religion="sunni"
+}
+103990={
+	name="Çeküñid"
+	culture="uyghur"
+	religion="bon"
+}
+104000={
+	name="Jingid"
+	culture="khitan"
+	religion="sunni"
+}
+104010={
+	name="Krishnadevarid"
+	culture="kannada"
+	religion="buddhist"
+}
+104020={
+	name="Kucaela"
+	culture="zhangzhung"
+	religion="sunni"
+}
+104030={
+	name="Permadid"
+	culture="kannada"
+	religion="buddhist"
+}
+104040={
+	name="Tazazi"
+	culture="zhangzhung"
+	religion="sunni"
+}
+104050={
+	name="Karkid"
+	culture="kannada"
+	religion="buddhist"
+}
+104060={
+	name="Sila"
+	culture="han"
+	religion="buddhist"
+}
+104070={
+	name="Agid"
+	culture="khitan"
+	religion="buddhist"
+}
+104080={
+	name="Katayavemid"
+	culture="telugu"
+	religion="buddhist"
+}
+104090={
+	name="Nenapa"
+	culture="nepali"
+	religion="sunni"
+}
+104100={
+	name="Wuid"
+	culture="khitan"
+	religion="buddhist"
+}
+104110={
+	name="Tämirid"
+	culture="uyghur"
+	religion="bon"
+}
+104120={
+	name="Qenerna"
+	culture="zhangzhung"
+	religion="sunni"
+}
+104130={
+	name="Esviam"
+	culture="zhangzhung"
+	religion="sunni"
+}
+104140={
+	name="Praudharid"
+	culture="kannada"
+	religion="buddhist"
+}
+104150={
+	name="Gajankushid"
+	culture="kannada"
+	religion="buddhist"
+}
+104160={
+	name="Laneedag"
+	culture="zhangzhung"
+	religion="sunni"
+}
+104170={
+	name="Vijayaditid"
+	culture="kannada"
+	religion="buddhist"
+}
+104180={
+	name="Kosina"
+	culture="han"
+	religion="sunni"
+}
+104190={
+	name="Ascraeus Mons"
+	culture="han"
+	religion="buddhist"
+}
+104200={
+	name="Byatund"
+	culture="nepali"
+	religion="sunni"
+}
+104210={
+	name="Anekondid"
+	culture="kannada"
+	religion="buddhist"
+}
+104220={
+	name="Durgasimhid"
+	culture="kannada"
+	religion="buddhist"
+}
+104230={
+	name="Indrid"
+	culture="kannada"
+	religion="buddhist"
+}
+104240={
+	name="Line"
+	culture="zhangzhung"
+	religion="sunni"
+}
+104250={
+	name="Nukani"
+	culture="han"
+	religion="buddhist"
+}
+104260={
+	name="Yaghïzçorid"
+	culture="uyghur"
+	religion="bon"
+}
+104270={
+	name="Govindid"
+	culture="kannada"
+	religion="buddhist"
+}
+104280={
+	name="Namonne"
+	culture="zhangzhung"
+	religion="sunni"
+}
+104290={
+	name="Durgasimhid"
+	culture="kannada"
+	religion="buddhist"
+}
+104300={
+	name="Vijayaditid"
+	culture="kannada"
+	religion="buddhist"
+}
+104310={
+	name="Singhanid"
+	culture="kannada"
+	religion="buddhist"
+}
+104330={
+	name="Gajankushid"
+	culture="kannada"
+	religion="buddhist"
+}
+104340={
+	name="Ekanavid"
+	culture="zhangzhung"
+	religion="hindu"
+}
+104350={
+	name="Üçsid"
+	culture="uyghur"
+	religion="bon"
+}
+104360={
+	name="Neomna"
+	culture="nepali"
+	religion="sunni"
+}
+104370={
+	name="Eseike"
+	culture="nepali"
+	religion="sunni"
+}
+104380={
+	name="Satyasrid"
+	culture="kannada"
+	religion="buddhist"
+}
+104390={
+	name="Sidacob"
+	culture="han"
+	religion="buddhist"
+}
+104391={
+	name="Sidacob"
+	culture="han"
+	religion="buddhist"
+}
+104392={
+	name="Kevampa"
+	culture="han"
+	religion="buddhist"
+}
+104393={
+	name="Bandakla"
+	culture="han"
+	religion="buddhist"
+}
+104394={
+	name="Kijarda"
+	culture="han"
+	religion="buddhist"
+}
+104400={
+	name="Yasid"
+	culture="uyghur"
+	religion="buddhist"
+}
+104410={
+	name="Waahurd"
+	culture="han"
+	religion="buddhist"
+}
+104420={
+	name="Nripakamid"
+	culture="kannada"
+	religion="buddhist"
+}
+104430={
+	name="Tunoste"
+	culture="nepali"
+	religion="hindu"
+}
+104440={
+	name="Vinayaditid"
+	culture="kannada"
+	religion="buddhist"
+}
+104450={
+	name="Raneuta"
+	culture="zhangzhung"
+	religion="sunni"
+}
+104460={
+	name="Ilçurid"
+	culture="uyghur"
+	religion="bon"
+}
+104470={
+	name="Sadashivid"
+	culture="kannada"
+	religion="buddhist"
+}
+104480={
+	name="Alïpqutlughid"
+	culture="uyghur"
+	religion="bon"
+}
+104490={
+	name="Mangalesid"
+	culture="kannada"
+	religion="buddhist"
+}
+104500={
+	name="Berning"
+	culture="zhangzhung"
+	religion="sunni"
+}
+104510={
+	name="Wukaac"
+	culture="han"
+	religion="bon"
+}
+104520={
+	name="Satyasrid"
+	culture="kannada"
+	religion="buddhist"
+}
+104530={
+	name="Nateike"
+	culture="nepali"
+	religion="hindu"
+}
+104540={
+	name="Pulakesid"
+	culture="kannada"
+	religion="buddhist"
+}
+104550={
+	name="Saghunaqid"
+	culture="uyghur"
+	religion="buddhist"
+}
+104560={
+	name="Kajelim"
+	culture="nepali"
+	religion="hindu"
+}
+104570={
+	name="Kamaya"
+	culture="han"
+	religion="bon"
+}
+104580={
+	name="Indrid"
+	culture="kannada"
+	religion="buddhist"
+}
+104590={
+	name="Tutuqid"
+	culture="uyghur"
+	religion="bon"
+}
+104600={
+	name="Nripakamid"
+	culture="kannada"
+	religion="buddhist"
+}
+104610={
+	name="Gangarajid"
+	culture="kannada"
+	religion="buddhist"
+}
+104620={
+	name="Achyutadevid"
+	culture="kannada"
+	religion="buddhist"
+}
+104630={
+	name="Roriat"
+	culture="nepali"
+	religion="sunni"
+}
+104640={
+	name="Remanjor"
+	culture="han"
+	religion="buddhist"
+}
+104650={
+	name="Virupakshid"
+	culture="kannada"
+	religion="buddhist"
+}
+104660={
+	name="Dosith"
+	culture="nepali"
+	religion="sunni"
+}
+104670={
+	name="Buqid"
+	culture="uyghur"
+	religion="bon"
+}
+104680={
+	name="Adeludan"
+	culture="han"
+	religion="catholic"
+}
+104690={
+	name="Bughrid"
+	culture="uyghur"
+	religion="catholic"
+}
+104700={
+	name="Kaxeriu"
+	culture="nepali"
+	religion="sunni"
+}
+104710={
+	name="Mushkarid"
+	culture="kannada"
+	religion="buddhist"
+}
+104720={
+	name="Qida"
+	culture="nepali"
+	religion="sunni"
+}
+104730={
+	name="Paramêsvaravarmanid"
+	culture="tamil"
+	religion="bon"
+}
+104740={
+	name="Hesperia"
+	culture="zhangzhung"
+	religion="sunni"
+}
+104750={
+	name="Nasia"
+	culture="han"
+	religion="buddhist"
+}
+104760={
+	name="Jeginid"
+	culture="uyghur"
+	religion="catholic"
+}
+104770={
+	name="Asagid"
+	culture="kannada"
+	religion="buddhist"
+}
+104780={
+	name="Seguna"
+	culture="nepali"
+	religion="hindu"
+}
+104790={
+	name="Nenuo"
+	culture="han"
+	religion="buddhist"
+}
+104800={
+	name="Ayannid"
+	culture="kannada"
+	religion="buddhist"
+}
+104810={
+	name="Nant"
+	culture="nepali"
+	religion="sunni"
+}
+104820={
+	name="Kurianid"
+	culture="tamil"
+	religion="buddhist"
+}
+104830={
+	name="Tacelgil"
+	culture="han"
+	religion="buddhist"
+}
+104840={
+	name="Nantivarmanid"
+	culture="tamil"
+	religion="bon"
+}
+104850={
+	name="Nâtittañcâttanid"
+	culture="tamil"
+	religion="bon"
+}
+104860={
+	name="Tesecol"
+	culture="han"
+	religion="catholic"
+}
+104870={
+	name="Nâtittañcâttanid"
+	culture="tamil"
+	religion="catholic"
+}
+104880={
+	name="Bamoan"
+	culture="han"
+	religion="buddhist"
+}
+104890={
+	name="Pantâramid"
+	culture="tamil"
+	religion="bon"
+}
+104900={
+	name="Amarapuyankanid"
+	culture="tamil"
+	religion="buddhist"
+}
+104910={
+	name="Viravijid"
+	culture="kannada"
+	religion="buddhist"
+}
+104920={
+	name="Mangiyuvarajid"
+	culture="telugu"
+	religion="buddhist"
+}
+104930={
+	name="Tawa"
+	culture="han"
+	religion="buddhist"
+}
+104940={
+	name="Jakarta"
+	culture="nepali"
+	religion="sunni"
+}
+104950={
+	name="Kunavîrid"
+	culture="tamil"
+	religion="bon"
+}
+104960={
+	name="Nahyho"
+	culture="nepali"
+	religion="sunni"
+}
+104970={
+	name="Amalibad"
+	culture="han"
+	religion="buddhist"
+}
+104980={
+	name="Ittacid"
+	culture="tamil"
+	religion="bon"
+}
+104990={
+	name="Eisowid"
+	culture="tamil"
+	religion="buddhist"
+}
+105000={
+	name="Ehawerna"
+	culture="han"
+	religion="buddhist"
+}
+105010={
+	name="Varakunanid"
+	culture="tamil"
+	religion="buddhist"
+}
+105020={
+	name="Ral"
+	culture="han"
+	religion="buddhist"
+}
+105030={
+	name="Cevakattevanid"
+	culture="tamil"
+	religion="bon"
+}
+105040={
+	name="Irâcakecaripanmarid"
+	culture="tamil"
+	religion="bon"
+}
+105050={
+	name="Amarma"
+	culture="han"
+	religion="buddhist"
+}
+105060={
+	name="Nunina"
+	culture="nepali"
+	religion="shiite"
+}
+105070={
+	name="Nathilvi"
+	culture="nepali"
+	religion="shiite"
+}
+105080={
+	name="Rajarajid"
+	culture="telugu"
+	religion="buddhist"
+}
+105090={
+	name="Vellantânkinânid"
+	culture="tamil"
+	religion="catholic"
+}
+105100={
+	name="Cankilid"
+	culture="tamil"
+	religion="bon"
+}
+105110={
+	name="Taqisce"
+	culture="nepali"
+	religion="sunni"
+}
+105120={
+	name="Nârpattennâyirapattanid"
+	culture="tamil"
+	religion="buddhist"
+}
+105130={
+	name="Latucia"
+	culture="nepali"
+	religion="sunni"
+}
+105140={
+	name="Nicenia"
+	culture="han"
+	religion="taoist"
+}
+105150={
+	name="Tuti"
+	culture="nepali"
+	religion="sunni"
+}
+105160={
+	name="Ceyavîrid"
+	culture="tamil"
+	religion="bon"
+}
+105170={
+	name="Rudana"
+	culture="zhangzhung"
+	religion="sunni"
+}
+105180={
+	name="Kilaya"
+	culture="han"
+	religion="taoist"
+}
+105190={
+	name="Amarapuyankanid"
+	culture="tamil"
+	religion="buddhist"
+}
+105200={
+	name="Kaapayanayakid"
+	culture="telugu"
+	religion="taoist"
+}
+105210={
+	name="Ammarajid"
+	culture="telugu"
+	religion="catholic"
+}
+105220={
+	name="Puvirâcid"
+	culture="tamil"
+	religion="buddhist"
+}
+105230={
+	name="Qaluna"
+	culture="nepali"
+	religion="sunni"
+}
+105240={
+	name="Mâtevipattanid"
+	culture="tamil"
+	religion="bon"
+}
+105250={
+	name="Kunavîrid"
+	culture="tamil"
+	religion="buddhist"
+}
+105260={
+	name="Qikamud"
+	culture="han"
+	religion="taoist"
+}
+105270={
+	name="Bugelle"
+	culture="nepali"
+	religion="sunni"
+}
+105280={
+	name="Lalathi"
+	culture="nepali"
+	religion="sunni"
+}
+105290={
+	name="Daraca"
+	culture="han"
+	religion="sunni"
+}
+105300={
+	name="Kulacêkaranid"
+	culture="tamil"
+	religion="buddhist"
+}
+105310={
+	name="Tuxalis"
+	culture="zhangzhung"
+	religion="sunni"
+}
+105320={
+	name="Lelike"
+	culture="han"
+	religion="sunni"
+}
+105330={
+	name="Irâcarâcid"
+	culture="tamil"
+	religion="bon"
+}
+105340={
+	name="Talodai"
+	culture="zhangzhung"
+	religion="sunni"
+}
+105350={
+	name="Aurorae Planum"
+	culture="han"
+	religion="taoist"
+}
+105360={
+	name="Luleyao"
+	culture="han"
+	religion="catholic"
+}
+105370={
+	name="Kifaig"
+	culture="han"
+	religion="taoist"
+}
+105380={
+	name="Dahimhi"
+	culture="han"
+	religion="taoist"
+}
+105390={
+	name="Biatsi"
+	culture="han"
+	religion="sunni"
+}
+105400={
+	name="Nenile"
+	culture="han"
+	religion="taoist"
+}
+105410={
+	name="Kaweyao"
+	culture="han"
+	religion="sunni"
+}
+105420={
+	name="Raybika"
+	culture="han"
+	religion="taoist"
+}
+105430={
+	name="Kohani"
+	culture="nepali"
+	religion="sunni"
+}
+105440={
+	name="Pidid"
+	culture="khitan"
+	religion="sunni"
+}
+105450={
+	name="Tanidha"
+	culture="zhangzhung"
+	religion="sunni"
+}
+105460={
+	name="Tanalis"
+	culture="zhangzhung"
+	religion="sunni"
+}
+105470={
+	name="Rudradevid"
+	culture="telugu"
+	religion="sunni"
+}
+105480={
+	name="Haikou"
+	culture="han"
+	religion="taoist"
+}
+105490={
+	name="Asamou"
+	culture="han"
+	religion="taoist"
+}
+105500={
+	name="Saconas"
+	culture="han"
+	religion="taoist"
+}
+105510={
+	name="Radarun"
+	culture="han"
+	religion="taoist"
+}
+105520={
+	name="Nikoste"
+	culture="nepali"
+	religion="sunni"
+}
+105530={
+	name="Alivyer"
+	culture="han"
+	religion="taoist"
+}
+105540={
+	name="Ebhianou"
+	culture="han"
+	religion="taoist"
+}
+105550={
+	name="Qila"
+	culture="zhangzhung"
+	religion="sunni"
+}
+105560={
+	name="Biudvi"
+	culture="nepali"
+	religion="sunni"
+}
+105570={
+	name="Teraret"
+	culture="nepali"
+	religion="sunni"
+}
+105580={
+	name="Kangen"
+	culture="han"
+	religion="taoist"
+}
+105590={
+	name="Keharam"
+	culture="nepali"
+	religion="sunni"
+}
+105600={
+	name="Totijah"
+	culture="zhangzhung"
+	religion="miaphysite"
+}
+105610={
+	name="Teajit"
+	culture="han"
+	religion="taoist"
+}
+105620={
+	name="Enaula"
+	culture="han"
+	religion="sunni"
+}
+105630={
+	name="Tyasuda"
+	culture="han"
+	religion="taoist"
+}
+105640={
+	name="Tegepes"
+	culture="zhangzhung"
+	religion="miaphysite"
+}
+105650={
+	name="Wenshunid"
+	culture="khitan"
+	religion="sunni"
+}
+105660={
+	name="Chalid"
+	culture="khitan"
+	religion="sunni"
+}
+105670={
+	name="Edeguall"
+	culture="nepali"
+	religion="sunni"
+}
+105680={
+	name="Totipaz"
+	culture="han"
+	religion="taoist"
+}
+105690={
+	name="Sarajit"
+	culture="han"
+	religion="taoist"
+}
+105700={
+	name="Dicohn"
+	culture="han"
+	religion="taoist"
+}
+105710={
+	name="Kander"
+	culture="nepali"
+	religion="sunni"
+}
+105720={
+	name="Qahoke"
+	culture="nepali"
+	religion="sunni"
+}
+105730={
+	name="Nonunai"
+	culture="zhangzhung"
+	religion="sunni"
+}
+105740={
+	name="Ricurli"
+	culture="zhangzhung"
+	religion="sunni"
+}
+105750={
+	name="Qoyaude"
+	culture="nepali"
+	religion="hindu"
+}
+105760={
+	name="Kurinie"
+	culture="han"
+	religion="taoist"
+}
+105770={
+	name="Woganid"
+	culture="khitan"
+	religion="sunni"
+}
+105780={
+	name="Tanael"
+	culture="han"
+	religion="taoist"
+}
+105790={
+	name="Wugid"
+	culture="khitan"
+	religion="orthodox"
+}
+105800={
+	name="Kebinda"
+	culture="nepali"
+	religion="sunni"
+}
+105810={
+	name="Niceter"
+	culture="han"
+	religion="taoist"
+}
+105820={
+	name="Sodatsi"
+	culture="nepali"
+	religion="sunni"
+}
+105840={
+	name="Nokala"
+	culture="nepali"
+	religion="hindu"
+}
+105850={
+	name="Rojiye"
+	culture="han"
+	religion="taoist"
+}
+105860={
+	name="Lisonne"
+	culture="han"
+	religion="taoist"
+}
+105870={
+	name="Muyanid"
+	culture="khitan"
+	religion="sunni"
+}
+105880={
+	name="Juqid"
+	culture="khitan"
+	religion="orthodox"
+}
+105890={
+	name="Qounund"
+	culture="nepali"
+	religion="sunni"
+}
+105900={
+	name="Tusakra"
+	culture="zhangzhung"
+	religion="hindu"
+}
+105910={
+	name="Ramiyay"
+	culture="nepali"
+	religion="sunni"
+}
+105940={
+	name="Abhle"
+	culture="han"
+	religion="taoist"
+}
+105950={
+	name="Bancid"
+	culture="khitan"
+	religion="sunni"
+}
+105960={
+	name="Kokaghu"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+105970={
+	name="Erullah"
+	culture="han"
+	religion="taoist"
+}
+105980={
+	name="Sedory"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+105990={
+	name="Reslav"
+	culture="han"
+	religion="taoist"
+}
+106000={
+	name="Fortuna Ridge"
+	culture="han"
+	religion="sunni"
+}
+106010={
+	name="Rumiya"
+	culture="nepali"
+	religion="sunni"
+}
+106020={
+	name="Adurerna"
+	culture="nepali"
+	religion="hindu"
+}
+106030={
+	name="Kanadha"
+	culture="kanuri"
+	religion="zun_pagan"
+}
+106040={
+	name="Balena"
+	culture="nepali"
+	religion="hindu"
+}
+106050={
+	name="Sohijah"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+106060={
+	name="Ahelita"
+	culture="nepali"
+	religion="sunni"
+}
+106070={
+	name="de Erosena"
+	culture="visigothic"
+	religion="zun_pagan"
+}
+106080={
+	name="Geraldton"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+106090={
+	name="Ahjatevi"
+	culture="zhangzhung"
+	religion="hindu"
+}
+106100={
+	name="Relamas"
+	culture="zhangzhung"
+	religion="hindu"
+}
+106120={
+	name="Shaogid"
+	culture="khitan"
+	religion="orthodox"
+}
+106130={
+	name="Bimaaz"
+	culture="zhangzhung"
+	religion="sunni"
+}
+106140={
+	name="Nusory"
+	culture="han"
+	religion="taoist"
+}
+106141={
+	name="Nusory"
+	culture="han"
+	religion="taoist"
+}
+106142={
+	name="Nusaba"
+	culture="han"
+	religion="taoist"
+}
+106143={
+	name="Wawili"
+	culture="han"
+	religion="taoist"
+}
+106144={
+	name="Ralong"
+	culture="han"
+	religion="taoist"
+}
+106150={
+	name="Agodalc"
+	culture="han"
+	religion="taoist"
+}
+106160={
+	name="Layalia"
+	culture="han"
+	religion="taoist"
+}
+106170={
+	name="Shilid"
+	culture="khitan"
+	religion="sunni"
+}
+106180={
+	name="Elupala"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+106190={
+	name="ve Dawoses"
+	culture="alan"
+	religion="orthodox"
+}
+106200={
+	name="Puhid"
+	culture="khitan"
+	religion="sunni"
+}
+106210={
+	name="de Kekacon"
+	culture="visigothic"
+	religion="zun_pagan"
+}
+106220={
+	name="Kanyo"
+	culture="nepali"
+	religion="hindu"
+}
+106230={
+	name="Agyad"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+106240={
+	name="ve Syoukaul"
+	culture="alan"
+	religion="zun_pagan"
+}
+106250={
+	name="Raleis"
+	culture="zhangzhung"
+	religion="sunni"
+}
+106270={
+	name="Lefalp"
+	culture="han"
+	religion="taoist"
+}
+106280={
+	name="Kadalda"
+	culture="han"
+	religion="taoist"
+}
+106290={
+	name="Jilujuanid"
+	culture="khitan"
+	religion="sunni"
+}
+106300={
+	name="Kedeyao"
+	culture="han"
+	religion="orthodox"
+}
+106310={
+	name="Dukar"
+	culture="zhangzhung"
+	religion="hindu"
+}
+106320={
+	name="de Kanegin"
+	culture="visigothic"
+	religion="orthodox"
+}
+106330={
+	name="ve Korew"
+	culture="alan"
+	religion="buddhist"
+}
+106340={
+	name="de Tonimha"
+	culture="visigothic"
+	religion="tengri_pagan"
+}
+106350={
+	name="Sisalaf"
+	culture="zhangzhung"
+	religion="sunni"
+}
+106360={
+	name="ve Egilusbu"
+	culture="alan"
+	religion="west_african_pagan"
+}
+106370={
+	name="Bujaud"
+	culture="nepali"
+	religion="hindu"
+}
+106371={
+	name="Bujaud"
+	culture="nepali"
+	religion="hindu"
+}
+106372={
+	name="Sehobor"
+	culture="nepali"
+	religion="hindu"
+}
+106373={
+	name="Tadaud"
+	culture="nepali"
+	religion="hindu"
+}
+106374={
+	name="Ladoul"
+	culture="nepali"
+	religion="hindu"
+}
+106380={
+	name="Qathutlu"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+106390={
+	name="Pidid"
+	culture="khitan"
+	religion="orthodox"
+}
+106400={
+	name="Waleyao"
+	culture="nepali"
+	religion="sunni"
+}
+106410={
+	name="Takuna"
+	culture="han"
+	religion="orthodox"
+}
+106420={
+	name="Ahawuvje"
+	culture="zhangzhung"
+	religion="sunni"
+}
+106430={
+	name="ve Walidia"
+	culture="alan"
+	religion="buddhist"
+}
+106440={
+	name="de Asard"
+	culture="visigothic"
+	religion="zun_pagan"
+}
+106450={
+	name="Wutara"
+	culture="nepali"
+	religion="sunni"
+}
+106460={
+	name="Sayesua"
+	culture="zhangzhung"
+	religion="sunni"
+}
+106470={
+	name="de Qoimyan"
+	culture="visigothic"
+	religion="zun_pagan"
+}
+106480={
+	name="Mohid"
+	culture="khitan"
+	religion="sunni"
+}
+106490={
+	name="de Dalolun"
+	culture="visigothic"
+	religion="tengri_pagan"
+}
+106500={
+	name="Danuna"
+	culture="han"
+	religion="taoist"
+}
+106510={
+	name="ve Nusawa"
+	culture="alan"
+	religion="west_african_pagan"
+}
+106520={
+	name="de Wyon"
+	culture="visigothic"
+	religion="zun_pagan"
+}
+106530={
+	name="Kailid"
+	culture="khitan"
+	religion="sunni"
+}
+106540={
+	name="Tumenid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+106550={
+	name="Tokoise"
+	culture="han"
+	religion="orthodox"
+}
+106560={
+	name="Wardis"
+	culture="zhangzhung"
+	religion="sunni"
+}
+106570={
+	name="de Perth"
+	culture="visigothic"
+	religion="orthodox"
+}
+106580={
+	name="Dormoz"
+	culture="han"
+	religion="sunni"
+}
+106590={
+	name="Qanali"
+	culture="zhangzhung"
+	religion="sunni"
+}
+106600={
+	name="de Siloras"
+	culture="visigothic"
+	religion="zun_pagan"
+}
+106610={
+	name="Eponara"
+	culture="nepali"
+	religion="hindu"
+}
+106620={
+	name="ve Kadinie"
+	culture="alan"
+	religion="orthodox"
+}
+106630={
+	name="Tacoya"
+	culture="han"
+	religion="taoist"
+}
+106640={
+	name="ve Tyaserd"
+	culture="alan"
+	religion="west_african_pagan"
+}
+106650={
+	name="Xibaxiongid"
+	culture="khitan"
+	religion="sunni"
+}
+106660={
+	name="Badatevi"
+	culture="zhangzhung"
+	religion="sunni"
+}
+106670={
+	name="Kareli"
+	culture="nepali"
+	religion="sunni"
+}
+106680={
+	name="Zongzhenid"
+	culture="khitan"
+	religion="catholic"
+}
+106690={
+	name="ve Ajohonda"
+	culture="alan"
+	religion="aztec"
+}
+106700={
+	name="de Karelen"
+	culture="visigothic"
+	religion="orthodox"
+}
+106710={
+	name="ve Toderlo"
+	culture="alan"
+	religion="catholic"
+}
+106720={
+	name="Qyamo"
+	culture="han"
+	religion="taoist"
+}
+106730={
+	name="Watarya"
+	culture="han"
+	religion="taoist"
+}
+106740={
+	name="Qageva"
+	culture="nepali"
+	religion="sunni"
+}
+106750={
+	name="Tebarun"
+	culture="han"
+	religion="orthodox"
+}
+106760={
+	name="Dilid"
+	culture="khitan"
+	religion="sunni"
+}
+106770={
+	name="ve Temata"
+	culture="alan"
+	religion="zun_pagan"
+}
+106780={
+	name="Dita"
+	culture="zhangzhung"
+	religion="sunni"
+}
+106790={
+	name="Mohubid"
+	culture="khitan"
+	religion="sunni"
+}
+106800={
+	name="de Dunyu"
+	culture="visigothic"
+	religion="catholic"
+}
+106810={
+	name="de Tiana"
+	culture="visigothic"
+	religion="aztec"
+}
+106820={
+	name="ve Kunya"
+	culture="alan"
+	religion="aztec"
+}
+106830={
+	name="Balikpapan"
+	culture="zhangzhung"
+	religion="sunni"
+}
+106840={
+	name="ve Teroch"
+	culture="alan"
+	religion="west_african_pagan"
+}
+106850={
+	name="Larigo"
+	culture="sumpa"
+	religion="catholic"
+}
+106860={
+	name="ve Qunahad"
+	culture="alan"
+	religion="west_african_pagan"
+}
+106870={
+	name="ve Tisna"
+	culture="alan"
+	religion="aztec"
+}
+106880={
+	name="Duolubid"
+	culture="khitan"
+	religion="sunni"
+}
+106890={
+	name="Pidid"
+	culture="khitan"
+	religion="sunni"
+}
+106900={
+	name="de Dyud"
+	culture="visigothic"
+	religion="zun_pagan"
+}
+106910={
+	name="ve Nauluke"
+	culture="alan"
+	religion="tengri_pagan"
+}
+106920={
+	name="Naserd"
+	culture="sumpa"
+	religion="orthodox"
+}
+106930={
+	name="Danelbo"
+	culture="sumpa"
+	religion="orthodox"
+}
+106940={
+	name="Temew"
+	culture="sumpa"
+	religion="catholic"
+}
+106950={
+	name="Apetyuns"
+	culture="zhangzhung"
+	religion="sunni"
+}
+106960={
+	name="ve Tyaqani"
+	culture="alan"
+	religion="zun_pagan"
+}
+106970={
+	name="Said"
+	culture="zhangzhung"
+	religion="sunni"
+}
+106980={
+	name="of Emoraran"
+	culture="greek"
+	religion="zun_pagan"
+}
+106990={
+	name="Bautegin"
+	culture="han"
+	religion="taoist"
+}
+107000={
+	name="Qabeer"
+	culture="zhangzhung"
+	religion="hindu"
+}
+107010={
+	name="Tomucha"
+	culture="han"
+	religion="taoist"
+}
+107020={
+	name="Riudail"
+	culture="han"
+	religion="taoist"
+}
+107030={
+	name="de Rereda"
+	culture="visigothic"
+	religion="zun_pagan"
+}
+107040={
+	name="Anduanid"
+	culture="khitan"
+	religion="sunni"
+}
+107050={
+	name="Koruna"
+	culture="pictish"
+	religion="aztec"
+}
+107060={
+	name="ve Kaheaz"
+	culture="alan"
+	religion="catholic"
+}
+107070={
+	name="ve Kakusbu"
+	culture="alan"
+	religion="west_african_pagan"
+}
+107080={
+	name="Dijasia"
+	culture="sumpa"
+	religion="catholic"
+}
+107090={
+	name="Sutalis"
+	culture="zhangzhung"
+	religion="sunni"
+}
+107100={
+	name="de Nururd"
+	culture="visigothic"
+	religion="aztec"
+}
+107110={
+	name="ve Nalarya"
+	culture="alan"
+	religion="aztec"
+}
+107120={
+	name="de Battan"
+	culture="visigothic"
+	religion="orthodox"
+}
+107130={
+	name="Dengar"
+	culture="bodpa"
+	religion="catholic"
+}
+107140={
+	name="Banena"
+	culture="bodpa"
+	religion="sunni"
+}
+107150={
+	name="Rahonne"
+	culture="zhangzhung"
+	religion="sunni"
+}
+107160={
+	name="Taloise"
+	culture="han"
+	religion="manichean"
+}
+107170={
+	name="of Rimecca"
+	culture="greek"
+	religion="zun_pagan"
+}
+107180={
+	name="Wosike"
+	culture="pictish"
+	religion="aztec"
+}
+107190={
+	name="de Qaringi"
+	culture="visigothic"
+	religion="zun_pagan"
+}
+107200={
+	name="Dageth"
+	culture="sumpa"
+	religion="catholic"
+}
+107210={
+	name="ve Kalahim"
+	culture="alan"
+	religion="aztec"
+}
+107220={
+	name="de Arara"
+	culture="visigothic"
+	religion="zun_pagan"
+}
+107230={
+	name="Bagann"
+	culture="zhangzhung"
+	religion="hindu"
+}
+107240={
+	name="of Sizoj"
+	culture="greek"
+	religion="zun_pagan"
+}
+107250={
+	name="ve Kinine"
+	culture="alan"
+	religion="messalian"
+}
+107260={
+	name="de Wailm"
+	culture="visigothic"
+	religion="orthodox"
+}
+107270={
+	name="Kaleli"
+	culture="nepali"
+	religion="hindu"
+}
+107280={
+	name="Dahunai"
+	culture="bodpa"
+	religion="sunni"
+}
+107290={
+	name="Kadew"
+	culture="sumpa"
+	religion="catholic"
+}
+107300={
+	name="de Tiel"
+	culture="visigothic"
+	religion="orthodox"
+}
+107310={
+	name="Wiveva"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+107320={
+	name="Karaghu"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+107330={
+	name="of Dukoto"
+	culture="greek"
+	religion="zun_pagan"
+}
+107340={
+	name="Terra Cimmeria"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+107350={
+	name="Ricibah"
+	culture="nepali"
+	religion="sunni"
+}
+107360={
+	name="Wamey"
+	culture="han"
+	religion="taoist"
+}
+107370={
+	name="Tayn"
+	culture="sumpa"
+	religion="catholic"
+}
+107380={
+	name="ve Tilof"
+	culture="alan"
+	religion="west_african_pagan"
+}
+107390={
+	name="ve Lininga"
+	culture="alan"
+	religion="aztec"
+}
+107400={
+	name="Woroya"
+	culture="bodpa"
+	religion="sunni"
+}
+107410={
+	name="Riboatl"
+	culture="zhangzhung"
+	religion="sunni"
+}
+107420={
+	name="of Narta"
+	culture="greek"
+	religion="zun_pagan"
+}
+107430={
+	name="Qelunpu"
+	culture="nepali"
+	religion="hindu"
+}
+107440={
+	name="ve Avasios"
+	culture="alan"
+	religion="orthodox"
+}
+107450={
+	name="Qadapa"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+107460={
+	name="Makassar"
+	culture="nepali"
+	religion="hindu"
+}
+107470={
+	name="de Rolopolk"
+	culture="visigothic"
+	religion="zun_pagan"
+}
+107480={
+	name="Dozina"
+	culture="zhangzhung"
+	religion="orthodox"
+}
+107490={
+	name="ve Bawal"
+	culture="alan"
+	religion="catholic"
+}
+107500={
+	name="Apudrd"
+	culture="zhangzhung"
+	religion="hindu"
+}
+107510={
+	name="ve Samiulf"
+	culture="alan"
+	religion="messalian"
+}
+107520={
+	name="Quadiq"
+	culture="zhangzhung"
+	religion="sunni"
+}
+107530={
+	name="Liboska"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+107540={
+	name="Darida"
+	culture="sumpa"
+	religion="catholic"
+}
+107550={
+	name="of Qabippa"
+	culture="greek"
+	religion="west_african_pagan"
+}
+107560={
+	name="Akenoa"
+	culture="zhangzhung"
+	religion="sunni"
+}
+107570={
+	name="Avaluna"
+	culture="nepali"
+	religion="hindu"
+}
+107580={
+	name="Dunli"
+	culture="sumpa"
+	religion="catholic"
+}
+107590={
+	name="Beusz"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+107600={
+	name="Winor"
+	culture="zhangzhung"
+	religion="sunni"
+}
+107610={
+	name="Aparya"
+	culture="hausa"
+	religion="messalian"
+}
+107630={
+	name="Qeposlan"
+	culture="nepali"
+	religion="hindu"
+}
+107640={
+	name="Ticta"
+	culture="han"
+	religion="buddhist"
+}
+107650={
+	name="of Kamoth"
+	culture="greek"
+	religion="west_african_pagan"
+}
+107660={
+	name="Lobanu"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+107670={
+	name="Kakeca"
+	culture="han"
+	religion="catholic"
+}
+107680={
+	name="Alakk"
+	culture="sumpa"
+	religion="catholic"
+}
+107690={
+	name="Epanca"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+107700={
+	name="Refaya"
+	culture="han"
+	religion="buddhist"
+}
+107710={
+	name="Ratasa"
+	culture="zhangzhung"
+	religion="sunni"
+}
+107720={
+	name="Konilan"
+	culture="bodpa"
+	religion="bon"
+}
+107730={
+	name="Kibios"
+	culture="sumpa"
+	religion="catholic"
+}
+107740={
+	name="Laney"
+	culture="nepali"
+	religion="orthodox"
+}
+107750={
+	name="of Ragnus"
+	culture="greek"
+	religion="zun_pagan"
+}
+107760={
+	name="de Lyaud"
+	culture="visigothic"
+	religion="orthodox"
+}
+107770={
+	name="Titint"
+	culture="zhangzhung"
+	religion="sunni"
+}
+107780={
+	name="of Charitum"
+	culture="greek"
+	religion="zun_pagan"
+}
+107790={
+	name="de Nanoshi"
+	culture="visigothic"
+	religion="zun_pagan"
+}
+107800={
+	name="Erasia"
+	culture="han"
+	religion="catholic"
+}
+107801={
+	name="Erasia"
+	culture="han"
+	religion="catholic"
+}
+107802={
+	name="Wisiwal"
+	culture="han"
+	religion="catholic"
+}
+107803={
+	name="Qenes"
+	culture="han"
+	religion="catholic"
+}
+107804={
+	name="Qasuda"
+	culture="han"
+	religion="catholic"
+}
+107810={
+	name="Wuwuna"
+	culture="sumpa"
+	religion="catholic"
+}
+107820={
+	name="Relach"
+	culture="sumpa"
+	religion="catholic"
+}
+107830={
+	name="ve Nazahtu"
+	culture="alan"
+	religion="messalian"
+}
+107840={
+	name="de Beonyab"
+	culture="visigothic"
+	religion="zun_pagan"
+}
+107850={
+	name="Asiemed"
+	culture="sumpa"
+	religion="catholic"
+}
+107860={
+	name="Sacoste"
+	culture="zhangzhung"
+	religion="orthodox"
+}
+107880={
+	name="Kemarak"
+	culture="bodpa"
+	religion="sunni"
+}
+107890={
+	name="ve Rarude"
+	culture="alan"
+	religion="messalian"
+}
+107910={
+	name="Talunno"
+	culture="zhangzhung"
+	religion="buddhist"
+}
+107920={
+	name="Amaxanu"
+	culture="zhangzhung"
+	religion="sunni"
+}
+107930={
+	name="Wind"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+107940={
+	name="Manila"
+	culture="sumpa"
+	religion="catholic"
+}
+107950={
+	name="Rirek"
+	culture="sumpa"
+	religion="catholic"
+}
+107960={
+	name="Kafaca"
+	culture="zhangzhung"
+	religion="buddhist"
+}
+107970={
+	name="Nagatan"
+	culture="sumpa"
+	religion="catholic"
+}
+107980={
+	name="Eteegus"
+	culture="sumpa"
+	religion="catholic"
+}
+107990={
+	name="Leluvje"
+	culture="bodpa"
+	religion="sunni"
+}
+108000={
+	name="Luherdi"
+	culture="sumpa"
+	religion="catholic"
+}
+108010={
+	name="Ekenulk"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+108020={
+	name="Tagenxiu"
+	culture="sumpa"
+	religion="catholic"
+}
+108030={
+	name="Qosan"
+	culture="hausa"
+	religion="messalian"
+}
+108040={
+	name="Bureidja"
+	culture="zhangzhung"
+	religion="jain"
+}
+108050={
+	name="Qaling"
+	culture="bodpa"
+	religion="catholic"
+}
+108060={
+	name="Ramonse"
+	culture="pictish"
+	religion="aztec"
+}
+108070={
+	name="Tadan"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+108080={
+	name="Bumutuq"
+	culture="sumpa"
+	religion="catholic"
+}
+108090={
+	name="Damava"
+	culture="han"
+	religion="taoist"
+}
+108100={
+	name="Naralg"
+	culture="sumpa"
+	religion="catholic"
+}
+108110={
+	name="Botian"
+	culture="hausa"
+	religion="messalian"
+}
+108120={
+	name="Narion"
+	culture="bodpa"
+	religion="orthodox"
+}
+108130={
+	name="Naduta"
+	culture="sumpa"
+	religion="catholic"
+}
+108150={
+	name="Wamasa"
+	culture="bodpa"
+	religion="bon"
+}
+108160={
+	name="Sotui"
+	culture="sumpa"
+	religion="catholic"
+}
+108170={
+	name="Bavarna"
+	culture="zhangzhung"
+	religion="jain"
+}
+108180={
+	name="Bach"
+	culture="sumpa"
+	religion="catholic"
+}
+108190={
+	name="Buyamoc"
+	culture="zhangzhung"
+	religion="sunni"
+}
+108200={
+	name="of Walp"
+	culture="greek"
+	religion="west_african_pagan"
+}
+108210={
+	name="de Lopumay"
+	culture="visigothic"
+	religion="zun_pagan"
+}
+108220={
+	name="Ajohuju"
+	culture="zhangzhung"
+	religion="hindu"
+}
+108230={
+	name="Dobami"
+	culture="bodpa"
+	religion="catholic"
+}
+108240={
+	name="Planum Australe"
+	culture="pictish"
+	religion="catholic"
+}
+108250={
+	name="Lulibad"
+	culture="bodpa"
+	religion="catholic"
+}
+108260={
+	name="Raya"
+	culture="zhangzhung"
+	religion="sunni"
+}
+108270={
+	name="Byusato"
+	culture="zhangzhung"
+	religion="sunni"
+}
+108290={
+	name="Wosorri"
+	culture="zhangzhung"
+	religion="hindu"
+}
+108300={
+	name="Rivingi"
+	culture="hausa"
+	religion="messalian"
+}
+108310={
+	name="Evasonse"
+	culture="bodpa"
+	religion="orthodox"
+}
+108320={
+	name="Kehaac"
+	culture="zhangzhung"
+	religion="sunni"
+}
+108330={
+	name="Suwaka"
+	culture="sumpa"
+	religion="catholic"
+}
+108340={
+	name="Radaide"
+	culture="bodpa"
+	religion="catholic"
+}
+108350={
+	name="de Kodani"
+	culture="visigothic"
+	religion="zun_pagan"
+}
+108360={
+	name="Aharacon"
+	culture="sumpa"
+	religion="catholic"
+}
+108370={
+	name="Temajit"
+	culture="bodpa"
+	religion="sunni"
+}
+108380={
+	name="Kajula"
+	culture="pictish"
+	religion="aztec"
+}
+108390={
+	name="Babert"
+	culture="zhangzhung"
+	religion="sunni"
+}
+108400={
+	name="Saqar"
+	culture="bodpa"
+	religion="catholic"
+}
+108410={
+	name="Kelite"
+	culture="hausa"
+	religion="aztec"
+}
+108420={
+	name="Rotinga"
+	culture="sumpa"
+	religion="catholic"
+}
+108430={
+	name="Tizadevi"
+	culture="bodpa"
+	religion="catholic"
+}
+108440={
+	name="Ebilirad"
+	culture="bodpa"
+	religion="catholic"
+}
+108450={
+	name="Kadevi"
+	culture="pictish"
+	religion="catholic"
+}
+108460={
+	name="Sijenda"
+	culture="pictish"
+	religion="zun_pagan"
+}
+108470={
+	name="Tabella"
+	culture="hausa"
+	religion="aztec"
+}
+108480={
+	name="Tethabha"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+108490={
+	name="Lifiog"
+	culture="zhangzhung"
+	religion="sunni"
+}
+108500={
+	name="Teynana"
+	culture="zhangzhung"
+	religion="hindu"
+}
+108510={
+	name="de Rael"
+	culture="visigothic"
+	religion="zun_pagan"
+}
+108520={
+	name="Begevi"
+	culture="sumpa"
+	religion="catholic"
+}
+108530={
+	name="Namaba"
+	culture="sumpa"
+	religion="catholic"
+}
+108540={
+	name="Koheas"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+108550={
+	name="Ryuo"
+	culture="bodpa"
+	religion="catholic"
+}
+108560={
+	name="Widilo"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+108570={
+	name="Kiard"
+	culture="bodpa"
+	religion="catholic"
+}
+108580={
+	name="Kacita"
+	culture="bodpa"
+	religion="catholic"
+}
+108590={
+	name="Adevalih"
+	culture="bodpa"
+	religion="catholic"
+}
+108600={
+	name="Waroa"
+	culture="zhangzhung"
+	religion="sunni"
+}
+108610={
+	name="Womidha"
+	culture="sumpa"
+	religion="catholic"
+}
+108620={
+	name="Linathi"
+	culture="zhangzhung"
+	religion="hindu"
+}
+108630={
+	name="Erugina"
+	culture="hausa"
+	religion="messalian"
+}
+108640={
+	name="Kiveph"
+	culture="pictish"
+	religion="orthodox"
+}
+108650={
+	name="Ekemenna"
+	culture="bodpa"
+	religion="catholic"
+}
+108660={
+	name="Lesser Helium"
+	culture="zhangzhung"
+	religion="hindu"
+}
+108670={
+	name="Depune"
+	culture="pictish"
+	religion="zun_pagan"
+}
+108680={
+	name="Tadapa"
+	culture="zhangzhung"
+	religion="sunni"
+}
+108690={
+	name="Raadert"
+	culture="pictish"
+	religion="messalian"
+}
+108700={
+	name="Serakrim"
+	culture="sumpa"
+	religion="catholic"
+}
+108710={
+	name="Tiloan"
+	culture="bodpa"
+	religion="catholic"
+}
+108720={
+	name="Kuca"
+	culture="sumpa"
+	religion="catholic"
+}
+108730={
+	name="Aninor"
+	culture="zhangzhung"
+	religion="sunni"
+}
+108740={
+	name="Tumeras"
+	culture="zhangzhung"
+	religion="hindu"
+}
+108750={
+	name="Kisoke"
+	culture="zhangzhung"
+	religion="orthodox"
+}
+108760={
+	name="Nohoth"
+	culture="pictish"
+	religion="messalian"
+}
+108770={
+	name="Dumert"
+	culture="bodpa"
+	religion="catholic"
+}
+108780={
+	name="Xipilid"
+	culture="nahuatl"
+	religion="catholic"
+}
+108790={
+	name="Qobotus"
+	culture="pictish"
+	religion="catholic"
+}
+108800={
+	name="Raloka"
+	culture="zhangzhung"
+	religion="hindu"
+}
+108810={
+	name="Reorge"
+	culture="kanuri"
+	religion="aztec"
+}
+108820={
+	name="Arumpal"
+	culture="sumpa"
+	religion="catholic"
+}
+108830={
+	name="South Marineris"
+	culture="zhangzhung"
+	religion="sunni"
+}
+108840={
+	name="Tisigar"
+	culture="pictish"
+	religion="zun_pagan"
+}
+108850={
+	name="Tikitta"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+108860={
+	name="Rodeila"
+	culture="bodpa"
+	religion="catholic"
+}
+108870={
+	name="Xochipillid"
+	culture="nahuatl"
+	religion="catholic"
+}
+108880={
+	name="Dulavo"
+	culture="bodpa"
+	religion="catholic"
+}
+108890={
+	name="Tajurre"
+	culture="kanuri"
+	religion="messalian"
+}
+108900={
+	name="Icaria Planum"
+	culture="sumpa"
+	religion="catholic"
+}
+108910={
+	name="Kaia"
+	culture="sumpa"
+	religion="catholic"
+}
+108920={
+	name="Raceva"
+	culture="hausa"
+	religion="messalian"
+}
+108940={
+	name="Qeslav"
+	culture="hausa"
+	religion="messalian"
+}
+108950={
+	name="Tochtlid"
+	culture="nahuatl"
+	religion="catholic"
+}
+108960={
+	name="Sisaca"
+	culture="pictish"
+	religion="orthodox"
+}
+108970={
+	name="Duara"
+	culture="pictish"
+	religion="catholic"
+}
+108980={
+	name="Acalanid"
+	culture="nahuatl"
+	religion="catholic"
+}
+108990={
+	name="Tulorake"
+	culture="sumpa"
+	religion="orthodox"
+}
+109000={
+	name="Radepe"
+	culture="pictish"
+	religion="aztec"
+}
+109010={
+	name="Dogah"
+	culture="hausa"
+	religion="messalian"
+}
+109020={
+	name="de Kanimha"
+	culture="basque"
+	religion="zun_pagan"
+}
+109030={
+	name="Tudaned"
+	culture="bodpa"
+	religion="catholic"
+}
+109050={
+	name="Ajolinu"
+	culture="bodpa"
+	religion="sunni"
+}
+109060={
+	name="Ixtlilxochitlid"
+	culture="nahuatl"
+	religion="catholic"
+}
+109070={
+	name="Tirudo"
+	culture="pictish"
+	religion="aztec"
+}
+109090={
+	name="Aviacana"
+	culture="kanuri"
+	religion="orthodox"
+}
+109100={
+	name="Acamapichtlid"
+	culture="nahuatl"
+	religion="catholic"
+}
+109110={
+	name="de Wetautas"
+	culture="basque"
+	religion="zun_pagan"
+}
+109120={
+	name="Ahuitzotlid"
+	culture="nahuatl"
+	religion="sunni"
+}
+109130={
+	name="Byayqar"
+	culture="zhangzhung"
+	religion="sunni"
+}
+109140={
+	name="Lohoman"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+109150={
+	name="Satayda"
+	culture="hausa"
+	religion="messalian"
+}
+109160={
+	name="Byaatiha"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+109170={
+	name="Rafiy"
+	culture="pictish"
+	religion="orthodox"
+}
+109180={
+	name="Wobuo"
+	culture="hausa"
+	religion="messalian"
+}
+109190={
+	name="Buwinn"
+	culture="bodpa"
+	religion="sunni"
+}
+109200={
+	name="Tunios"
+	culture="kanuri"
+	religion="orthodox"
+}
+109210={
+	name="Xochipepid"
+	culture="nahuatl"
+	religion="catholic"
+}
+109220={
+	name="Kulavo"
+	culture="bodpa"
+	religion="sunni"
+}
+109230={
+	name="Wabayor"
+	culture="sumpa"
+	religion="orthodox"
+}
+109240={
+	name="Datan"
+	culture="zhangzhung"
+	religion="catholic"
+}
+109250={
+	name="Qyoa"
+	culture="pictish"
+	religion="aztec"
+}
+109260={
+	name="Karopher"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+109270={
+	name="Kawava"
+	culture="hausa"
+	religion="messalian"
+}
+109280={
+	name="Itzcuintlid"
+	culture="nahuatl"
+	religion="catholic"
+}
+109290={
+	name="Duis"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+109300={
+	name="Rila"
+	culture="hausa"
+	religion="messalian"
+}
+109310={
+	name="Tlacaeleltzinid"
+	culture="nahuatl"
+	religion="catholic"
+}
+109320={
+	name="Ezaynohn"
+	culture="bodpa"
+	religion="orthodox"
+}
+109330={
+	name="Raylua"
+	culture="pictish"
+	religion="aztec"
+}
+109340={
+	name="Nilala"
+	culture="hausa"
+	religion="messalian"
+}
+109350={
+	name="Amarite"
+	culture="hausa"
+	religion="messalian"
+}
+109360={
+	name="Lokarak"
+	culture="sumpa"
+	religion="sunni"
+}
+109370={
+	name="Tilira"
+	culture="pictish"
+	religion="orthodox"
+}
+109380={
+	name="Ozomatlid"
+	culture="nahuatl"
+	religion="catholic"
+}
+109390={
+	name="Maxtlid"
+	culture="nahuatl"
+	religion="catholic"
+}
+109400={
+	name="Qyorato"
+	culture="kanuri"
+	religion="orthodox"
+}
+109410={
+	name="Xochitlid"
+	culture="nahuatl"
+	religion="sunni"
+}
+109420={
+	name="Cuixtlid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+109430={
+	name="Ocuilid"
+	culture="nahuatl"
+	religion="catholic"
+}
+109440={
+	name="Tohila"
+	culture="pictish"
+	religion="aztec"
+}
+109450={
+	name="Tetlepanquetzaltzinid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+109460={
+	name="Cozahtlid"
+	culture="nahuatl"
+	religion="catholic"
+}
+109470={
+	name="Delevi"
+	culture="kanuri"
+	religion="orthodox"
+}
+109480={
+	name="Rasuda"
+	culture="hausa"
+	religion="aztec"
+}
+109490={
+	name="Kanilay"
+	culture="kanuri"
+	religion="orthodox"
+}
+109500={
+	name="Kotara"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+109510={
+	name="Tezozomocid"
+	culture="nahuatl"
+	religion="catholic"
+}
+109520={
+	name="Tahou"
+	culture="hausa"
+	religion="messalian"
+}
+109530={
+	name="Kalulk"
+	culture="hausa"
+	religion="messalian"
+}
+109540={
+	name="Weneuta"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+109550={
+	name="Robou"
+	culture="zhangzhung"
+	religion="orthodox"
+}
+109560={
+	name="Neneuta"
+	culture="hausa"
+	religion="messalian"
+}
+109570={
+	name="Kul"
+	culture="hausa"
+	religion="messalian"
+}
+109580={
+	name="Ticenes"
+	culture="pictish"
+	religion="aztec"
+}
+109590={
+	name="Timor Leste"
+	culture="zhangzhung"
+	religion="catholic"
+}
+109600={
+	name="Amubiva"
+	culture="kanuri"
+	religion="orthodox"
+}
+109610={
+	name="Laykas"
+	culture="sumpa"
+	religion="sunni"
+}
+109620={
+	name="Huitztecolid"
+	culture="nahuatl"
+	religion="sunni"
+}
+109630={
+	name="Tanorz"
+	culture="kanuri"
+	religion="orthodox"
+}
+109640={
+	name="Teuba"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+109650={
+	name="Qabous"
+	culture="kanuri"
+	religion="orthodox"
+}
+109660={
+	name="Asaneusz"
+	culture="hausa"
+	religion="aztec"
+}
+109670={
+	name="Taidun"
+	culture="hausa"
+	religion="messalian"
+}
+109680={
+	name="Tolou"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+109690={
+	name="Tiavid"
+	culture="pictish"
+	religion="messalian"
+}
+109700={
+	name="Acalanid"
+	culture="nahuatl"
+	religion="sunni"
+}
+109710={
+	name="Acalanid"
+	culture="nahuatl"
+	religion="sunni"
+}
+109730={
+	name="Tecocoltzinid"
+	culture="nahuatl"
+	religion="sunni"
+}
+109740={
+	name="Esoj"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+109750={
+	name="Rambiz"
+	culture="kanuri"
+	religion="catholic"
+}
+109760={
+	name="Lamr"
+	culture="hausa"
+	religion="messalian"
+}
+109770={
+	name="Nolua"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+109780={
+	name="Araveth"
+	culture="kanuri"
+	religion="catholic"
+}
+109790={
+	name="Tania"
+	culture="hausa"
+	religion="aztec"
+}
+109800={
+	name="Ruike"
+	culture="hausa"
+	religion="messalian"
+}
+109810={
+	name="Cuauhtemocid"
+	culture="nahuatl"
+	religion="sunni"
+}
+109820={
+	name="Badad"
+	culture="pictish"
+	religion="messalian"
+}
+109830={
+	name="Enarann"
+	culture="kanuri"
+	religion="catholic"
+}
+109840={
+	name="Totoquihuaztlid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+109850={
+	name="Atheozer"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+109860={
+	name="Huitztecolid"
+	culture="nahuatl"
+	religion="sunni"
+}
+109870={
+	name="Aculnahuacatlid"
+	culture="nahuatl"
+	religion="sunni"
+}
+109880={
+	name="Dadeka"
+	culture="kanuri"
+	religion="zun_pagan"
+}
+109890={
+	name="Arobuo"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+109900={
+	name="Ralyar"
+	culture="hausa"
+	religion="zun_pagan"
+}
+109910={
+	name="Exael"
+	culture="kanuri"
+	religion="zun_pagan"
+}
+109920={
+	name="Kucipac"
+	culture="kanuri"
+	religion="catholic"
+}
+109930={
+	name="Kalius"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+109940={
+	name="Lenailo"
+	culture="kanuri"
+	religion="zun_pagan"
+}
+109950={
+	name="Kodasus"
+	culture="hausa"
+	religion="messalian"
+}
+109960={
+	name="of Sudak"
+	culture="greek"
+	religion="catholic"
+}
+109970={
+	name="Ekubulad"
+	culture="hausa"
+	religion="zun_pagan"
+}
+109980={
+	name="Akilith"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+109990={
+	name="Eucla"
+	culture="pictish"
+	religion="messalian"
+}
+110000={
+	name="Tataz"
+	culture="hausa"
+	religion="zun_pagan"
+}
+110010={
+	name="Afinemir"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+110020={
+	name="Quauhtlid"
+	culture="nahuatl"
+	religion="sunni"
+}
+110030={
+	name="Teonne"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+110040={
+	name="Ranava"
+	culture="kanuri"
+	religion="zun_pagan"
+}
+110050={
+	name="Kehosai"
+	culture="kanuri"
+	religion="zun_pagan"
+}
+110060={
+	name="of Lainudo"
+	culture="greek"
+	religion="catholic"
+}
+110070={
+	name="Ralohn"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+110080={
+	name="Tilyal"
+	culture="hausa"
+	religion="zun_pagan"
+}
+110090={
+	name="Yayauhqid"
+	culture="nahuatl"
+	religion="sunni"
+}
+110100={
+	name="of Keonre"
+	culture="greek"
+	religion="messalian"
+}
+110110={
+	name="de Tazemir"
+	culture="basque"
+	religion="fraticelli"
+}
+110120={
+	name="of Agaoo"
+	culture="greek"
+	religion="orthodox"
+}
+110130={
+	name="of Edesh"
+	culture="greek"
+	religion="west_african_pagan"
+}
+110140={
+	name="Kunatha"
+	culture="hausa"
+	religion="zun_pagan"
+}
+110150={
+	name="Acalanid"
+	culture="nahuatl"
+	religion="sunni"
+}
+110160={
+	name="Nubild"
+	culture="pictish"
+	religion="zun_pagan"
+}
+110170={
+	name="of Kabucai"
+	culture="greek"
+	religion="buddhist"
+}
+110180={
+	name="of Libanga"
+	culture="greek"
+	religion="west_african_pagan"
+}
+110190={
+	name="Ageireer"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+110200={
+	name="Kaineva"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+110210={
+	name="of Tigyad"
+	culture="greek"
+	religion="messalian"
+}
+110220={
+	name="Badudan"
+	culture="pictish"
+	religion="zun_pagan"
+}
+110230={
+	name="Luke"
+	culture="zhangzhung"
+	religion="sunni"
+}
+110240={
+	name="Acacitlid"
+	culture="nahuatl"
+	religion="sunni"
+}
+110250={
+	name="of Tibeen"
+	culture="greek"
+	religion="orthodox"
+}
+110260={
+	name="de Agabryo"
+	culture="basque"
+	religion="catholic"
+}
+110270={
+	name="Sebyana"
+	culture="hausa"
+	religion="zun_pagan"
+}
+110280={
+	name="of Bawus"
+	culture="greek"
+	religion="west_african_pagan"
+}
+110290={
+	name="of Kalalih"
+	culture="greek"
+	religion="orthodox"
+}
+110300={
+	name="Kubira"
+	culture="pictish"
+	religion="zun_pagan"
+}
+110310={
+	name="Uemanid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+110330={
+	name="of Raakudo"
+	culture="greek"
+	religion="west_african_pagan"
+}
+110340={
+	name="Laxadra"
+	culture="hausa"
+	religion="zun_pagan"
+}
+110350={
+	name="Matlalid"
+	culture="nahuatl"
+	religion="sunni"
+}
+110360={
+	name="Dakuigi"
+	culture="pictish"
+	religion="aztec"
+}
+110370={
+	name="Rebeen"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+110380={
+	name="de Nilge"
+	culture="basque"
+	religion="catholic"
+}
+110390={
+	name="Badesh"
+	culture="kanuri"
+	religion="zun_pagan"
+}
+110400={
+	name="of Kacing"
+	culture="greek"
+	religion="orthodox"
+}
+110410={
+	name="Aruju"
+	culture="pictish"
+	religion="zun_pagan"
+}
+110420={
+	name="of Wetudo"
+	culture="greek"
+	religion="orthodox"
+}
+110430={
+	name="Cuauhtemocid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+110440={
+	name="de Beteri"
+	culture="basque"
+	religion="catholic"
+}
+110450={
+	name="of Webigo"
+	culture="greek"
+	religion="west_african_pagan"
+}
+110460={
+	name="Acalanid"
+	culture="nahuatl"
+	religion="sunni"
+}
+110470={
+	name="Lemir"
+	culture="hausa"
+	religion="zun_pagan"
+}
+110480={
+	name="of Damenda"
+	culture="greek"
+	religion="orthodox"
+}
+110490={
+	name="of Biludo"
+	culture="greek"
+	religion="west_african_pagan"
+}
+110500={
+	name="Bibi"
+	culture="pictish"
+	religion="aztec"
+}
+110510={
+	name="of Kakal"
+	culture="greek"
+	religion="orthodox"
+}
+110520={
+	name="Bartholomid"
+	culture="nubian"
+	religion="sunni"
+}
+110530={
+	name="of Remir"
+	culture="greek"
+	religion="orthodox"
+}
+110540={
+	name="of Derong"
+	culture="greek"
+	religion="orthodox"
+}
+110550={
+	name="Kalos"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+110560={
+	name="Ritumay"
+	culture="pictish"
+	religion="aztec"
+}
+110570={
+	name="Ladesar"
+	culture="kanuri"
+	religion="aztec"
+}
+110580={
+	name="de Lacuko"
+	culture="basque"
+	religion="catholic"
+}
+110590={
+	name="Emmanouelid"
+	culture="nubian"
+	religion="sunni"
+}
+110600={
+	name="Lelema"
+	culture="pictish"
+	religion="aztec"
+}
+110610={
+	name="Nalew"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+110620={
+	name="of Warogs"
+	culture="greek"
+	religion="west_african_pagan"
+}
+110630={
+	name="de Bevenda"
+	culture="basque"
+	religion="zun_pagan"
+}
+110660={
+	name="of Tesathi"
+	culture="greek"
+	religion="orthodox"
+}
+110670={
+	name="Taojn"
+	culture="pictish"
+	religion="aztec"
+}
+110690={
+	name="Sedoja"
+	culture="hausa"
+	religion="zun_pagan"
+}
+110700={
+	name="de Tilusoy"
+	culture="basque"
+	religion="catholic"
+}
+110710={
+	name="of Binder"
+	culture="greek"
+	religion="orthodox"
+}
+110720={
+	name="of Nonenda"
+	culture="greek"
+	religion="west_african_pagan"
+}
+110730={
+	name="Tasin"
+	culture="kanuri"
+	religion="zun_pagan"
+}
+110740={
+	name="Tofidia"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+110750={
+	name="Alice Springs"
+	culture="kanuri"
+	religion="aztec"
+}
+110760={
+	name="of Bawarus"
+	culture="greek"
+	religion="orthodox"
+}
+110770={
+	name="Simeonid"
+	culture="nubian"
+	religion="orthodox"
+}
+110780={
+	name="Tecocoltzinid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+110790={
+	name="Emmanouelid"
+	culture="nubian"
+	religion="orthodox"
+}
+110800={
+	name="Wuzh"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+110810={
+	name="de Lurold"
+	culture="basque"
+	religion="catholic"
+}
+110820={
+	name="Nezahualpillid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+110830={
+	name="Rusith"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+110840={
+	name="of Kunanka"
+	culture="greek"
+	religion="orthodox"
+}
+110850={
+	name="Koumani"
+	culture="hausa"
+	religion="aztec"
+}
+110860={
+	name="Tecocoltzinid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+110870={
+	name="de Kicir"
+	culture="basque"
+	religion="zun_pagan"
+}
+110880={
+	name="of Nadega"
+	culture="greek"
+	religion="orthodox"
+}
+110890={
+	name="Etomasna"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+110900={
+	name="Amoranka"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+110910={
+	name="Stephanid"
+	culture="nubian"
+	religion="orthodox"
+}
+110920={
+	name="Seziwen"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+110930={
+	name="de Alinor"
+	culture="basque"
+	religion="zun_pagan"
+}
+110940={
+	name="de Dainila"
+	culture="basque"
+	religion="zun_pagan"
+}
+110950={
+	name="Risara"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+110960={
+	name="Edobimha"
+	culture="kanuri"
+	religion="west_african_pagan"
+}
+110970={
+	name="of Sanimha"
+	culture="greek"
+	religion="orthodox"
+}
+110980={
+	name="de Nerani"
+	culture="basque"
+	religion="norse_pagan"
+}
+110990={
+	name="of Qibert"
+	culture="greek"
+	religion="orthodox"
+}
+111000={
+	name="Stephanid"
+	culture="nubian"
+	religion="orthodox"
+}
+111010={
+	name="of Lizuoxun"
+	culture="greek"
+	religion="catholic"
+}
+111020={
+	name="Tirsakounid"
+	culture="nubian"
+	religion="orthodox"
+}
+111030={
+	name="of Bulunga"
+	culture="greek"
+	religion="orthodox"
+}
+111040={
+	name="Ramaiy"
+	culture="pictish"
+	religion="aztec"
+}
+111050={
+	name="Basotus"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111060={
+	name="Resenda"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+111070={
+	name="de Ririmha"
+	culture="basque"
+	religion="zun_pagan"
+}
+111080={
+	name="Acalanid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+111090={
+	name="Cuauhtlid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+111100={
+	name="Ronuwe"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+111110={
+	name="Sozira"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111120={
+	name="Nyia"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111130={
+	name="Gennatid"
+	culture="nubian"
+	religion="catholic"
+}
+111140={
+	name="Tanana"
+	culture="zaghawa"
+	religion="catholic"
+}
+111150={
+	name="of Dimaday"
+	culture="greek"
+	religion="catholic"
+}
+111160={
+	name="de Telegh"
+	culture="basque"
+	religion="zun_pagan"
+}
+111170={
+	name="of Kaaziel"
+	culture="greek"
+	religion="catholic"
+}
+111180={
+	name="of Kazyula"
+	culture="greek"
+	religion="orthodox"
+}
+111190={
+	name="of Reva"
+	culture="assyrian"
+	religion="orthodox"
+}
+111200={
+	name="Avereth"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111210={
+	name="Tazin"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+111220={
+	name="Tirsakounid"
+	culture="nubian"
+	religion="orthodox"
+}
+111230={
+	name="Wemenxiu"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111240={
+	name="Remudak"
+	culture="pictish"
+	religion="aztec"
+}
+111250={
+	name="Evistin"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111260={
+	name="Opochtlid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+111270={
+	name="de Baisuti"
+	culture="basque"
+	religion="aztec"
+}
+111280={
+	name="de Kekonli"
+	culture="basque"
+	religion="norse_pagan"
+}
+111290={
+	name="Kusita"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111300={
+	name="Rayanai"
+	culture="pictish"
+	religion="aztec"
+}
+111310={
+	name="Prochorid"
+	culture="nubian"
+	religion="catholic"
+}
+111320={
+	name="Kamusha"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111330={
+	name="Michaêlkoudid"
+	culture="nubian"
+	religion="catholic"
+}
+111340={
+	name="of Kareya"
+	culture="greek"
+	religion="catholic"
+}
+111350={
+	name="de Lunhun"
+	culture="basque"
+	religion="norse_pagan"
+}
+111360={
+	name="de Sartoan"
+	culture="basque"
+	religion="west_african_pagan"
+}
+111370={
+	name="de Ryemais"
+	culture="old_frankish"
+	religion="aztec"
+}
+111380={
+	name="Ephannêid"
+	culture="nubian"
+	religion="orthodox"
+}
+111390={
+	name="de Nerajan"
+	culture="old_frankish"
+	religion="aztec"
+}
+111400={
+	name="Kicta"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111410={
+	name="Ladanta"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111420={
+	name="de Rari"
+	culture="old_frankish"
+	religion="aztec"
+}
+111430={
+	name="Beatkim"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111440={
+	name="Kegund"
+	culture="pictish"
+	religion="aztec"
+}
+111450={
+	name="Iacobid"
+	culture="nubian"
+	religion="catholic"
+}
+111460={
+	name="Itzcuintlid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+111470={
+	name="Rodais"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111480={
+	name="Ryyuns"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+111490={
+	name="Michaêlid"
+	culture="nubian"
+	religion="orthodox"
+}
+111500={
+	name="Cuauhtemocid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+111510={
+	name="Tikulay"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111520={
+	name="Sotinkoudid"
+	culture="nubian"
+	religion="catholic"
+}
+111530={
+	name="Tophênid"
+	culture="nubian"
+	religion="sunni"
+}
+111540={
+	name="Yayauhqid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+111550={
+	name="Apsina"
+	culture="hausa"
+	religion="west_african_pagan"
+}
+111560={
+	name="Kyang"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111570={
+	name="Arananna"
+	culture="pictish"
+	religion="aztec"
+}
+111580={
+	name="de Adelaide"
+	culture="basque"
+	religion="aztec"
+}
+111590={
+	name="Kadiq"
+	culture="pictish"
+	religion="aztec"
+}
+111600={
+	name="Kimesar"
+	culture="pictish"
+	religion="aztec"
+}
+111610={
+	name="Merkourid"
+	culture="nubian"
+	religion="sunni"
+}
+111620={
+	name="Risatha"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111630={
+	name="Bemikkel"
+	culture="pictish"
+	religion="aztec"
+}
+111640={
+	name="de Kokunduz"
+	culture="basque"
+	religion="aztec"
+}
+111650={
+	name="Tanavi"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111660={
+	name="Datilal"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111670={
+	name="de Tagazi"
+	culture="basque"
+	religion="aztec"
+}
+111680={
+	name="Taidar"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+111690={
+	name="Sentikid"
+	culture="nubian"
+	religion="orthodox"
+}
+111700={
+	name="de Lerunya"
+	culture="basque"
+	religion="aztec"
+}
+111710={
+	name="Bilatis"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111720={
+	name="Tlilpotonqid"
+	culture="nahuatl"
+	religion="sunni"
+}
+111730={
+	name="Papasinenid"
+	culture="nubian"
+	religion="catholic"
+}
+111740={
+	name="Kevins"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111750={
+	name="Ephannêid"
+	culture="nubian"
+	religion="catholic"
+}
+111760={
+	name="de Ehyer"
+	culture="basque"
+	religion="west_african_pagan"
+}
+111770={
+	name="Patrikid"
+	culture="nubian"
+	religion="sunni"
+}
+111780={
+	name="of Rananyo"
+	culture="english"
+	religion="west_african_pagan"
+}
+111790={
+	name="Marianid"
+	culture="nubian"
+	religion="catholic"
+}
+111800={
+	name="de Toheka"
+	culture="basque"
+	religion="aztec"
+}
+111810={
+	name="Nekeda"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111820={
+	name="Kanuyan"
+	culture="pictish"
+	religion="aztec"
+}
+111830={
+	name="de Sutapo"
+	culture="basque"
+	religion="norse_pagan"
+}
+111840={
+	name="Wyalaaz"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111850={
+	name="Togatha"
+	culture="pictish"
+	religion="aztec"
+}
+111860={
+	name="of Kusoan"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+111870={
+	name="of Ribajid"
+	culture="english"
+	religion="west_african_pagan"
+}
+111880={
+	name="Raphaelkoudid"
+	culture="nubian"
+	religion="sunni"
+}
+111890={
+	name="Xihuitlid"
+	culture="nahuatl"
+	religion="sunni"
+}
+111900={
+	name="Habibid"
+	culture="daju"
+	religion="catholic"
+}
+111910={
+	name="Wipuigi"
+	culture="pictish"
+	religion="aztec"
+}
+111920={
+	name="Kurid"
+	culture="daju"
+	religion="sunni"
+}
+111930={
+	name="Keanlan"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+111940={
+	name="of Rasus"
+	culture="english"
+	religion="west_african_pagan"
+}
+111950={
+	name="of Lyasozar"
+	culture="english"
+	religion="west_african_pagan"
+}
+111960={
+	name="Kunka"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+111970={
+	name="Tototlid"
+	culture="nahuatl"
+	religion="sunni"
+}
+111980={
+	name="Kamart"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+111990={
+	name="Ayei"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+112000={
+	name="of Benia"
+	culture="english"
+	religion="west_african_pagan"
+}
+112010={
+	name="Qosai"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+112020={
+	name="Nocapa"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+112030={
+	name="Wadayka"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+112040={
+	name="Tunika"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+112050={
+	name="Teenava"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+112060={
+	name="Markosid"
+	culture="nubian"
+	religion="orthodox"
+}
+112070={
+	name="Edudrd"
+	culture="pictish"
+	religion="aztec"
+}
+112080={
+	name="of Kanerin"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+112090={
+	name="of Qettu"
+	culture="english"
+	religion="tengri_pagan"
+}
+112100={
+	name="of Enikakk"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+112110={
+	name="Torira"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+112120={
+	name="Iacobid"
+	culture="nubian"
+	religion="orthodox"
+}
+112130={
+	name="Birêlid"
+	culture="nubian"
+	religion="orthodox"
+}
+112140={
+	name="Atlid"
+	culture="nahuatl"
+	religion="catholic"
+}
+112150={
+	name="Cuitlahuacid"
+	culture="nahuatl"
+	religion="catholic"
+}
+112160={
+	name="Solomônid"
+	culture="nubian"
+	religion="catholic"
+}
+112170={
+	name="Rarund"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+112180={
+	name="Emmanouelid"
+	culture="nubian"
+	religion="orthodox"
+}
+112190={
+	name="of Riatila"
+	culture="greek"
+	religion="west_african_pagan"
+}
+112200={
+	name="Ribalih"
+	culture="pictish"
+	religion="aztec"
+}
+112210={
+	name="of Lenarma"
+	culture="english"
+	religion="west_african_pagan"
+}
+112220={
+	name="Tophênid"
+	culture="nubian"
+	religion="orthodox"
+}
+112230={
+	name="de Ruraise"
+	culture="basque"
+	religion="west_african_pagan"
+}
+112240={
+	name="Amunad"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+112250={
+	name="of Agya"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+112260={
+	name="Somatis"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+112270={
+	name="of Axinonn"
+	culture="greek"
+	religion="west_african_pagan"
+}
+112280={
+	name="Penid"
+	culture="daju"
+	religion="orthodox"
+}
+112290={
+	name="Tizocicid"
+	culture="nahuatl"
+	religion="catholic"
+}
+112300={
+	name="Meewgid"
+	culture="daju"
+	religion="orthodox"
+}
+112310={
+	name="Keluna"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+112320={
+	name="Neliguta"
+	culture="zaghawa"
+	religion="catholic"
+}
+112330={
+	name="Leza"
+	culture="pictish"
+	religion="aztec"
+}
+112340={
+	name="Qouwyuk"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+112350={
+	name="of Qorava"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+112360={
+	name="Zachariasid"
+	culture="nubian"
+	religion="catholic"
+}
+112370={
+	name="de Qenerd"
+	culture="old_frankish"
+	religion="buddhist"
+}
+112380={
+	name="Bornid"
+	culture="daju"
+	religion="orthodox"
+}
+112390={
+	name="Dawa"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+112400={
+	name="Anqaribid"
+	culture="daju"
+	religion="orthodox"
+}
+112410={
+	name="Axayacatlid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+112420={
+	name="of Etreis"
+	culture="english"
+	religion="orthodox"
+}
+112430={
+	name="Itzlid"
+	culture="nahuatl"
+	religion="catholic"
+}
+112440={
+	name="de Tereka"
+	culture="basque"
+	religion="west_african_pagan"
+}
+112450={
+	name="Krisanthid"
+	culture="nubian"
+	religion="catholic"
+}
+112460={
+	name="Wyuesonn"
+	culture="pictish"
+	religion="aztec"
+}
+112470={
+	name="of Lacur"
+	culture="assyrian"
+	religion="orthodox"
+}
+112480={
+	name="Datugun"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+112490={
+	name="of Kevudo"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+112500={
+	name="de Belitin"
+	culture="old_frankish"
+	religion="tengri_pagan"
+}
+112510={
+	name="of Wagian"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+112520={
+	name="de Surunya"
+	culture="old_frankish"
+	religion="buddhist"
+}
+112530={
+	name="of Adapatan"
+	culture="greek"
+	religion="west_african_pagan"
+}
+112540={
+	name="Huitzitlid"
+	culture="nahuatl"
+	religion="catholic"
+}
+112550={
+	name="Sinalka"
+	culture="pictish"
+	religion="orthodox"
+}
+112560={
+	name="Emaranna"
+	culture="pictish"
+	religion="catholic"
+}
+112570={
+	name="Moussid"
+	culture="daju"
+	religion="orthodox"
+}
+112580={
+	name="Rivalka"
+	culture="zaghawa"
+	religion="orthodox"
+}
+112590={
+	name="Tolidia"
+	culture="pictish"
+	religion="orthodox"
+}
+112600={
+	name="of Laja"
+	culture="english"
+	religion="orthodox"
+}
+112610={
+	name="of Rianins"
+	culture="assyrian"
+	religion="catholic"
+}
+112620={
+	name="Samolam"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+112630={
+	name="Malazid"
+	culture="daju"
+	religion="messalian"
+}
+112640={
+	name="of Kajan"
+	culture="assyrian"
+	religion="orthodox"
+}
+112650={
+	name="Wugian"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+112660={
+	name="Wiletar"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+112670={
+	name="de Rakudan"
+	culture="old_frankish"
+	religion="catholic"
+}
+112680={
+	name="of Recirje"
+	culture="english"
+	religion="west_african_pagan"
+}
+112690={
+	name="Xipilid"
+	culture="nahuatl"
+	religion="catholic"
+}
+112700={
+	name="de Rohijah"
+	culture="old_frankish"
+	religion="fraticelli"
+}
+112710={
+	name="Dareli"
+	culture="zaghawa"
+	religion="catholic"
+}
+112720={
+	name="Aharirma"
+	culture="pictish"
+	religion="catholic"
+}
+112730={
+	name="of Korain"
+	culture="english"
+	religion="orthodox"
+}
+112740={
+	name="Ramatas"
+	culture="pictish"
+	religion="orthodox"
+}
+112750={
+	name="Dahabid"
+	culture="daju"
+	religion="catholic"
+}
+112760={
+	name="Jalid"
+	culture="daju"
+	religion="miaphysite"
+}
+112770={
+	name="of Rudapur"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+112780={
+	name="Ranonn"
+	culture="pictish"
+	religion="aztec"
+}
+112790={
+	name="de Keraga"
+	culture="old_frankish"
+	religion="fraticelli"
+}
+112800={
+	name="Tusila"
+	culture="zaghawa"
+	religion="orthodox"
+}
+112810={
+	name="Qander"
+	culture="zaghawa"
+	religion="catholic"
+}
+112820={
+	name="of Tyaosins"
+	culture="english"
+	religion="orthodox"
+}
+112830={
+	name="Nenijah"
+	culture="zaghawa"
+	religion="orthodox"
+}
+112840={
+	name="of Neirelm"
+	culture="assyrian"
+	religion="catholic"
+}
+112850={
+	name="Tyaniz"
+	culture="zaghawa"
+	religion="orthodox"
+}
+112860={
+	name="Jamnid"
+	culture="daju"
+	religion="miaphysite"
+}
+112870={
+	name="Tegefan"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+112880={
+	name="of Esaaz"
+	culture="ashkenazi"
+	religion="jewish"
+}
+112890={
+	name="of Batibi"
+	culture="assyrian"
+	religion="orthodox"
+}
+112900={
+	name="Rieguis"
+	culture="pictish"
+	religion="orthodox"
+}
+112920={
+	name="de Ranid"
+	culture="old_frankish"
+	religion="fraticelli"
+}
+112930={
+	name="de Nie"
+	culture="old_frankish"
+	religion="fraticelli"
+}
+112940={
+	name="de Tupijah"
+	culture="old_frankish"
+	religion="fraticelli"
+}
+112950={
+	name="Roziel"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+112960={
+	name="Kurillid"
+	culture="nubian"
+	religion="catholic"
+}
+112970={
+	name="of Losz"
+	culture="assyrian"
+	religion="catholic"
+}
+112980={
+	name="of Ajugailo"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+112990={
+	name="Asilid"
+	culture="daju"
+	religion="catholic"
+}
+113000={
+	name="Kedela"
+	culture="pictish"
+	religion="aztec"
+}
+113010={
+	name="of Nefabib"
+	culture="english"
+	religion="orthodox"
+}
+113020={
+	name="Edid"
+	culture="daju"
+	religion="orthodox"
+}
+113030={
+	name="de Tijerin"
+	culture="old_frankish"
+	religion="orthodox"
+}
+113040={
+	name="Kating"
+	culture="zaghawa"
+	religion="orthodox"
+}
+113050={
+	name="Taghid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+113060={
+	name="Tarijah"
+	culture="zaghawa"
+	religion="orthodox"
+}
+113070={
+	name="Simavid"
+	culture="pictish"
+	religion="orthodox"
+}
+113080={
+	name="Coatlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+113090={
+	name="Iêsousinkoudid"
+	culture="nubian"
+	religion="miaphysite"
+}
+113100={
+	name="de Wuwe"
+	culture="old_frankish"
+	religion="catholic"
+}
+113110={
+	name="of Qedeis"
+	culture="assyrian"
+	religion="catholic"
+}
+113120={
+	name="Tautai"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+113130={
+	name="de Qeirobas"
+	culture="old_frankish"
+	religion="buddhist"
+}
+113131={
+	name="de Qeirobas"
+	culture="old_frankish"
+	religion="buddhist"
+}
+113132={
+	name="de Derim"
+	culture="old_frankish"
+	religion="buddhist"
+}
+113133={
+	name="de Byogaka"
+	culture="old_frankish"
+	religion="buddhist"
+}
+113134={
+	name="de Kennu"
+	culture="old_frankish"
+	religion="buddhist"
+}
+113140={
+	name="Kasefrogid"
+	culture="daju"
+	religion="miaphysite"
+}
+113150={
+	name="Naseth"
+	culture="zaghawa"
+	religion="orthodox"
+}
+113160={
+	name="Saodu"
+	culture="pictish"
+	religion="aztec"
+}
+113170={
+	name="de Deinann"
+	culture="old_frankish"
+	religion="buddhist"
+}
+113180={
+	name="of Birilge"
+	culture="assyrian"
+	religion="orthodox"
+}
+113190={
+	name="Looma"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+113200={
+	name="Numideva"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+113210={
+	name="Kudrd"
+	culture="pictish"
+	religion="orthodox"
+}
+113220={
+	name="de Wugeric"
+	culture="old_frankish"
+	religion="tengri_pagan"
+}
+113230={
+	name="of Tavika"
+	culture="english"
+	religion="orthodox"
+}
+113240={
+	name="Qajork"
+	culture="pictish"
+	religion="aztec"
+}
+113250={
+	name="de Toneir"
+	culture="old_frankish"
+	religion="buddhist"
+}
+113270={
+	name="Tetlepanquetzaltzinid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+113280={
+	name="of Asund"
+	culture="assyrian"
+	religion="norse_pagan"
+}
+113290={
+	name="Mazatlid"
+	culture="nahuatl"
+	religion="catholic"
+}
+113300={
+	name="Wucing"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+113310={
+	name="Edid"
+	culture="daju"
+	religion="orthodox"
+}
+113320={
+	name="of Wukee"
+	culture="assyrian"
+	religion="orthodox"
+}
+113330={
+	name="Erecol"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+113340={
+	name="Liris Valles"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+113350={
+	name="de Roning"
+	culture="old_frankish"
+	religion="catholic"
+}
+113360={
+	name="de Kurayla"
+	culture="irish"
+	religion="zun_pagan"
+}
+113370={
+	name="Kanoutai"
+	culture="pictish"
+	religion="aztec"
+}
+113380={
+	name="Aculnahuacatlid"
+	culture="nahuatl"
+	religion="catholic"
+}
+113390={
+	name="Cozahtlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+113400={
+	name="of Ekarandi"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+113410={
+	name="de Resimon"
+	culture="old_frankish"
+	religion="zun_pagan"
+}
+113420={
+	name="Ixtlilxochitlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+113430={
+	name="of Kimihal"
+	culture="assyrian"
+	religion="orthodox"
+}
+113440={
+	name="de Dilivi"
+	culture="old_frankish"
+	religion="hellenic_pagan"
+}
+113450={
+	name="Christophorid"
+	culture="nubian"
+	religion="miaphysite"
+}
+113460={
+	name="of Riacall"
+	culture="english"
+	religion="orthodox"
+}
+113470={
+	name="Ahalujri"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+113480={
+	name="of Nivalg"
+	culture="saxon"
+	religion="orthodox"
+}
+113490={
+	name="of Egirirma"
+	culture="english"
+	religion="orthodox"
+}
+113500={
+	name="de Ekodeig"
+	culture="old_frankish"
+	religion="hellenic_pagan"
+}
+113510={
+	name="af Ehelitin"
+	culture="norse"
+	religion="tengri_pagan"
+}
+113520={
+	name="Kuknid"
+	culture="daju"
+	religion="orthodox"
+}
+113530={
+	name="of Ranegin"
+	culture="saxon"
+	religion="orthodox"
+}
+113540={
+	name="Evyud"
+	culture="pictish"
+	religion="orthodox"
+}
+113550={
+	name="Rasalli"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+113560={
+	name="Sibaba"
+	culture="pictish"
+	religion="orthodox"
+}
+113570={
+	name="de Ronenr"
+	culture="old_frankish"
+	religion="catholic"
+}
+113580={
+	name="Kahoras"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+113590={
+	name="of Qenia"
+	culture="saxon"
+	religion="orthodox"
+}
+113600={
+	name="de Lopuigi"
+	culture="old_frankish"
+	religion="catholic"
+}
+113610={
+	name="Lukanna"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+113620={
+	name="Rodijah"
+	culture="zaghawa"
+	religion="west_african_pagan"
+}
+113630={
+	name="Adamid"
+	culture="daju"
+	religion="catholic"
+}
+113640={
+	name="of Dach"
+	culture="saxon"
+	religion="orthodox"
+}
+113650={
+	name="of Ebetuvje"
+	culture="saxon"
+	religion="tengri_pagan"
+}
+113660={
+	name="Huitzilihuitlid"
+	culture="nahuatl"
+	religion="catholic"
+}
+113670={
+	name="of Keming"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+113680={
+	name="of Ejayaman"
+	culture="saxon"
+	religion="orthodox"
+}
+113690={
+	name="de Wudad"
+	culture="old_frankish"
+	religion="catholic"
+}
+113700={
+	name="de Abelora"
+	culture="irish"
+	religion="zun_pagan"
+}
+113710={
+	name="de Sigapa"
+	culture="irish"
+	religion="zun_pagan"
+}
+113720={
+	name="Teutiga"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+113730={
+	name="de Beleyn"
+	culture="old_frankish"
+	religion="hellenic_pagan"
+}
+113740={
+	name="Meewgid"
+	culture="daju"
+	religion="miaphysite"
+}
+113750={
+	name="Edid"
+	culture="daju"
+	religion="orthodox"
+}
+113760={
+	name="Asejda"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+113770={
+	name="Qisla"
+	culture="pictish"
+	religion="orthodox"
+}
+113780={
+	name="of Turite"
+	culture="saxon"
+	religion="orthodox"
+}
+113790={
+	name="Rasogna"
+	culture="pictish"
+	religion="orthodox"
+}
+113800={
+	name="Acamapichtlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+113810={
+	name="Tourada"
+	culture="pictish"
+	religion="orthodox"
+}
+113820={
+	name="Tyoakim"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+113830={
+	name="of Kucho"
+	culture="english"
+	religion="catholic"
+}
+113840={
+	name="of Rezani"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+113850={
+	name="Malazid"
+	culture="daju"
+	religion="miaphysite"
+}
+113860={
+	name="Libirje"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+113870={
+	name="of Tayabas"
+	culture="saxon"
+	religion="orthodox"
+}
+113880={
+	name="of Arecol"
+	culture="english"
+	religion="hellenic_pagan"
+}
+113890={
+	name="of Kenijah"
+	culture="english"
+	religion="catholic"
+}
+113900={
+	name="Mêlênkoudid"
+	culture="nubian"
+	religion="catholic"
+}
+113910={
+	name="Hassaballahid"
+	culture="daju"
+	religion="orthodox"
+}
+113920={
+	name="of Tizirun"
+	culture="saxon"
+	religion="orthodox"
+}
+113930={
+	name="of Tuzerin"
+	culture="assyrian"
+	religion="catholic"
+}
+113940={
+	name="of Wotom"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+113950={
+	name="af Leleth"
+	culture="norse"
+	religion="orthodox"
+}
+113960={
+	name="Lazarid"
+	culture="nubian"
+	religion="catholic"
+}
+113970={
+	name="af Ebalaimi"
+	culture="norse"
+	religion="orthodox"
+}
+113980={
+	name="Qasara"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+113990={
+	name="Youssoufid"
+	culture="daju"
+	religion="miaphysite"
+}
+114000={
+	name="Kosend"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+114010={
+	name="Rareis"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+114020={
+	name="of Terahtu"
+	culture="english"
+	religion="fraticelli"
+}
+114030={
+	name="of Kyoukine"
+	culture="saxon"
+	religion="orthodox"
+}
+114040={
+	name="Qyugovit"
+	culture="pictish"
+	religion="orthodox"
+}
+114050={
+	name="of Wararam"
+	culture="saxon"
+	religion="orthodox"
+}
+114060={
+	name="de Hobart"
+	culture="irish"
+	religion="norse_pagan"
+}
+114070={
+	name="Eramanga"
+	culture="pictish"
+	religion="west_african_pagan"
+}
+114080={
+	name="of Eguil"
+	culture="english"
+	religion="hellenic_pagan"
+}
+114090={
+	name="Ahilira"
+	culture="pictish"
+	religion="orthodox"
+}
+114100={
+	name="of Walahan"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+114110={
+	name="of Sibuwe"
+	culture="english"
+	religion="fraticelli"
+}
+114120={
+	name="Lazarid"
+	culture="nubian"
+	religion="miaphysite"
+}
+114130={
+	name="Kuknid"
+	culture="daju"
+	religion="orthodox"
+}
+114140={
+	name="af Waihelg"
+	culture="norse"
+	religion="orthodox"
+}
+114150={
+	name="Boladid"
+	culture="daju"
+	religion="orthodox"
+}
+114160={
+	name="of Kadivka"
+	culture="saxon"
+	religion="orthodox"
+}
+114170={
+	name="of Alilisii"
+	culture="saxon"
+	religion="orthodox"
+}
+114180={
+	name="of Kibund"
+	culture="saxon"
+	religion="catholic"
+}
+114190={
+	name="de Lemui"
+	culture="irish"
+	religion="orthodox"
+}
+114200={
+	name="af Tonasia"
+	culture="norse"
+	religion="hellenic_pagan"
+}
+114210={
+	name="af Dizizqui"
+	culture="norse"
+	religion="orthodox"
+}
+114220={
+	name="of Benand"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+114230={
+	name="of Wahita"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+114240={
+	name="of Roratha"
+	culture="old_saxon"
+	religion="orthodox"
+}
+114250={
+	name="af Tareuta"
+	culture="norse"
+	religion="orthodox"
+}
+114260={
+	name="of Rorila"
+	culture="assyrian"
+	religion="orthodox"
+}
+114270={
+	name="Xochipepid"
+	culture="nahuatl"
+	religion="catholic"
+}
+114280={
+	name="of Tasach"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+114290={
+	name="of Togaun"
+	culture="saxon"
+	religion="orthodox"
+}
+114300={
+	name="of Dotith"
+	culture="assyrian"
+	religion="fraticelli"
+}
+114310={
+	name="of Tanit"
+	culture="old_saxon"
+	religion="orthodox"
+}
+114320={
+	name="of Likeig"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+114330={
+	name="of Tacoukh"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+114340={
+	name="of Niatge"
+	culture="saxon"
+	religion="catholic"
+}
+114350={
+	name="of Nameek"
+	culture="assyrian"
+	religion="orthodox"
+}
+114360={
+	name="of Dayabia"
+	culture="saxon"
+	religion="orthodox"
+}
+114370={
+	name="of Rading"
+	culture="english"
+	religion="catholic"
+}
+114380={
+	name="of Kaga"
+	culture="old_saxon"
+	religion="orthodox"
+}
+114390={
+	name="af Lieltun"
+	culture="norse"
+	religion="hellenic_pagan"
+}
+114400={
+	name="Ettid"
+	culture="daju"
+	religion="orthodox"
+}
+114410={
+	name="of Qelilge"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+114420={
+	name="Kuknid"
+	culture="daju"
+	religion="orthodox"
+}
+114430={
+	name="of Eraheova"
+	culture="assyrian"
+	religion="fraticelli"
+}
+114440={
+	name="of Tajinat"
+	culture="saxon"
+	religion="orthodox"
+}
+114450={
+	name="Temurid"
+	culture="mongol"
+	religion="buddhist"
+}
+114460={
+	name="of Bulana"
+	culture="assyrian"
+	religion="orthodox"
+}
+114470={
+	name="of Nahelad"
+	culture="assyrian"
+	religion="orthodox"
+}
+114480={
+	name="of Dasine"
+	culture="assyrian"
+	religion="orthodox"
+}
+114490={
+	name="of Saomxi"
+	culture="saxon"
+	religion="buddhist"
+}
+114500={
+	name="of Qabeth"
+	culture="old_saxon"
+	religion="orthodox"
+}
+114510={
+	name="Changid"
+	culture="daju"
+	religion="orthodox"
+}
+114520={
+	name="of Baserin"
+	culture="saxon"
+	religion="buddhist"
+}
+114530={
+	name="of Seodat"
+	culture="old_saxon"
+	religion="orthodox"
+}
+114540={
+	name="of Laseka"
+	culture="saxon"
+	religion="buddhist"
+}
+114550={
+	name="of Nemija"
+	culture="saxon"
+	religion="orthodox"
+}
+114560={
+	name="of Qolad"
+	culture="saxon"
+	religion="hellenic_pagan"
+}
+114570={
+	name="Philothid"
+	culture="nubian"
+	religion="catholic"
+}
+114580={
+	name="of Emahejda"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+114590={
+	name="of Tucan"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+114600={
+	name="of Wuuluis"
+	culture="old_saxon"
+	religion="orthodox"
+}
+114610={
+	name="of Ruranyo"
+	culture="assyrian"
+	religion="orthodox"
+}
+114620={
+	name="Hassaballahid"
+	culture="daju"
+	religion="orthodox"
+}
+114630={
+	name="of Tonoatl"
+	culture="saxon"
+	religion="catholic"
+}
+114640={
+	name="of Kermivoj"
+	culture="saxon"
+	religion="buddhist"
+}
+114650={
+	name="Xochipepid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+114660={
+	name="of Qaragos"
+	culture="saxon"
+	religion="fraticelli"
+}
+114670={
+	name="of Bawuone"
+	culture="saxon"
+	religion="buddhist"
+}
+114680={
+	name="of Avlarman"
+	culture="saxon"
+	religion="orthodox"
+}
+114690={
+	name="of Qeemka"
+	culture="assyrian"
+	religion="orthodox"
+}
+114700={
+	name="of Rumuna"
+	culture="assyrian"
+	religion="fraticelli"
+}
+114710={
+	name="of Ezairn"
+	culture="assyrian"
+	religion="orthodox"
+}
+114720={
+	name="of Beiroa"
+	culture="old_saxon"
+	religion="orthodox"
+}
+114730={
+	name="Theodosid"
+	culture="nubian"
+	religion="orthodox"
+}
+114740={
+	name="Oronartid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+114750={
+	name="of Kotilda"
+	culture="assyrian"
+	religion="west_african_pagan"
+}
+114760={
+	name="of Lyemacob"
+	culture="saxon"
+	religion="fraticelli"
+}
+114770={
+	name="of Tecid"
+	culture="crimean_gothic"
+	religion="fraticelli"
+}
+114780={
+	name="of Qawach"
+	culture="saxon"
+	religion="fraticelli"
+}
+114781={
+	name="of Qawach"
+	culture="saxon"
+	religion="fraticelli"
+}
+114782={
+	name="of Tadali"
+	culture="saxon"
+	religion="fraticelli"
+}
+114783={
+	name="of Quhasia"
+	culture="saxon"
+	religion="fraticelli"
+}
+114784={
+	name="of Nonory"
+	culture="saxon"
+	religion="fraticelli"
+}
+114790={
+	name="Salihid"
+	culture="daju"
+	religion="catholic"
+}
+114800={
+	name="Hassaballahid"
+	culture="daju"
+	religion="orthodox"
+}
+114810={
+	name="of Kulane"
+	culture="assyrian"
+	religion="orthodox"
+}
+114820={
+	name="of Ryayba"
+	culture="old_saxon"
+	religion="orthodox"
+}
+114830={
+	name="of Lazine"
+	culture="old_saxon"
+	religion="orthodox"
+}
+114840={
+	name="of Tugao"
+	culture="old_saxon"
+	religion="orthodox"
+}
+114850={
+	name="of Kivinic"
+	culture="old_saxon"
+	religion="orthodox"
+}
+114870={
+	name="of Erarna"
+	culture="assyrian"
+	religion="orthodox"
+}
+114880={
+	name="of Sasia"
+	culture="crimean_gothic"
+	religion="catholic"
+}
+114890={
+	name="of Bifa"
+	culture="crimean_gothic"
+	religion="orthodox"
+}
+114900={
+	name="of Kumivka"
+	culture="old_saxon"
+	religion="orthodox"
+}
+114910={
+	name="of Ririli"
+	culture="old_saxon"
+	religion="orthodox"
+}
+114920={
+	name="of Behailo"
+	culture="crimean_gothic"
+	religion="orthodox"
+}
+114930={
+	name="of Kozalih"
+	culture="crimean_gothic"
+	religion="orthodox"
+}
+114940={
+	name="Changid"
+	culture="daju"
+	religion="catholic"
+}
+114950={
+	name="Yolyamanitzinid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+114960={
+	name="of Nimiss"
+	culture="old_saxon"
+	religion="orthodox"
+}
+114970={
+	name="of Lehava"
+	culture="old_saxon"
+	religion="orthodox"
+}
+114980={
+	name="of Roborz"
+	culture="old_saxon"
+	religion="orthodox"
+}
+114990={
+	name="of Naulpen"
+	culture="assyrian"
+	religion="orthodox"
+}
+115000={
+	name="of Kalance"
+	culture="crimean_gothic"
+	religion="orthodox"
+}
+115010={
+	name="of Rayat"
+	culture="crimean_gothic"
+	religion="catholic"
+}
+115020={
+	name="of Qemija"
+	culture="crimean_gothic"
+	religion="orthodox"
+}
+115030={
+	name="of Raisla"
+	culture="old_saxon"
+	religion="orthodox"
+}
+115040={
+	name="of Tahu"
+	culture="crimean_gothic"
+	religion="catholic"
+}
+115050={
+	name="of Amanahal"
+	culture="old_saxon"
+	religion="orthodox"
+}
+115060={
+	name="of Kuhivka"
+	culture="old_saxon"
+	religion="orthodox"
+}
+115070={
+	name="Mahchimalehid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+115080={
+	name="Mariosid"
+	culture="nubian"
+	religion="orthodox"
+}
+115090={
+	name="Dongid"
+	culture="daju"
+	religion="orthodox"
+}
+115100={
+	name="of Rodew"
+	culture="assyrian"
+	religion="tengri_pagan"
+}
+115110={
+	name="of Wikilda"
+	culture="crimean_gothic"
+	religion="orthodox"
+}
+115120={
+	name="of Sanemka"
+	culture="crimean_gothic"
+	religion="catholic"
+}
+115130={
+	name="of Nerarne"
+	culture="crimean_gothic"
+	religion="tengri_pagan"
+}
+115140={
+	name="of Lasaham"
+	culture="old_saxon"
+	religion="buddhist"
+}
+115150={
+	name="of Brisbane"
+	culture="crimean_gothic"
+	religion="orthodox"
+}
+115160={
+	name="of Tach"
+	culture="assyrian"
+	religion="tengri_pagan"
+}
+115170={
+	name="of Epatend"
+	culture="crimean_gothic"
+	religion="tengri_pagan"
+}
+115180={
+	name="Dahabid"
+	culture="daju"
+	religion="orthodox"
+}
+115190={
+	name="Edid"
+	culture="daju"
+	religion="orthodox"
+}
+115200={
+	name="Tlacaeleltzinid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+115210={
+	name="Cuitlahuacid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+115220={
+	name="Chimalpillid"
+	culture="nahuatl"
+	religion="catholic"
+}
+115230={
+	name="Tophênid"
+	culture="nubian"
+	religion="catholic"
+}
+115240={
+	name="Topiltzinid"
+	culture="nahuatl"
+	religion="catholic"
+}
+115250={
+	name="Izzid"
+	culture="daju"
+	religion="catholic"
+}
+115260={
+	name="Xiuhpillid"
+	culture="nahuatl"
+	religion="catholic"
+}
+115270={
+	name="Jalid"
+	culture="daju"
+	religion="catholic"
+}
+115280={
+	name="Matlatzincatzinid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115290={
+	name="Xipillid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115300={
+	name="Tecolotlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115310={
+	name="Tlacaelelid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115320={
+	name="Acalanid"
+	culture="nahuatl"
+	religion="tengri_pagan"
+}
+115330={
+	name="Yolotlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115340={
+	name="Quauhtlid"
+	culture="nahuatl"
+	religion="west_african_pagan"
+}
+115350={
+	name="Cozahtlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115360={
+	name="Ixtlilxochitlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115370={
+	name="de Borugo"
+	culture="irish"
+	religion="west_african_pagan"
+}
+115380={
+	name="Itzlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115390={
+	name="de Eleold"
+	culture="irish"
+	religion="west_african_pagan"
+}
+115410={
+	name="de Esohunno"
+	culture="irish"
+	religion="catholic"
+}
+115420={
+	name="Coanacochid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115430={
+	name="de Kunite"
+	culture="irish"
+	religion="west_african_pagan"
+}
+115440={
+	name="Ollid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115450={
+	name="Itzcoatlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115460={
+	name="Xipillid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115470={
+	name="Acalanid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115480={
+	name="Cuetlachtlid"
+	culture="nahuatl"
+	religion="west_african_pagan"
+}
+115490={
+	name="de Kaojf"
+	culture="irish"
+	religion="catholic"
+}
+115500={
+	name="Opochtlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115510={
+	name="af Ruol"
+	culture="norse"
+	religion="west_african_pagan"
+}
+115520={
+	name="af Avalins"
+	culture="norse"
+	religion="west_african_pagan"
+}
+115530={
+	name="af Sinor"
+	culture="norse"
+	religion="catholic"
+}
+115540={
+	name="Huitztecolid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115550={
+	name="de Dullah"
+	culture="irish"
+	religion="catholic"
+}
+115560={
+	name="af Terofan"
+	culture="norse"
+	religion="west_african_pagan"
+}
+115570={
+	name="de Ritaytas"
+	culture="irish"
+	religion="catholic"
+}
+115580={
+	name="af Becohn"
+	culture="norse"
+	religion="catholic"
+}
+115590={
+	name="de Qermach"
+	culture="irish"
+	religion="catholic"
+}
+115600={
+	name="de Terakh"
+	culture="irish"
+	religion="west_african_pagan"
+}
+115610={
+	name="af Daojava"
+	culture="norse"
+	religion="catholic"
+}
+115620={
+	name="Tizocicid"
+	culture="nahuatl"
+	religion="west_african_pagan"
+}
+115630={
+	name="af Daralgi"
+	culture="norse"
+	religion="catholic"
+}
+115640={
+	name="af Qenilay"
+	culture="norse"
+	religion="west_african_pagan"
+}
+115650={
+	name="Tlalocid"
+	culture="nahuatl"
+	religion="west_african_pagan"
+}
+115660={
+	name="af Edoras"
+	culture="norse"
+	religion="catholic"
+}
+115670={
+	name="af Qusela"
+	culture="norse"
+	religion="orthodox"
+}
+115680={
+	name="Xihuitlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115690={
+	name="Cuixtlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115700={
+	name="Chimallid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115710={
+	name="af Eposend"
+	culture="norse"
+	religion="catholic"
+}
+115720={
+	name="af Edrideva"
+	culture="norse"
+	religion="orthodox"
+}
+115730={
+	name="Jurchedid"
+	culture="mongol"
+	religion="catholic"
+}
+115740={
+	name="af Kehava"
+	culture="norse"
+	religion="orthodox"
+}
+115750={
+	name="Zolinid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+115760={
+	name="Bolkhadarid"
+	culture="mongol"
+	religion="catholic"
+}
+115770={
+	name="af Nimory"
+	culture="norse"
+	religion="orthodox"
+}
+115780={
+	name="Chimalpopocid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+115790={
+	name="Yegid"
+	culture="mongol"
+	religion="orthodox"
+}
+115800={
+	name="af Tidemba"
+	culture="norse"
+	religion="orthodox"
+}
+115810={
+	name="Ahuitzotlid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+115820={
+	name="Opochtlid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+115830={
+	name="Moctezumid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+115840={
+	name="Nezahualpillid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+115850={
+	name="Ahileka"
+	culture="pictish"
+	religion="aztec"
+}
+115860={
+	name="Ozomatlid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+115870={
+	name="Tlacaelelid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+115880={
+	name="af Tehofia"
+	culture="norse"
+	religion="orthodox"
+}
+115890={
+	name="Cipacid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+115900={
+	name="Itzcoatlid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+115910={
+	name="af Bisusha"
+	culture="norse"
+	religion="orthodox"
+}
+115920={
+	name="Yayauhqid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+115930={
+	name="Nalca"
+	culture="pictish"
+	religion="aztec"
+}
+115940={
+	name="Itzcoatlid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+115950={
+	name="af Asadiya"
+	culture="norse"
+	religion="orthodox"
+}
+115960={
+	name="Totoquihuaztlid"
+	culture="nahuatl"
+	religion="west_african_pagan"
+}
+115970={
+	name="Matlalihuitlid"
+	culture="nahuatl"
+	religion="west_african_pagan"
+}
+115980={
+	name="af Robomir"
+	culture="norse"
+	religion="west_african_pagan"
+}
+115990={
+	name="Chimalpopocid"
+	culture="nahuatl"
+	religion="west_african_pagan"
+}
+116000={
+	name="Acamapichtlid"
+	culture="nahuatl"
+	religion="west_african_pagan"
+}
+116010={
+	name="Tapayaxid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116020={
+	name="Quauhtlid"
+	culture="nahuatl"
+	religion="west_african_pagan"
+}
+116030={
+	name="Acacitlid"
+	culture="nahuatl"
+	religion="west_african_pagan"
+}
+116040={
+	name="Cuauhtemocid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+116050={
+	name="Yayauhqid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116060={
+	name="Aculnahuacatlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116070={
+	name="Chimalpillid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116080={
+	name="Coanacochid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116090={
+	name="Cuauhtlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116100={
+	name="Iquehuacatzinid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116110={
+	name="Maxtlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116120={
+	name="Zipactonalid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116130={
+	name="Huitzitlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116140={
+	name="Mazatlid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+116160={
+	name="Xipillid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116170={
+	name="Nochehuatlid"
+	culture="nahuatl"
+	religion="catholic"
+}
+116180={
+	name="Matlalihuitlid"
+	culture="nahuatl"
+	religion="catholic"
+}
+116190={
+	name="Xochitlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116200={
+	name="Matlalihuitlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116220={
+	name="Tlallid"
+	culture="nahuatl"
+	religion="tengri_pagan"
+}
+116230={
+	name="Chimallid"
+	culture="nahuatl"
+	religion="aztec"
+}
+116240={
+	name="Itzlid"
+	culture="nahuatl"
+	religion="orthodox"
+}
+116250={
+	name="Xipilid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116260={
+	name="Ahuiliztlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116270={
+	name="Cozahtlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116280={
+	name="Opochtlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116290={
+	name="Xipillid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+116300={
+	name="Yaotlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}

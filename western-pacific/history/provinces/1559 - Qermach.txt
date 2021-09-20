@@ -1,0 +1,17 @@
+# 1559 - Qermach
+
+# County Title
+title = c_qermach
+
+# Settlements
+max_settlements = 5
+b_qermach = castle
+b_baslan = temple
+b_ralg = city
+b_dudal = castle
+
+# Misc
+culture = irish
+religion = catholic
+
+# History

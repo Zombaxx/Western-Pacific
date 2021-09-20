@@ -1,0 +1,14 @@
+# 298 - Sakifa
+
+# County Title
+title = c_sakifa
+
+# Settlements
+max_settlements = 2
+b_sakifa = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

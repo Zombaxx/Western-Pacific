@@ -1,0 +1,15 @@
+# 1048 - Damenda
+
+# County Title
+title = c_damenda
+
+# Settlements
+max_settlements = 5
+b_damenda = tribal
+b_barinie = temple
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

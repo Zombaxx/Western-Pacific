@@ -1,0 +1,15 @@
+# 921 - Todinde
+
+# County Title
+title = c_todinde
+
+# Settlements
+max_settlements = 5
+b_todinde = tribal
+b_damed = temple
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

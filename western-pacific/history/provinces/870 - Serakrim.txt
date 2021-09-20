@@ -1,0 +1,16 @@
+# 870 - Serakrim
+
+# County Title
+title = c_serakrim
+
+# Settlements
+max_settlements = 4
+b_serakrim = castle
+b_ladius = temple
+b_qujald = city
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

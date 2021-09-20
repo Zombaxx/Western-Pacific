@@ -1,0 +1,15 @@
+# 1317 - Deinann
+
+# County Title
+title = c_deinann
+
+# Settlements
+max_settlements = 3
+b_deinann = castle
+b_lalim = temple
+
+# Misc
+culture = old_frankish
+religion = buddhist
+
+# History

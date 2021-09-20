@@ -1,0 +1,16 @@
+# 1127 - Baisuti
+
+# County Title
+title = c_baisuti
+
+# Settlements
+max_settlements = 4
+b_baisuti = castle
+b_woriur = temple
+b_kalefan = city
+
+# Misc
+culture = basque
+religion = aztec
+
+# History

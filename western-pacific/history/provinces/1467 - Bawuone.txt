@@ -1,0 +1,15 @@
+# 1467 - Bawuone
+
+# County Title
+title = c_bawuone
+
+# Settlements
+max_settlements = 3
+b_bawuone = castle
+b_kibas = temple
+
+# Misc
+culture = saxon
+religion = buddhist
+
+# History

@@ -1,0 +1,14 @@
+# 1554 - Tuguba
+
+# County Title
+title = c_tuguba
+
+# Settlements
+max_settlements = 3
+b_tuguba = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

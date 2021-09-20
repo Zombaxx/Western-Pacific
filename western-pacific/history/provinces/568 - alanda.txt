@@ -1,5 +1,0 @@
-	title = c_alanda
-	max_settlements = 2
-	culture = dutch
-	religion = messalian
-	b_naga = tribal

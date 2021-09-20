@@ -1,0 +1,15 @@
+# 849 - Lifiog
+
+# County Title
+title = c_lifiog
+
+# Settlements
+max_settlements = 5
+b_lifiog = tribal
+b_regiog = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

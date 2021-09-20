@@ -1,0 +1,15 @@
+# 1153 - Kala
+
+# County Title
+title = c_kala
+
+# Settlements
+max_settlements = 5
+b_kala = tribal
+b_wogizhi = temple
+
+# Misc
+culture = nubian
+religion = sunni
+
+# History

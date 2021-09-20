@@ -1,0 +1,17 @@
+# 99 - Esateis
+
+# County Title
+title = c_esateis
+
+# Settlements
+max_settlements = 6
+b_esateis = castle
+b_qoraba = temple
+b_etatanna = city
+b_rudah = castle
+
+# Misc
+culture = marathi
+religion = jain
+
+# History

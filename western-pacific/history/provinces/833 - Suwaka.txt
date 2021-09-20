@@ -1,0 +1,15 @@
+# 833 - Suwaka
+
+# County Title
+title = c_suwaka
+
+# Settlements
+max_settlements = 3
+b_suwaka = castle
+b_kohinn = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

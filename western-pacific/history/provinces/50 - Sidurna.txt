@@ -1,0 +1,16 @@
+# 50 - Sidurna
+
+# County Title
+title = c_sidurna
+
+# Settlements
+max_settlements = 4
+b_sidurna = castle
+b_elijah = temple
+b_wudaneon = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

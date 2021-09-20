@@ -1,0 +1,16 @@
+# 1291 - Qamenr
+
+# County Title
+title = c_qamenr
+
+# Settlements
+max_settlements = 4
+b_qamenr = city
+b_telula = temple
+b_babur = castle
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History

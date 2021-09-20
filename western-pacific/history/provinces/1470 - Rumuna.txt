@@ -1,0 +1,16 @@
+# 1470 - Rumuna
+
+# County Title
+title = c_rumuna
+
+# Settlements
+max_settlements = 4
+b_rumuna = castle
+b_damimha = temple
+b_karman = city
+
+# Misc
+culture = assyrian
+religion = fraticelli
+
+# History

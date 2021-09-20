@@ -1,0 +1,16 @@
+# 635 - Sisalaf
+
+# County Title
+title = c_sisalaf
+
+# Settlements
+max_settlements = 4
+b_sisalaf = castle
+b_dodiin = temple
+b_silula = city
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

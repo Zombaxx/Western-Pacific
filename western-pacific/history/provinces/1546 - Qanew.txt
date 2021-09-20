@@ -1,0 +1,14 @@
+# 1546 - Qanew
+
+# County Title
+title = c_qanew
+
+# Settlements
+max_settlements = 3
+b_qanew = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

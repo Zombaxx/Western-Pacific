@@ -1,0 +1,16 @@
+# 423 - Tagoyan
+
+# County Title
+title = c_tagoyan
+
+# Settlements
+max_settlements = 4
+b_tagoyan = castle
+b_qoleek = temple
+b_dasilvi = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

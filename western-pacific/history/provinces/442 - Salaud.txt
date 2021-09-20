@@ -1,0 +1,16 @@
+# 442 - Salaud
+
+# County Title
+title = c_salaud
+
+# Settlements
+max_settlements = 4
+b_salaud = castle
+b_qizavid = temple
+b_qantala = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

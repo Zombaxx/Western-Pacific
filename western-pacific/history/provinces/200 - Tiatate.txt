@@ -1,0 +1,16 @@
+# 200 - Tiatate
+
+# County Title
+title = c_tiatate
+
+# Settlements
+max_settlements = 4
+b_tiatate = castle
+b_samonas = temple
+b_lereinn = city
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

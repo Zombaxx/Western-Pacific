@@ -1,0 +1,15 @@
+# 1359 - Qenia
+
+# County Title
+title = c_qenia
+
+# Settlements
+max_settlements = 3
+b_qenia = castle
+b_bipabas = temple
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

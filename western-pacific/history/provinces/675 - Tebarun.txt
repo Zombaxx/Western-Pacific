@@ -1,0 +1,14 @@
+# 675 - Tebarun
+
+# County Title
+title = c_tebarun
+
+# Settlements
+max_settlements = 2
+b_tebarun = castle
+
+# Misc
+culture = han
+religion = orthodox
+
+# History

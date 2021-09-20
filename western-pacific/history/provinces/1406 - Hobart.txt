@@ -1,0 +1,17 @@
+# 1406 - Hobart
+
+# County Title
+title = c_hobart
+
+# Settlements
+max_settlements = 6
+b_hobart = castle
+b_enenla = temple
+b_agopluk = city
+b_rinua = castle
+
+# Misc
+culture = irish
+religion = norse_pagan
+
+# History

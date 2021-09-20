@@ -1,0 +1,15 @@
+# 904 - Kekoras
+
+# County Title
+title = c_kekoras
+
+# Settlements
+max_settlements = 6
+b_kekoras = temple
+b_teia = tribal
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

@@ -1,0 +1,16 @@
+# 312 - Adiami
+
+# County Title
+title = c_adiami
+
+# Settlements
+max_settlements = 4
+b_adiami = castle
+b_lanius = temple
+b_rivega = city
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

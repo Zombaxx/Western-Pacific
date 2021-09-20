@@ -1,0 +1,14 @@
+# 1355 - Rasalli
+
+# County Title
+title = c_rasalli
+
+# Settlements
+max_settlements = 3
+b_rasalli = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 939 - Lenaide
+
+# County Title
+title = c_lenaide
+
+# Settlements
+max_settlements = 3
+b_lenaide = tribal
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

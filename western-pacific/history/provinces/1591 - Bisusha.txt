@@ -1,0 +1,17 @@
+# 1591 - Bisusha
+
+# County Title
+title = c_bisusha
+
+# Settlements
+max_settlements = 5
+b_bisusha = castle
+b_taetalek = temple
+b_lanucho = city
+b_kaland = castle
+
+# Misc
+culture = norse
+religion = orthodox
+
+# History

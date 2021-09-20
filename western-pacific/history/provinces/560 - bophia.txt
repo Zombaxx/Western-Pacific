@@ -1,5 +1,0 @@
-	title = c_bophia
-	max_settlements = 2
-	culture = zaghawa
-	religion = fraticelli
-	b_nara = tribal

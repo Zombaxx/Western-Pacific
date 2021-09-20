@@ -1,0 +1,17 @@
+# 139 - Toigar
+
+# County Title
+title = c_toigar
+
+# Settlements
+max_settlements = 5
+b_toigar = castle
+b_wani = temple
+b_toka = city
+b_natili = castle
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

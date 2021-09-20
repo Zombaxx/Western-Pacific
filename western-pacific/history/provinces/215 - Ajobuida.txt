@@ -1,0 +1,16 @@
+# 215 - Ajobuida
+
+# County Title
+title = c_ajobuida
+
+# Settlements
+max_settlements = 4
+b_ajobuida = castle
+b_wirit = temple
+b_sicilda = city
+
+# Misc
+culture = bengali
+religion = sunni
+
+# History

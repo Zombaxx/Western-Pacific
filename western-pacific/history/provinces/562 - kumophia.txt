@@ -1,5 +1,0 @@
-	title = c_kumophia
-	max_settlements = 2
-	culture = ugricbaltic
-	religion = pagan
-	b_kulayada = tribal

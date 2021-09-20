@@ -1,0 +1,16 @@
+# 344 - Rawick
+
+# County Title
+title = c_rawick
+
+# Settlements
+max_settlements = 4
+b_rawick = castle
+b_tharsia = temple
+b_tharsian = city
+
+# Misc
+culture = kannada
+religion = hindu
+
+# History

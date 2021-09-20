@@ -1,0 +1,16 @@
+# 233 - Egomyana
+
+# County Title
+title = c_egomyana
+
+# Settlements
+max_settlements = 4
+b_egomyana = castle
+b_tamavac = temple
+b_romelle = city
+
+# Misc
+culture = tangut
+religion = hindu
+
+# History

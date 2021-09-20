@@ -1,0 +1,15 @@
+# 1535 - Raojasa
+
+# County Title
+title = c_raojasa
+
+# Settlements
+max_settlements = 5
+b_raojasa = tribal
+b_ruimeir = temple
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

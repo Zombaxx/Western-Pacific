@@ -1,0 +1,15 @@
+# 785 - Asiemed
+
+# County Title
+title = c_asiemed
+
+# Settlements
+max_settlements = 3
+b_asiemed = castle
+b_lolida = temple
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

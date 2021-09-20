@@ -1,5 +1,0 @@
-	title = c_toficha
-	max_settlements = 2
-	culture = daju
-	religion = sunni
-	b_lanigid = tribal

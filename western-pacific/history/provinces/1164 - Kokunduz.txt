@@ -1,0 +1,14 @@
+# 1164 - Kokunduz
+
+# County Title
+title = c_kokunduz
+
+# Settlements
+max_settlements = 2
+b_kokunduz = castle
+
+# Misc
+culture = basque
+religion = aztec
+
+# History

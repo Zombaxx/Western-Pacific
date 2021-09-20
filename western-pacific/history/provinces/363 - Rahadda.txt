@@ -1,0 +1,15 @@
+# 363 - Rahadda
+
+# County Title
+title = c_rahadda
+
+# Settlements
+max_settlements = 3
+b_rahadda = castle
+b_namuo = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

@@ -1,0 +1,17 @@
+# 88 - Etulun
+
+# County Title
+title = c_etulun
+
+# Settlements
+max_settlements = 6
+b_etulun = castle
+b_recubb = temple
+b_nucash = city
+b_dilaz = castle
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

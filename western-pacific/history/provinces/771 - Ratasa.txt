@@ -1,0 +1,15 @@
+# 771 - Ratasa
+
+# County Title
+title = c_ratasa
+
+# Settlements
+max_settlements = 3
+b_ratasa = castle
+b_aganippe_fossa = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

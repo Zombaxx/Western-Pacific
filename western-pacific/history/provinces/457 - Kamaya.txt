@@ -1,0 +1,15 @@
+# 457 - Kamaya
+
+# County Title
+title = c_kamaya
+
+# Settlements
+max_settlements = 3
+b_kamaya = castle
+b_bilari = temple
+
+# Misc
+culture = han
+religion = bon
+
+# History

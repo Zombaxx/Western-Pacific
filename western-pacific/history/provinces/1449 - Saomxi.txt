@@ -1,0 +1,14 @@
+# 1449 - Saomxi
+
+# County Title
+title = c_saomxi
+
+# Settlements
+max_settlements = 2
+b_saomxi = castle
+
+# Misc
+culture = saxon
+religion = buddhist
+
+# History

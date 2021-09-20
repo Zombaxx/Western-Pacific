@@ -1,0 +1,18 @@
+# 206 - Dhaka
+
+# County Title
+title = c_dhaka
+
+# Settlements
+max_settlements = 7
+b_dhaka = castle
+b_nitiisa = temple
+b_etamarya = city
+b_liguta = castle
+b_qanunai = temple
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

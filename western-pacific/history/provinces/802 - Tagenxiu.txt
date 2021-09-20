@@ -1,0 +1,16 @@
+# 802 - Tagenxiu
+
+# County Title
+title = c_tagenxiu
+
+# Settlements
+max_settlements = 4
+b_tagenxiu = castle
+b_suarevi = temple
+b_rilen = city
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

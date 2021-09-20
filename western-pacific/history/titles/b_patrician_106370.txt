@@ -1,0 +1,14 @@
+947.1.1 = {
+	holding_dynasty = 106370 # Bujaud - makes this a FAMILY_PALACE type Holding
+	liege="d_nakasus"
+	holder = 106370
+}
+1017.1.1 = {
+	holder = 106371
+}
+1041.1.1 = {
+	holder = 106372
+}
+1059.1.1 = {
+	holder = 106375
+}

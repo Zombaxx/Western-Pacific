@@ -1,5 +1,0 @@
-	title = c_sarold
-	max_settlements = 2
-	culture = finnish
-	religion = shiite
-	b_qucize = tribal

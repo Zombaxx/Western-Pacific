@@ -1,0 +1,16 @@
+# 282 - Wedald
+
+# County Title
+title = c_wedald
+
+# Settlements
+max_settlements = 4
+b_wedald = castle
+b_gordii_fossae = temple
+b_koraria = city
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

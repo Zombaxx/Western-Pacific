@@ -1,0 +1,16 @@
+# 358 - Sanita
+
+# County Title
+title = c_sanita
+
+# Settlements
+max_settlements = 4
+b_sanita = castle
+b_qeleuta = temple
+b_sawabib = city
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

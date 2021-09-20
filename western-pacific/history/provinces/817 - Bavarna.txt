@@ -1,0 +1,16 @@
+# 817 - Bavarna
+
+# County Title
+title = c_bavarna
+
+# Settlements
+max_settlements = 4
+b_bavarna = castle
+b_nugerin = temple
+b_lalisa = city
+
+# Misc
+culture = zhangzhung
+religion = jain
+
+# History

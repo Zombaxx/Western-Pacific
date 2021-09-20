@@ -1,5 +1,0 @@
-	title = c_kaularam
-	max_settlements = 2
-	culture = catalan
-	religion = iconoclast
-	b_ewilettu = tribal

@@ -1,0 +1,17 @@
+# 166 - Eterara
+
+# County Title
+title = c_eterara
+
+# Settlements
+max_settlements = 5
+b_eterara = castle
+b_turyze = temple
+b_revenda = city
+b_suall = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

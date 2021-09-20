@@ -1,0 +1,15 @@
+# 1 - Kamara
+
+# County Title
+title = c_kamara
+
+# Settlements
+max_settlements = 3
+b_kamara = tribal
+b_tibokal = temple
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

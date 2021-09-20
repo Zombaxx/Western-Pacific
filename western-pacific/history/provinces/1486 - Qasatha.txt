@@ -1,0 +1,16 @@
+# 1486 - Qasatha
+
+# County Title
+title = c_qasatha
+
+# Settlements
+max_settlements = 4
+b_qasatha = city
+b_qareva = temple
+b_sedida = castle
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

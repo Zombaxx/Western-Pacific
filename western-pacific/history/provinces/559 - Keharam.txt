@@ -1,0 +1,16 @@
+# 559 - Keharam
+
+# County Title
+title = c_keharam
+
+# Settlements
+max_settlements = 4
+b_keharam = castle
+b_edanald = temple
+b_banoul = city
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

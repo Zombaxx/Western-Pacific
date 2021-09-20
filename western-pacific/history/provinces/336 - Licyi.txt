@@ -1,0 +1,14 @@
+# 336 - Licyi
+
+# County Title
+title = c_licyi
+
+# Settlements
+max_settlements = 2
+b_licyi = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

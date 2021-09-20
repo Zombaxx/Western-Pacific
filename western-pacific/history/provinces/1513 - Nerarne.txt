@@ -1,0 +1,16 @@
+# 1513 - Nerarne
+
+# County Title
+title = c_nerarne
+
+# Settlements
+max_settlements = 4
+b_nerarne = castle
+b_lyousia = temple
+b_lovyaske = city
+
+# Misc
+culture = crimean_gothic
+religion = tengri_pagan
+
+# History

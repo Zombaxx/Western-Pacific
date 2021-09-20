@@ -1,0 +1,14 @@
+# 670 - Karelen
+
+# County Title
+title = c_karelen
+
+# Settlements
+max_settlements = 3
+b_karelen = tribal
+
+# Misc
+culture = visigothic
+religion = orthodox
+
+# History

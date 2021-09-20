@@ -1,0 +1,15 @@
+# 859 - Adevalih
+
+# County Title
+title = c_adevalih
+
+# Settlements
+max_settlements = 3
+b_adevalih = castle
+b_agloya = temple
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

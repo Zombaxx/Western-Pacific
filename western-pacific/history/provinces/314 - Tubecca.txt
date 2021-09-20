@@ -1,0 +1,16 @@
+# 314 - Tubecca
+
+# County Title
+title = c_tubecca
+
+# Settlements
+max_settlements = 4
+b_tubecca = castle
+b_rahille = temple
+b_derudrd = city
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

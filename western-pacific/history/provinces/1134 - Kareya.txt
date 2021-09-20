@@ -1,0 +1,14 @@
+# 1134 - Kareya
+
+# County Title
+title = c_kareya
+
+# Settlements
+max_settlements = 4
+b_kareya = tribal
+
+# Misc
+culture = greek
+religion = catholic
+
+# History

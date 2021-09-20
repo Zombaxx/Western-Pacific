@@ -1,0 +1,16 @@
+# 112 - Kaufati
+
+# County Title
+title = c_kaufati
+
+# Settlements
+max_settlements = 4
+b_kaufati = castle
+b_qonofia = temple
+b_neuta = city
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

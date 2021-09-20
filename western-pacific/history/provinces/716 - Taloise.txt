@@ -1,0 +1,15 @@
+# 716 - Taloise
+
+# County Title
+title = c_taloise
+
+# Settlements
+max_settlements = 3
+b_taloise = castle
+b_nudicta = temple
+
+# Misc
+culture = han
+religion = manichean
+
+# History

@@ -1,0 +1,14 @@
+# 1097 - Sanimha
+
+# County Title
+title = c_sanimha
+
+# Settlements
+max_settlements = 3
+b_sanimha = tribal
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

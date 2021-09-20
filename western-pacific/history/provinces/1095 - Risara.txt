@@ -1,0 +1,14 @@
+# 1095 - Risara
+
+# County Title
+title = c_risara
+
+# Settlements
+max_settlements = 3
+b_risara = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

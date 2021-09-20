@@ -1,0 +1,17 @@
+# 247 - Lauftun
+
+# County Title
+title = c_lauftun
+
+# Settlements
+max_settlements = 5
+b_lauftun = castle
+b_naulaqar = temple
+b_bamaqar = city
+b_ruloja = castle
+
+# Misc
+culture = tangut
+religion = jain
+
+# History

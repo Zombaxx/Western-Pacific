@@ -1,0 +1,16 @@
+# 1397 - Ebalaimi
+
+# County Title
+title = c_ebalaimi
+
+# Settlements
+max_settlements = 4
+b_ebalaimi = castle
+b_kelka = temple
+b_berena = city
+
+# Misc
+culture = norse
+religion = orthodox
+
+# History

@@ -1,0 +1,14 @@
+# 1323 - Tavika
+
+# County Title
+title = c_tavika
+
+# Settlements
+max_settlements = 2
+b_tavika = castle
+
+# Misc
+culture = english
+religion = orthodox
+
+# History

@@ -1,0 +1,15 @@
+# 1388 - Arecol
+
+# County Title
+title = c_arecol
+
+# Settlements
+max_settlements = 3
+b_arecol = castle
+b_qiliala = temple
+
+# Misc
+culture = english
+religion = hellenic_pagan
+
+# History

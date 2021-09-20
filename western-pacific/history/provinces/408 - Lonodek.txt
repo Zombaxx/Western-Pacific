@@ -1,0 +1,17 @@
+# 408 - Lonodek
+
+# County Title
+title = c_lonodek
+
+# Settlements
+max_settlements = 5
+b_lonodek = castle
+b_quenomas = temple
+b_lomas = city
+b_kijotho = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

@@ -1,0 +1,16 @@
+# 198 - Etoyau
+
+# County Title
+title = c_etoyau
+
+# Settlements
+max_settlements = 4
+b_etoyau = castle
+b_rikahra = temple
+b_kevur = city
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

@@ -1,0 +1,17 @@
+# 73 - Ryanonse
+
+# County Title
+title = c_ryanonse
+
+# Settlements
+max_settlements = 5
+b_ryanonse = castle
+b_kaicibor = temple
+b_sirutic = city
+b_tyt = castle
+
+# Misc
+culture = marathi
+religion = jain
+
+# History

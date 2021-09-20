@@ -1,0 +1,15 @@
+# 322 - Darit
+
+# County Title
+title = c_darit
+
+# Settlements
+max_settlements = 3
+b_darit = castle
+b_ahjoja = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

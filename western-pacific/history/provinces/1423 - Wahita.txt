@@ -1,0 +1,15 @@
+# 1423 - Wahita
+
+# County Title
+title = c_wahita
+
+# Settlements
+max_settlements = 3
+b_wahita = castle
+b_aragidis = temple
+
+# Misc
+culture = assyrian
+religion = west_african_pagan
+
+# History

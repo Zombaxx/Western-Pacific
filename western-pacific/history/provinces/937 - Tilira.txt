@@ -1,0 +1,14 @@
+# 937 - Tilira
+
+# County Title
+title = c_tilira
+
+# Settlements
+max_settlements = 3
+b_tilira = tribal
+
+# Misc
+culture = pictish
+religion = orthodox
+
+# History

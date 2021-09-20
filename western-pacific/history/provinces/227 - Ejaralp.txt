@@ -1,0 +1,15 @@
+# 227 - Ejaralp
+
+# County Title
+title = c_ejaralp
+
+# Settlements
+max_settlements = 3
+b_ejaralp = castle
+b_roanory = temple
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

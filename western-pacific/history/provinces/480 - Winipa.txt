@@ -1,0 +1,17 @@
+# 480 - Winipa
+
+# County Title
+title = c_winipa
+
+# Settlements
+max_settlements = 5
+b_winipa = castle
+b_qakifa = temple
+b_etiska = city
+b_rakaim = castle
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

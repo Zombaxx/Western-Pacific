@@ -1,0 +1,17 @@
+# 86 - Raicuslo
+
+# County Title
+title = c_raicuslo
+
+# Settlements
+max_settlements = 5
+b_raicuslo = castle
+b_senekay = temple
+b_keriyah = city
+b_sutahat = castle
+
+# Misc
+culture = marathi
+religion = hindu
+
+# History

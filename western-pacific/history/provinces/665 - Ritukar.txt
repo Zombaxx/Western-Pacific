@@ -1,0 +1,14 @@
+# 665 - Ritukar
+
+# County Title
+title = c_ritukar
+
+# Settlements
+max_settlements = 2
+b_ritukar = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

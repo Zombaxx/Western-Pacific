@@ -1,0 +1,16 @@
+# 192 - Erakr
+
+# County Title
+title = c_erakr
+
+# Settlements
+max_settlements = 4
+b_erakr = castle
+b_tanelen = temple
+b_daroise = city
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

@@ -1,0 +1,14 @@
+# 289 - Kazilia
+
+# County Title
+title = c_kazilia
+
+# Settlements
+max_settlements = 2
+b_kazilia = castle
+
+# Misc
+culture = tangut
+religion = bon
+
+# History

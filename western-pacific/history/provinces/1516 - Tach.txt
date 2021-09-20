@@ -1,0 +1,17 @@
+# 1516 - Tach
+
+# County Title
+title = c_tach
+
+# Settlements
+max_settlements = 6
+b_tach = castle
+b_lakh = temple
+b_taomifa = city
+b_layah = castle
+
+# Misc
+culture = assyrian
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 1016 - Nubild
+
+# County Title
+title = c_nubild
+
+# Settlements
+max_settlements = 1
+b_nubild = tribal
+b_kaday = temple
+
+# Misc
+culture = pictish
+religion = zun_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 493 - Tawa
+
+# County Title
+title = c_tawa
+
+# Settlements
+max_settlements = 4
+b_tawa = castle
+b_tohins = temple
+b_abijesar = city
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

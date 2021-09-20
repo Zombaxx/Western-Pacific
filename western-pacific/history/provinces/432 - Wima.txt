@@ -1,0 +1,16 @@
+# 432 - Wima
+
+# County Title
+title = c_wima
+
+# Settlements
+max_settlements = 4
+b_wima = city
+b_tayaay = temple
+b_waham = castle
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

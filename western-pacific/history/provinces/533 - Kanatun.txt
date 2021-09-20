@@ -1,0 +1,15 @@
+# 533 - Kanatun
+
+# County Title
+title = c_kanatun
+
+# Settlements
+max_settlements = 3
+b_kanatun = castle
+b_beneek = temple
+
+# Misc
+culture = tamil
+religion = bon
+
+# History

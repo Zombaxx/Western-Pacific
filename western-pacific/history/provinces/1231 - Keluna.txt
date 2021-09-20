@@ -1,0 +1,14 @@
+# 1231 - Keluna
+
+# County Title
+title = c_keluna
+
+# Settlements
+max_settlements = 2
+b_keluna = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

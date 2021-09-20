@@ -1,0 +1,15 @@
+# 767 - Kakeca
+
+# County Title
+title = c_kakeca
+
+# Settlements
+max_settlements = 3
+b_kakeca = castle
+b_enomamm = temple
+
+# Misc
+culture = han
+religion = catholic
+
+# History

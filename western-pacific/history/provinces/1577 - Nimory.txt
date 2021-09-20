@@ -1,0 +1,16 @@
+# 1577 - Nimory
+
+# County Title
+title = c_nimory
+
+# Settlements
+max_settlements = 4
+b_nimory = castle
+b_edunatur = temple
+b_rela = city
+
+# Misc
+culture = norse
+religion = orthodox
+
+# History

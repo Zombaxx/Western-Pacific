@@ -1,0 +1,14 @@
+# 1543 - Kunite
+
+# County Title
+title = c_kunite
+
+# Settlements
+max_settlements = 2
+b_kunite = tribal
+
+# Misc
+culture = irish
+religion = west_african_pagan
+
+# History

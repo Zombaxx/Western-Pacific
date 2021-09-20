@@ -1,0 +1,15 @@
+# 1453 - Seodat
+
+# County Title
+title = c_seodat
+
+# Settlements
+max_settlements = 3
+b_seodat = castle
+b_syaa = temple
+
+# Misc
+culture = old_saxon
+religion = orthodox
+
+# History

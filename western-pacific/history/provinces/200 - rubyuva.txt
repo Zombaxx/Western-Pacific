@@ -1,5 +1,0 @@
-	title = c_rubyuva
-	max_settlements = 2
-	culture = rajput
-	religion = mazdaki
-	b_adelicha = tribal

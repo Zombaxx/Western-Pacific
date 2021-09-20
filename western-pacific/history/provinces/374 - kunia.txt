@@ -1,5 +1,0 @@
-	title = c_kunia
-	max_settlements = 2
-	culture = dutch
-	religion = ibadi
-	b_qepilo = tribal

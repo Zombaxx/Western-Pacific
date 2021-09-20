@@ -1,0 +1,16 @@
+# 299 - Kumaret
+
+# County Title
+title = c_kumaret
+
+# Settlements
+max_settlements = 4
+b_kumaret = castle
+b_kerasia = temple
+b_rakoda = city
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

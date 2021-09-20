@@ -1,0 +1,16 @@
+# 179 - Azaynine
+
+# County Title
+title = c_azaynine
+
+# Settlements
+max_settlements = 4
+b_azaynine = castle
+b_ereka = temple
+b_tagyka = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

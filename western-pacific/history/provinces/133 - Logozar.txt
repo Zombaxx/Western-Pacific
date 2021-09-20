@@ -1,0 +1,16 @@
+# 133 - Logozar
+
+# County Title
+title = c_logozar
+
+# Settlements
+max_settlements = 4
+b_logozar = castle
+b_wogija = temple
+b_amorozar = city
+
+# Misc
+culture = sinhala
+religion = buddhist
+
+# History

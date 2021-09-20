@@ -1,0 +1,14 @@
+# 1251 - Wagian
+
+# County Title
+title = c_wagian
+
+# Settlements
+max_settlements = 3
+b_wagian = tribal
+
+# Misc
+culture = assyrian
+religion = west_african_pagan
+
+# History

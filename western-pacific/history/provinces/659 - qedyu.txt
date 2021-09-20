@@ -1,5 +1,0 @@
-	title = c_qedyu
-	max_settlements = 2
-	culture = assyrian
-	religion = tengri_pagan_reformed
-	b_dazein = tribal

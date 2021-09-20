@@ -1,0 +1,14 @@
+# 884 - Tisigar
+
+# County Title
+title = c_tisigar
+
+# Settlements
+max_settlements = 4
+b_tisigar = tribal
+
+# Misc
+culture = pictish
+religion = zun_pagan
+
+# History

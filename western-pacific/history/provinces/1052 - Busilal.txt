@@ -1,0 +1,15 @@
+# 1052 - Busilal
+
+# County Title
+title = c_busilal
+
+# Settlements
+max_settlements = 5
+b_busilal = tribal
+b_beinita = temple
+
+# Misc
+culture = nubian
+religion = sunni
+
+# History

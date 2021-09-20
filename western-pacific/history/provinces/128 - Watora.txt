@@ -1,0 +1,15 @@
+# 128 - Watora
+
+# County Title
+title = c_watora
+
+# Settlements
+max_settlements = 3
+b_watora = castle
+b_roziss = temple
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

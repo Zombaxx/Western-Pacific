@@ -1,0 +1,16 @@
+# 171 - Etarin
+
+# County Title
+title = c_etarin
+
+# Settlements
+max_settlements = 4
+b_etarin = castle
+b_kolaida = temple
+b_segevi = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

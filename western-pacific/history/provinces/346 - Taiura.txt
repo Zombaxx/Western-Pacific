@@ -1,0 +1,15 @@
+# 346 - Taiura
+
+# County Title
+title = c_taiura
+
+# Settlements
+max_settlements = 3
+b_taiura = castle
+b_ber-ona = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

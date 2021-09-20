@@ -1,0 +1,17 @@
+# 126 - Esadeir
+
+# County Title
+title = c_esadeir
+
+# Settlements
+max_settlements = 5
+b_esadeir = castle
+b_sopan = temple
+b_kasavid = city
+b_evasora = castle
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

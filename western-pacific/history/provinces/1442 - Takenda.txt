@@ -1,0 +1,15 @@
+# 1442 - Takenda
+
+# County Title
+title = c_takenda
+
+# Settlements
+max_settlements = 3
+b_takenda = castle
+b_delulan = temple
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

@@ -1,0 +1,14 @@
+# 835 - Kodani
+
+# County Title
+title = c_kodani
+
+# Settlements
+max_settlements = 4
+b_kodani = tribal
+
+# Misc
+culture = visigothic
+religion = zun_pagan
+
+# History

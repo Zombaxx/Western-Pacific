@@ -1,0 +1,14 @@
+# 1430 - Dotith
+
+# County Title
+title = c_dotith
+
+# Settlements
+max_settlements = 3
+b_dotith = tribal
+
+# Misc
+culture = assyrian
+religion = fraticelli
+
+# History

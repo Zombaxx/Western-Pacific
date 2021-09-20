@@ -1,0 +1,16 @@
+# 1433 - Tacoukh
+
+# County Title
+title = c_tacoukh
+
+# Settlements
+max_settlements = 4
+b_tacoukh = castle
+b_qahoald = temple
+b_ehanan = city
+
+# Misc
+culture = assyrian
+religion = west_african_pagan
+
+# History

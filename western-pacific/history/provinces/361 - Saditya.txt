@@ -1,0 +1,15 @@
+# 361 - Saditya
+
+# County Title
+title = c_saditya
+
+# Settlements
+max_settlements = 3
+b_saditya = castle
+b_remokha = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

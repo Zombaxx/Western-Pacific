@@ -1,5 +1,0 @@
-	title = c_wanaret
-	max_settlements = 2
-	culture = sephardi
-	religion = slavic_pagan
-	b_sevaud = tribal

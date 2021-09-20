@@ -1,0 +1,15 @@
+# 1139 - Nerajan
+
+# County Title
+title = c_nerajan
+
+# Settlements
+max_settlements = 3
+b_nerajan = castle
+b_luka = temple
+
+# Misc
+culture = old_frankish
+religion = aztec
+
+# History

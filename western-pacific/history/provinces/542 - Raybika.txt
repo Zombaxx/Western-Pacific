@@ -1,0 +1,15 @@
+# 542 - Raybika
+
+# County Title
+title = c_raybika
+
+# Settlements
+max_settlements = 3
+b_raybika = castle
+b_byarafiy = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

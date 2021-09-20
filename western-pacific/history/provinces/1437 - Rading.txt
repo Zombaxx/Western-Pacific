@@ -1,0 +1,15 @@
+# 1437 - Rading
+
+# County Title
+title = c_rading
+
+# Settlements
+max_settlements = 3
+b_rading = castle
+b_ketei = temple
+
+# Misc
+culture = english
+religion = catholic
+
+# History

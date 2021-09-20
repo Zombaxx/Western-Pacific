@@ -1,0 +1,14 @@
+# 1203 - Wadayka
+
+# County Title
+title = c_wadayka
+
+# Settlements
+max_settlements = 2
+b_wadayka = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

@@ -1,5 +1,0 @@
-	title = c_tanela
-	max_settlements = 2
-	culture = castillan
-	religion = waldensian
-	b_kanuin = tribal

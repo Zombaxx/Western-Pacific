@@ -1,0 +1,14 @@
+# 776 - Lyaud
+
+# County Title
+title = c_lyaud
+
+# Settlements
+max_settlements = 3
+b_lyaud = tribal
+
+# Misc
+culture = visigothic
+religion = orthodox
+
+# History

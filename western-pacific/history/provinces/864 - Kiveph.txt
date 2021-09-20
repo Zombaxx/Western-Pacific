@@ -1,0 +1,15 @@
+# 864 - Kiveph
+
+# County Title
+title = c_kiveph
+
+# Settlements
+max_settlements = 5
+b_kiveph = tribal
+b_tiubile = temple
+
+# Misc
+culture = pictish
+religion = orthodox
+
+# History

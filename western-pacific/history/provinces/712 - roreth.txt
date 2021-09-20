@@ -1,5 +1,0 @@
-	title = c_roreth
-	max_settlements = 2
-	culture = zaghawa
-	religion = tengri_pagan
-	b_qenuin = tribal

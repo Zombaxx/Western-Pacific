@@ -1,0 +1,14 @@
+# 1114 - Tanana
+
+# County Title
+title = c_tanana
+
+# Settlements
+max_settlements = 3
+b_tanana = tribal
+
+# Misc
+culture = zaghawa
+religion = catholic
+
+# History

@@ -1,0 +1,17 @@
+# 577 - Norory
+
+# County Title
+title = c_norory
+
+# Settlements
+max_settlements = 5
+b_norory = castle
+b_byuns = temple
+b_nuroul = city
+b_aburalan = castle
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

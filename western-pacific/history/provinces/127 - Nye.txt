@@ -1,0 +1,17 @@
+# 127 - Nye
+
+# County Title
+title = c_nye
+
+# Settlements
+max_settlements = 6
+b_nye = castle
+b_auifr = temple
+b_revpal = city
+b_domein = castle
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

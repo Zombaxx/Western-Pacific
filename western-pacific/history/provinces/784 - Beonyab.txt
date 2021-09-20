@@ -1,0 +1,14 @@
+# 784 - Beonyab
+
+# County Title
+title = c_beonyab
+
+# Settlements
+max_settlements = 4
+b_beonyab = tribal
+
+# Misc
+culture = visigothic
+religion = zun_pagan
+
+# History

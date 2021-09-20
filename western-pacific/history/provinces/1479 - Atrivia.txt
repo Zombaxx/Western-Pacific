@@ -1,0 +1,16 @@
+# 1479 - Atrivia
+
+# County Title
+title = c_atrivia
+
+# Settlements
+max_settlements = 4
+b_atrivia = castle
+b_weceyao = temple
+b_necobos = city
+
+# Misc
+culture = daju
+religion = catholic
+
+# History

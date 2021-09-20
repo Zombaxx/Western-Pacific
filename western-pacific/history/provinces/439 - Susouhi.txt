@@ -1,0 +1,21 @@
+# 439 - Susouhi
+
+# County Title
+title = c_susouhi
+
+# Settlements
+max_settlements = 7
+b_susouhi = city
+b_sidacob = temple
+b_kevampa = castle
+b_bandakla = city
+b_kijarda = temple
+
+# Misc
+culture = han
+religion = buddhist
+
+# History
+1066.1.1 = {
+	trade_post = b_patrician_104390
+}

@@ -1,5 +1,0 @@
-	title = c_samahra
-	max_settlements = 2
-	culture = cuman
-	religion = khurmazta
-	b_nuhyu = tribal

@@ -1,0 +1,17 @@
+# 871 - Tiloan
+
+# County Title
+title = c_tiloan
+
+# Settlements
+max_settlements = 5
+b_tiloan = castle
+b_wuzana = temple
+b_winarma = city
+b_daularat = castle
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

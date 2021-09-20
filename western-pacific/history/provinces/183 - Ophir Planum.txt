@@ -1,0 +1,15 @@
+# 183 - Ophir Planum
+
+# County Title
+title = c_ophir_planum
+
+# Settlements
+max_settlements = 3
+b_ophir_planum = castle
+b_aterelen = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,15 @@
+# 903 - Tudaned
+
+# County Title
+title = c_tudaned
+
+# Settlements
+max_settlements = 3
+b_tudaned = castle
+b_qefaya = temple
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

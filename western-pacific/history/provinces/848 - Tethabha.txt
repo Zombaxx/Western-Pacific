@@ -1,0 +1,15 @@
+# 848 - Tethabha
+
+# County Title
+title = c_tethabha
+
+# Settlements
+max_settlements = 5
+b_tethabha = tribal
+b_esusi = temple
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 799 - Leluvje
+
+# County Title
+title = c_leluvje
+
+# Settlements
+max_settlements = 4
+b_leluvje = tribal
+
+# Misc
+culture = bodpa
+religion = sunni
+
+# History

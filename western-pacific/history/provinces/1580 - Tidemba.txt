@@ -1,0 +1,16 @@
+# 1580 - Tidemba
+
+# County Title
+title = c_tidemba
+
+# Settlements
+max_settlements = 4
+b_tidemba = castle
+b_dilodos = temple
+b_abaomine = city
+
+# Misc
+culture = norse
+religion = orthodox
+
+# History

@@ -1,0 +1,14 @@
+# 965 - Qabous
+
+# County Title
+title = c_qabous
+
+# Settlements
+max_settlements = 4
+b_qabous = tribal
+
+# Misc
+culture = kanuri
+religion = orthodox
+
+# History

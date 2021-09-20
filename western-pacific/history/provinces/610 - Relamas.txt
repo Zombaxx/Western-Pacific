@@ -1,0 +1,17 @@
+# 610 - Relamas
+
+# County Title
+title = c_relamas
+
+# Settlements
+max_settlements = 5
+b_relamas = castle
+b_tanucia = temple
+b_nanippin = city
+b_doom = castle
+
+# Misc
+culture = zhangzhung
+religion = hindu
+
+# History

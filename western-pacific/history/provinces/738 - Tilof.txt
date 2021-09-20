@@ -1,0 +1,14 @@
+# 738 - Tilof
+
+# County Title
+title = c_tilof
+
+# Settlements
+max_settlements = 1
+b_tilof = tribal
+
+# Misc
+culture = alan
+religion = west_african_pagan
+
+# History

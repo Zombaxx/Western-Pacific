@@ -1,0 +1,14 @@
+# 932 - Ezaynohn
+
+# County Title
+title = c_ezaynohn
+
+# Settlements
+max_settlements = 4
+b_ezaynohn = tribal
+
+# Misc
+culture = bodpa
+religion = orthodox
+
+# History

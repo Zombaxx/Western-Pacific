@@ -1,0 +1,16 @@
+# 33 - Rorang
+
+# County Title
+title = c_rorang
+
+# Settlements
+max_settlements = 4
+b_rorang = castle
+b_ricoste = temple
+b_bumanda = city
+
+# Misc
+culture = sogdian
+religion = zoroastrian
+
+# History

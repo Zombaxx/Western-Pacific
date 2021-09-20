@@ -1,0 +1,15 @@
+# 308 - Kabdewal
+
+# County Title
+title = c_kabdewal
+
+# Settlements
+max_settlements = 3
+b_kabdewal = castle
+b_baaminai = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

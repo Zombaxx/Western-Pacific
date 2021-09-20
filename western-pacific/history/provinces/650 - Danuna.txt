@@ -1,0 +1,15 @@
+# 650 - Danuna
+
+# County Title
+title = c_danuna
+
+# Settlements
+max_settlements = 3
+b_danuna = castle
+b_teneuta = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

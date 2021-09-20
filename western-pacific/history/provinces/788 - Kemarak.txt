@@ -1,0 +1,14 @@
+# 788 - Kemarak
+
+# County Title
+title = c_kemarak
+
+# Settlements
+max_settlements = 3
+b_kemarak = tribal
+
+# Misc
+culture = bodpa
+religion = sunni
+
+# History

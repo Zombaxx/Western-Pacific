@@ -1,0 +1,14 @@
+# 1069 - Sedoja
+
+# County Title
+title = c_sedoja
+
+# Settlements
+max_settlements = 1
+b_sedoja = tribal
+
+# Misc
+culture = hausa
+religion = zun_pagan
+
+# History

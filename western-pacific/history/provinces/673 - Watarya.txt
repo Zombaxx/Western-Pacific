@@ -1,0 +1,16 @@
+# 673 - Watarya
+
+# County Title
+title = c_watarya
+
+# Settlements
+max_settlements = 4
+b_watarya = castle
+b_lokaba = temple
+b_sonavan = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

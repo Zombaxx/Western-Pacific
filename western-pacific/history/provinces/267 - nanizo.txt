@@ -1,5 +1,0 @@
-	title = c_nanizo
-	max_settlements = 2
-	culture = ashkenazi
-	religion = iconoclast
-	b_notasada = tribal

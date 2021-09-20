@@ -1,0 +1,14 @@
+# 760 - Winor
+
+# County Title
+title = c_winor
+
+# Settlements
+max_settlements = 3
+b_winor = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

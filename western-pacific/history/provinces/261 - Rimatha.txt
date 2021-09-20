@@ -1,0 +1,16 @@
+# 261 - Rimatha
+
+# County Title
+title = c_rimatha
+
+# Settlements
+max_settlements = 4
+b_rimatha = castle
+b_kehamm = temple
+b_lavuti = city
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

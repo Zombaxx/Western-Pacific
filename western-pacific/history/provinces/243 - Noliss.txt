@@ -1,0 +1,16 @@
+# 243 - Noliss
+
+# County Title
+title = c_noliss
+
+# Settlements
+max_settlements = 4
+b_noliss = castle
+b_bogiya = temple
+b_rozita = city
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

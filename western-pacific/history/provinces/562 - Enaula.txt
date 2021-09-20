@@ -1,0 +1,15 @@
+# 562 - Enaula
+
+# County Title
+title = c_enaula
+
+# Settlements
+max_settlements = 3
+b_enaula = castle
+b_dyunilda = temple
+
+# Misc
+culture = han
+religion = sunni
+
+# History

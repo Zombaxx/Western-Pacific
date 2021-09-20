@@ -1,0 +1,14 @@
+# 868 - Tadapa
+
+# County Title
+title = c_tadapa
+
+# Settlements
+max_settlements = 4
+b_tadapa = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

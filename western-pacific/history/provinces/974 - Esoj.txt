@@ -1,0 +1,14 @@
+# 974 - Esoj
+
+# County Title
+title = c_esoj
+
+# Settlements
+max_settlements = 1
+b_esoj = tribal
+
+# Misc
+culture = hausa
+religion = west_african_pagan
+
+# History

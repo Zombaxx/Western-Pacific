@@ -1,0 +1,14 @@
+# 1205 - Teenava
+
+# County Title
+title = c_teenava
+
+# Settlements
+max_settlements = 2
+b_teenava = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

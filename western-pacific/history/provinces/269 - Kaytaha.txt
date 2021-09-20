@@ -1,0 +1,15 @@
+# 269 - Kaytaha
+
+# County Title
+title = c_kaytaha
+
+# Settlements
+max_settlements = 3
+b_kaytaha = castle
+b_nimha = temple
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

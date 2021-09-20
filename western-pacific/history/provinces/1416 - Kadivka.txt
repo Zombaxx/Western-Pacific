@@ -1,0 +1,14 @@
+# 1416 - Kadivka
+
+# County Title
+title = c_kadivka
+
+# Settlements
+max_settlements = 3
+b_kadivka = tribal
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

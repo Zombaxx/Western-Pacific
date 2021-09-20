@@ -1,0 +1,15 @@
+# 228 - Doimita
+
+# County Title
+title = c_doimita
+
+# Settlements
+max_settlements = 5
+b_doimita = tribal
+b_terang = temple
+
+# Misc
+culture = telugu
+religion = norse_pagan
+
+# History

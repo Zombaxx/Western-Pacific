@@ -1,0 +1,15 @@
+# 1526 - Kafed
+
+# County Title
+title = c_kafed
+
+# Settlements
+max_settlements = 6
+b_kafed = tribal
+b_rugalka = temple
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

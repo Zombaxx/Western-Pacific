@@ -1,0 +1,14 @@
+# 1302 - Qisavy
+
+# County Title
+title = c_qisavy
+
+# Settlements
+max_settlements = 3
+b_qisavy = tribal
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

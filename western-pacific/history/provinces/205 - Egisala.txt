@@ -1,0 +1,15 @@
+# 205 - Egisala
+
+# County Title
+title = c_egisala
+
+# Settlements
+max_settlements = 1
+b_egisala = castle
+b_rele = temple
+
+# Misc
+culture = bengali
+religion = sunni
+
+# History

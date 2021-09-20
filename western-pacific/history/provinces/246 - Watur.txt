@@ -1,0 +1,15 @@
+# 246 - Watur
+
+# County Title
+title = c_watur
+
+# Settlements
+max_settlements = 3
+b_watur = castle
+b_latavak = temple
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

@@ -1,0 +1,14 @@
+# 1541 - Esohunno
+
+# County Title
+title = c_esohunno
+
+# Settlements
+max_settlements = 2
+b_esohunno = tribal
+
+# Misc
+culture = irish
+religion = catholic
+
+# History

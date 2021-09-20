@@ -1,0 +1,17 @@
+# 120 - Lalabha
+
+# County Title
+title = c_lalabha
+
+# Settlements
+max_settlements = 5
+b_lalabha = castle
+b_naruin = temple
+b_lamert = city
+b_taususha = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,17 @@
+# 593 - Kavaha
+
+# County Title
+title = c_kavaha
+
+# Settlements
+max_settlements = 6
+b_kavaha = city
+b_diosa = temple
+b_tobou = castle
+b_nobeca = city
+
+# Misc
+culture = han
+religion = orthodox
+
+# History

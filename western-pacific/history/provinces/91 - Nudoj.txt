@@ -1,0 +1,15 @@
+# 91 - Nudoj
+
+# County Title
+title = c_nudoj
+
+# Settlements
+max_settlements = 3
+b_nudoj = castle
+b_qijenda = temple
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

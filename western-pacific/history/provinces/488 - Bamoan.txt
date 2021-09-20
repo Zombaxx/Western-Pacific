@@ -1,0 +1,16 @@
+# 488 - Bamoan
+
+# County Title
+title = c_bamoan
+
+# Settlements
+max_settlements = 4
+b_bamoan = castle
+b_boses = temple
+b_rifara = city
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

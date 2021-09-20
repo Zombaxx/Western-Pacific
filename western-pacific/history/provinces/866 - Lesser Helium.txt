@@ -1,0 +1,14 @@
+# 866 - Lesser Helium
+
+# County Title
+title = c_lesser_helium
+
+# Settlements
+max_settlements = 3
+b_lesser_helium = tribal
+
+# Misc
+culture = zhangzhung
+religion = hindu
+
+# History

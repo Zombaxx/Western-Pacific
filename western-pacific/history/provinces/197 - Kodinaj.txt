@@ -1,0 +1,17 @@
+# 197 - Kodinaj
+
+# County Title
+title = c_kodinaj
+
+# Settlements
+max_settlements = 5
+b_kodinaj = castle
+b_taran = temple
+b_akugam = city
+b_wisaqar = castle
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

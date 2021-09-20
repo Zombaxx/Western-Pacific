@@ -1,0 +1,15 @@
+# 1150 - Nijela
+
+# County Title
+title = c_nijela
+
+# Settlements
+max_settlements = 5
+b_nijela = tribal
+b_saydoda = temple
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

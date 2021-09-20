@@ -1,0 +1,17 @@
+# 258 - Yangon
+
+# County Title
+title = c_yangon
+
+# Settlements
+max_settlements = 6
+b_yangon = castle
+b_kaluna = temple
+b_kosz = city
+b_kyua = castle
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

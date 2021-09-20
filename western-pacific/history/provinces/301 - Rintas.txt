@@ -1,0 +1,14 @@
+# 301 - Rintas
+
+# County Title
+title = c_rintas
+
+# Settlements
+max_settlements = 2
+b_rintas = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

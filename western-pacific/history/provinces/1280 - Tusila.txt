@@ -1,0 +1,14 @@
+# 1280 - Tusila
+
+# County Title
+title = c_tusila
+
+# Settlements
+max_settlements = 1
+b_tusila = tribal
+
+# Misc
+culture = zaghawa
+religion = orthodox
+
+# History

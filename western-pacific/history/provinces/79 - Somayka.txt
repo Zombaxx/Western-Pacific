@@ -1,0 +1,17 @@
+# 79 - Somayka
+
+# County Title
+title = c_somayka
+
+# Settlements
+max_settlements = 5
+b_somayka = castle
+b_toria = temple
+b_daetulk = city
+b_ranatan = castle
+
+# Misc
+culture = marathi
+religion = jain
+
+# History

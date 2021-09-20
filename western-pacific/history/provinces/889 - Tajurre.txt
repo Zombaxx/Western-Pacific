@@ -1,0 +1,14 @@
+# 889 - Tajurre
+
+# County Title
+title = c_tajurre
+
+# Settlements
+max_settlements = 1
+b_tajurre = tribal
+
+# Misc
+culture = kanuri
+religion = messalian
+
+# History

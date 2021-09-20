@@ -1,0 +1,15 @@
+# 1402 - Terahtu
+
+# County Title
+title = c_terahtu
+
+# Settlements
+max_settlements = 3
+b_terahtu = castle
+b_najisa = temple
+
+# Misc
+culture = english
+religion = fraticelli
+
+# History

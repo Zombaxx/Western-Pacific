@@ -1,0 +1,17 @@
+# 239 - Afadari
+
+# County Title
+title = c_afadari
+
+# Settlements
+max_settlements = 5
+b_afadari = castle
+b_eterao = temple
+b_delayya = city
+b_nelunda = castle
+
+# Misc
+culture = tangut
+religion = jain
+
+# History

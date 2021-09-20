@@ -1,0 +1,14 @@
+# 1017 - Kabucai
+
+# County Title
+title = c_kabucai
+
+# Settlements
+max_settlements = 4
+b_kabucai = tribal
+
+# Misc
+culture = greek
+religion = buddhist
+
+# History

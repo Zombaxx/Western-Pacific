@@ -1,0 +1,17 @@
+# 80 - Rarika
+
+# County Title
+title = c_rarika
+
+# Settlements
+max_settlements = 5
+b_rarika = castle
+b_ramitya = temple
+b_egojanja = city
+b_kasad = castle
+
+# Misc
+culture = marathi
+religion = hindu
+
+# History

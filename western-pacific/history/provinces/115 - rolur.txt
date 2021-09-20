@@ -1,5 +1,0 @@
-	title = c_rolur
-	max_settlements = 2
-	culture = gujurati
-	religion = zikri
-	b_nawigid = tribal

@@ -1,0 +1,15 @@
+# 232 - Baidiye
+
+# County Title
+title = c_baidiye
+
+# Settlements
+max_settlements = 3
+b_baidiye = castle
+b_andibah = temple
+
+# Misc
+culture = tangut
+religion = catholic
+
+# History

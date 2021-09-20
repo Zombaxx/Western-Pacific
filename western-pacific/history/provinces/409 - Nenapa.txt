@@ -1,0 +1,16 @@
+# 409 - Nenapa
+
+# County Title
+title = c_nenapa
+
+# Settlements
+max_settlements = 4
+b_nenapa = castle
+b_todanaz = temple
+b_aseram = city
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

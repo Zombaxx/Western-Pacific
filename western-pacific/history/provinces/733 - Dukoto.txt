@@ -1,0 +1,14 @@
+# 733 - Dukoto
+
+# County Title
+title = c_dukoto
+
+# Settlements
+max_settlements = 3
+b_dukoto = tribal
+
+# Misc
+culture = greek
+religion = zun_pagan
+
+# History

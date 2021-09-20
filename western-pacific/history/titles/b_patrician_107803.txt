@@ -1,0 +1,5 @@
+1056.1.1 = {
+	holding_dynasty = 107803 # Qenes - makes this a FAMILY_PALACE type Holding
+	liege="d_taipei"
+	holder = 215610
+}

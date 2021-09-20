@@ -1,0 +1,16 @@
+# 1107 - Ririmha
+
+# County Title
+title = c_ririmha
+
+# Settlements
+max_settlements = 4
+b_ririmha = castle
+b_nadihui = temple
+b_taveva = city
+
+# Misc
+culture = basque
+religion = zun_pagan
+
+# History

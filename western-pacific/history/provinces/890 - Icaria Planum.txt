@@ -1,0 +1,17 @@
+# 890 - Icaria Planum
+
+# County Title
+title = c_icaria_planum
+
+# Settlements
+max_settlements = 6
+b_icaria_planum = castle
+b_behahar = temple
+b_kyavanca = city
+b_bilihal = castle
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

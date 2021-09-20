@@ -1,0 +1,14 @@
+# 759 - Beusz
+
+# County Title
+title = c_beusz
+
+# Settlements
+max_settlements = 1
+b_beusz = tribal
+
+# Misc
+culture = kanuri
+religion = west_african_pagan
+
+# History

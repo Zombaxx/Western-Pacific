@@ -1,0 +1,16 @@
+# 1238 - Tuoh
+
+# County Title
+title = c_tuoh
+
+# Settlements
+max_settlements = 4
+b_tuoh = castle
+b_sugel = temple
+b_seriu = city
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

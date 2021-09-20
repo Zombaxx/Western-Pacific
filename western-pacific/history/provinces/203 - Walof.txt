@@ -1,0 +1,17 @@
+# 203 - Walof
+
+# County Title
+title = c_walof
+
+# Settlements
+max_settlements = 5
+b_walof = castle
+b_roor = temple
+b_wazed = city
+b_tiye = castle
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

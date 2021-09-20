@@ -1,0 +1,14 @@
+# 1131 - Kiloan
+
+# County Title
+title = c_kiloan
+
+# Settlements
+max_settlements = 2
+b_kiloan = tribal
+
+# Misc
+culture = nubian
+religion = catholic
+
+# History

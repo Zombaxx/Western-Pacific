@@ -1,0 +1,15 @@
+# 362 - Lade
+
+# County Title
+title = c_lade
+
+# Settlements
+max_settlements = 3
+b_lade = castle
+b_nemavo = temple
+
+# Misc
+culture = han
+religion = bon
+
+# History

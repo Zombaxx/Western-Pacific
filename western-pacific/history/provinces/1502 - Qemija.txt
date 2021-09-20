@@ -1,0 +1,14 @@
+# 1502 - Qemija
+
+# County Title
+title = c_qemija
+
+# Settlements
+max_settlements = 2
+b_qemija = castle
+
+# Misc
+culture = crimean_gothic
+religion = orthodox
+
+# History

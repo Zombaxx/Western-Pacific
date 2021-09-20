@@ -1,5 +1,0 @@
-	title = c_sinnalda
-	max_settlements = 2
-	culture = georgian
-	religion = pagan
-	b_syunalda = tribal

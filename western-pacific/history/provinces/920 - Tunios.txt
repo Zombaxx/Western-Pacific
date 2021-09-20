@@ -1,0 +1,15 @@
+# 920 - Tunios
+
+# County Title
+title = c_tunios
+
+# Settlements
+max_settlements = 6
+b_tunios = tribal
+b_kapeph = temple
+
+# Misc
+culture = kanuri
+religion = orthodox
+
+# History

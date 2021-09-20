@@ -1,0 +1,15 @@
+# 231 - Keleph
+
+# County Title
+title = c_keleph
+
+# Settlements
+max_settlements = 3
+b_keleph = castle
+b_serao = temple
+
+# Misc
+culture = tangut
+religion = catholic
+
+# History

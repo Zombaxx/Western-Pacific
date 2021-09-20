@@ -1,0 +1,15 @@
+# 274 - Rorura
+
+# County Title
+title = c_rorura
+
+# Settlements
+max_settlements = 3
+b_rorura = castle
+b_qaregin = temple
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

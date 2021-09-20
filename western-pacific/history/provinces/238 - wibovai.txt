@@ -1,5 +1,0 @@
-	title = c_wibovai
-	max_settlements = 2
-	culture = ilmenian
-	religion = slavic_pagan_reformed
-	b_neupiam = tribal

@@ -1,0 +1,14 @@
+# 620 - Roheya
+
+# County Title
+title = c_roheya
+
+# Settlements
+max_settlements = 2
+b_roheya = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

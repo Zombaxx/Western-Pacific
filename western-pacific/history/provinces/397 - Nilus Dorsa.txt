@@ -1,0 +1,15 @@
+# 397 - Nilus Dorsa
+
+# County Title
+title = c_nilus_dorsa
+
+# Settlements
+max_settlements = 3
+b_nilus_dorsa = castle
+b_kuzaim = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

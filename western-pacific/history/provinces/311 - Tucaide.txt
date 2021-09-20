@@ -1,0 +1,15 @@
+# 311 - Tucaide
+
+# County Title
+title = c_tucaide
+
+# Settlements
+max_settlements = 3
+b_tucaide = castle
+b_asopalis = temple
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

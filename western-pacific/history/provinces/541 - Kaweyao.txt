@@ -1,0 +1,15 @@
+# 541 - Kaweyao
+
+# County Title
+title = c_kaweyao
+
+# Settlements
+max_settlements = 3
+b_kaweyao = castle
+b_tata = temple
+
+# Misc
+culture = han
+religion = sunni
+
+# History

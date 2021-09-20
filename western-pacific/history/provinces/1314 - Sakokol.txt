@@ -1,0 +1,14 @@
+# 1314 - Sakokol
+
+# County Title
+title = c_sakokol
+
+# Settlements
+max_settlements = 2
+b_sakokol = tribal
+
+# Misc
+culture = daju
+religion = miaphysite
+
+# History

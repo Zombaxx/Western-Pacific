@@ -1,0 +1,14 @@
+# 1459 - Tucan
+
+# County Title
+title = c_tucan
+
+# Settlements
+max_settlements = 4
+b_tucan = tribal
+
+# Misc
+culture = assyrian
+religion = west_african_pagan
+
+# History

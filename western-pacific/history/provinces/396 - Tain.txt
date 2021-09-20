@@ -1,0 +1,16 @@
+# 396 - Tain
+
+# County Title
+title = c_tain
+
+# Settlements
+max_settlements = 4
+b_tain = castle
+b_teturli = temple
+b_enaloste = city
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

@@ -1,0 +1,14 @@
+# 1216 - Tarakin
+
+# County Title
+title = c_tarakin
+
+# Settlements
+max_settlements = 2
+b_tarakin = tribal
+
+# Misc
+culture = nubian
+religion = catholic
+
+# History

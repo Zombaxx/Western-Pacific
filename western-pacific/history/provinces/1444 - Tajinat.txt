@@ -1,0 +1,15 @@
+# 1444 - Tajinat
+
+# County Title
+title = c_tajinat
+
+# Settlements
+max_settlements = 3
+b_tajinat = castle
+b_duo = temple
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

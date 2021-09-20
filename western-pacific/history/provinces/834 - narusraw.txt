@@ -1,5 +1,0 @@
-	title = c_narusraw
-	max_settlements = 2
-	culture = german
-	religion = norse_pagan
-	b_lica = tribal

@@ -1,0 +1,14 @@
+# 597 - Erullah
+
+# County Title
+title = c_erullah
+
+# Settlements
+max_settlements = 2
+b_erullah = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

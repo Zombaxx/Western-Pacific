@@ -1,0 +1,14 @@
+# 1531 - Tosahim
+
+# County Title
+title = c_tosahim
+
+# Settlements
+max_settlements = 4
+b_tosahim = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

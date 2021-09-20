@@ -1,0 +1,15 @@
+# 1293 - Nie
+
+# County Title
+title = c_nie
+
+# Settlements
+max_settlements = 3
+b_nie = castle
+b_kakaret = temple
+
+# Misc
+culture = old_frankish
+religion = fraticelli
+
+# History

@@ -1,0 +1,15 @@
+# 1269 - Beanaud
+
+# County Title
+title = c_beanaud
+
+# Settlements
+max_settlements = 3
+b_beanaud = castle
+b_neliwal = temple
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

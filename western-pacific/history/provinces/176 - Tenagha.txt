@@ -1,0 +1,15 @@
+# 176 - Tenagha
+
+# County Title
+title = c_tenagha
+
+# Settlements
+max_settlements = 3
+b_tenagha = castle
+b_kanakra = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

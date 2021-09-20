@@ -1,5 +1,0 @@
-	title = c_totobbo
-	max_settlements = 2
-	culture = breton
-	religion = bon
-	b_denilip = tribal

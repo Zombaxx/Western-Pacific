@@ -1,0 +1,17 @@
+# 794 - Manila
+
+# County Title
+title = c_manila
+
+# Settlements
+max_settlements = 5
+b_manila = castle
+b_asula = temple
+b_kanonse = city
+b_renonse = castle
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

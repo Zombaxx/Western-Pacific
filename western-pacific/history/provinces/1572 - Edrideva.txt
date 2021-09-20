@@ -1,0 +1,15 @@
+# 1572 - Edrideva
+
+# County Title
+title = c_edrideva
+
+# Settlements
+max_settlements = 3
+b_edrideva = castle
+b_neda = temple
+
+# Misc
+culture = norse
+religion = orthodox
+
+# History

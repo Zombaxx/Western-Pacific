@@ -1,0 +1,14 @@
+# 629 - Qucayya
+
+# County Title
+title = c_qucayya
+
+# Settlements
+max_settlements = 3
+b_qucayya = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

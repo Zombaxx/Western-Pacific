@@ -1,5 +1,0 @@
-	title = c_kajunai
-	max_settlements = 2
-	culture = dalmatian
-	religion = west_african_pagan
-	b_ranisla = tribal

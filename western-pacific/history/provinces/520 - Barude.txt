@@ -1,0 +1,16 @@
+# 520 - Barude
+
+# County Title
+title = c_barude
+
+# Settlements
+max_settlements = 4
+b_barude = castle
+b_rosen = temple
+b_ruden = city
+
+# Misc
+culture = telugu
+religion = taoist
+
+# History

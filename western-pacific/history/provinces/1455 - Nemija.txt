@@ -1,0 +1,15 @@
+# 1455 - Nemija
+
+# County Title
+title = c_nemija
+
+# Settlements
+max_settlements = 3
+b_nemija = castle
+b_emumaret = temple
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

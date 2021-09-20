@@ -1,0 +1,15 @@
+# 1294 - Tupijah
+
+# County Title
+title = c_tupijah
+
+# Settlements
+max_settlements = 3
+b_tupijah = castle
+b_norarde = temple
+
+# Misc
+culture = old_frankish
+religion = fraticelli
+
+# History

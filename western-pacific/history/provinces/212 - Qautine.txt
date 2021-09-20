@@ -1,0 +1,17 @@
+# 212 - Qautine
+
+# County Title
+title = c_qautine
+
+# Settlements
+max_settlements = 5
+b_qautine = castle
+b_kava = temple
+b_kareuta = city
+b_tubatka = castle
+
+# Misc
+culture = bengali
+religion = sunni
+
+# History

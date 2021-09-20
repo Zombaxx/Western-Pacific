@@ -1,0 +1,17 @@
+# 41 - Nyilija
+
+# County Title
+title = c_nyilija
+
+# Settlements
+max_settlements = 5
+b_nyilija = castle
+b_tiloslan = temple
+b_qatar = city
+b_nurek = castle
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

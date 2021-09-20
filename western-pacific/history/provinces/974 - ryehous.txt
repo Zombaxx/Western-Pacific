@@ -1,5 +1,0 @@
-	title = c_ryehous
-	max_settlements = 2
-	culture = avar
-	religion = interface_skin
-	b_welayor = tribal

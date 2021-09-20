@@ -1,0 +1,14 @@
+# 1529 - Boucdat
+
+# County Title
+title = c_boucdat
+
+# Settlements
+max_settlements = 4
+b_boucdat = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

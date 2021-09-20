@@ -1,0 +1,17 @@
+# 667 - Kareli
+
+# County Title
+title = c_kareli
+
+# Settlements
+max_settlements = 5
+b_kareli = castle
+b_baludo = temple
+b_qodeelo = city
+b_wubira = castle
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

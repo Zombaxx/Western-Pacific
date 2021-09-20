@@ -1,0 +1,15 @@
+# 626 - Kielaim
+
+# County Title
+title = c_kielaim
+
+# Settlements
+max_settlements = 7
+b_kielaim = temple
+b_dietwar = tribal
+
+# Misc
+culture = han
+religion = sunni
+
+# History

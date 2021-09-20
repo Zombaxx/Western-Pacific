@@ -1,0 +1,15 @@
+# 564 - Tegepes
+
+# County Title
+title = c_tegepes
+
+# Settlements
+max_settlements = 3
+b_tegepes = castle
+b_lolalca = temple
+
+# Misc
+culture = zhangzhung
+religion = miaphysite
+
+# History

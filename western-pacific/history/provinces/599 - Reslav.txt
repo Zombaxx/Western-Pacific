@@ -1,0 +1,15 @@
+# 599 - Reslav
+
+# County Title
+title = c_reslav
+
+# Settlements
+max_settlements = 3
+b_reslav = castle
+b_terilof = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

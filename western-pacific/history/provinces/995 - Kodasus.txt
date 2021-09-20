@@ -1,0 +1,14 @@
+# 995 - Kodasus
+
+# County Title
+title = c_kodasus
+
+# Settlements
+max_settlements = 3
+b_kodasus = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

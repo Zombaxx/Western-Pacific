@@ -1,0 +1,14 @@
+# 1346 - Riacall
+
+# County Title
+title = c_riacall
+
+# Settlements
+max_settlements = 2
+b_riacall = castle
+
+# Misc
+culture = english
+religion = orthodox
+
+# History

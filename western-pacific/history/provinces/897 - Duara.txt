@@ -1,0 +1,14 @@
+# 897 - Duara
+
+# County Title
+title = c_duara
+
+# Settlements
+max_settlements = 3
+b_duara = tribal
+
+# Misc
+culture = pictish
+religion = catholic
+
+# History

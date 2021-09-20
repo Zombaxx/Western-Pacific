@@ -1,0 +1,17 @@
+# 552 - Nikoste
+
+# County Title
+title = c_nikoste
+
+# Settlements
+max_settlements = 5
+b_nikoste = castle
+b_esufena = temple
+b_ekrozar = city
+b_alibugh = castle
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

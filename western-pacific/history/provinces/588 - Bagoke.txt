@@ -1,0 +1,16 @@
+# 588 - Bagoke
+
+# County Title
+title = c_bagoke
+
+# Settlements
+max_settlements = 4
+b_bagoke = castle
+b_qoromas = temple
+b_woukuke = city
+
+# Misc
+culture = khitan
+religion = orthodox
+
+# History

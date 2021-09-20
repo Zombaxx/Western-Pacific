@@ -1,0 +1,17 @@
+# 504 - Qumirai
+
+# County Title
+title = c_qumirai
+
+# Settlements
+max_settlements = 5
+b_qumirai = castle
+b_netille = temple
+b_nyiai = city
+b_temuluk = castle
+
+# Misc
+culture = tamil
+religion = bon
+
+# History

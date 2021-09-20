@@ -1,0 +1,16 @@
+# 174 - Visakhapatnam
+
+# County Title
+title = c_visakhapatnam
+
+# Settlements
+max_settlements = 4
+b_visakhapatnam = castle
+b_remuara = temple
+b_qena = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

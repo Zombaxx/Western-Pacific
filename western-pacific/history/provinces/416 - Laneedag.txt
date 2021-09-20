@@ -1,0 +1,16 @@
+# 416 - Laneedag
+
+# County Title
+title = c_laneedag
+
+# Settlements
+max_settlements = 4
+b_laneedag = castle
+b_kurerna = temple
+b_rugelle = city
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

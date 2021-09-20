@@ -1,0 +1,14 @@
+# 1006 - Lainudo
+
+# County Title
+title = c_lainudo
+
+# Settlements
+max_settlements = 4
+b_lainudo = tribal
+
+# Misc
+culture = greek
+religion = catholic
+
+# History

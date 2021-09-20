@@ -1,0 +1,17 @@
+# 138 - Wubate
+
+# County Title
+title = c_wubate
+
+# Settlements
+max_settlements = 5
+b_wubate = castle
+b_karutai = temple
+b_etibegin = city
+b_walema = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

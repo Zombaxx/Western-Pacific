@@ -1,0 +1,15 @@
+# 748 - Dozina
+
+# County Title
+title = c_dozina
+
+# Settlements
+max_settlements = 5
+b_dozina = tribal
+b_eparek = temple
+
+# Misc
+culture = zhangzhung
+religion = orthodox
+
+# History

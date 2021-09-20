@@ -1,0 +1,16 @@
+# 259 - Raham
+
+# County Title
+title = c_raham
+
+# Settlements
+max_settlements = 4
+b_raham = castle
+b_nebalme = temple
+b_edaneir = city
+
+# Misc
+culture = tangut
+religion = jain
+
+# History

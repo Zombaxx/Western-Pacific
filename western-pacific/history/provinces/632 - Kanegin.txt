@@ -1,0 +1,14 @@
+# 632 - Kanegin
+
+# County Title
+title = c_kanegin
+
+# Settlements
+max_settlements = 3
+b_kanegin = tribal
+
+# Misc
+culture = visigothic
+religion = orthodox
+
+# History

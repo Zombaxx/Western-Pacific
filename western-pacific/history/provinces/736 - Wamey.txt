@@ -1,0 +1,16 @@
+# 736 - Wamey
+
+# County Title
+title = c_wamey
+
+# Settlements
+max_settlements = 4
+b_wamey = castle
+b_wokanie = temple
+b_toline = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

@@ -1,0 +1,15 @@
+# 173 - Candoria
+
+# County Title
+title = c_candoria
+
+# Settlements
+max_settlements = 3
+b_candoria = castle
+b_diusevi = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

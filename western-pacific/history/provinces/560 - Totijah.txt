@@ -1,0 +1,16 @@
+# 560 - Totijah
+
+# County Title
+title = c_totijah
+
+# Settlements
+max_settlements = 4
+b_totijah = castle
+b_kalca = temple
+b_lerohn = city
+
+# Misc
+culture = zhangzhung
+religion = miaphysite
+
+# History

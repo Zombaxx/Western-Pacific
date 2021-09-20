@@ -1,0 +1,15 @@
+# 413 - Esviam
+
+# County Title
+title = c_esviam
+
+# Settlements
+max_settlements = 3
+b_esviam = castle
+b_kiarat = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

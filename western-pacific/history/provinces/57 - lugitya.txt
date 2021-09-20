@@ -1,5 +1,0 @@
-	title = c_lugitya
-	max_settlements = 2
-	culture = oriya
-	religion = slavic_pagan_reformed
-	b_necaga = tribal

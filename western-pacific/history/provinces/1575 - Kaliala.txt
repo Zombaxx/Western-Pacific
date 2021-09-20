@@ -1,0 +1,14 @@
+# 1575 - Kaliala
+
+# County Title
+title = c_kaliala
+
+# Settlements
+max_settlements = 3
+b_kaliala = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

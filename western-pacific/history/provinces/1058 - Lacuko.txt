@@ -1,0 +1,16 @@
+# 1058 - Lacuko
+
+# County Title
+title = c_lacuko
+
+# Settlements
+max_settlements = 4
+b_lacuko = castle
+b_abaahaul = temple
+b_bisork = city
+
+# Misc
+culture = basque
+religion = catholic
+
+# History

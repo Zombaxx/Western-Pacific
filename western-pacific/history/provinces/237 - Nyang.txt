@@ -1,0 +1,17 @@
+# 237 - Nyang
+
+# County Title
+title = c_nyang
+
+# Settlements
+max_settlements = 5
+b_nyang = castle
+b_larukee = temple
+b_rajukee = city
+b_wimick = castle
+
+# Misc
+culture = tangut
+religion = jain
+
+# History

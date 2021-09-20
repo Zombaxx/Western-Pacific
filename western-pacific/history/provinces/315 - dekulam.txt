@@ -1,5 +1,0 @@
-	title = c_dekulam
-	max_settlements = 2
-	culture = lappish
-	religion = catholic
-	b_qasuluk = tribal

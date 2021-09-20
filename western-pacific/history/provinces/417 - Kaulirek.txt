@@ -1,0 +1,15 @@
+# 417 - Kaulirek
+
+# County Title
+title = c_kaulirek
+
+# Settlements
+max_settlements = 3
+b_kaulirek = castle
+b_etekint = temple
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

@@ -1,0 +1,15 @@
+# 20 - Agevaani
+
+# County Title
+title = c_agevaani
+
+# Settlements
+max_settlements = 3
+b_agevaani = castle
+b_ekloger = temple
+
+# Misc
+culture = gujurati
+religion = hindu
+
+# History

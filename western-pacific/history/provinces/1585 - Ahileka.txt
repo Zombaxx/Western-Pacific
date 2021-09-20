@@ -1,0 +1,16 @@
+# 1585 - Ahileka
+
+# County Title
+title = c_ahileka
+
+# Settlements
+max_settlements = 4
+b_ahileka = castle
+b_wenarya = temple
+b_tiodos = city
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

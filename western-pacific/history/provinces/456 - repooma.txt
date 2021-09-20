@@ -1,5 +1,0 @@
-	title = c_repooma
-	max_settlements = 2
-	culture = mongol
-	religion = aztec
-	b_banjina = tribal

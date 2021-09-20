@@ -1,0 +1,17 @@
+# 142 - Taxeslav
+
+# County Title
+title = c_taxeslav
+
+# Settlements
+max_settlements = 5
+b_taxeslav = castle
+b_kogiss = temple
+b_runita = city
+b_totitya = castle
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

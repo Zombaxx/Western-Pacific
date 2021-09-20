@@ -1,0 +1,15 @@
+# 1389 - Kenijah
+
+# County Title
+title = c_kenijah
+
+# Settlements
+max_settlements = 3
+b_kenijah = castle
+b_aritaha = temple
+
+# Misc
+culture = english
+religion = catholic
+
+# History

@@ -1,0 +1,16 @@
+# 360 - Balayla
+
+# County Title
+title = c_balayla
+
+# Settlements
+max_settlements = 4
+b_balayla = castle
+b_batha = temple
+b_beram = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

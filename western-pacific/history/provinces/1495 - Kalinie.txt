@@ -1,0 +1,15 @@
+# 1495 - Kalinie
+
+# County Title
+title = c_kalinie
+
+# Settlements
+max_settlements = 7
+b_kalinie = tribal
+b_sarim = temple
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

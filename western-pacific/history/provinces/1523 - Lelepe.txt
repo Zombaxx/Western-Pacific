@@ -1,0 +1,15 @@
+# 1523 - Lelepe
+
+# County Title
+title = c_lelepe
+
+# Settlements
+max_settlements = 6
+b_lelepe = tribal
+b_sibeek = temple
+
+# Misc
+culture = nubian
+religion = catholic
+
+# History

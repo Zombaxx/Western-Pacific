@@ -1,0 +1,18 @@
+# 143 - Chennai
+
+# County Title
+title = c_chennai
+
+# Settlements
+max_settlements = 7
+b_chennai = castle
+b_aduropir = temple
+b_sameek = city
+b_wa = castle
+b_rorega = temple
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

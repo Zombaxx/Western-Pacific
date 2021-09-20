@@ -1,0 +1,16 @@
+# 516 - Saninge
+
+# County Title
+title = c_saninge
+
+# Settlements
+max_settlements = 4
+b_saninge = castle
+b_lelit = temple
+b_ericalis = city
+
+# Misc
+culture = tamil
+religion = bon
+
+# History

@@ -1,5 +1,0 @@
-	title = c_nyehulay
-	max_settlements = 2
-	culture = volhynian
-	religion = hindu
-	b_layanzu = tribal

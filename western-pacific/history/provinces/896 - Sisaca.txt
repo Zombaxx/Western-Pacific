@@ -1,0 +1,14 @@
+# 896 - Sisaca
+
+# County Title
+title = c_sisaca
+
+# Settlements
+max_settlements = 3
+b_sisaca = tribal
+
+# Misc
+culture = pictish
+religion = orthodox
+
+# History

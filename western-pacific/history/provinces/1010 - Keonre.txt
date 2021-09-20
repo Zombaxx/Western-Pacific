@@ -1,0 +1,14 @@
+# 1010 - Keonre
+
+# County Title
+title = c_keonre
+
+# Settlements
+max_settlements = 4
+b_keonre = tribal
+
+# Misc
+culture = greek
+religion = messalian
+
+# History

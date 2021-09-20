@@ -1,0 +1,17 @@
+# 502 - Ral
+
+# County Title
+title = c_ral
+
+# Settlements
+max_settlements = 5
+b_ral = castle
+b_terra_sirenum = temple
+b_kobawa = city
+b_lohanja = castle
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

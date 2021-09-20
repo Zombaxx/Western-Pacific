@@ -1,0 +1,14 @@
+# 1623 - Rerarda
+
+# County Title
+title = c_rerarda
+
+# Settlements
+max_settlements = 2
+b_rerarda = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

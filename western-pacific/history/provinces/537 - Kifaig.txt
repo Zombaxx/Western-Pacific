@@ -1,0 +1,16 @@
+# 537 - Kifaig
+
+# County Title
+title = c_kifaig
+
+# Settlements
+max_settlements = 4
+b_kifaig = castle
+b_budya = temple
+b_rabdoul = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

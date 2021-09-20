@@ -1,0 +1,14 @@
+# 933 - Raylua
+
+# County Title
+title = c_raylua
+
+# Settlements
+max_settlements = 1
+b_raylua = tribal
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

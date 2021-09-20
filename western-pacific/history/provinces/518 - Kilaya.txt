@@ -1,0 +1,16 @@
+# 518 - Kilaya
+
+# County Title
+title = c_kilaya
+
+# Settlements
+max_settlements = 4
+b_kilaya = castle
+b_tesho = temple
+b_losold = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

@@ -1,0 +1,14 @@
+# 820 - Walp
+
+# County Title
+title = c_walp
+
+# Settlements
+max_settlements = 3
+b_walp = tribal
+
+# Misc
+culture = greek
+religion = west_african_pagan
+
+# History

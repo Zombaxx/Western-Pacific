@@ -1,0 +1,14 @@
+# 1162 - Risatha
+
+# County Title
+title = c_risatha
+
+# Settlements
+max_settlements = 1
+b_risatha = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 615 - Agodalc
+
+# County Title
+title = c_agodalc
+
+# Settlements
+max_settlements = 2
+b_agodalc = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

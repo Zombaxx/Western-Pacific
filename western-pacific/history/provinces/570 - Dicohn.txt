@@ -1,0 +1,16 @@
+# 570 - Dicohn
+
+# County Title
+title = c_dicohn
+
+# Settlements
+max_settlements = 4
+b_dicohn = castle
+b_kinarya = temple
+b_kavarya = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

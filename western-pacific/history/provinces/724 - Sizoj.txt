@@ -1,0 +1,14 @@
+# 724 - Sizoj
+
+# County Title
+title = c_sizoj
+
+# Settlements
+max_settlements = 1
+b_sizoj = tribal
+
+# Misc
+culture = greek
+religion = zun_pagan
+
+# History

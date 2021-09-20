@@ -1,0 +1,16 @@
+# 1574 - Kehava
+
+# County Title
+title = c_kehava
+
+# Settlements
+max_settlements = 4
+b_kehava = castle
+b_siline = temple
+b_nojolad = city
+
+# Misc
+culture = norse
+religion = orthodox
+
+# History

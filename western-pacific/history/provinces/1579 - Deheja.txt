@@ -1,0 +1,16 @@
+# 1579 - Deheja
+
+# County Title
+title = c_deheja
+
+# Settlements
+max_settlements = 4
+b_deheja = castle
+b_abhion = temple
+b_wyagefr = city
+
+# Misc
+culture = mongol
+religion = orthodox
+
+# History

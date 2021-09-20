@@ -1,0 +1,17 @@
+# 213 - Keupawud
+
+# County Title
+title = c_keupawud
+
+# Settlements
+max_settlements = 5
+b_keupawud = castle
+b_bumunai = temple
+b_aniceis = city
+b_korohn = castle
+
+# Misc
+culture = bengali
+religion = shiite
+
+# History

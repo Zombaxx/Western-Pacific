@@ -1,0 +1,14 @@
+# 698 - Emoraran
+
+# County Title
+title = c_emoraran
+
+# Settlements
+max_settlements = 2
+b_emoraran = tribal
+
+# Misc
+culture = greek
+religion = zun_pagan
+
+# History

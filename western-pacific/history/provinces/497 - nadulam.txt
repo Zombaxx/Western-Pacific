@@ -1,5 +1,0 @@
-	title = c_nadulam
-	max_settlements = 2
-	culture = tamil
-	religion = manichean
-	b_deral = tribal

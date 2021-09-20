@@ -1,0 +1,14 @@
+# 446 - Tanabha
+
+# County Title
+title = c_tanabha
+
+# Settlements
+max_settlements = 2
+b_tanabha = castle
+
+# Misc
+culture = uyghur
+religion = bon
+
+# History

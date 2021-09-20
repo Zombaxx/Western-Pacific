@@ -1,5 +1,0 @@
-	title = c_wagunai
-	max_settlements = 2
-	culture = nepali
-	religion = taoist
-	b_rajudis = tribal

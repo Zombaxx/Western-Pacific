@@ -1,0 +1,14 @@
+# 1028 - Bawus
+
+# County Title
+title = c_bawus
+
+# Settlements
+max_settlements = 2
+b_bawus = tribal
+
+# Misc
+culture = greek
+religion = west_african_pagan
+
+# History

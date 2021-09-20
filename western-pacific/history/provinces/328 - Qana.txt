@@ -1,0 +1,16 @@
+# 328 - Qana
+
+# County Title
+title = c_qana
+
+# Settlements
+max_settlements = 4
+b_qana = castle
+b_satoda = temple
+b_buracob = city
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

@@ -1,0 +1,17 @@
+# 1514 - Lasaham
+
+# County Title
+title = c_lasaham
+
+# Settlements
+max_settlements = 5
+b_lasaham = castle
+b_qukac = temple
+b_sisukac = city
+b_nisija = castle
+
+# Misc
+culture = old_saxon
+religion = buddhist
+
+# History

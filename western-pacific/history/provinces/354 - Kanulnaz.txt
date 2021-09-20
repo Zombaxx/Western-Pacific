@@ -1,0 +1,15 @@
+# 354 - Kanulnaz
+
+# County Title
+title = c_kanulnaz
+
+# Settlements
+max_settlements = 3
+b_kanulnaz = castle
+b_qorake = temple
+
+# Misc
+culture = uyghur
+religion = bon
+
+# History

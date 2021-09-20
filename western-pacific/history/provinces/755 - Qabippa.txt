@@ -1,0 +1,14 @@
+# 755 - Qabippa
+
+# County Title
+title = c_qabippa
+
+# Settlements
+max_settlements = 1
+b_qabippa = tribal
+
+# Misc
+culture = greek
+religion = west_african_pagan
+
+# History

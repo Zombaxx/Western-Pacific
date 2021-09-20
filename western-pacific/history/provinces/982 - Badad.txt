@@ -1,0 +1,14 @@
+# 982 - Badad
+
+# County Title
+title = c_badad
+
+# Settlements
+max_settlements = 2
+b_badad = tribal
+
+# Misc
+culture = pictish
+religion = messalian
+
+# History

@@ -1,5 +1,0 @@
-	title = c_sulurga
-	max_settlements = 2
-	culture = telugu
-	religion = cathar
-	b_simon = tribal

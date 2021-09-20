@@ -1,0 +1,14 @@
+# 704 - Robyi
+
+# County Title
+title = c_robyi
+
+# Settlements
+max_settlements = 4
+b_robyi = tribal
+
+# Misc
+culture = khitan
+religion = sunni
+
+# History

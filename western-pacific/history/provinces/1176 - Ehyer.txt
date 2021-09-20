@@ -1,0 +1,15 @@
+# 1176 - Ehyer
+
+# County Title
+title = c_ehyer
+
+# Settlements
+max_settlements = 3
+b_ehyer = castle
+b_tediulf = temple
+
+# Misc
+culture = basque
+religion = west_african_pagan
+
+# History

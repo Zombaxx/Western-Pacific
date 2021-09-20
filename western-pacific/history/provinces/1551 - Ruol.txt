@@ -1,0 +1,14 @@
+# 1551 - Ruol
+
+# County Title
+title = c_ruol
+
+# Settlements
+max_settlements = 1
+b_ruol = tribal
+
+# Misc
+culture = norse
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 107 - Lemar
+
+# County Title
+title = c_lemar
+
+# Settlements
+max_settlements = 3
+b_lemar = castle
+b_alettil = temple
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

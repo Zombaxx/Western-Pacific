@@ -1,0 +1,17 @@
+# 9 - Derunnar
+
+# County Title
+title = c_derunnar
+
+# Settlements
+max_settlements = 6
+b_derunnar = castle
+b_dunahad = temple
+b_ezakille = city
+b_abelim = castle
+
+# Misc
+culture = sogdian
+religion = zoroastrian
+
+# History

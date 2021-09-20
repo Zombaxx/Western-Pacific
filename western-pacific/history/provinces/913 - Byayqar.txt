@@ -1,0 +1,14 @@
+# 913 - Byayqar
+
+# County Title
+title = c_byayqar
+
+# Settlements
+max_settlements = 4
+b_byayqar = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

@@ -1,0 +1,14 @@
+# 1047 - Lemir
+
+# County Title
+title = c_lemir
+
+# Settlements
+max_settlements = 1
+b_lemir = tribal
+
+# Misc
+culture = hausa
+religion = zun_pagan
+
+# History

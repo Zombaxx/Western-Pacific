@@ -1,0 +1,15 @@
+# 1263 - Roreras
+
+# County Title
+title = c_roreras
+
+# Settlements
+max_settlements = 3
+b_roreras = castle
+b_kuderas = temple
+
+# Misc
+culture = daju
+religion = messalian
+
+# History

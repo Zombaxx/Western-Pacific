@@ -1,0 +1,15 @@
+# 1142 - Rari
+
+# County Title
+title = c_rari
+
+# Settlements
+max_settlements = 3
+b_rari = castle
+b_lietith = temple
+
+# Misc
+culture = old_frankish
+religion = aztec
+
+# History

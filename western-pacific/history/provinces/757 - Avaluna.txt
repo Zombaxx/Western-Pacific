@@ -1,0 +1,17 @@
+# 757 - Avaluna
+
+# County Title
+title = c_avaluna
+
+# Settlements
+max_settlements = 5
+b_avaluna = castle
+b_erui = temple
+b_tithonium = city
+b_tithonium_chasma = castle
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History

@@ -1,0 +1,17 @@
+# 1518 - Latta
+
+# County Title
+title = c_latta
+
+# Settlements
+max_settlements = 6
+b_latta = castle
+b_siunelbo = temple
+b_selooma = city
+b_sohisa = castle
+
+# Misc
+culture = daju
+religion = orthodox
+
+# History

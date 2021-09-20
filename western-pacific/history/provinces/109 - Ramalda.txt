@@ -1,0 +1,16 @@
+# 109 - Ramalda
+
+# County Title
+title = c_ramalda
+
+# Settlements
+max_settlements = 4
+b_ramalda = castle
+b_lareth = temple
+b_sandu = city
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

@@ -1,0 +1,16 @@
+# 1473 - Tyao
+
+# County Title
+title = c_tyao
+
+# Settlements
+max_settlements = 4
+b_tyao = castle
+b_thaumasia_planum = temple
+b_thaumasian = city
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

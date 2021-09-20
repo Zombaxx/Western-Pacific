@@ -1,0 +1,16 @@
+# 351 - Eporodup
+
+# County Title
+title = c_eporodup
+
+# Settlements
+max_settlements = 4
+b_eporodup = castle
+b_ririda = temple
+b_kimerro = city
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

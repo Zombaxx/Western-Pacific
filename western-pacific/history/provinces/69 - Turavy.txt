@@ -1,0 +1,16 @@
+# 69 - Turavy
+
+# County Title
+title = c_turavy
+
+# Settlements
+max_settlements = 4
+b_turavy = castle
+b_qagoshi = temple
+b_wedigo = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

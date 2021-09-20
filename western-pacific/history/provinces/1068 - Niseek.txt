@@ -1,0 +1,15 @@
+# 1068 - Niseek
+
+# County Title
+title = c_niseek
+
+# Settlements
+max_settlements = 5
+b_niseek = temple
+b_tunepi = tribal
+
+# Misc
+culture = nubian
+religion = orthodox
+
+# History

@@ -1,0 +1,16 @@
+# 1332 - Wukee
+
+# County Title
+title = c_wukee
+
+# Settlements
+max_settlements = 4
+b_wukee = castle
+b_eyei = temple
+b_ragesha = city
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

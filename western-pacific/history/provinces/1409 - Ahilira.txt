@@ -1,0 +1,14 @@
+# 1409 - Ahilira
+
+# County Title
+title = c_ahilira
+
+# Settlements
+max_settlements = 4
+b_ahilira = tribal
+
+# Misc
+culture = pictish
+religion = orthodox
+
+# History

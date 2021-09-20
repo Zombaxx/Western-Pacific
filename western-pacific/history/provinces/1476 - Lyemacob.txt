@@ -1,0 +1,15 @@
+# 1476 - Lyemacob
+
+# County Title
+title = c_lyemacob
+
+# Settlements
+max_settlements = 3
+b_lyemacob = castle
+b_rekuray = temple
+
+# Misc
+culture = saxon
+religion = fraticelli
+
+# History

@@ -1,0 +1,16 @@
+# 1481 - Kulane
+
+# County Title
+title = c_kulane
+
+# Settlements
+max_settlements = 4
+b_kulane = castle
+b_lawane = temple
+b_dividis = city
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

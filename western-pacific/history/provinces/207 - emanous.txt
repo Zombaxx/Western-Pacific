@@ -1,5 +1,0 @@
-	title = c_emanous
-	max_settlements = 2
-	culture = saxon
-	religion = baltic_pagan_reformed
-	b_dur = tribal

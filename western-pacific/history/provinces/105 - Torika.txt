@@ -1,0 +1,17 @@
+# 105 - Torika
+
+# County Title
+title = c_torika
+
+# Settlements
+max_settlements = 5
+b_torika = castle
+b_rinurd = temple
+b_topluk = city
+b_belme = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

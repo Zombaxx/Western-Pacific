@@ -1,0 +1,14 @@
+# 841 - Kelite
+
+# County Title
+title = c_kelite
+
+# Settlements
+max_settlements = 3
+b_kelite = tribal
+
+# Misc
+culture = hausa
+religion = aztec
+
+# History

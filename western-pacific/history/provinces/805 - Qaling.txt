@@ -1,0 +1,14 @@
+# 805 - Qaling
+
+# County Title
+title = c_qaling
+
+# Settlements
+max_settlements = 2
+b_qaling = castle
+
+# Misc
+culture = bodpa
+religion = catholic
+
+# History

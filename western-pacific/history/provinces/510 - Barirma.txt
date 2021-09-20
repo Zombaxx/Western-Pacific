@@ -1,0 +1,16 @@
+# 510 - Barirma
+
+# County Title
+title = c_barirma
+
+# Settlements
+max_settlements = 4
+b_barirma = castle
+b_risoger = temple
+b_emaba = city
+
+# Misc
+culture = tamil
+religion = bon
+
+# History

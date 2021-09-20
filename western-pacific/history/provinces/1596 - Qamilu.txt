@@ -1,0 +1,17 @@
+# 1596 - Qamilu
+
+# County Title
+title = c_qamilu
+
+# Settlements
+max_settlements = 5
+b_qamilu = castle
+b_ribura = temple
+b_tibila = city
+b_sagecca = castle
+
+# Misc
+culture = nahuatl
+religion = west_african_pagan
+
+# History

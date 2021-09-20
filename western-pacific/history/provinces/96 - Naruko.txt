@@ -1,0 +1,17 @@
+# 96 - Naruko
+
+# County Title
+title = c_naruko
+
+# Settlements
+max_settlements = 5
+b_naruko = castle
+b_wananga = temple
+b_esuvund = city
+b_rolke = castle
+
+# Misc
+culture = hindustani
+religion = jain
+
+# History

@@ -1,0 +1,16 @@
+# 1128 - Kekonli
+
+# County Title
+title = c_kekonli
+
+# Settlements
+max_settlements = 4
+b_kekonli = castle
+b_solecco = temple
+b_raymateh = city
+
+# Misc
+culture = basque
+religion = norse_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 947 - Delevi
+
+# County Title
+title = c_delevi
+
+# Settlements
+max_settlements = 5
+b_delevi = tribal
+b_etatira = temple
+
+# Misc
+culture = kanuri
+religion = orthodox
+
+# History

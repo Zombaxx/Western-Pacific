@@ -1,0 +1,17 @@
+# 1457 - Lyea
+
+# County Title
+title = c_lyea
+
+# Settlements
+max_settlements = 6
+b_lyea = castle
+b_reaqar = temple
+b_doitana = city
+b_debaqar = castle
+
+# Misc
+culture = nubian
+religion = catholic
+
+# History

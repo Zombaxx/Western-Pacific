@@ -1,0 +1,16 @@
+# 872 - Kuca
+
+# County Title
+title = c_kuca
+
+# Settlements
+max_settlements = 4
+b_kuca = castle
+b_kohokia = temple
+b_rucoke = city
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

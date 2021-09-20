@@ -1,0 +1,14 @@
+# 1626 - Setuvje
+
+# County Title
+title = c_setuvje
+
+# Settlements
+max_settlements = 4
+b_setuvje = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

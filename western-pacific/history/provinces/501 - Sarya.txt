@@ -1,0 +1,16 @@
+# 501 - Sarya
+
+# County Title
+title = c_sarya
+
+# Settlements
+max_settlements = 4
+b_sarya = castle
+b_aline = temple
+b_ralata = city
+
+# Misc
+culture = tamil
+religion = buddhist
+
+# History

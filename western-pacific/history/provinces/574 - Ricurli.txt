@@ -1,0 +1,17 @@
+# 574 - Ricurli
+
+# County Title
+title = c_ricurli
+
+# Settlements
+max_settlements = 5
+b_ricurli = castle
+b_elokha = temple
+b_kotya = city
+b_tios = castle
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

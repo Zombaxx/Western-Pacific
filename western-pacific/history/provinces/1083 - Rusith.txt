@@ -1,0 +1,14 @@
+# 1083 - Rusith
+
+# County Title
+title = c_rusith
+
+# Settlements
+max_settlements = 3
+b_rusith = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

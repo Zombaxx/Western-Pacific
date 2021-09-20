@@ -1,0 +1,17 @@
+# 92 - Nanodia
+
+# County Title
+title = c_nanodia
+
+# Settlements
+max_settlements = 5
+b_nanodia = castle
+b_tamita = temple
+b_wagelmo = city
+b_kaboshi = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

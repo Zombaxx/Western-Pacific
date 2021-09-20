@@ -1,0 +1,14 @@
+# 730 - Tiel
+
+# County Title
+title = c_tiel
+
+# Settlements
+max_settlements = 3
+b_tiel = tribal
+
+# Misc
+culture = visigothic
+religion = orthodox
+
+# History

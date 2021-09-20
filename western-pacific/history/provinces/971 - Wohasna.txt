@@ -1,0 +1,14 @@
+# 971 - Wohasna
+
+# County Title
+title = c_wohasna
+
+# Settlements
+max_settlements = 4
+b_wohasna = tribal
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

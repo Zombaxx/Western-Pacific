@@ -1,0 +1,14 @@
+# 497 - Amalibad
+
+# County Title
+title = c_amalibad
+
+# Settlements
+max_settlements = 2
+b_amalibad = castle
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

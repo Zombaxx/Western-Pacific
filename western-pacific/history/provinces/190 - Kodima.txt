@@ -1,0 +1,17 @@
+# 190 - Kodima
+
+# County Title
+title = c_kodima
+
+# Settlements
+max_settlements = 5
+b_kodima = castle
+b_sakerge = temple
+b_talati = city
+b_tatili = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,14 @@
+# 951 - Kuratka
+
+# County Title
+title = c_kuratka
+
+# Settlements
+max_settlements = 4
+b_kuratka = tribal
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

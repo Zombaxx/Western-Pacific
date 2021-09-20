@@ -1,0 +1,14 @@
+# 945 - Ewiloshi
+
+# County Title
+title = c_ewiloshi
+
+# Settlements
+max_settlements = 3
+b_ewiloshi = tribal
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

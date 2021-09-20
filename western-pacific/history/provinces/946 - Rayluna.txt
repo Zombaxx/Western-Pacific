@@ -1,0 +1,15 @@
+# 946 - Rayluna
+
+# County Title
+title = c_rayluna
+
+# Settlements
+max_settlements = 5
+b_rayluna = tribal
+b_atoyaki = temple
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 1527 - Delgil
+
+# County Title
+title = c_delgil
+
+# Settlements
+max_settlements = 6
+b_delgil = tribal
+b_ajagalo = temple
+
+# Misc
+culture = daju
+religion = catholic
+
+# History

@@ -1,0 +1,17 @@
+# 640 - Waleyao
+
+# County Title
+title = c_waleyao
+
+# Settlements
+max_settlements = 5
+b_waleyao = castle
+b_tatani = temple
+b_laliel = city
+b_kaclav = castle
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

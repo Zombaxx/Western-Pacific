@@ -1,0 +1,14 @@
+# 1062 - Warogs
+
+# County Title
+title = c_warogs
+
+# Settlements
+max_settlements = 2
+b_warogs = tribal
+
+# Misc
+culture = greek
+religion = west_african_pagan
+
+# History

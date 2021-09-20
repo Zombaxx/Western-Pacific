@@ -1,0 +1,14 @@
+# 1426 - Rorila
+
+# County Title
+title = c_rorila
+
+# Settlements
+max_settlements = 3
+b_rorila = tribal
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History

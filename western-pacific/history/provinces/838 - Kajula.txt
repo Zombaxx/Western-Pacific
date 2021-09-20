@@ -1,0 +1,14 @@
+# 838 - Kajula
+
+# County Title
+title = c_kajula
+
+# Settlements
+max_settlements = 1
+b_kajula = tribal
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

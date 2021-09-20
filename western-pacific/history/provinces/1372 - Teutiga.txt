@@ -1,0 +1,14 @@
+# 1372 - Teutiga
+
+# County Title
+title = c_teutiga
+
+# Settlements
+max_settlements = 3
+b_teutiga = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

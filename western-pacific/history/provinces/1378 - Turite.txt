@@ -1,0 +1,14 @@
+# 1378 - Turite
+
+# County Title
+title = c_turite
+
+# Settlements
+max_settlements = 2
+b_turite = castle
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

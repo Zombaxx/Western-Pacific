@@ -1,0 +1,14 @@
+# 1424 - Roratha
+
+# County Title
+title = c_roratha
+
+# Settlements
+max_settlements = 3
+b_roratha = tribal
+
+# Misc
+culture = old_saxon
+religion = orthodox
+
+# History

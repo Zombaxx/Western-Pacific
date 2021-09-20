@@ -1,0 +1,14 @@
+# 1244 - Tereka
+
+# County Title
+title = c_tereka
+
+# Settlements
+max_settlements = 2
+b_tereka = castle
+
+# Misc
+culture = basque
+religion = west_african_pagan
+
+# History

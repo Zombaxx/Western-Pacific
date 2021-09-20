@@ -1,0 +1,14 @@
+# 303 - Kadecca
+
+# County Title
+title = c_kadecca
+
+# Settlements
+max_settlements = 2
+b_kadecca = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

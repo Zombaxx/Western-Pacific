@@ -1,0 +1,14 @@
+# 881 - Reorge
+
+# County Title
+title = c_reorge
+
+# Settlements
+max_settlements = 2
+b_reorge = tribal
+
+# Misc
+culture = kanuri
+religion = aztec
+
+# History

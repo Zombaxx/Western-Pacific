@@ -1,5 +1,0 @@
-	title = c_karohn
-	max_settlements = 2
-	culture = roman
-	religion = norse_pagan
-	b_tarilay = tribal

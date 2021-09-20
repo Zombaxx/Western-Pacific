@@ -1,0 +1,14 @@
+# 996 - Sudak
+
+# County Title
+title = c_sudak
+
+# Settlements
+max_settlements = 4
+b_sudak = tribal
+
+# Misc
+culture = greek
+religion = catholic
+
+# History

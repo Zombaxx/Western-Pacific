@@ -1,0 +1,14 @@
+# 1248 - Datugun
+
+# County Title
+title = c_datugun
+
+# Settlements
+max_settlements = 1
+b_datugun = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 1311 - Qedeis
+
+# County Title
+title = c_qedeis
+
+# Settlements
+max_settlements = 5
+b_qedeis = tribal
+b_dakourou = temple
+
+# Misc
+culture = assyrian
+religion = catholic
+
+# History

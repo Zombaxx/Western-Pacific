@@ -1,5 +1,0 @@
-	title = c_qinn
-	max_settlements = 2
-	culture = ethiopian
-	religion = kharijite
-	b_denna = tribal

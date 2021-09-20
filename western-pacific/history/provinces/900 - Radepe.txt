@@ -1,0 +1,14 @@
+# 900 - Radepe
+
+# County Title
+title = c_radepe
+
+# Settlements
+max_settlements = 2
+b_radepe = tribal
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

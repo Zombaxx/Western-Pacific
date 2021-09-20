@@ -1,0 +1,14 @@
+# 783 - Nazahtu
+
+# County Title
+title = c_nazahtu
+
+# Settlements
+max_settlements = 1
+b_nazahtu = tribal
+
+# Misc
+culture = alan
+religion = messalian
+
+# History

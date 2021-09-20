@@ -1,0 +1,14 @@
+# 969 - Tiavid
+
+# County Title
+title = c_tiavid
+
+# Settlements
+max_settlements = 1
+b_tiavid = tribal
+
+# Misc
+culture = pictish
+religion = messalian
+
+# History

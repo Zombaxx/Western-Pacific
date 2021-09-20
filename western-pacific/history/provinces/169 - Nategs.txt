@@ -1,0 +1,17 @@
+# 169 - Nategs
+
+# County Title
+title = c_nategs
+
+# Settlements
+max_settlements = 5
+b_nategs = castle
+b_tudyla = temple
+b_ryilodu = city
+b_taneike = castle
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

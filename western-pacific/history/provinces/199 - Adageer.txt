@@ -1,0 +1,17 @@
+# 199 - Adageer
+
+# County Title
+title = c_adageer
+
+# Settlements
+max_settlements = 5
+b_adageer = castle
+b_dakenda = temple
+b_esee = city
+b_ryeju = castle
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

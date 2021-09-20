@@ -1,0 +1,14 @@
+916.1.1 = {
+	holding_dynasty = 107800 # Erasia - makes this a FAMILY_PALACE type Holding
+	liege="d_taipei"
+	holder = 107800
+}
+995.1.1 = {
+	holder = 107801
+}
+1029.1.1 = {
+	holder = 107802
+}
+1052.1.1 = {
+	holder = 107805
+}

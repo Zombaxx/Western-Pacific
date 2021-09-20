@@ -1,0 +1,15 @@
+# 389 - Kobara
+
+# County Title
+title = c_kobara
+
+# Settlements
+max_settlements = 3
+b_kobara = castle
+b_ruzei = temple
+
+# Misc
+culture = telugu
+religion = sunni
+
+# History

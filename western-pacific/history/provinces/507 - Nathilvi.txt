@@ -1,0 +1,16 @@
+# 507 - Nathilvi
+
+# County Title
+title = c_nathilvi
+
+# Settlements
+max_settlements = 4
+b_nathilvi = castle
+b_bebinn = temple
+b_teonita = city
+
+# Misc
+culture = nepali
+religion = shiite
+
+# History

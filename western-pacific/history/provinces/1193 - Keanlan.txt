@@ -1,0 +1,14 @@
+# 1193 - Keanlan
+
+# County Title
+title = c_keanlan
+
+# Settlements
+max_settlements = 1
+b_keanlan = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

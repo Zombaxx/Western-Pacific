@@ -1,0 +1,15 @@
+# 628 - Kadalda
+
+# County Title
+title = c_kadalda
+
+# Settlements
+max_settlements = 3
+b_kadalda = castle
+b_saconne = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

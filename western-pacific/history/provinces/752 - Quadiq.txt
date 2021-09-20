@@ -1,0 +1,14 @@
+# 752 - Quadiq
+
+# County Title
+title = c_quadiq
+
+# Settlements
+max_settlements = 4
+b_quadiq = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

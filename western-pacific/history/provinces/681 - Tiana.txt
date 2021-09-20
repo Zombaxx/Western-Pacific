@@ -1,0 +1,15 @@
+# 681 - Tiana
+
+# County Title
+title = c_tiana
+
+# Settlements
+max_settlements = 3
+b_tiana = castle
+b_abakahtu = temple
+
+# Misc
+culture = visigothic
+religion = aztec
+
+# History

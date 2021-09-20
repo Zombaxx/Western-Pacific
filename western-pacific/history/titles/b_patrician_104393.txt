@@ -1,0 +1,5 @@
+1062.1.1 = {
+	holding_dynasty = 104393 # Bandakla - makes this a FAMILY_PALACE type Holding
+	liege="d_komahar"
+	holder = 208790
+}

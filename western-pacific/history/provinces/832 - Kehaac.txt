@@ -1,0 +1,14 @@
+# 832 - Kehaac
+
+# County Title
+title = c_kehaac
+
+# Settlements
+max_settlements = 3
+b_kehaac = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

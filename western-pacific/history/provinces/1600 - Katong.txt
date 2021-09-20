@@ -1,0 +1,16 @@
+# 1600 - Katong
+
+# County Title
+title = c_katong
+
+# Settlements
+max_settlements = 4
+b_katong = castle
+b_rinudan = temple
+b_dabalih = city
+
+# Misc
+culture = nahuatl
+religion = west_african_pagan
+
+# History

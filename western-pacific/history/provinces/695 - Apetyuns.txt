@@ -1,0 +1,15 @@
+# 695 - Apetyuns
+
+# County Title
+title = c_apetyuns
+
+# Settlements
+max_settlements = 5
+b_apetyuns = tribal
+b_nokoses = temple
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 475 - Nasia
+
+# County Title
+title = c_nasia
+
+# Settlements
+max_settlements = 3
+b_nasia = castle
+b_bolopher = temple
+
+# Misc
+culture = han
+religion = buddhist
+
+# History

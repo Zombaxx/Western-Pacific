@@ -1,0 +1,16 @@
+# 186 - Tanippin
+
+# County Title
+title = c_tanippin
+
+# Settlements
+max_settlements = 4
+b_tanippin = castle
+b_loj = temple
+b_lerolas = city
+
+# Misc
+culture = bengali
+religion = hindu
+
+# History

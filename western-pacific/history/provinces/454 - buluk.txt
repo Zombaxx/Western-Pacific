@@ -1,5 +1,0 @@
-	title = c_buluk
-	max_settlements = 2
-	culture = saxon
-	religion = druze
-	b_wanomas = tribal

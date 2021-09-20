@@ -1,0 +1,15 @@
+# 536 - Luleyao
+
+# County Title
+title = c_luleyao
+
+# Settlements
+max_settlements = 3
+b_luleyao = castle
+b_amaud = temple
+
+# Misc
+culture = han
+religion = catholic
+
+# History

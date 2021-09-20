@@ -1,0 +1,16 @@
+# 754 - Darida
+
+# County Title
+title = c_darida
+
+# Settlements
+max_settlements = 4
+b_darida = castle
+b_leoruji = temple
+b_kenukar = city
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

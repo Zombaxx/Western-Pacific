@@ -1,0 +1,16 @@
+# 578 - Tanael
+
+# County Title
+title = c_tanael
+
+# Settlements
+max_settlements = 4
+b_tanael = castle
+b_nivashi = temple
+b_lathirma = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

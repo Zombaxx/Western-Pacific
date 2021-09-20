@@ -1,0 +1,14 @@
+# 869 - Raadert
+
+# County Title
+title = c_raadert
+
+# Settlements
+max_settlements = 1
+b_raadert = tribal
+
+# Misc
+culture = pictish
+religion = messalian
+
+# History

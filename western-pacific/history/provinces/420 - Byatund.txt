@@ -1,0 +1,16 @@
+# 420 - Byatund
+
+# County Title
+title = c_byatund
+
+# Settlements
+max_settlements = 4
+b_byatund = castle
+b_neinusz = temple
+b_kuceya = city
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

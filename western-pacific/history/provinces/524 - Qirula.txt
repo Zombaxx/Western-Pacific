@@ -1,0 +1,15 @@
+# 524 - Qirula
+
+# County Title
+title = c_qirula
+
+# Settlements
+max_settlements = 3
+b_qirula = castle
+b_waleka = temple
+
+# Misc
+culture = tamil
+religion = bon
+
+# History

@@ -1,0 +1,14 @@
+# 1569 - Sonani
+
+# County Title
+title = c_sonani
+
+# Settlements
+max_settlements = 4
+b_sonani = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

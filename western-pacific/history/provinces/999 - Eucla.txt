@@ -1,0 +1,15 @@
+# 999 - Eucla
+
+# County Title
+title = c_eucla
+
+# Settlements
+max_settlements = 3
+b_eucla = tribal
+b_dohulay = temple
+
+# Misc
+culture = pictish
+religion = messalian
+
+# History

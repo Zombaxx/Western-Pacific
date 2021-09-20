@@ -1,0 +1,14 @@
+# 1460 - Wuuluis
+
+# County Title
+title = c_wuuluis
+
+# Settlements
+max_settlements = 4
+b_wuuluis = tribal
+
+# Misc
+culture = old_saxon
+religion = orthodox
+
+# History

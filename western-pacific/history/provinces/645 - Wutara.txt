@@ -1,0 +1,16 @@
+# 645 - Wutara
+
+# County Title
+title = c_wutara
+
+# Settlements
+max_settlements = 4
+b_wutara = castle
+b_egivaula = temple
+b_davara = city
+
+# Misc
+culture = nepali
+religion = sunni
+
+# History

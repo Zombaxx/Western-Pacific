@@ -1,0 +1,14 @@
+# 777 - Titint
+
+# County Title
+title = c_titint
+
+# Settlements
+max_settlements = 3
+b_titint = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

@@ -1,0 +1,15 @@
+# 1094 - Dainila
+
+# County Title
+title = c_dainila
+
+# Settlements
+max_settlements = 3
+b_dainila = castle
+b_alant = temple
+
+# Misc
+culture = basque
+religion = zun_pagan
+
+# History

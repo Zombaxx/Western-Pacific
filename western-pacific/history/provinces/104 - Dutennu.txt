@@ -1,0 +1,16 @@
+# 104 - Dutennu
+
+# County Title
+title = c_dutennu
+
+# Settlements
+max_settlements = 4
+b_dutennu = castle
+b_qeubka = temple
+b_ronazi = city
+
+# Misc
+culture = marathi
+religion = buddhist
+
+# History

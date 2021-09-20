@@ -1,5 +1,0 @@
-	title = c_ekusaul
-	max_settlements = 2
-	culture = serbian
-	religion = interface_skin
-	b_rajyeju = tribal

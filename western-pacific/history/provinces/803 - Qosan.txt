@@ -1,0 +1,14 @@
+# 803 - Qosan
+
+# County Title
+title = c_qosan
+
+# Settlements
+max_settlements = 1
+b_qosan = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

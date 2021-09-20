@@ -1,0 +1,15 @@
+# 693 - Danelbo
+
+# County Title
+title = c_danelbo
+
+# Settlements
+max_settlements = 4
+b_danelbo = tribal
+b_sopher = temple
+
+# Misc
+culture = sumpa
+religion = orthodox
+
+# History

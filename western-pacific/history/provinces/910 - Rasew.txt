@@ -1,0 +1,14 @@
+# 910 - Rasew
+
+# County Title
+title = c_rasew
+
+# Settlements
+max_settlements = 4
+b_rasew = tribal
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

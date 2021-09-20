@@ -1,0 +1,15 @@
+# 1054 - Derong
+
+# County Title
+title = c_derong
+
+# Settlements
+max_settlements = 5
+b_derong = tribal
+b_keminga = temple
+
+# Misc
+culture = greek
+religion = orthodox
+
+# History

@@ -1,0 +1,16 @@
+# 448 - Kyakt
+
+# County Title
+title = c_kyakt
+
+# Settlements
+max_settlements = 4
+b_kyakt = castle
+b_karuliu = temple
+b_losye = city
+
+# Misc
+culture = uyghur
+religion = bon
+
+# History

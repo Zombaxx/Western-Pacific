@@ -1,0 +1,16 @@
+# 403 - Wotani
+
+# County Title
+title = c_wotani
+
+# Settlements
+max_settlements = 4
+b_wotani = castle
+b_tatane = temple
+b_sekoul = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

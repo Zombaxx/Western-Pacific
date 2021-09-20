@@ -1,0 +1,14 @@
+# 248 - Sampsiceramia
+
+# County Title
+title = c_sampsiceramia
+
+# Settlements
+max_settlements = 3
+b_sampsiceramia = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

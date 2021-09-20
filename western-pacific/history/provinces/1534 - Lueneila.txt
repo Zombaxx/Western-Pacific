@@ -1,0 +1,14 @@
+# 1534 - Lueneila
+
+# County Title
+title = c_lueneila
+
+# Settlements
+max_settlements = 2
+b_lueneila = tribal
+
+# Misc
+culture = nahuatl
+religion = west_african_pagan
+
+# History

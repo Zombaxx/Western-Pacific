@@ -1,0 +1,14 @@
+# 1368 - Ejayaman
+
+# County Title
+title = c_ejayaman
+
+# Settlements
+max_settlements = 3
+b_ejayaman = tribal
+
+# Misc
+culture = saxon
+religion = orthodox
+
+# History

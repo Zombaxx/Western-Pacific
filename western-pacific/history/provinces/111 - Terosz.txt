@@ -1,0 +1,17 @@
+# 111 - Terosz
+
+# County Title
+title = c_terosz
+
+# Settlements
+max_settlements = 5
+b_terosz = castle
+b_dating = temple
+b_kosora = city
+b_dunin = castle
+
+# Misc
+culture = marathi
+religion = hindu
+
+# History

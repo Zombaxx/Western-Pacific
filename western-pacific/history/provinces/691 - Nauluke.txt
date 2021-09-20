@@ -1,0 +1,15 @@
+# 691 - Nauluke
+
+# County Title
+title = c_nauluke
+
+# Settlements
+max_settlements = 3
+b_nauluke = castle
+b_qavoras = temple
+
+# Misc
+culture = alan
+religion = tengri_pagan
+
+# History

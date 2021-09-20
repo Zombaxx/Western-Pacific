@@ -1,0 +1,14 @@
+# 1358 - Kahoras
+
+# County Title
+title = c_kahoras
+
+# Settlements
+max_settlements = 2
+b_kahoras = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

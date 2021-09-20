@@ -1,0 +1,16 @@
+# 84 - Qeleig
+
+# County Title
+title = c_qeleig
+
+# Settlements
+max_settlements = 4
+b_qeleig = castle
+b_esaka = temple
+b_riolefr = city
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

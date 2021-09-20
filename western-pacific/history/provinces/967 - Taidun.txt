@@ -1,0 +1,14 @@
+# 967 - Taidun
+
+# County Title
+title = c_taidun
+
+# Settlements
+max_settlements = 1
+b_taidun = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

@@ -1,0 +1,14 @@
+# 917 - Rafiy
+
+# County Title
+title = c_rafiy
+
+# Settlements
+max_settlements = 3
+b_rafiy = tribal
+
+# Misc
+culture = pictish
+religion = orthodox
+
+# History

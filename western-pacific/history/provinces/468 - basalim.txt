@@ -1,5 +1,0 @@
-	title = c_basalim
-	max_settlements = 2
-	culture = tocharian
-	religion = iconoclast
-	b_qutas = tribal

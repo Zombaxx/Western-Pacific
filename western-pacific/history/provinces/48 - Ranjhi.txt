@@ -1,0 +1,16 @@
+# 48 - Ranjhi
+
+# County Title
+title = c_ranjhi
+
+# Settlements
+max_settlements = 4
+b_ranjhi = castle
+b_larard = temple
+b_tefisa = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

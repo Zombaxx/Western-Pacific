@@ -1,0 +1,14 @@
+# 1136 - Sartoan
+
+# County Title
+title = c_sartoan
+
+# Settlements
+max_settlements = 1
+b_sartoan = tribal
+
+# Misc
+culture = basque
+religion = west_african_pagan
+
+# History

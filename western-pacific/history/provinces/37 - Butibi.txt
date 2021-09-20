@@ -1,0 +1,16 @@
+# 37 - Butibi
+
+# County Title
+title = c_butibi
+
+# Settlements
+max_settlements = 4
+b_butibi = castle
+b_erajahar = temple
+b_daasar = city
+
+# Misc
+culture = sogdian
+religion = zoroastrian
+
+# History

@@ -1,0 +1,16 @@
+# 1497 - Lehava
+
+# County Title
+title = c_lehava
+
+# Settlements
+max_settlements = 4
+b_lehava = castle
+b_qidita = temple
+b_rawoj = city
+
+# Misc
+culture = old_saxon
+religion = orthodox
+
+# History

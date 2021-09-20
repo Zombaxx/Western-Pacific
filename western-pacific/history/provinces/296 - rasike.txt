@@ -1,5 +1,0 @@
-	title = c_rasike
-	max_settlements = 2
-	culture = ashkenazi
-	religion = pagan
-	b_dacike = tribal

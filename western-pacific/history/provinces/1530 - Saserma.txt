@@ -1,0 +1,14 @@
+# 1530 - Saserma
+
+# County Title
+title = c_saserma
+
+# Settlements
+max_settlements = 3
+b_saserma = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

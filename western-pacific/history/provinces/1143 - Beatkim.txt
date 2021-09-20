@@ -1,0 +1,14 @@
+# 1143 - Beatkim
+
+# County Title
+title = c_beatkim
+
+# Settlements
+max_settlements = 3
+b_beatkim = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

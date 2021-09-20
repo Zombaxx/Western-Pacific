@@ -1,0 +1,14 @@
+# 302 - Kaluzniq
+
+# County Title
+title = c_kaluzniq
+
+# Settlements
+max_settlements = 2
+b_kaluzniq = castle
+
+# Misc
+culture = tangut
+religion = bon
+
+# History

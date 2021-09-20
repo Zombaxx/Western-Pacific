@@ -1,0 +1,16 @@
+# 540 - Nenile
+
+# County Title
+title = c_nenile
+
+# Settlements
+max_settlements = 4
+b_nenile = castle
+b_rarons = temple
+b_riubiz = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

@@ -1,0 +1,16 @@
+# 630 - Kedeyao
+
+# County Title
+title = c_kedeyao
+
+# Settlements
+max_settlements = 4
+b_kedeyao = castle
+b_kedinie = temple
+b_rarawud = city
+
+# Misc
+culture = han
+religion = orthodox
+
+# History

@@ -1,0 +1,15 @@
+# 1421 - Dizizqui
+
+# County Title
+title = c_dizizqui
+
+# Settlements
+max_settlements = 3
+b_dizizqui = castle
+b_tawina = temple
+
+# Misc
+culture = norse
+religion = orthodox
+
+# History

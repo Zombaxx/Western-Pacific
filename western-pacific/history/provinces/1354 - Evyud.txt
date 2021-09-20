@@ -1,0 +1,14 @@
+# 1354 - Evyud
+
+# County Title
+title = c_evyud
+
+# Settlements
+max_settlements = 2
+b_evyud = tribal
+
+# Misc
+culture = pictish
+religion = orthodox
+
+# History

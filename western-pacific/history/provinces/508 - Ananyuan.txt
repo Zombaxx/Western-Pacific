@@ -1,0 +1,17 @@
+# 508 - Ananyuan
+
+# County Title
+title = c_ananyuan
+
+# Settlements
+max_settlements = 5
+b_ananyuan = castle
+b_kekudis = temple
+b_lalaja = city
+b_qeilana = castle
+
+# Misc
+culture = telugu
+religion = buddhist
+
+# History

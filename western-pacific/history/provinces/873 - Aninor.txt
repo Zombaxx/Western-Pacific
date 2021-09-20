@@ -1,0 +1,14 @@
+# 873 - Aninor
+
+# County Title
+title = c_aninor
+
+# Settlements
+max_settlements = 3
+b_aninor = tribal
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

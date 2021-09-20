@@ -1,0 +1,16 @@
+# 852 - Begevi
+
+# County Title
+title = c_begevi
+
+# Settlements
+max_settlements = 4
+b_begevi = castle
+b_edegoshi = temple
+b_qelui = city
+
+# Misc
+culture = sumpa
+religion = catholic
+
+# History

@@ -1,0 +1,17 @@
+# 1576 - Kimema
+
+# County Title
+title = c_kimema
+
+# Settlements
+max_settlements = 5
+b_kimema = castle
+b_acawinus = temple
+b_nikama = city
+b_nevandi = castle
+
+# Misc
+culture = mongol
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 687 - Tisna
+
+# County Title
+title = c_tisna
+
+# Settlements
+max_settlements = 2
+b_tisna = castle
+
+# Misc
+culture = alan
+religion = aztec
+
+# History

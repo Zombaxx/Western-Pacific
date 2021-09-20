@@ -1,0 +1,14 @@
+# 1300 - Kedela
+
+# County Title
+title = c_kedela
+
+# Settlements
+max_settlements = 1
+b_kedela = tribal
+
+# Misc
+culture = pictish
+religion = aztec
+
+# History

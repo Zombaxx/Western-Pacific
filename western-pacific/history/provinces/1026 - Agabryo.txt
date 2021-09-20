@@ -1,0 +1,14 @@
+# 1026 - Agabryo
+
+# County Title
+title = c_agabryo
+
+# Settlements
+max_settlements = 3
+b_agabryo = tribal
+
+# Misc
+culture = basque
+religion = catholic
+
+# History

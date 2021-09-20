@@ -1,0 +1,16 @@
+# 1517 - Epatend
+
+# County Title
+title = c_epatend
+
+# Settlements
+max_settlements = 4
+b_epatend = castle
+b_nivasia = temple
+b_tolana = city
+
+# Misc
+culture = crimean_gothic
+religion = tengri_pagan
+
+# History

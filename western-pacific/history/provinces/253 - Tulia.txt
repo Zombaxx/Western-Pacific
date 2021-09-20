@@ -1,0 +1,16 @@
+# 253 - Tulia
+
+# County Title
+title = c_tulia
+
+# Settlements
+max_settlements = 4
+b_tulia = castle
+b_talilia = temple
+b_kerilia = city
+
+# Misc
+culture = tangut
+religion = jain
+
+# History

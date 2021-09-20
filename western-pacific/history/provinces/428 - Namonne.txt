@@ -1,0 +1,16 @@
+# 428 - Namonne
+
+# County Title
+title = c_namonne
+
+# Settlements
+max_settlements = 4
+b_namonne = castle
+b_kateike = temple
+b_lutoch = city
+
+# Misc
+culture = zhangzhung
+religion = sunni
+
+# History

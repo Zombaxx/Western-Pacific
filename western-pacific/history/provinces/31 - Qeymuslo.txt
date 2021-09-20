@@ -1,0 +1,16 @@
+# 31 - Qeymuslo
+
+# County Title
+title = c_qeymuslo
+
+# Settlements
+max_settlements = 4
+b_qeymuslo = castle
+b_suoen = temple
+b_revaim = city
+
+# Misc
+culture = gujurati
+religion = jain
+
+# History

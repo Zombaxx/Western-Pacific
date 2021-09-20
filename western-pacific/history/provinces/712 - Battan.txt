@@ -1,0 +1,14 @@
+# 712 - Battan
+
+# County Title
+title = c_battan
+
+# Settlements
+max_settlements = 1
+b_battan = tribal
+
+# Misc
+culture = visigothic
+religion = orthodox
+
+# History

@@ -1,0 +1,17 @@
+# 161 - Bomad
+
+# County Title
+title = c_bomad
+
+# Settlements
+max_settlements = 5
+b_bomad = castle
+b_wezayan = temple
+b_sepi = city
+b_losann = castle
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

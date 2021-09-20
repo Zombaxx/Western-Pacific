@@ -1,0 +1,16 @@
+# 148 - Etadalp
+
+# County Title
+title = c_etadalp
+
+# Settlements
+max_settlements = 4
+b_etadalp = castle
+b_amizo = temple
+b_kememey = city
+
+# Misc
+culture = sinhala
+religion = buddhist
+
+# History

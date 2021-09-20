@@ -1,5 +1,0 @@
-	title = c_walita
-	max_settlements = 2
-	culture = old_frankish
-	religion = paulician
-	b_qeleuta = tribal

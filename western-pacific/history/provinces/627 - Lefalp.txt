@@ -1,0 +1,15 @@
+# 627 - Lefalp
+
+# County Title
+title = c_lefalp
+
+# Settlements
+max_settlements = 3
+b_lefalp = castle
+b_dilenna = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

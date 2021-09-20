@@ -1,0 +1,16 @@
+# 211 - Raroor
+
+# County Title
+title = c_raroor
+
+# Settlements
+max_settlements = 4
+b_raroor = castle
+b_timair = temple
+b_keupeta = city
+
+# Misc
+culture = bengali
+religion = sunni
+
+# History

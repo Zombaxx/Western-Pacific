@@ -1,5 +1,0 @@
-	title = c_wizian
-	max_settlements = 2
-	culture = nubian
-	religion = catholic
-	b_lanudis = tribal

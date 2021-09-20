@@ -1,0 +1,17 @@
+# 449 - Ermas
+
+# County Title
+title = c_ermas
+
+# Settlements
+max_settlements = 6
+b_ermas = castle
+b_takalaf = temple
+b_loluin = city
+b_nifa = castle
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

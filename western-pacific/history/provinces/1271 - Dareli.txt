@@ -1,0 +1,14 @@
+# 1271 - Dareli
+
+# County Title
+title = c_dareli
+
+# Settlements
+max_settlements = 4
+b_dareli = tribal
+
+# Misc
+culture = zaghawa
+religion = catholic
+
+# History

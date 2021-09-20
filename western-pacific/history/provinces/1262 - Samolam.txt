@@ -1,0 +1,14 @@
+# 1262 - Samolam
+
+# County Title
+title = c_samolam
+
+# Settlements
+max_settlements = 1
+b_samolam = tribal
+
+# Misc
+culture = pictish
+religion = west_african_pagan
+
+# History

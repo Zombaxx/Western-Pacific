@@ -1,0 +1,14 @@
+# 902 - Kanimha
+
+# County Title
+title = c_kanimha
+
+# Settlements
+max_settlements = 3
+b_kanimha = tribal
+
+# Misc
+culture = basque
+religion = zun_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 1617 - Qilija
+
+# County Title
+title = c_qilija
+
+# Settlements
+max_settlements = 7
+b_qilija = tribal
+b_kagomas = temple
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

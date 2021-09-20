@@ -1,0 +1,16 @@
+# 1521 - Deireer
+
+# County Title
+title = c_deireer
+
+# Settlements
+max_settlements = 4
+b_deireer = castle
+b_asumoa = temple
+b_weer = city
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

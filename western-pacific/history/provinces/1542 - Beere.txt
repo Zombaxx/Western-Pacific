@@ -1,0 +1,14 @@
+# 1542 - Beere
+
+# County Title
+title = c_beere
+
+# Settlements
+max_settlements = 3
+b_beere = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

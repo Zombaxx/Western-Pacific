@@ -1,0 +1,16 @@
+# 136 - Wecejda
+
+# County Title
+title = c_wecejda
+
+# Settlements
+max_settlements = 4
+b_wecejda = castle
+b_tasafa = temple
+b_taduna = city
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

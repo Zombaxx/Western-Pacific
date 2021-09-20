@@ -1,0 +1,15 @@
+# 407 - Nantia
+
+# County Title
+title = c_nantia
+
+# Settlements
+max_settlements = 3
+b_nantia = castle
+b_rohira = temple
+
+# Misc
+culture = khitan
+religion = buddhist
+
+# History

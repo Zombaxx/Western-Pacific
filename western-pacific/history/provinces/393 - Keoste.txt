@@ -1,0 +1,16 @@
+# 393 - Keoste
+
+# County Title
+title = c_keoste
+
+# Settlements
+max_settlements = 4
+b_keoste = castle
+b_emicyu = temple
+b_lebantia = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

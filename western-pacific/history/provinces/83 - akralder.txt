@@ -1,5 +1,0 @@
-	title = c_akralder
-	max_settlements = 2
-	culture = ilmenian
-	religion = lollard
-	b_kawer = tribal

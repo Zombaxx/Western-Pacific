@@ -1,0 +1,14 @@
+# 331 - Qicokha
+
+# County Title
+title = c_qicokha
+
+# Settlements
+max_settlements = 2
+b_qicokha = castle
+
+# Misc
+culture = uyghur
+religion = bon
+
+# History

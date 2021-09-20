@@ -1,0 +1,17 @@
+# 202 - Rohali
+
+# County Title
+title = c_rohali
+
+# Settlements
+max_settlements = 5
+b_rohali = castle
+b_emegobos = temple
+b_erefeni = city
+b_deyfion = castle
+
+# Misc
+culture = bengali
+religion = sunni
+
+# History

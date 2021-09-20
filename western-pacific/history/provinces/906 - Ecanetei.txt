@@ -1,0 +1,14 @@
+# 906 - Ecanetei
+
+# County Title
+title = c_ecanetei
+
+# Settlements
+max_settlements = 4
+b_ecanetei = tribal
+
+# Misc
+culture = nahuatl
+religion = catholic
+
+# History

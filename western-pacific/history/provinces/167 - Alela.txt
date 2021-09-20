@@ -1,0 +1,16 @@
+# 167 - Alela
+
+# County Title
+title = c_alela
+
+# Settlements
+max_settlements = 4
+b_alela = castle
+b_arodiya = temple
+b_agodubb = city
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

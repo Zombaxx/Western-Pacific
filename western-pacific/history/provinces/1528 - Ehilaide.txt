@@ -1,0 +1,14 @@
+# 1528 - Ehilaide
+
+# County Title
+title = c_ehilaide
+
+# Settlements
+max_settlements = 4
+b_ehilaide = tribal
+
+# Misc
+culture = nahuatl
+religion = norse_pagan
+
+# History

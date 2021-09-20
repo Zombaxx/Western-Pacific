@@ -1,0 +1,14 @@
+# 1090 - Amoranka
+
+# County Title
+title = c_amoranka
+
+# Settlements
+max_settlements = 3
+b_amoranka = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

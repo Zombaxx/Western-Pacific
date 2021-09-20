@@ -1,0 +1,17 @@
+# 140 - Wudivit
+
+# County Title
+title = c_wudivit
+
+# Settlements
+max_settlements = 5
+b_wudivit = castle
+b_salp = temple
+b_wasoj = city
+b_rudasia = castle
+
+# Misc
+culture = sinhala
+religion = hindu
+
+# History

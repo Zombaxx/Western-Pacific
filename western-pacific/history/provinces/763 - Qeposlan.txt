@@ -1,0 +1,15 @@
+# 763 - Qeposlan
+
+# County Title
+title = c_qeposlan
+
+# Settlements
+max_settlements = 3
+b_qeposlan = castle
+b_repanta = temple
+
+# Misc
+culture = nepali
+religion = hindu
+
+# History

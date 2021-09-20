@@ -1,0 +1,15 @@
+# 59 - Sarvin
+
+# County Title
+title = c_sarvin
+
+# Settlements
+max_settlements = 3
+b_sarvin = castle
+b_libatta = temple
+
+# Misc
+culture = marathi
+religion = hindu
+
+# History

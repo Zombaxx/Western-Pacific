@@ -1,0 +1,15 @@
+# 930 - Rila
+
+# County Title
+title = c_rila
+
+# Settlements
+max_settlements = 2
+b_rila = tribal
+b_winane = temple
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

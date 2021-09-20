@@ -1,0 +1,16 @@
+# 189 - Rateeli
+
+# County Title
+title = c_rateeli
+
+# Settlements
+max_settlements = 4
+b_rateeli = castle
+b_qalalka = temple
+b_rasepes = city
+
+# Misc
+culture = afghan
+religion = sunni
+
+# History

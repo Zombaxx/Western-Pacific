@@ -1,0 +1,14 @@
+# 1614 - Sorarda
+
+# County Title
+title = c_sorarda
+
+# Settlements
+max_settlements = 3
+b_sorarda = tribal
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History

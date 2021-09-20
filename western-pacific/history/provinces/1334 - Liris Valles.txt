@@ -1,0 +1,14 @@
+# 1334 - Liris Valles
+
+# County Title
+title = c_liris_valles
+
+# Settlements
+max_settlements = 3
+b_liris_valles = tribal
+
+# Misc
+culture = zaghawa
+religion = west_african_pagan
+
+# History

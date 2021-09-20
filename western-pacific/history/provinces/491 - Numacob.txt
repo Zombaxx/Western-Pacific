@@ -1,0 +1,16 @@
+# 491 - Numacob
+
+# County Title
+title = c_numacob
+
+# Settlements
+max_settlements = 4
+b_numacob = castle
+b_tyula = temple
+b_dimuo = city
+
+# Misc
+culture = kannada
+religion = buddhist
+
+# History

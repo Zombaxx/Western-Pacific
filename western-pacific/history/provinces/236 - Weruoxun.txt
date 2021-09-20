@@ -1,0 +1,15 @@
+# 236 - Weruoxun
+
+# County Title
+title = c_weruoxun
+
+# Settlements
+max_settlements = 3
+b_weruoxun = castle
+b_relanko = temple
+
+# Misc
+culture = tangut
+religion = buddhist
+
+# History

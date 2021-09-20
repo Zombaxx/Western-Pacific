@@ -1,0 +1,14 @@
+# 1475 - Kotilda
+
+# County Title
+title = c_kotilda
+
+# Settlements
+max_settlements = 4
+b_kotilda = tribal
+
+# Misc
+culture = assyrian
+religion = west_african_pagan
+
+# History

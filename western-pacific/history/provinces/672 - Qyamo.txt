@@ -1,0 +1,15 @@
+# 672 - Qyamo
+
+# County Title
+title = c_qyamo
+
+# Settlements
+max_settlements = 3
+b_qyamo = castle
+b_ranera = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

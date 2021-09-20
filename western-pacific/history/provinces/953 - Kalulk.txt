@@ -1,0 +1,14 @@
+# 953 - Kalulk
+
+# County Title
+title = c_kalulk
+
+# Settlements
+max_settlements = 1
+b_kalulk = tribal
+
+# Misc
+culture = hausa
+religion = messalian
+
+# History

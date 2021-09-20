@@ -1,0 +1,14 @@
+# 912 - Ejoanos
+
+# County Title
+title = c_ejoanos
+
+# Settlements
+max_settlements = 4
+b_ejoanos = tribal
+
+# Misc
+culture = nahuatl
+religion = sunni
+
+# History

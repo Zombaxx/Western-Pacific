@@ -1,0 +1,14 @@
+# 822 - Ajohuju
+
+# County Title
+title = c_ajohuju
+
+# Settlements
+max_settlements = 3
+b_ajohuju = tribal
+
+# Misc
+culture = zhangzhung
+religion = hindu
+
+# History

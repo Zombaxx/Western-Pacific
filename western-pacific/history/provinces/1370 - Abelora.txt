@@ -1,0 +1,15 @@
+# 1370 - Abelora
+
+# County Title
+title = c_abelora
+
+# Settlements
+max_settlements = 1
+b_abelora = tribal
+b_evatan = temple
+
+# Misc
+culture = irish
+religion = zun_pagan
+
+# History

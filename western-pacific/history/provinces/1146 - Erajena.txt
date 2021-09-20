@@ -1,0 +1,14 @@
+# 1146 - Erajena
+
+# County Title
+title = c_erajena
+
+# Settlements
+max_settlements = 4
+b_erajena = tribal
+
+# Misc
+culture = nahuatl
+religion = orthodox
+
+# History
