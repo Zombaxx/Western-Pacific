@@ -82,27 +82,6 @@ b_patrician_106144 = {
 	culture = han
 	religion = taoist
 }
-# Taipei Merchant Republic Palaces
-b_patrician_107800 = {
-	culture = han
-	religion = catholic
-}
-b_patrician_107801 = {
-	culture = han
-	religion = catholic
-}
-b_patrician_107802 = {
-	culture = han
-	religion = catholic
-}
-b_patrician_107803 = {
-	culture = han
-	religion = catholic
-}
-b_patrician_107804 = {
-	culture = han
-	religion = catholic
-}
 # Melbourne Merchant Republic Palaces
 b_patrician_113130 = {
 	culture = old_frankish

@@ -153,3 +153,6 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1626;1627;sea;1850;-1;-1;-1;-1;Province1626-Province1627
 1628;1629;sea;1850;-1;-1;-1;-1;Province1628-Province1629
 1631;1631;portage;1;-1;-1;-1;-1;It will stop working if you remove this
+1631;1631;portage;1;-1;-1;-1;-1;
+1693;1683;portage;1;-1;-1;-1;-1;
+1682;1683;portage;1;-1;-1;-1;-1;

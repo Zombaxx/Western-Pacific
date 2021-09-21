@@ -23209,7 +23209,7 @@
 	}
 }
 101601 = {
-	name = ""Apara Gangeya""
+	name = "Apara Gangeya"
 	dynasty = 101600
 	culture = "hindustani"
 	religion = "buddhist"
