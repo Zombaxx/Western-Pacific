@@ -78,9 +78,9 @@ republic_governments = {
 		can_imprison_without_reason = no
 		can_revoke_without_reason = no
 		can_usurp_kingdoms_and_empires = no
-		have_gender_laws = no
+		#have_gender_laws = no
 		can_grant_kingdoms_and_empires_to_other_government = yes
-		allows_matrilineal_marriage = no
+		#allows_matrilineal_marriage = no
 		uses_bride_price = yes
 
 		can_build_tribal = no
@@ -92,6 +92,27 @@ republic_governments = {
 		## Modifiers
 		court_size_modifier = 5
 		court_size_maintenance_cost_modifier = -0.05
+		
+		character_modifier = { #buffed substantially because regular MR trade posts are disabled due to work around hard coded bug with the trade zone map
+			levy_size = 0.1
+			city_vassal_min_levy = 0.1
+			#castle_vassal_min_levy = -0.3
+			#temple_vassal_min_levy = -0.3
+			city_vassal_max_levy = 0.15
+			#castle_vassal_max_levy = -0.15
+			#temple_vassal_max_levy = -0.15
+			tax_income = 0.1
+			global_tax_modifier = 0.2
+			city_vassal_tax_modifier = 0.2
+			temple_vassal_tax_modifier = 0.2
+			castle_vassal_tax_modifier = 0.2
+			#land_morale = -0.1
+			#land_organisation = -0.1
+			retinuesize_perc=0.2
+			demense_size=1
+			monthly_character_wealth=0.3
+			tech_growth_modifier=0.2
+		}
 	}
 	
 	republic_government = {
