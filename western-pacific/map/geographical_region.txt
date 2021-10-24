@@ -159,3 +159,16 @@ world_kaheka = {
 		d_ekugaun d_talomir d_kalk d_sarak d_fiji 
 	}
 }
+trade_posts_on_northcenter_edge_cause_CTD = {
+	duchies = {
+			d_rimou
+			d_taipei
+			d_tegua
+			d_neladay
+			d_fiji
+			d_ekugaun
+			d_kalk
+			d_sarak
+			d_talomir
+	}
+}
