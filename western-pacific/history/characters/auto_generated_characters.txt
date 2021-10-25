@@ -88577,7 +88577,7 @@
 	name = "Namdak"
 	dynasty = 106100
 	culture = "zhangzhung"
-	religion = "hindu"
+	religion = "sunni"
 	father = 106102
 	mother = 106104
 	1040.1.1={
