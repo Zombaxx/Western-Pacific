@@ -2,7 +2,7 @@ name="Western Pacific"
 path="mod/western-pacific"
 user_dir = "Western-Pacific"
 
-picture="thumbnail.png"
+picture="thumbnail.jpg"
 
 replace_path = "history/characters"
 replace_path = "history/offmap_powers"
