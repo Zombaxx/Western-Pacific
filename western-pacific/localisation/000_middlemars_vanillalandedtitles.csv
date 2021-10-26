@@ -791,23 +791,23 @@ d_kermanshah;Rataug;;;;;;;;;;;;;x
 d_tigris;Walg;;;;;;;;;;;;;x
 d_aztec_reformed;Pakal;;;;;;;;;;;;;x
 d_baltic_pagan_reformed;Kanatka;;;;;;;;;;;;;x
-d_bon_reformed;Mekhala;;;;;;;;;;;;;x
-d_finnish_pagan_reformed;Martian;;;;;;;;;;;;;x
-d_jewish;Truther;;;;;;;;;;;;;x
-d_norse_pagan_reformed;Seas of Oceanus Borealis;;;;;;;;;;;;;x
-d_slavic_pagan_reformed;Kanend;;;;;;;;;;;;;x
+#d_bon_reformed;Mekhala;;;;;;;;;;;;;x
+#d_finnish_pagan_reformed;Martian;;;;;;;;;;;;;x
+#d_jewish;Truther;;;;;;;;;;;;;x
+d_norse_pagan_reformed;Captain of Captains;;;;;;;;;;;;;x
+#d_slavic_pagan_reformed;Kanend;;;;;;;;;;;;;x
 d_tengri_pagan_reformed;Pharaoh;;;;;;;;;;;;;x
 d_west_african_pagan_reformed;Jeddak;;;;;;;;;;;;;x
-d_zoroastrian;Divine Scientist;;;;;;;;;;;;;x
+#d_zoroastrian;Divine Scientist;;;;;;;;;;;;;x
 d_zun_pagan_reformed;Solius;;;;;;;;;;;;;x
-d_manichean;Divine Prophesizer;;;;;;;;;;;;;x
-d_persian_caravan_guards;Wamal Caravan Guards;;;;;;;;;;;;;x
-d_silk_road_sentinels;Celestial Road Sentinels;;;;;;;;;;;;;x
-d_turkic_guard;Versian Guard;;;;;;;;;;;;;x
-d_papal_guards;Holy Terra Guard;;;;;;;;;;;;;x
+#d_manichean;Divine Prophesizer;;;;;;;;;;;;;x
+#d_persian_caravan_guards;Wamal Caravan Guards;;;;;;;;;;;;;x
+#d_silk_road_sentinels;Celestial Road Sentinels;;;;;;;;;;;;;x
+#d_turkic_guard;Versian Guard;;;;;;;;;;;;;x
+#d_papal_guards;Holy Terra Guard;;;;;;;;;;;;;x
 d_qarmatian;Ecalp;;;;;;;;;;;;;x
-d_shiite;The Altered Caliphate;;;;;;;;;;;;;x
-d_sunni;The Terraformed Caliphate;;;;;;;;;;;;;x
+#d_shiite;The Altered Caliphate;;;;;;;;;;;;;x
+#d_sunni;The Terraformed Caliphate;;;;;;;;;;;;;x
 e_bulgaria;Amuseph;;;;;;;;;;;;;x
 e_chagatai;Tivuit;;;;;;;;;;;;;x
 e_china_west_governor;Celestial Protectorate;;;;;;;;;;;;;x
@@ -819,10 +819,10 @@ e_mexikha;Spacer's Choice;;;;;;;;;;;;;x
 e_mongol_empire;Cetinese;;;;;;;;;;;;;x
 e_nicaea;Riostin;;;;;;;;;;;;;x
 e_outremer;Tekitar;;;;;;;;;;;;;x
-e_pirates;Damina;;;;;;;;;;;;;x
-e_rebels;Qinoald;;;;;;;;;;;;;x
-e_shiite;The Altered Caliphate;;;;;;;;;;;;;x
-e_sunni;The Terraformed Caliphate;;;;;;;;;;;;;x
+e_pirates;Pirates;;;;;;;;;;;;;x
+e_rebels;Rebels;;;;;;;;;;;;;x
+#e_shiite;The Altered Caliphate;;;;;;;;;;;;;x
+#e_sunni;The Terraformed Caliphate;;;;;;;;;;;;;x
 e_timurids;Nilalis;;;;;;;;;;;;;x
 k_antioch;Bokory;;;;;;;;;;;;;x
 k_sakya_trizin;Nomilda;;;;;;;;;;;;;x
@@ -1708,12 +1708,12 @@ d_shiite_berber_company_DESC;Ecekaljo Company;;;;;;;;;;;;;x
 d_shiite_cuman_company_DESC;Qadena Company;;;;;;;;;;;;;x
 d_shiite_turkic_company_DESC;Tanily Company;;;;;;;;;;;;;x
 d_star_company_DESC;Dyeer Company;;;;;;;;;;;;;x
-d_sunni_bedouin_company_DESC;Waild Company;;;;;;;;;;;;;x
-d_sunni_berber_company_DESC;Qenuna Company;;;;;;;;;;;;;x
-d_sunni_cuman_company_DESC;Rarura Company;;;;;;;;;;;;;x
-d_sunni_turkic_company_DESC;Etrayla Company;;;;;;;;;;;;;x
-d_swiss_band_DESC;Martian Bandan;;;;;;;;;;;;;x
-d_swiss_company_DESC;Martian Company;;;;;;;;;;;;;x
+#d_sunni_bedouin_company_DESC;Waild Company;;;;;;;;;;;;;x
+#d_sunni_berber_company_DESC;Qenuna Company;;;;;;;;;;;;;x
+#d_sunni_cuman_company_DESC;Rarura Company;;;;;;;;;;;;;x
+#d_sunni_turkic_company_DESC;Etrayla Company;;;;;;;;;;;;;x
+d_swiss_band_DESC;Aussy Bandan;;;;;;;;;;;;;x
+d_swiss_company_DESC;Aussy Company;;;;;;;;;;;;;x
 d_turkic_band_DESC;Versian Bandan;;;;;;;;;;;;;x
 d_turkic_company_DESC;Versian Company;;;;;;;;;;;;;x
 d_varangian_guard_DESC;Seatempest Guardan;;;;;;;;;;;;;x
@@ -1730,24 +1730,24 @@ d_hamadan_DESC;Sorgilan;;;;;;;;;;;;;x
 d_kermanshah_DESC;Rataugan;;;;;;;;;;;;;x
 d_tigris_DESC;Walgan;;;;;;;;;;;;;x
 d_aztec_reformed_DESC;Pakalan;;;;;;;;;;;;;x
-d_baltic_pagan_reformed_DESC;Kanatkanian;;;;;;;;;;;;;x
-d_bon_reformed_DESC;Mekhalanian;;;;;;;;;;;;;x
-d_finnish_pagan_reformed_DESC;Martianan;;;;;;;;;;;;;x
-d_jewish_DESC;Trutheran;;;;;;;;;;;;;x
-d_norse_pagan_reformed_DESC;Borealisan;;;;;;;;;;;;;x
+#d_baltic_pagan_reformed_DESC;Kanatkanian;;;;;;;;;;;;;x
+#d_bon_reformed_DESC;Mekhalanian;;;;;;;;;;;;;x
+#d_finnish_pagan_reformed_DESC;Martianan;;;;;;;;;;;;;x
+#d_jewish_DESC;Trutheran;;;;;;;;;;;;;x
+d_norse_pagan_reformed_DESC;Captain of Captains;;;;;;;;;;;;;x
 d_slavic_pagan_reformed_DESC;Kanendan;;;;;;;;;;;;;x
 d_tengri_pagan_reformed_DESC;Pharaohan;;;;;;;;;;;;;x
 d_west_african_pagan_reformed_DESC;Jeddakan;;;;;;;;;;;;;x
-d_zoroastrian_DESC;Scientific;;;;;;;;;;;;;x
+#d_zoroastrian_DESC;Scientific;;;;;;;;;;;;;x
 d_zun_pagan_reformed_DESC;Soliusan;;;;;;;;;;;;;x
-d_manichean_DESC;Prophesized;;;;;;;;;;;;;x
-d_persian_caravan_guards_DESC;Wamal Caravan Guard;;;;;;;;;;;;;x
-d_silk_road_sentinels_DESC;Celestial Road Sentinels;;;;;;;;;;;;;x
-d_turkic_guard_DESC;Versian Guardan;;;;;;;;;;;;;x
-d_papal_guards_DESC;Holy Terra Guardan;;;;;;;;;;;;;x
-d_qarmatian_DESC;Ecalpan;;;;;;;;;;;;;x
-d_shiite_DESC;Altered;;;;;;;;;;;;;x
-d_sunni_DESC;Terraformed;;;;;;;;;;;;;x
+#d_manichean_DESC;Prophesized;;;;;;;;;;;;;x
+#d_persian_caravan_guards_DESC;Wamal Caravan Guard;;;;;;;;;;;;;x
+#d_silk_road_sentinels_DESC;Celestial Road Sentinels;;;;;;;;;;;;;x
+#d_turkic_guard_DESC;Versian Guardan;;;;;;;;;;;;;x
+#d_papal_guards_DESC;Papal Guards;;;;;;;;;;;;;x
+#d_qarmatian_DESC;Ecalpan;;;;;;;;;;;;;x
+#d_shiite_DESC;Altered;;;;;;;;;;;;;x
+#d_sunni_DESC;Terraformed;;;;;;;;;;;;;x
 e_bulgaria_DESC;Amusephan;;;;;;;;;;;;;x
 e_chagatai_DESC;Tivuitan;;;;;;;;;;;;;x
 e_china_west_governor_DESC;Celestian;;;;;;;;;;;;;x
@@ -1759,9 +1759,9 @@ e_mexikha_DESC;Spacer;;;;;;;;;;;;;x
 e_mongol_empire_DESC;Cetinese;;;;;;;;;;;;;x
 e_nicaea_DESC;Riostinan;;;;;;;;;;;;;x
 e_outremer_DESC;Tekitaran;;;;;;;;;;;;;x
-e_pirates_DESC;Daminanian;;;;;;;;;;;;;x
-e_rebels_DESC;Qinoaldan;;;;;;;;;;;;;x
-e_shiite_DESC;Altered;;;;;;;;;;;;;x
+#e_pirates_DESC;Daminanian;;;;;;;;;;;;;x
+#e_rebels_DESC;Qinoaldan;;;;;;;;;;;;;x
+#e_shiite_DESC;Altered;;;;;;;;;;;;;x
 e_sunni_DESC;Terraformed;;;;;;;;;;;;;x
 e_timurids_DESC;Nilalisan;;;;;;;;;;;;;x
 k_antioch_DESC;Bokoryan;;;;;;;;;;;;;x

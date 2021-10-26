@@ -189504,7 +189504,7 @@
 	name = "Magneric"
 	dynasty = 113130
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "tengri_pagan"
 	father = 113132
 	mother = 113134
 	1030.1.1={
@@ -189587,7 +189587,7 @@
 	name = "Ingomer"
 	dynasty = 113131
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "tengri_pagan"
 	998.1.1={
 		birth="998.1.1"
 	}
@@ -189599,7 +189599,7 @@
 	name = "Bertram"
 	dynasty = 113131
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "tengri_pagan"
 	father = 226261
 	1028.1.1={
 		birth="1028.1.1"
@@ -189613,7 +189613,7 @@
 	female = yes
 	dynasty = 113131
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "tengri_pagan"
 	father = 226261
 	1032.1.1={
 		birth="1032.1.1"
@@ -189626,7 +189626,7 @@
 	name = "Gerold"
 	dynasty = 113131
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "tengri_pagan"
 	father = 226261
 	1034.1.1={
 		birth="1034.1.1"
@@ -189639,7 +189639,7 @@
 	name = "Badegisel"
 	dynasty = 113132
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "hellenic_pagan"
 	father = 226266
 	1041.1.1={
 		birth="1041.1.1"
@@ -189652,7 +189652,7 @@
 	name = "Mallobaudes"
 	dynasty = 113132
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "hellenic_pagan"
 	1013.1.1={
 		birth="1013.1.1"
 	}
@@ -189664,7 +189664,7 @@
 	name = "Sichar"
 	dynasty = 113132
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "hellenic_pagan"
 	father = 226266
 	1042.1.1={
 		birth="1042.1.1"
@@ -189677,7 +189677,7 @@
 	name = "Creat"
 	dynasty = 113132
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "hellenic_pagan"
 	father = 226266
 	1046.1.1={
 		birth="1046.1.1"
@@ -189691,7 +189691,7 @@
 	female = yes
 	dynasty = 113132
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "hellenic_pagan"
 	father = 226266
 	1049.1.1={
 		birth="1049.1.1"
@@ -189704,7 +189704,7 @@
 	name = "Aregisel"
 	dynasty = 113133
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "catholic"
 	father = 226271
 	1028.1.1={
 		birth="1028.1.1"
@@ -189717,7 +189717,7 @@
 	name = "Gararic"
 	dynasty = 113133
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "catholic"
 	994.1.1={
 		birth="994.1.1"
 	}
@@ -189729,7 +189729,7 @@
 	name = "Ailbert"
 	dynasty = 113133
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "catholic"
 	father = 226271
 	1030.1.1={
 		birth="1030.1.1"
@@ -189743,7 +189743,7 @@
 	female = yes
 	dynasty = 113133
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "catholic"
 	father = 226271
 	1032.1.1={
 		birth="1032.1.1"
@@ -189756,7 +189756,7 @@
 	name = "Theudebald"
 	dynasty = 113133
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "catholic"
 	father = 226271
 	1036.1.1={
 		birth="1036.1.1"
@@ -189769,7 +189769,7 @@
 	name = "Odelric"
 	dynasty = 113134
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "zun_pagan"
 	father = 226276
 	1037.1.1={
 		birth="1037.1.1"
@@ -189782,7 +189782,7 @@
 	name = "Sicleard"
 	dynasty = 113134
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "zun_pagan"
 	1012.1.1={
 		birth="1012.1.1"
 	}
@@ -189794,7 +189794,7 @@
 	name = "Gislevert"
 	dynasty = 113134
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "zun_pagan"
 	father = 226276
 	1038.1.1={
 		birth="1038.1.1"
@@ -189807,7 +189807,7 @@
 	name = "Chramnesind"
 	dynasty = 113134
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "zun_pagan"
 	father = 226276
 	1042.1.1={
 		birth="1042.1.1"
@@ -189821,7 +189821,7 @@
 	female = yes
 	dynasty = 113134
 	culture = "old_frankish"
-	religion = "buddhist"
+	religion = "zun_pagan"
 	father = 226276
 	1045.1.1={
 		birth="1045.1.1"
@@ -213735,7 +213735,7 @@
 	name = "Gyrth"
 	dynasty = 114781
 	culture = "saxon"
-	religion = "fraticelli"
+	religion = "jewish"
 	father = 229561
 	1041.1.1={
 		birth="1041.1.1"
@@ -213748,7 +213748,7 @@
 	name = "Æthelræd"
 	dynasty = 114781
 	culture = "saxon"
-	religion = "fraticelli"
+	religion = "jewish"
 	1011.1.1={
 		birth="1011.1.1"
 	}
@@ -213760,7 +213760,7 @@
 	name = "Ælfmær"
 	dynasty = 114781
 	culture = "saxon"
-	religion = "fraticelli"
+	religion = "jewish"
 	father = 229561
 	1042.1.1={
 		birth="1042.1.1"
@@ -213773,7 +213773,7 @@
 	name = "Æthelric"
 	dynasty = 114781
 	culture = "saxon"
-	religion = "fraticelli"
+	religion = "jewish"
 	father = 229561
 	1045.1.1={
 		birth="1045.1.1"
@@ -213787,7 +213787,7 @@
 	female = yes
 	dynasty = 114781
 	culture = "saxon"
-	religion = "fraticelli"
+	religion = "jewish"
 	father = 229561
 	1049.1.1={
 		birth="1049.1.1"
@@ -213800,7 +213800,7 @@
 	name = "Eadweald"
 	dynasty = 114782
 	culture = "saxon"
-	religion = "fraticelli"
+	religion = "orthodox"
 	father = 229566
 	1047.1.1={
 		birth="1047.1.1"
@@ -213813,7 +213813,7 @@
 	name = "Sighere"
 	dynasty = 114782
 	culture = "saxon"
-	religion = "fraticelli"
+	religion = "orthodox"
 	1026.1.1={
 		birth="1026.1.1"
 	}
@@ -213825,7 +213825,7 @@
 	name = "Wulfhere"
 	dynasty = 114782
 	culture = "saxon"
-	religion = "fraticelli"
+	religion = "orthodox"
 	father = 229566
 	1048.1.1={
 		birth="1048.1.1"
@@ -213838,7 +213838,7 @@
 	name = "Sigeræd"
 	dynasty = 114782
 	culture = "saxon"
-	religion = "fraticelli"
+	religion = "orthodox"
 	father = 229566
 	1051.1.1={
 		birth="1051.1.1"
@@ -213852,7 +213852,7 @@
 	female = yes
 	dynasty = 114782
 	culture = "saxon"
-	religion = "fraticelli"
+	religion = "orthodox"
 	father = 229566
 	1055.1.1={
 		birth="1055.1.1"
@@ -213865,7 +213865,7 @@
 	name = "Eadulf"
 	dynasty = 114783
 	culture = "saxon"
-	religion = "fraticelli"
+	religion = "catholic"
 	father = 229571
 	1049.1.1={
 		birth="1049.1.1"
@@ -213878,7 +213878,7 @@
 	name = "Cenwulf"
 	dynasty = 114783
 	culture = "saxon"
-	religion = "fraticelli"
+	religion = "catholic"
 	1027.1.1={
 		birth="1027.1.1"
 	}
@@ -213890,7 +213890,7 @@
 	name = "Eanfrith"
 	dynasty = 114783
 	culture = "saxon"
-	religion = "fraticelli"
+	religion = "catholic"
 	father = 229571
 	1050.1.1={
 		birth="1050.1.1"
@@ -213904,7 +213904,7 @@
 	female = yes
 	dynasty = 114783
 	culture = "saxon"
-	religion = "fraticelli"
+	religion = "catholic"
 	father = 229571
 	1053.1.1={
 		birth="1053.1.1"
@@ -213917,7 +213917,7 @@
 	name = "Ealdhun"
 	dynasty = 114783
 	culture = "saxon"
-	religion = "fraticelli"
+	religion = "catholic"
 	father = 229571
 	1057.1.1={
 		birth="1057.1.1"

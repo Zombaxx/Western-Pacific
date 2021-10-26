@@ -92,7 +92,7 @@ gmo_desc;This character was either genetically modified or inherited this gene f
 vat_born;VAT Born;;;;;;;;;;;;;x
 vat_born_desc;This character was decanted in a VAT chamber, an artificially-created human grown in a test tube. The process is similar to cloning but with multiple donors.;Ce personnage est un clône, un être humain créé artificiellement à partir du modèle génétique de quelqu'un d'autre.;;;;;;;;;;;;x
 heavy_worlder;Heavy Worlder;;;;;;;;;;;;;x
-heavy_worlder_desc;This character, or an ancestor, was born on a high gravity world. They are physically much stronger than Martians.;;;;;;;;;;;;;x
+heavy_worlder_desc;This character, or an ancestor, was born on a high gravity world. They are physically much stronger than Earthlings.;;;;;;;;;;;;;x
 spacer_physiology;Spacer Physiology;;;;;;;;;;;;;x
 spacer_physiology_desc;This character's physiology has been changed from multiple generations spent in low gravity. They are much taller and thinner on average than other humans and cannot survive on a high gravity planet for very long without special acclimating drugs.;;;;;;;;;;;;;x
 mobster;Mobster;;;;;;;;;;;;;x
