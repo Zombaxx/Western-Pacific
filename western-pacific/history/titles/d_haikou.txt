@@ -10,3 +10,6 @@
 1050.1.1 = {
 	holder = 105395
 }
+1066.1.1 = {
+	set_tribute_suzerain = { who = e_china_west_governor type = permanent }#how to set tributary holder and tributary type
+}

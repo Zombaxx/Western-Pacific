@@ -92503,7 +92503,7 @@
 	name = "Kush"
 	dynasty = 106370
 	culture = "nepali"
-	religion = "hindu"
+	religion = "sunni"
 	father = 106372
 	mother = 106374
 	1044.1.1={
@@ -92517,7 +92517,7 @@
 	name = "Ranjan"
 	dynasty = 106370
 	culture = "nepali"
-	religion = "hindu"
+	religion = "sunni"
 	father = 106372
 	mother = 106374
 	1048.1.1={
@@ -92531,7 +92531,7 @@
 	name = "Bibhas"
 	dynasty = 106370
 	culture = "nepali"
-	religion = "hindu"
+	religion = "sunni"
 	father = 106372
 	mother = 106374
 	1049.1.1={
@@ -92545,7 +92545,7 @@
 	name = "Malkit"
 	dynasty = 106370
 	culture = "nepali"
-	religion = "hindu"
+	religion = "sunni"
 	father = 106373
 	1047.1.1={
 		birth="1047.1.1"
@@ -92571,7 +92571,7 @@
 	name = "Tenzin"
 	dynasty = 106371
 	culture = "nepali"
-	religion = "hindu"
+	religion = "norse_pagan"
 	father = 212741
 	1035.1.1={
 		birth="1035.1.1"
@@ -92584,7 +92584,7 @@
 	name = "Bibhas"
 	dynasty = 106371
 	culture = "nepali"
-	religion = "hindu"
+	religion = "norse_pagan"
 	1004.1.1={
 		birth="1004.1.1"
 	}
@@ -92596,7 +92596,7 @@
 	name = "Ranjan"
 	dynasty = 106371
 	culture = "nepali"
-	religion = "hindu"
+	religion = "norse_pagan"
 	father = 212741
 	1037.1.1={
 		birth="1037.1.1"
@@ -92609,7 +92609,7 @@
 	name = "Aramudi"
 	dynasty = 106371
 	culture = "nepali"
-	religion = "hindu"
+	religion = "norse_pagan"
 	father = 212741
 	1039.1.1={
 		birth="1039.1.1"
@@ -92623,7 +92623,7 @@
 	female = yes
 	dynasty = 106371
 	culture = "nepali"
-	religion = "hindu"
+	religion = "norse_pagan"
 	father = 212741
 	1042.1.1={
 		birth="1042.1.1"
@@ -92636,7 +92636,7 @@
 	name = "Hem"
 	dynasty = 106372
 	culture = "nepali"
-	religion = "hindu"
+	religion = "sunni"
 	father = 212746
 	1049.1.1={
 		birth="1049.1.1"
@@ -92649,7 +92649,7 @@
 	name = "Kush"
 	dynasty = 106372
 	culture = "nepali"
-	religion = "hindu"
+	religion = "sunni"
 	1015.1.1={
 		birth="1015.1.1"
 	}
@@ -92661,7 +92661,7 @@
 	name = "Bibhas"
 	dynasty = 106372
 	culture = "nepali"
-	religion = "hindu"
+	religion = "sunni"
 	father = 212746
 	1050.1.1={
 		birth="1050.1.1"
@@ -92675,7 +92675,7 @@
 	female = yes
 	dynasty = 106372
 	culture = "nepali"
-	religion = "hindu"
+	religion = "sunni"
 	father = 212746
 	1054.1.1={
 		birth="1054.1.1"
@@ -92701,7 +92701,7 @@
 	name = "Udgam"
 	dynasty = 106373
 	culture = "nepali"
-	religion = "hindu"
+	religion = "catholic"
 	father = 212751
 	1047.1.1={
 		birth="1047.1.1"
@@ -92714,7 +92714,7 @@
 	name = "Sahil"
 	dynasty = 106373
 	culture = "nepali"
-	religion = "hindu"
+	religion = "catholic"
 	1021.1.1={
 		birth="1021.1.1"
 	}

@@ -22514,13 +22514,14 @@ primary = no
 e_idel_ural = {
 	color={ 97 56 55 }
 	color2={ 255 255 255 }
+	allow = { always = no }
 
 	capital = 610 # Bulgar
 
 	k_volga_bulgaria = {
 		color={ 94 83 70 }
 		color2={ 255 255 255 }
-			
+		allow = { always = no }	
 		capital = 610 # Bulgar
 		
 		culture = bolghar
@@ -23792,6 +23793,7 @@ primary = no
 e_turkestan = {
 	color={ 232 231 195 }
 	color2={ 255 255 255 }
+	allow = { always = no }	
 
 	culture = turkish
 
@@ -25081,7 +25083,7 @@ primary = no
 e_persia = {
 	color={ 131 204 20 }
 	color2={ 255 255 255 }
-	
+	allow = { always = no }	
 	capital = 646 #	Esfahan
 	
 	culture = persian
@@ -27347,7 +27349,7 @@ e_persia = {
 e_carpathia = {
 	color={ 210 115 35 }
 	color2={ 255 255 255 }
-	
+	allow = { always = no }	
 	capital = 522 # Pest
 	
 	culture = hungarian
@@ -28810,31 +28812,31 @@ e_carpathia = {
 e_france = {
 	color={ 11 22 170 }
 	color2={ 255 255 20 }
-	
+	allow = { always = no }	
 	capital = 112 # Ile de France
 	
 	culture = frankish
 
 	roman = "Gallia"
 	
-	allow = {
-		allow = { always = no }
-		hidden_tooltip = {
-			OR = {
-				ai = no
-				culture = frankish
-				culture = norman
-				culture = occitan
-			}
-		}
-		any_demesne_title = {
-			tier = king
-			NOT = { title = k_france }
-			NOT = { title = k_aquitaine }
-			NOT = { title = k_brittany }
-			NOT = { title = k_burgundy }
-		}
-	}
+#	allow = {
+#		allow = { always = no }
+#		hidden_tooltip = {
+#			OR = {
+#				ai = no
+#				culture = frankish
+#				culture = norman
+#				culture = occitan
+#			}
+#		}
+#		any_demesne_title = {
+#			tier = king
+#			NOT = { title = k_france }
+#			NOT = { title = k_aquitaine }
+#			NOT = { title = k_brittany }
+#			NOT = { title = k_burgundy }
+#		}
+#	}
 
 	k_france = {
 		color={ 15 27 187 }
@@ -43532,330 +43534,330 @@ e_mexikha = {
 # Historical Merchant Republic Palaces
 ######################################
 
-# VENICE:
-
-b_dandolo = {
-	culture = italian
-	religion = catholic
-}
-
-b_contarini = {
-	culture = italian
-	religion = catholic
-}
-
-b_faliero = {
-	culture = italian
-	religion = catholic
-}
-
-b_morosini = {
-	culture = italian
-	religion = catholic
-}
-
-b_ziani = {
-	culture = italian
-	religion = catholic
-}
-
-b_candiano = {
-	culture = italian
-	religion = catholic
-}
-
-b_orsoleo = {
-	culture = italian
-	religion = catholic
-}
-
-b_participazio = {
-	culture = italian
-	religion = catholic
-}
-
-b_tribuno = {
-	culture = italian
-	religion = catholic
-}
-
-b_tradonico = {
-	culture = italian
-	religion = catholic
-}
-
-b_antenoreo = {
-	culture = italian
-	religion = catholic
-}
-
-b_galbaio = {
-	culture = italian
-	religion = catholic
-}
-
-b_monegario = {
-	culture = italian
-	religion = catholic
-}
-
-b_gaulo = {
-	culture = italian
-	religion = catholic
-}
-
-b_silvio = {
-	culture = italian
-	religion = catholic
-}
-
-b_mastropiero = {
-	culture = italian
-	religion = catholic
-}
-
-b_tiepolo = {
-	culture = italian
-	religion = catholic
-}
-
-# GENOA:
-
-b_doria = {
-	culture = italian
-	religion = catholic
-}
-
-b_spinola = {
-	culture = italian
-	religion = catholic
-}
-
-b_grimaldi = {
-	culture = italian
-	religion = catholic
-}
-
-b_fieschi = {
-	culture = italian
-	religion = catholic
-}
-
-b_embriaco = {
-	culture = italian
-	religion = catholic
-}
-
-# PISA:
-
-b_dappiano = {
-	culture = italian
-	religion = catholic
-}
-
-b_della_gherardesca = {
-	culture = italian
-	religion = catholic
-}
-
-b_visconti = {
-	culture = italian
-	religion = catholic
-}
-
-b_alliata = {
-	culture = italian
-	religion = catholic
-}
-
-b_caetani = {
-	culture = italian
-	religion = catholic
-}
-
-# LÜBECK:
-
-b_bardewik = {
-	culture = german
-	religion = catholic
-}
-
-b_vorrade = {
-	culture = german
-	religion = catholic
-}
-
-b_warendorp = {
-	culture = german
-	religion = catholic
-}
-
-b_pat_luneburg = {
-	culture = german
-	religion = catholic
-}
-
-b_wittenborg = {
-	culture = german
-	religion = catholic
-}
-
-# GOTLAND:
-
-b_stenkyrka = {
-	culture = swedish
-	religion = catholic
-}
-
-b_guldsmed = {
-	culture = swedish
-	religion = catholic
-}
-
-b_hejnum = {
-	culture = swedish
-	religion = catholic
-}
-
-b_gildehusen = {
-	culture = swedish
-	religion = catholic
-}
-
-b_strabain = {
-	culture = swedish
-	religion = catholic
-}
-
-# AMALFI:
-
-b_konstantios = {
-	culture = greek
-	religion = catholic
-}
-
-b_mauro = {
-	culture = italian
-	religion = catholic
-}
-
-b_musco = {
-	culture = italian
-	religion = catholic
-}
-
-b_polkarios = {
-	culture = greek
-	religion = catholic
-}
-
-b_urso = {
-	culture = italian
-	religion = catholic
-}
-
-b_amalfinos = {
-	culture = greek
-	religion = catholic
-}
-
-b_manginos = {
-	culture = greek
-	religion = catholic
-}
-
-b_kanakares = {
-	culture = greek
-	religion = catholic
-}
-
-b_sorrenti = {
-	culture = italian
-	religion = catholic
-}
-
-b_ravelli = {
-	culture = italian
-	religion = catholic
-}
-
-#Ancona
-b_kastriotis = {
-	culture = greek
-	religion = catholic
-}
-
-b_skleros = {
-	culture = italian
-	religion = catholic
-}
-
-b_monomachos = {
-	culture = italian 
-	religion = catholic
-}
-
-b_kourkoas = {
-	culture = greek
-	religion = catholic
-}
-
-b_scarponnois = {
-	culture = german
-	religion = catholic
-}
-
-# Ragusa
-b_babalio = {
-	culture = dalmatian
-	religion = catholic
-}
-
-b_benessa = {
-	culture = dalmatian
-	religion = catholic
-}
-
-b_salvius = {
-	culture = dalmatian
-	religion = catholic
-}
-
-b_pius = {
-	culture = dalmatian
-	religion = catholic
-}
-
-b_bonda = {
-	culture = dalmatian
-	religion = catholic
-}
-
-# Pechina
-b_al_gassani = {
-	culture = bedouin_arabic
-	religion = sunni
-}
-
-b_ruayn = {
-	culture = bedouin_arabic
-	religion = sunni
-}
-
-b_banu_sarray = {
-	culture = maghreb_arabic
-	religion = sunni
-}
-
-b_aswadid = {
-	culture = andalusian_arabic
-	religion = sunni
-}
-
-b_yeshayahu = {
-	culture = sephardi
-	religion = jewish
-}
+## VENICE:
+#
+#b_dandolo = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_contarini = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_faliero = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_morosini = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_ziani = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_candiano = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_orsoleo = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_participazio = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_tribuno = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_tradonico = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_antenoreo = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_galbaio = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_monegario = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_gaulo = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_silvio = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_mastropiero = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_tiepolo = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+## GENOA:
+#
+#b_doria = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_spinola = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_grimaldi = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_fieschi = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_embriaco = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+## PISA:
+#
+#b_dappiano = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_della_gherardesca = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_visconti = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_alliata = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_caetani = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+## LÜBECK:
+#
+#b_bardewik = {
+#	culture = german
+#	religion = catholic
+#}
+#
+#b_vorrade = {
+#	culture = german
+#	religion = catholic
+#}
+#
+#b_warendorp = {
+#	culture = german
+#	religion = catholic
+#}
+#
+#b_pat_luneburg = {
+#	culture = german
+#	religion = catholic
+#}
+#
+#b_wittenborg = {
+#	culture = german
+#	religion = catholic
+#}
+#
+## GOTLAND:
+#
+#b_stenkyrka = {
+#	culture = swedish
+#	religion = catholic
+#}
+#
+#b_guldsmed = {
+#	culture = swedish
+#	religion = catholic
+#}
+#
+#b_hejnum = {
+#	culture = swedish
+#	religion = catholic
+#}
+#
+#b_gildehusen = {
+#	culture = swedish
+#	religion = catholic
+#}
+#
+#b_strabain = {
+#	culture = swedish
+#	religion = catholic
+#}
+#
+## AMALFI:
+#
+#b_konstantios = {
+#	culture = greek
+#	religion = catholic
+#}
+#
+#b_mauro = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_musco = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_polkarios = {
+#	culture = greek
+#	religion = catholic
+#}
+#
+#b_urso = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_amalfinos = {
+#	culture = greek
+#	religion = catholic
+#}
+#
+#b_manginos = {
+#	culture = greek
+#	religion = catholic
+#}
+#
+#b_kanakares = {
+#	culture = greek
+#	religion = catholic
+#}
+#
+#b_sorrenti = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_ravelli = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+##Ancona
+#b_kastriotis = {
+#	culture = greek
+#	religion = catholic
+#}
+#
+#b_skleros = {
+#	culture = italian
+#	religion = catholic
+#}
+#
+#b_monomachos = {
+#	culture = italian 
+#	religion = catholic
+#}
+#
+#b_kourkoas = {
+#	culture = greek
+#	religion = catholic
+#}
+#
+#b_scarponnois = {
+#	culture = german
+#	religion = catholic
+#}
+#
+## Ragusa
+#b_babalio = {
+#	culture = dalmatian
+#	religion = catholic
+#}
+#
+#b_benessa = {
+#	culture = dalmatian
+#	religion = catholic
+#}
+#
+#b_salvius = {
+#	culture = dalmatian
+#	religion = catholic
+#}
+#
+#b_pius = {
+#	culture = dalmatian
+#	religion = catholic
+#}
+#
+#b_bonda = {
+#	culture = dalmatian
+#	religion = catholic
+#}
+#
+## Pechina
+#b_al_gassani = {
+#	culture = bedouin_arabic
+#	religion = sunni
+#}
+#
+#b_ruayn = {
+#	culture = bedouin_arabic
+#	religion = sunni
+#}
+#
+#b_banu_sarray = {
+#	culture = maghreb_arabic
+#	religion = sunni
+#}
+#
+#b_aswadid = {
+#	culture = andalusian_arabic
+#	religion = sunni
+#}
+#
+#b_yeshayahu = {
+#	culture = sephardi
+#	religion = jewish
+#}
 
 # Pagan heads of religion
 
@@ -44165,7 +44167,7 @@ e_india = {                      # Titular, created by special decision only if 
 e_rajastan = {
 	color={ 255 100 0 }
 	color2={ 255 255 255 }
-	
+	allow = { always = no }	
 	capital = 1356 # Kanyakubja
 	
 	k_sindh = {
@@ -46261,7 +46263,7 @@ e_rajastan = {
 e_bengal = {
 	color={ 0 120 40 }
 	color2={ 255 255 20 }
-	
+	allow = { always = no }	
 	capital = 1151 # Laksmanavati
 
 	short_name = yes
@@ -46269,7 +46271,7 @@ e_bengal = {
 	k_gondwana = {
 		color = { 32 128 55 }
 		color2={ 255 255 255 }
-			
+		allow = { always = no }		
 		capital = 1271 # Tripuri
 		
 		d_dahala = {
@@ -47706,7 +47708,7 @@ e_bengal = {
 e_deccan = {
 	color={ 190 20 50 }
 	color2={ 200 0 0 }
-	
+	allow = { always = no }	
 	capital = 1210 # Manyaketha
 
 	short_name = yes
@@ -49277,7 +49279,7 @@ e_tibet = {
   color2= { 255 255 255 }
 
 	capital = 1498 # Lhasa
-	
+	allow = { always = no }	
 	#bodpa = "Bodchenpo"
 	han = "Tubo"
 

@@ -138,6 +138,16 @@ laws = {
 			factor = 0
 			
 			additive_modifier = { 
+				value = 1000			
+				holder_scope = {
+					OR = { 
+						culture = kanuri #First Peoples
+						culture	= hausa #First Nations
+						culture	= zaghawa #First Australians
+					}
+				}	
+			}
+			additive_modifier = { 
 				value = 10			
 				year = 850
 				holder_scope = { 
@@ -329,7 +339,16 @@ laws = {
 		
 		default_selection = {
 			factor = 0
-			
+			additive_modifier = { 
+				value = 1000			
+				holder_scope = {
+					OR = { 
+						culture = kanuri #First Peoples
+						culture	= hausa #First Nations
+						culture	= zaghawa #First Australians
+					}
+				}	
+			}			
 			additive_modifier = { 
 				value = 10			
 				year = 900
@@ -503,7 +522,16 @@ laws = {
 		
 		default_selection = {
 			factor = 0
-			
+			additive_modifier = { 
+				value = 1000			
+				holder_scope = {
+					OR = { 
+						culture = kanuri #First Peoples
+						culture	= hausa #First Nations
+						culture	= zaghawa #First Australians
+					}
+				}	
+			}			
 			additive_modifier = { 
 				value = 10			
 				year = 1100
@@ -673,7 +701,16 @@ laws = {
 		
 		default_selection = {
 			factor = 0
-			
+			additive_modifier = { 
+				value = 1000			
+				holder_scope = {
+					OR = { 
+						culture = kanuri #First Peoples
+						culture	= hausa #First Nations
+						culture	= zaghawa #First Australians
+					}
+				}	
+			}			
 			additive_modifier = { 
 				value = 10			
 				year = 1000
@@ -842,7 +879,16 @@ laws = {
 		
 		default_selection = {
 			factor = 0
-			
+			additive_modifier = { 
+				value = 1000			
+				holder_scope = {
+					OR = { 
+						culture = kanuri #First Peoples
+						culture	= hausa #First Nations
+						culture	= zaghawa #First Australians
+					}
+				}	
+			}			
 			additive_modifier = { 
 				value = 10			
 				year = 1200
@@ -1012,7 +1058,16 @@ laws = {
 		
 		default_selection = {
 			factor = 0
-			
+			additive_modifier = { 
+				value = 1000			
+				holder_scope = {
+					OR = { 
+						culture = kanuri #First Peoples
+						culture	= hausa #First Nations
+						culture	= zaghawa #First Australians
+					}
+				}	
+			}			
 			additive_modifier = { 
 				value = 10			
 				year = 1300
@@ -1181,7 +1236,16 @@ laws = {
 		
 		default_selection = {
 			factor = 0
-			
+			additive_modifier = { 
+				value = 1000			
+				holder_scope = {
+					OR = { 
+						culture = kanuri #First Peoples
+						culture	= hausa #First Nations
+						culture	= zaghawa #First Australians
+					}
+				}	
+			}			
 			additive_modifier = { 
 				value = 10			
 				year = 1200
@@ -1342,6 +1406,20 @@ laws = {
 	
 	succession_voting_power_1 = {
 		group = succession_voting_power
+
+		default_selection = {
+			factor = 0
+			additive_modifier = { 
+				value = 1000			
+				holder_scope = {
+					OR = { 
+						culture = kanuri #First Peoples
+						culture	= hausa #First Nations
+						culture	= zaghawa #First Australians
+					}
+				}	
+			}
+		}
 		
 		allow = {
 			has_law = law_voting_power_1

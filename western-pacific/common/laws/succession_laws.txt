@@ -256,12 +256,16 @@ succession_laws = {
 		dynasty_opinion = 5
 	
 		potential = {
-			holder_scope = {
-				has_religion_feature = religion_beatification
-				OR = {
-					is_feudal = yes
-					is_tribal = yes
+			OR = {
+				holder_scope = {
+				culture_group = central_african
 				}
+				holder_scope = {
+					has_religion_feature = religion_beatification
+					OR = {
+						is_feudal = yes
+						is_tribal = yes
+					}
 			}
 			holder_scope = {
 				has_dlc = "Holy Fury"
@@ -912,7 +916,7 @@ succession_laws = {
 		potential = {
 			holder_scope = {
 				OR = {
-					has_landed_title = e_valles_marineris
+					has_landed_title = e_aus
 					religion = taoist
 				}
 				NOT = { religion_group = muslim }

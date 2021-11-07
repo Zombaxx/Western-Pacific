@@ -14,52 +14,52 @@ duke_female_norse_pagan;Lady Raider;;;x
 
 #Arabic/Martian
 
-city_duke_muslim;Precept;;;x
-city_duke_female_muslim;Precepta;;;;;;;;;x
+#city_duke_muslim;Precept;;;x
+#city_duke_female_muslim;Precepta;;;;;;;;;x
 
+#tribal_duke_arabic;Magna;;;x
 
-tribal_duke_arabic;Magna;;;x
-tribal_duke_female_arabic;Magnata;;;x
-tribal_count_arabic;Marcho;;;x
-tribal_count_female_arabic;Marchessa;;;x
-tribal_king_arabic;Rexus;;;x
-tribal_king_female_arabic;Rexina;;;x
-tribal_emperor_arabic;Gran Rexus;;;x
-tribal_emperor_female_arabic;Gran Rexina;;;x
-emperor_arabic;Imperati Rexus;;;x
-emperor_female_arabic;Impera Rexina;;;x
-emperor_title_ruler_consort_female_arabic;Imperati Rexina;;;x
-emperor_title_ruler_consort_arabic;Imperati Rex;;;x
-king_arabic;Rexus;;;x
-king_female_arabic;Rexina;;;x
-king_title_ruler_consort_arabic;Magna;;;;;;;;;;;;x
-king_title_ruler_consort_female_arabic;Magnata;;;;;;;;;;;;;x
-title_prince_arabic;Prince;;;;;;;;;;;;;x
-title_prince_female_arabic;Princess;;;;;;;;;;;;;x
-duke_arabic;Magna;;;x
-duke_female_arabic;Magnata;;;;;;;;;x
-duke_title_ruler_consort_arabic;Magna;;;;;;;;;;;;x
-duke_title_ruler_consort_female_arabic;Magnata;;;;;;;;;;;;;x
-count_arabic;Marcho;;;;;;;;;;;;;x
-count_female_arabic;Marchessa;;;x
-count_title_ruler_consort_arabic;Marcho;;;;;;;;;;;;x
-count_title_ruler_consort_female_arabic;Marchonissa;;;;;;;;;;;;;x
-city_count_arabic;Marcho≠;;;;;;;;;x
-city_count_female_arabic;Marchessa;;;;
-city_king_arabic;Governaeto;;;;;;;;;x
-city_king_female_arabic;Governae;;;;;;;;;x
-city_duke_female_arabic;Precepta;;;;;;;;;x
-city_duke_arabic;Precept;;;;;;;;;x
-
-county_of_arabic;Precint of;;;;;;;;;x
-barony_of_arabic;House of;;;x
-duchy_of_arabic;Province of;;;;;;;;;x
-kingdom_of_arabic;Kingdom of;;;;;;;;;x
-temple_barony_of_arabic;Temple of;;;;;x
-temple_barony_of_arabic_muslim;Temple of;;;;;x
-temple_barony_of_muslim;Temple of;;;;;x
-baron_arabic;Mayor;;;x
-baron_arabic_muslim;Mayor;;;x
+#tribal_duke_female_arabic;Magnata;;;x
+#tribal_count_arabic;Marcho;;;x
+#tribal_count_female_arabic;Marchessa;;;x
+#tribal_king_arabic;Rexus;;;x
+#tribal_king_female_arabic;Rexina;;;x
+#tribal_emperor_arabic;Gran Rexus;;;x
+#tribal_emperor_female_arabic;Gran Rexina;;;x
+#emperor_arabic;Imperati Rexus;;;x
+#emperor_female_arabic;Impera Rexina;;;x
+#emperor_title_ruler_consort_female_arabic;Imperati Rexina;;;x
+#emperor_title_ruler_consort_arabic;Imperati Rex;;;x
+#king_arabic;Rexus;;;x
+#king_female_arabic;Rexina;;;x
+#king_title_ruler_consort_arabic;Magna;;;;;;;;;;;;x
+#king_title_ruler_consort_female_arabic;Magnata;;;;;;;;;;;;;x
+#title_prince_arabic;Prince;;;;;;;;;;;;;x
+#title_prince_female_arabic;Princess;;;;;;;;;;;;;x
+#duke_arabic;Magna;;;x
+#duke_female_arabic;Magnata;;;;;;;;;x
+#duke_title_ruler_consort_arabic;Magna;;;;;;;;;;;;x
+#duke_title_ruler_consort_female_arabic;Magnata;;;;;;;;;;;;;x
+#count_arabic;Marcho;;;;;;;;;;;;;x
+#count_female_arabic;Marchessa;;;x
+#count_title_ruler_consort_arabic;Marcho;;;;;;;;;;;;x
+#count_title_ruler_consort_female_arabic;Marchonissa;;;;;;;;;;;;;x
+#city_count_arabic;Marcho≠;;;;;;;;;x
+#city_count_female_arabic;Marchessa;;;;
+#city_king_arabic;Governaeto;;;;;;;;;x
+#city_king_female_arabic;Governae;;;;;;;;;x
+#city_duke_female_arabic;Precepta;;;;;;;;;x
+#city_duke_arabic;Precept;;;;;;;;;x
+#
+#county_of_arabic;Precint of;;;;;;;;;x
+#barony_of_arabic;House of;;;x
+#duchy_of_arabic;Province of;;;;;;;;;x
+#kingdom_of_arabic;Kingdom of;;;;;;;;;x
+#temple_barony_of_arabic;Temple of;;;;;x
+#temple_barony_of_arabic_muslim;Temple of;;;;;x
+#temple_barony_of_muslim;Temple of;;;;;x
+#baron_arabic;Mayor;;;x
+#baron_arabic_muslim;Mayor;;;x
 
 
 #Iranian/Daedalian
@@ -122,29 +122,45 @@ city_duke_iberian;Lord Protector;;;;;;;;;x
 
 #Indigenous Australian
 
-tribal_duke_central_african;Lord;;;x
-tribal_duke_female_central_african;Lady;;;x
-tribal_count_central_african;Lord;;;x
-tribal_count_female_central_african;Lady;;;x
-tribal_emperor_central_african;High King;;;x
-tribal_emperor_female_central_african;High Queen;;;x
-emperor_central_african;King of Kings;;;x
-emperor_female_central_african;High Empress;;;x
-king_central_african;King;;;x
-king_female_central_african;Queen;;;x
-title_prince_central_african;Prince;;;;;;;;;;;;;x
-title_prince_female_central_african;Princess;;;;;;;;;;;;;x
-duke_central_african;Overlord;;;x
-duke_female_central_african;Lady;;;;;;;;;x
-count_central_african;Lord;;;;;;;;;;;;;x
-count_female_central_african;Lady;;;x
+nomadic_duke_central_african;Uncle;;;x
+nomadic_duke_female_central_african;Aunt;;;x
+nomadic_count_central_african;Respected;;;x
+nomadic_count_female_central_african;Respected;;;x
+nomadic_baron_central_african;Dreamer;;;x
+nomadic_baron_female_central_african;Dreamer;;;x
+nomadic_king_central_african;Elder;;;x
+nomadic_king_female_central_african;Elder;;;x
+nomadic_emperor_central_african;High Elder;;;x
+nomadic_emperor_female_central_african;High Elder;;;x
+tribal_duke_central_african;Uncle;;;x
+tribal_duke_female_central_african;Aunt;;;x
+tribal_count_central_african;Respected;;;x
+tribal_count_female_central_african;Respected;;;x
+tribal_baron_central_african;Dreamer;;;x
+tribal_baron_female_central_african;Dreamer;;;x
+tribal_king_central_african;Elder;;;x
+tribal_king_female_central_african;Elder;;;x
+tribal_emperor_central_african;High Elder;;;x
+tribal_emperor_female_central_african;High Elder;;;x
+emperor_central_african;Grand Elder;;;x
+emperor_female_central_african;Grand Elder;;;x
+king_central_african;Elder;;;x
+king_female_central_african;Elder;;;x
+title_prince_central_african;Elder's Son;;;;;;;;;;;;;x
+title_prince_female_central_african;Elder's Daughter;;;;;;;;;;;;;x
+duke_central_african;Uncle;;;x
+duke_female_central_african;Aunt;;;;;;;;;x
+count_central_african;Respected;;;;;;;;;;;;;x
+count_female_central_african;Respected;;;x
+baron_central_african;Dreamer;;;;;;;;;;;;;x
+baron_female_central_african;Dreamer;;;x
 
-city_count_central_african;Lord;;;;;;;;;x
-city_count_female_central_african;Lady;;;;
-city_king_central_african;High Lord;;;;;;;;;x
-city_king_female_central_african;High Lady;;;;;;;;;x
-city_duke_female_central_african;Lady Protector;;;;;;;;;x
-city_duke_central_african;Lord Protector;;;;;;;;;x
+#city_count_central_african;Lord;;;;;;;;;x
+#city_count_female_central_african;Lady;;;;
+#city_king_central_african;High Lord;;;;;;;;;x
+#city_king_female_central_african;High Lady;;;;;;;;;x
+#city_duke_female_central_african;Lady Protector;;;;;;;;;x
+#city_duke_central_african;Lord Protector;;;;;;;;;x
 
 #Cimmerian
 
@@ -416,6 +432,16 @@ nomadic_empire_of_tau_cetinese;Horde of;Khaganat de;Gro√ükhanat von;;Kaganato de
 nomadic_kingdom_tau_cetinese;Horde;Khanat;Khanat;;Kanato;;;;;;;;;x
 nomadic_kingdom_of;Horde of;Kanat de;Khanat von;;Kanato de;;;;;;;;;x
 
+tribal_duke_irish;Lord;;;x
+tribal_duke_female_irish;Lord;;;x
+tribal_count_irish;Bushranger;;;x
+tribal_count_female_irish;Bushranger;;;x
+tribal_baron_irish;Bushranger;;;x
+tribal_baron_female_irish;Ranger;;;x
+tribal_king_irish;King;;;x
+tribal_king_female_irish;Queen;;;x
+tribal_emperor_irish;Emperor;;;x
+tribal_emperor_female_irish;Emperor;;;x
 
 #emperor;Emperor;Empereur;Kaiser;;Emperador;;;;;;;;;x
 #king;King;Roi;K√∂nig;;Rey;;;;;;;;;x
