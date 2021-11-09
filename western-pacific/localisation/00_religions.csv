@@ -33,6 +33,13 @@ messalian_DESC;The Cult of the Reborn are a heretical Christian sect that origin
 nestorian;Latter-day Saints;;;;;;;;;;;;;x
 nestorian;The Church of the Latter-day Saints, also unofficially called the Mormon Church, is a nontrinitarian, Christian restorationist church that considers itself to be the restoration of the original church founded by Jesus Christ. Although originating in the United States long before the Great Disaster, the church had pockets of followers all around the globe by the time the Great Disaster occured. Although their influence had dwindled over the millenia, they found that the disorganized Cult of the Reborn were the perfect opportunity to be indoctrinated into the true faith for their own salvation, and to gain enough followers to once again send prosthelytizing missions around the world.;;;;;;;;;;;;;x
 
+
+hellenic_pagan;Masonic;hellénique;Hellenisch;;Helenística;;;;;;;;;x
+hellenic_pagan_DESC;The Masonic religion encourages the belief in a surpreme being, known as the Grand Architect of the Universe, who is a Deistic creator rather than a personal God as envisioned by Christianity, promoting the idea that the supreme being is like the ultimate "watchmaker", a diety that created the universe and may observe it from time to time, but does not play an active role in the lives of its creations except when time for repair or maintenance. Various pantheons, including the Greco-Roman Jupiter, Mars, Mercury, Venus, Minerva and Vesta, were created by the Grand Architect to assist in his absence.;La religion hellénique est polythéiste, avec un panthéon de douze dieux majeurs dont Jupiter, Mars, Mercure, Venus, Minerve et Vesta. Elle puise ses origines dans la Grèce antique et, grâce aux conquêtes d'Alexandre le Grand et l'Empire romain, elle a pu devenir la religion dominante en Méditerrannée jusqu'à l'avènement du Christianisme.;Die hellenische Religion ist polytheistisch mit einem Pantheon von zwölf Hauptgöttern, zu welchem Jupiter, Mars, Merkur, Venus, Minerva und Vesta gehören. Sie entstammt dem alten Griechenland und wurde durch die Eroberungen Alexander des Großen und des Römischen Reiches zur Hauptreligion im Mittelmeerraum, bis zum Aufkommen des Christentums.;;La religión helenística es politeista, con un panteón de doce Dioses mayores incluyendo Júpiter, Marte, Mercurio, Venus, Minerva y Vesta. Se originó en la antigua Grecia y, con las conquistas de Alejandro Magno y el Imperio Romano, se convirtió en la religión predominante en el Mediterráneo hasta el auge del Cristianismo.;;;;;;;;;x
+
+hellenic_pagan_reformed;Masonic;hellénique;Hellenisch;;Helénica;;;;;;;;;x
+hellenic_pagan_reformed_DESC;The Masonic religion encourages the belief in a surpreme being, known as the Grand Architect of the Universe, who is a Deistic creator rather than a personal God as envisioned by Christianity, promoting the idea that the supreme being is like the ultimate "watchmaker", a diety that created the universe and may observe it from time to time, but does not play an active role in the lives of its creations except when time for repair or maintenance. Various pantheons, including the Greco-Roman Jupiter, Mars, Mercury, Venus, Minerva and Vesta, were created by the Grand Architect to assist in his absence.;La religion hellénique est polythéiste, avec un panthéon de douze dieux majeurs dont Jupiter, Mars, Mercure, Venus, Minerve et Vesta. Elle puise ses origines dans la Grèce antique et, grâce aux conquêtes d'Alexandre le Grand et l'Empire romain, elle a pu devenir la religion dominante en Méditerrannée jusqu'à l'avènement du Christianisme.;Die hellenische Religion ist polytheistisch mit einem Pantheon von zwölf Hauptgöttern, zu welchem Jupiter, Mars, Merkur, Venus, Minerva und Vesta gehören. Sie entstammt dem alten Griechenland und wurde durch die Eroberungen Alexander des Großen und des Römischen Reiches zur Hauptreligion im Mittelmeerraum, bis zum Aufkommen des Christentums.;;La religión helenística es politeista, con un panteón de doce Dioses mayores incluyendo Júpiter, Marte, Mercurio, Venus, Minerva y Vesta. Se originó en la antigua Grecia y, con las conquistas de Alejandro Magno y el Imperio Romano, se convirtió en la religión predominante en el Mediterráneo hasta el auge del Cristianismo.;;;;;;;;;x
+
 manichaean;Manichaean;;;;;;;;;;;;;x
 #manichaean_DESC;;;;;;;;;;;;;;x
 tengri_pagan;New Age;;;;;;;;;;;;;x
@@ -50,3 +57,30 @@ Miaphysite;Seventh-Day Adventist;;;;;;;;;;;;;x
 Miaphysite_DESC;Adventist doctrine resembles trinitarian Protestant theology, and evangelical Christian teachings, such as the Trinity and the infallibility of Scripture. Distinctive post-tribulation teachings include the unconscious state of the dead and the doctrine of an investigative judgment. The church is known for its emphasis on diet and health, including adhering to Kosher food laws, advocating vegetarianism, and its holistic understanding of the person. It is likewise known for its promotion of religious liberty, and its conservative principles and lifestyle.. Adventists uphold teachings such as the infallibility of Scripture, the substitutionary atonement, the resurrection of the dead and justification by faith alone. They believe in baptism by immersion and creation in six literal days. They are distinguished by their observance of Saturday, the seventh day of the week in Christian and Jewish calendars, as the Sabbath, and their emphasis on the imminent Second Coming of Jesus Christ.;;;;;;;;;;;;;x
 Monophysite;Fundamentalist;;;;;;;;;;;;;x
 Monophysite_DESC;Fundamentalism is a movement emphasizing biblical literalism. They argue that many modernist theologians had misinterpreted or rejected certain doctrines, especially biblical inerrancy, which they considered the fundamentals of the Christian faith. Fundamentalists are almost always described as holding to the beliefs in biblical infallibility and biblical inerrancy.[4] In keeping with traditional Christian doctrines concerning biblical interpretation, the role of Jesus in the Bible, and the role of the church in society, fundamentalists usually believe in a core of Christian beliefs which include the historical accuracy of the Bible and all of the events which are recorded in it as well as the Second Coming of Jesus Christ. Fundamentalism manifests itself in various denominations which believe in various theologies, rather than a single denomination or a systematic theology.;;;;;;;;;;;;;x
+
+GOD_THOR;the 7 Seas;the 7 Seas;the 7 Seas;;the 7 Seas;;;;;;;;;x
+GOD_THE_THUNDERER;the Drowner;le Tonnant;den Donnerer;;Dios del Trueno;;;;;;;;;x
+GOD_THE_ALLFATHER;the Aquafather;le Père de tout;den Allvater;;El Todopoderoso;;;;;;;;;x
+GOD_ODIN;the Depths;the Depths;the Depths;;the Depths;;;;;;;;;x
+GOD_TENGRI;Anubis;Anubis;Anubis;;Anubis;;;;;;;;;x
+GOD_ERLIK_KHAN;Sekhmet;Sekhmet;Sekhmet;;Sekhmet;;;;;;;;;x
+GOD_TUNG-AK;Maat;Maat;Maat;;Maat;;;;;;;;;x
+GOD_GABIJA;Gabija;Gabija;Gabija;;Gabija;;;;;;;;;x
+GOD_PERKUNAS;Perkunas;Perkunas;Perkunas;;Perkunas;;;;;;;;;x
+GOD_THE_GREAT_BEAR;the Great Bear;le Grand Ours;den Großen Bären;;el Gran Oso;;;;;;;;;x
+GOD_UKKO;Ukko;Ukko;Ukko;;Ukko;;;;;;;;;x
+GOD_PERKELE;Perkele;Perkele;Perkele;;Perkele;;;;;;;;;x
+GOD_JUMI;Jumi;Jumi;Jumi;;Jumi;;;;;;;;;x
+GOD_AHURA_MAZDA;Ahura Mazda;Ahura Mazda;Ahura Mazda;;Ahura Mazda;;;;;;;;;x
+GOD_MANAH;Manah;Manah;Manah;;Manat;;;;;;;;;x
+THE_BIBLE;The Texts;Bible;Die Bibel;;La Biblia;;;;;;;;;x
+THE_ASCETICUS;The Anthropocene;Ascètes;der Asceticus;;Los Ascetas;;;;;;;;;x
+THE_PANTOKRATOR;the Pantokrator;le Pantocrator;der Pantokrator;;el Pantocrátor;;;;;;;;;x
+THE_LEGENDS;The Legends;Légendes;Die Legenden;;Las Leyendas;;;;;;;;;x
+THE_SAGAS;The Pirate's Code;The Pirate's Code;The Pirate's Code;;The Pirate's Code;;;;;;;;;x
+THE_GATHAS;The Gathas;Gathas;Die Gathas;;Las Gathas;;;;;;;;;x
+
+GOD_ZUN;Zun;Zun;Zun;;Zun;;;;;;;;;x
+GOD_THE_SUN;the Sun;le Soleil;die Sonne;;el Sol;;;;;;;;;x
+GOD_THE_GIVER_OF_JUSTICE;the Giver of Justice;le Justicier;den Geber der Gerechtigkeit;;el que Imparte Justicia;;;;;;;;;x
+THE_DARKNESS;the Darkness;les Ténèbres;Die Dunkelheit;;la Oscuridad;;;;;;;;;x
