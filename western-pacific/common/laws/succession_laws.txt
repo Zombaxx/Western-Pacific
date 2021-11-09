@@ -266,6 +266,7 @@ succession_laws = {
 						is_feudal = yes
 						is_tribal = yes
 					}
+				}
 			}
 			holder_scope = {
 				has_dlc = "Holy Fury"

@@ -22,4 +22,20 @@ bm_wp = {
 			dynasty=100780
 		}
 	}
+	selectable_character = {
+		id = 116065 #
+		age = 19
+		name = ERA_CHAR_NAME_116065
+		title = c_province0003
+		title_name = c_province0003
+		dlc = "The Old Gods"		
+		character = {
+			dna = jucmrrefwqh
+			properties = eoidmd
+			religion="germanic"
+			culture="nahuatl"
+			government = tribal_government
+			dynasty=100780
+		}
+	}
 }
