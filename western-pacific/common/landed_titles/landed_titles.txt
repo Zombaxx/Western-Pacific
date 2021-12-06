@@ -50688,6 +50688,7 @@ e_tibet = {
 		color= { 175 60 30 }
 		color2= { 255 255 255 }
 	
+		allow = { always = no }
 		capital = 1478 # Kathmandu
 		
 		culture = nepali
