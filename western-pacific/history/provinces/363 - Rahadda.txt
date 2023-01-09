@@ -9,7 +9,7 @@ b_rahadda = castle
 b_namuo = temple
 
 # Misc
-culture = kannada
+culture = telugu
 religion = buddhist
 
 # History

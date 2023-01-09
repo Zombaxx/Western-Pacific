@@ -10,7 +10,7 @@ b_akropolis = temple
 b_bohisii = city
 
 # Misc
-culture = kannada
+culture = telugu
 religion = jain
 
 # History

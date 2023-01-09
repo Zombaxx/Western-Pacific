@@ -9,7 +9,7 @@ b_qiesanca = castle
 b_kivalotl = temple
 
 # Misc
-culture = kannada
+culture = telugu
 religion = buddhist
 
 # History

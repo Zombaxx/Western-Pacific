@@ -44757,7 +44757,7 @@
 103081 = {
 	name = "Harihara"
 	dynasty = 103080
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103080
 	984.1.1={
@@ -44770,7 +44770,7 @@
 103082 = {
 	name = "Dashavarman"
 	dynasty = 103080
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103081
 	1013.1.1={
@@ -44786,7 +44786,7 @@
 103083 = {
 	name = "Thimma"
 	dynasty = 103080
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103081
 	1017.1.1={
@@ -44799,7 +44799,7 @@
 103084 = {
 	name = "Chandrabbalabbe"
 	female = yes
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	1019.1.1={
 		birth="1019.1.1"
@@ -44829,7 +44829,7 @@
 103086 = {
 	name = "Hakka"
 	dynasty = 103080
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103082
 	mother = 103084
@@ -44843,7 +44843,7 @@
 103087 = {
 	name = "Viranarasimha"
 	dynasty = 103080
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103082
 	mother = 103084
@@ -44858,7 +44858,7 @@
 	name = "Gangambika"
 	female = yes
 	dynasty = 103080
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103083
 	1043.1.1={
@@ -44871,7 +44871,7 @@
 103089 = {
 	name = "Neetimarga"
 	dynasty = 103080
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103083
 	1046.1.1={
@@ -46057,7 +46057,7 @@
 103170 = {
 	name = "Sharva"
 	dynasty = 103170
-	culture = "kannada"
+	culture = "telugu"
 	religion = "jain"
 	trait = midas_touched
 	stewardship = 10
@@ -46074,7 +46074,7 @@
 103171 = {
 	name = "Gajankusha"
 	dynasty = 103170
-	culture = "kannada"
+	culture = "telugu"
 	religion = "jain"
 	father = 103170
 	993.1.1={
@@ -46087,7 +46087,7 @@
 103172 = {
 	name = "Ramachandra"
 	dynasty = 103170
-	culture = "kannada"
+	culture = "telugu"
 	religion = "jain"
 	father = 103171
 	1023.1.1={
@@ -46103,7 +46103,7 @@
 103173 = {
 	name = "Kambarasa"
 	dynasty = 103170
-	culture = "kannada"
+	culture = "telugu"
 	religion = "jain"
 	father = 103171
 	1026.1.1={
@@ -46116,7 +46116,7 @@
 103174 = {
 	name = "Vijamba"
 	female = yes
-	culture = "kannada"
+	culture = "telugu"
 	religion = "jain"
 	1022.1.1={
 		birth="1022.1.1"
@@ -46133,7 +46133,7 @@
 	name = "Obayamma"
 	female = yes
 	dynasty = 103170
-	culture = "kannada"
+	culture = "telugu"
 	religion = "jain"
 	father = 103172
 	mother = 103174
@@ -46148,7 +46148,7 @@
 	name = "Bhavanaga"
 	female = yes
 	dynasty = 103170
-	culture = "kannada"
+	culture = "telugu"
 	religion = "jain"
 	father = 103172
 	mother = 103174
@@ -46163,7 +46163,7 @@
 	name = "Shantaladevi"
 	female = yes
 	dynasty = 103170
-	culture = "kannada"
+	culture = "telugu"
 	religion = "jain"
 	father = 103172
 	mother = 103174
@@ -46177,7 +46177,7 @@
 103178 = {
 	name = "Tailapa"
 	dynasty = 103170
-	culture = "kannada"
+	culture = "telugu"
 	religion = "jain"
 	father = 103173
 	1054.1.1={
@@ -46191,7 +46191,7 @@
 	name = "Mailaladevi"
 	female = yes
 	dynasty = 103170
-	culture = "kannada"
+	culture = "telugu"
 	religion = "jain"
 	father = 103172
 	mother = 103174
@@ -47954,7 +47954,7 @@
 103300 = {
 	name = "Bukka"
 	dynasty = 103300
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	trait = midas_touched
 	stewardship = 10
@@ -47971,7 +47971,7 @@
 103301 = {
 	name = "Ereyanga"
 	dynasty = 103300
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103300
 	994.1.1={
@@ -47984,7 +47984,7 @@
 103302 = {
 	name = "Achyutadeva"
 	dynasty = 103300
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103301
 	1024.1.1={
@@ -48000,7 +48000,7 @@
 103303 = {
 	name = "Jagadhekamalla"
 	dynasty = 103300
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103301
 	1027.1.1={
@@ -48013,7 +48013,7 @@
 103304 = {
 	name = "Obayamma"
 	female = yes
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	1019.1.1={
 		birth="1019.1.1"
@@ -48029,7 +48029,7 @@
 103305 = {
 	name = "Sriranga"
 	dynasty = 103300
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103302
 	mother = 103304
@@ -48043,7 +48043,7 @@
 103306 = {
 	name = "Ahavamalla"
 	dynasty = 103300
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103302
 	mother = 103304
@@ -48058,7 +48058,7 @@
 	name = "Revakanimmadi"
 	female = yes
 	dynasty = 103300
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103302
 	mother = 103304
@@ -48073,7 +48073,7 @@
 	name = "Chandaladevi"
 	female = yes
 	dynasty = 103300
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103303
 	1055.1.1={
@@ -48086,7 +48086,7 @@
 103309 = {
 	name = "Durvinita"
 	dynasty = 103300
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103303
 	1056.1.1={
@@ -48683,7 +48683,7 @@
 103350 = {
 	name = "Polavira"
 	dynasty = 103350
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	trait = mastermind_theologian
 	learning = 10
@@ -48700,7 +48700,7 @@
 103351 = {
 	name = "Govinda"
 	dynasty = 103350
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103350
 	982.1.1={
@@ -48713,7 +48713,7 @@
 103352 = {
 	name = "Kambarasa"
 	dynasty = 103350
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103351
 	1013.1.1={
@@ -48729,7 +48729,7 @@
 103353 = {
 	name = "Vikramaditya"
 	dynasty = 103350
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103351
 	1015.1.1={
@@ -48742,7 +48742,7 @@
 103354 = {
 	name = "Mahadevi"
 	female = yes
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	1020.1.1={
 		birth="1020.1.1"
@@ -48758,7 +48758,7 @@
 103355 = {
 	name = "Durvinita"
 	dynasty = 103350
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103352
 	mother = 103354
@@ -50591,7 +50591,7 @@
 103480 = {
 	name = "Vinayaditya"
 	dynasty = 103480
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	trait = mastermind_theologian
 	learning = 10
@@ -50609,7 +50609,7 @@
 103481 = {
 	name = "Govinda"
 	dynasty = 103480
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103480
 	963.1.1={
@@ -50622,7 +50622,7 @@
 103482 = {
 	name = "Jagaraya"
 	dynasty = 103480
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103481
 	1002.1.1={
@@ -50638,7 +50638,7 @@
 103483 = {
 	name = "Anekonda"
 	dynasty = 103480
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103481
 	1005.1.1={
@@ -50651,7 +50651,7 @@
 103484 = {
 	name = "Revakanimmadi"
 	female = yes
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	1008.1.1={
 		birth="1008.1.1"
@@ -50667,7 +50667,7 @@
 103485 = {
 	name = "Praudharaya"
 	dynasty = 103480
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103482
 	mother = 103484
@@ -50681,7 +50681,7 @@
 103486 = {
 	name = "Govinda"
 	dynasty = 103480
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103482
 	mother = 103484
@@ -50696,7 +50696,7 @@
 	name = "Akkadevi"
 	female = yes
 	dynasty = 103480
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103482
 	mother = 103484
@@ -50710,7 +50710,7 @@
 103488 = {
 	name = "Praudharaya"
 	dynasty = 103480
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103483
 	1031.1.1={
@@ -50724,7 +50724,7 @@
 	name = "Mailaladevi"
 	female = yes
 	dynasty = 103480
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 103483
 	1032.1.1={
@@ -60203,7 +60203,7 @@
 104140 = {
 	name = "Praudharaya"
 	dynasty = 104140
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	trait = mastermind_theologian
 	learning = 10
@@ -60222,7 +60222,7 @@
 104141 = {
 	name = "Singhana"
 	dynasty = 104140
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 104140
 	995.1.1={
@@ -60235,7 +60235,7 @@
 104142 = {
 	name = "Dantidurga"
 	dynasty = 104140
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 104141
 	1022.1.1={
@@ -60251,7 +60251,7 @@
 104143 = {
 	name = "Madhura"
 	dynasty = 104140
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 104141
 	1023.1.1={
@@ -60280,7 +60280,7 @@
 104145 = {
 	name = "Krishnadevaraya"
 	dynasty = 104140
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 104142
 	mother = 104144
@@ -60295,7 +60295,7 @@
 	name = "Gangambika"
 	female = yes
 	dynasty = 104140
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 104142
 	mother = 104144
@@ -60309,7 +60309,7 @@
 104147 = {
 	name = "Gajankusha"
 	dynasty = 104140
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 104142
 	mother = 104144
@@ -60324,7 +60324,7 @@
 	name = "Shantaladevi"
 	female = yes
 	dynasty = 104140
-	culture = "kannada"
+	culture = "telugu"
 	religion = "buddhist"
 	father = 104143
 	1048.1.1={

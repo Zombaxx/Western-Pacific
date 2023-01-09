@@ -10,7 +10,7 @@ b_qarayah = temple
 b_nuhaca = city
 
 # Misc
-culture = kannada
+culture = telugu
 religion = buddhist
 
 # History

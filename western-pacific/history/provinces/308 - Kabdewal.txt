@@ -9,7 +9,7 @@ b_kabdewal = castle
 b_baaminai = temple
 
 # Misc
-culture = kannada
+culture = telugu
 religion = buddhist
 
 # History

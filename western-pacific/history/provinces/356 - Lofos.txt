@@ -9,7 +9,7 @@ b_lofos = castle
 b_qato = temple
 
 # Misc
-culture = kannada
+culture = telugu
 religion = buddhist
 
 # History

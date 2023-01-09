@@ -9,7 +9,7 @@ b_kaulirek = castle
 b_etekint = temple
 
 # Misc
-culture = kannada
+culture = telugu
 religion = buddhist
 
 # History

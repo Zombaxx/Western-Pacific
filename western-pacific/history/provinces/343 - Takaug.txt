@@ -9,7 +9,7 @@ b_takaug = castle
 b_kazimon = temple
 
 # Misc
-culture = kannada
+culture = telugu
 religion = buddhist
 
 # History
