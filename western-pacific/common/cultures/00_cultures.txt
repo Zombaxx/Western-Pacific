@@ -1967,7 +1967,7 @@ altaic = { #Asian
 		
 		from_dynasty_prefix = "ve "
 		
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 
 		allow_looting = yes
@@ -2178,7 +2178,7 @@ altaic = { #Asian
 		}
 		
 		from_dynasty_prefix = "of "
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 
 		allow_looting = yes
@@ -2284,7 +2284,7 @@ altaic = { #Asian
 		}
 
 		
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		
 		from_dynasty_prefix = ""
 		founder_named_dynasties = yes
@@ -2395,7 +2395,7 @@ arabic = {
 		from_dynasty_prefix = "of "
 		
 		baron_titles_hidden = yes
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 
 		modifier = default_culture_modifier
@@ -2430,7 +2430,7 @@ arabic = {
 		
 		baron_titles_hidden = yes
 		dukes_called_kings = yes
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 		
 		allow_looting = yes
@@ -2479,7 +2479,7 @@ arabic = {
 		from_dynasty_prefix = "of "
 		
 		baron_titles_hidden = yes
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 
 		modifier = default_culture_modifier
@@ -2517,7 +2517,7 @@ arabic = {
 		from_dynasty_prefix = "of "
 		
 		baron_titles_hidden = yes
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 
 		modifier = default_culture_modifier
@@ -2558,7 +2558,7 @@ arabic = {
 		
 		baron_titles_hidden = yes
 		dukes_called_kings = yes
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 
 		modifier = default_culture_modifier
@@ -3110,7 +3110,7 @@ iranian = {
 			Edras Pheana Idos Dena Innas Chera
 		}
 		
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 		
 		modifier = default_culture_modifier
@@ -3199,7 +3199,7 @@ iranian = {
 			Edras Pheana Idos Dena Innas Chera
 		}
 		
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 
 		modifier = default_culture_modifier
@@ -3219,7 +3219,7 @@ iranian = {
 		}
   
 	baron_titles_hidden = yes
-    dynasty_title_names = yes
+    #dynasty_title_names = yes
     founder_named_dynasties = yes
 
 
@@ -3249,7 +3249,7 @@ iranian = {
       Shali Sharhaatun Shemshok Shereen_Shirin Sheshalo Sugra Suha Suhenda Waahag Zaaferaan Zarhaatun Zaitun Zaytun Zinat Zomorred
     }
   
-    dynasty_title_names = yes
+    #dynasty_title_names = yes
     founder_named_dynasties = yes
 
     male_patronym = "ani"
@@ -3686,7 +3686,7 @@ indo_aryan_group = { #South Asian
 			Syamadevi Vijnayavati Vina Yajnavati
 		}
 		
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 		
 		castes = yes
@@ -3724,7 +3724,7 @@ indo_aryan_group = { #South Asian
 			Ratnavati Suvrata Syamadevi Vakula Vakulamahadevi Vasumati Vijnanavati Vijnayavati Yajiyavati Yajnavati
 		}
 		
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 		
 		castes = yes
@@ -3751,7 +3751,7 @@ indo_aryan_group = { #South Asian
 			Ratnavati Suvrata Syamadevi Vasumati Vijnanavati Vijnayavati Yajiyavati Yajnavati
 		}
 		
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 		
 		castes = yes
@@ -3794,7 +3794,7 @@ indo_aryan_group = { #South Asian
 			Prabhavati Prabhavatigupta Prasadhanadevi Puppadevi Rajamati Sanyukta Shrimitradevi 
 		}
 		
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 		
 		castes = yes
@@ -3846,7 +3846,7 @@ indo_aryan_group = { #South Asian
 			Madhavi Mahalakshmi Mahidevi Manaladevi Mayanalladevi Namalladevi Padmaladevi Padmini Prasadhanadevi Pratha Rasaladevi 
 			Rudaladevi Rudrani Rupadevi Samyukta Sidhawa Somalladevi Suhava Sundaridevi Tihunaka Udayamati
 		}
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 		
 		castes = yes
@@ -3882,7 +3882,7 @@ indo_aryan_group = { #South Asian
 			Lachmi Nanaki Nihal Ramo Sabhirai Sahib Sulakhni Sundari Tripta 
 		}
 		
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 		
 		castes = yes
@@ -3944,7 +3944,7 @@ indo_aryan_group = { #South Asian
 			Hariyadevi Laxmidevi Madhavi Mahalakshmi Manaladevi Mayanalladevi Namalladevi Padmaladevi Padmini
 			Pratha Rasaladevi Rudaladevi Rudrani Rupadevi Samyukta Sidhawa Somalladevi Suhava Sundaridevi Tihunaka Udayamati
 		}
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 		
 		castes = yes
@@ -3981,7 +3981,7 @@ indo_aryan_group = { #South Asian
 			Dahar Premala Suhanadi
 		}
 		
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 		
 		castes = yes
@@ -4018,7 +4018,7 @@ indo_aryan_group = { #South Asian
 			Anjanibai Anuradha Durga Kamadevi Kamaladevi Kesarbai Kishori Kundaladevi Lasthiyavva 
 			Maya Mogubai Radhabai Radhika Shevanti Shudhamati Sovidevi Sudha Sumati Sunita 
 		}
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 		
 		castes = yes
@@ -4061,7 +4061,7 @@ indo_aryan_group = { #South Asian
 			Sujhata Sumanadevi Suri Suriguta Tisi Tissabuti Tissadata Tissadevi Tissamita Tissaraka Tissarakita Yahasaya Yahasini
 		}
 		
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 		founder_named_dynasties = yes
 		
 		castes = yes
@@ -4125,7 +4125,7 @@ dravidian_group = { #Peninsular
 		female_names = {
 			Ái Aivy Ân Ánh Boc Baolinh Baotran Bé Bê Bian Bich Binh Buom Cà Cai Cam Conh Cao Cát Chánh Chau Chim Chính Chinh Chún Chun Chung Com Cuc Ðài Ðan Dân Don Ðào Dou Diom Ðiop Ðonh Dinh Do Doanh-doanh Dong-chim Duc Dung Duong Duyên Duyen Giahan Ha Ho Hang Honh Hanh Ha-nhi Hou Hion Hiou Hieu Hiou Hoacam Hoài Hoakim Hoamai Hoàn Hoàng Hoi Hong-an Hong-hanh Hop Hop Hue Hung Hung Huyon Huonh Isave Khá Khanh Khiêm Khiem Khuê Khuong Kiou Kimchi Kim-cúc Kimlinh Kim-ly Kimvân Kính Ko Lao Lam Lanan Lananh Lang Lanh Lê Lo Lo Lí Liou Liyên Loc Loi Lu Loa Loc Luong Lý Mah Maian Maicam Maikim Mailan Maitu Maivân Maivy Maiyen Mon Mou Mây May Minhnuyet Minhthu Min-khai Mi´t Mo Mùi My Mychau Mo Mytien Na Nam Nga Ngà Ngai Ngân Ngâu Nghia Ngo Ngoan Ngoc Nguyêt Nguyet Nhoc Nhân Nháng Nhi Nhiên Nhon Nhu Nhuy Ninh No Oanh Ôi` Pham Phú Phuoc Phuc Phun Phong Phuong Quán Quo Qui Quí Quì Quy Quyên Quyen Quynh San Sáng Sang Sa´u Sen Sinh Sou Suong Tài Tâm Tam Thoch Thái Thân Thành Thanh-ha Tho Thian Thiên Thienan Thikim Thimai Thìn Thonh Tho Thoa Thom Thu Thuon Thoc Thucam Thukim Thumai Thuong Thúy Thoy Thuoy Thùy Thùytiên Thuoytiên Thy Ti Toi Tien Tiêu Tim Tinh Tóc Trà Trâm Trami Trân Troc Tri~ Trieu-mi Tronh Truc Trucly Tu Tuot Tuo Tuyen Tuyet Tuyotnhi ou Uoc Uoc Út Uyêon Uyên Uyen Vi Viot Viet Vui Vung Vy Vyvy Xanh Y´ Yon Yen Yênnhi Yennhi Zaochi
 		}
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 
 		founder_named_dynasties = yes
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -4155,7 +4155,7 @@ dravidian_group = { #Peninsular
 			Anong Intira Kamon Kanchana Kanda Kanya Kulap Lawan Malai Mali Pakpao Pranee Ratree Sasithorn Sukhon Sunan Ubon Wattana Achariya Adisai Ahnatchaya Airry Amara Amarin Amarindra Ammarin Amnuai Amon Amonrat Amorn Amornrat Ampa Ampawn Ampha Amphai Amphawan Amphon Ampon Ananya Anchalee Anchali Angkana Angkhana Anisah Anna Anongrat Anongwan Anothai Anulek Anumat Anuson Anuthida Anya Aom Aommy Aphinan Aphinya Aphiradi Apichaya Apinya Apson Apsorn Aranya Arawan Araya Aree Areerat Ari Arinya Arirat Arisara Arissara Aritsara Ariya Arom Arthitaya Arthittaya Artitaya Artittaya Arunee Aruni Arunrat Arunwan Asiyah Atchara Athitaya Athittaya Atitaya Atittaya Baenglum Bamrung Banchong Banchop Bangon Bangorn Bannarasee Banyen Bencha Benchakanlayani Benchamas Benchamat Bencharat Benchawan Benja Benjakalayanee Benjamas Benjamat Benjarat Benjawan Boonchu Boonma Boonmee Boonrat Boonruan Boonruean Boonruen Boonsom Boonsong Boontarik Boontharik Boonyong Bowchompoo Buakham Budsaba Budsarakam Budsarakham Bunchu Bunchuai Bundarik Bunga Bunkoet Bunlert Bunloet Bunluea Bunma Bunmee Bunmi Bunrat Bunruan Bunruean Bunruen Bunserm Bunsi Bunsoem Bunsom Bunsong Bunsuep Buntarik Buntham Buntharik Bunthawee Bunyong Bunyuen Buppa Buppha Busaba Busarakam Busarakham Bussaba Bussarakam Bussarakham But Butsaba Butsarakam Butsarakham Chaeo Chailai Chalaem Chalee Chali Chalita Chalo Chaloem Chalong Chaluai Chamaiphon Chamlong Chamnian Chamnong Chamoy Chamroen Chanathip Chanok Chanphen Chantha Chanthana Chanthara Charinee Charini Chariya Charoen Charoenrasamee Charuwan Chatsuda Chatuphon Chawiwan Chayanith Chiam Chimlim Chinda Chindarat Chindawan Chintana Chintara Chiraphon Chirattikan Chirawan Chirayu Chitra Chomkhwan Chon Chonchanai Chongrak Chonnani Chonnasorn Chonthicha Chonthida Chuan Chuanphit Churai Churairat Churaiwan Chutarat Chutharat Daeng Dao Daorueang Daranee Darani Darika Darin Darunee Daruni Dokmai Duangchai Duangchan Duangchit Duangdao Duangdi Duangduean Duanghathai Duangjai Duangkae Duangkamol Duangkamon Duangkhae Duangnapa Duangnapha Duangphon Duangprathip Duangrat Duangsamon Duean Dueanchai Dueanpen Dueanphen Dusita Dutsani Emon Emorn Fah Fateemoh Fatihah Fatimoh Fon Fong Gai Gam Hataikan Hataikarn Hatairat Hataiwan Hathai Hathaichanok Hathaikan Hathaikarn Hathairat Hathaiwan Hayatee Hoikhom Houng Hsar Husniyah Inthira Inthurat Issaree Itsara Itsari Jamlong Jarinee Jariya Jinda Jindarat Jindawan Jintana Jintara Jirawan Jirayu Jittramas Jongrak Jutarat Jutharat Kaeo Kaew Kaifa Kalaya Kalya Kalyarat Kamlai Kamolrat Kamolwan Kamonchanok Kamonchat Kamonrat Kamonwan Kanita Kanitha Kanitta Kanittha Kanjana Kanlaya Kanlayakorn Kanlayanee Kanlayani Kanlayarat Kannika Kanok Kanokphon Kanokwan Kantima Kanyarat Karawek Karn Karuna Kasika Kasira Kawinthida Keerati Kelaya Ketsara Khaimuk Khakkhanang Khamnueng Khanita Khanitha Khanitta Khanittha Khantharot Khao Khawisara Khem Khlai Khodiyah Khoong Khrim Khuang Khwanchai Khwanruean Kimhan Kimuk Kirana Kirati Kittiya Kluaimai Komon Kosum Kridtika Kritika Kritsana Krittika Kuhlab Kulab Kulthida Kunthida Kusuman Kwang Kwangjai Lada Ladawan Ladda Laddawan Laiat Lakkana Lakkhana Laknara Laksamee Laksami Laksanara Lalisa Lamai Lamang Lamchiak Lamduan Lamjiak Lamun Lamyai Lamyong Laong Latda Latdarat Latdawan Lek Leng Likhit Lilawadi Linchee Liulalong Loet Lumyai Maew Mai Maladee Malee Malinee Malisa Malivalaya Manat Manaw Manee Maneerat Mangkhut Manirat Maniwan Manyana Maphrao Maprang Mathawi Maythavee Mayura Mayuree Mayuri Methika Metta Milin Monta Montha Mookda Mookdawan Morakot Moree Mue Mukda Mukdawan Nadtaya Naep Naiyana Namfon Namphueng Namthan Nanthita Nanthiya Nantita Nantiya Naowarat Napa Naparat Napawan Napha Napharat Naphatson Naphatsorn Naphawan Narirat Naruemol Naruemon Narumol Narumon Nataya Natcha Nathapatsorn Nathi Natnicha Nattaya Natthakan Natthakarn Natthaya Natthida Natthika Natty Nawaphon Neeramphorn Netra Neung Neungluthai Ngamchit Ngamjit Ngamnit Ngamphit Ngampit Nicha Nidnoi Nidtaya Nilawan Nim Ninlawan Niramon Nisa Nitaya Nithiphon Nitiya Nittaya Nittiya Niyom Nohk Noi Noina Nokka Nokyung Nom Non Nongkhran Nonglak Nongnuch Nongnut Nongyao Nopjira Nopphakhun Nuan Nuanjan Nudaeng Nunthita Nuntita Nuraseekeen Nurasikin Nurfatin Nurhayatee Nurihan Nuriyah Nurlaila Onanong Onuma Onwan Onwara Orapin Orarat Oratai Orathai Orawan Ornanong Ornuma Paibul Pailin Paiwan Panadda Pancha Panchaphon Panida Panisa Panit Pantawan Parichart Parichat Parinya Pasuta Patama Patchanan Patcharee Patcharin Pateemoh Pathama Patima Patimoh Patra Pattama Pattamawadee Pattamawadi Pattamawan Patthama Patthamawadee Patthamawadi Patthamawan Paweena Pawina Pear Pensri Pensria Phaen Phaibun Phailin Phairat Phairo Phairoh Phaiwan Phajee Phakdi Phakhwan Phan Phanit Phannee Phanom Phanthittra Phanumat Phatchara Phatcharaphon Phathu Phatson Phatthana Phayao Phayung Phen Phensi Phet Phikun Philin Phimchanok Phimnara Phimphon Phimrat Phiriya Phirom Phitchaya Phitsamai Phiyada Phloenphit Phonsawan Phonsuda Phonthip Phraeo Phraiwan Phrangphet Phueng Phufa Pim Pinya Pitchayatida Piya Piyabut Piyanuch Piyanut Piyaphat Piyarasami Piyarat Piyathip Piyatip Piyawan Plaloma Ploi Pokpak Prachit Prachum Pradab Pradap Praew Praewphailin Praewphan Praiwan Prakhong Prakong Prakop Pramual Pramuan Prang Prani Pranom Pranpriya Prapa Prapha Praphai Praphaiphak Prateep Prathip Prathueang Prathum Prattana Prayat Prayun Preeya Preeyanan Preeyanuch Preeyanut Premwadi Prida Prin Priyanan Priyanuch Priyanut Protpran Punee Putsaya Rabiap Rachanee Rada Rak Rampha Ramphai Rand Rangsima Raroeng Ratana Ratchanee Ratchani Ratchanichon Ratri Ratsami Rattana Rattanawadee Rattanawadi Rattikan Rattikarn Rattiya Rawee Rawi Rawin Rawiwan Renu Rin Rohimah Ruchira Rudet Ruethai Rujira Rung Rungrat Rungthip Rungthiwa Saengarun Saengchan Saengdao Saengduan Saengduean Saengkham Saengrawee Saengrawi Saengsuri Saengthian Saengthong Saengwan Saichai Saichon Saifon Saijai Sainab Sainap Saiphin Sairung Saisuni Sakhon Sakon Sakulrat Sakunrat Sali Salisa Samai Samang Samliwan Samniang Samphan Samran Samroeng Samruai Sang Sanga Sangop Sanguan Sangwal Sangwan Sangwian Sano Sanong Sansanee Sansani Saowakhon Saowalak Saowanee Saowani Saowatharn Saralee Saranae Saranya Sarinya Saruta Sasi Sasikan Sasikarn Sasipa Sasipha Sasithon Sasiton Sasitorn Sasiwimol Sasiwimon Sathaphon Sathian Savitree Sawaeng Sawai Sawang Sawat Sawinee Sawini Sawitree Sawitri Sayan Seeda Shalisa Sida Sila Silawan Siri Sirikit Sirin Sirina Sirinya Sirion Siriphon Sirirat Siriwan Siriwimol Siriwimon Sisuda Siyoree Som Sombat Sombun Somchit Somjai Somkhuan Somkit Somkuan Somlak Sommai Somnuek Somphian Somphit Somphon Sompit Sompong Somprasong Somrak Somsi Somsong Somwang Song Sonthaya Sopa Sopha Sophorn Sopicha Sopon Sorada Sotsai Srisuda Suang Suchada Suchin Suchinda Suchitra Suchittra Suda Sudarat Sudawan Sujin Sujinda Sujitra Sukanda Sukanlaya Sukanya Sumalee Sumali Sumitra Sunawin Suni Sunirat Sunisa Suntharee Sunthari Supaksorn Supat Supatra Supha Suphap Supharang Suphat Suphit Supranee Suprani Supreeya Supriya Surang Surapong Surat Suree Suri Surin Sut Sutchai Suthathip Suthida Sutida Suvicha Suwan Suwanna Suwanni Suwanrat Suwicha Suwilai Suwimon Suyada Tadsawan Taeng Taengmo Tanshi Tantawan Tanya Tasanee Tasawan Tassanee Tassawan Tatsanee Tatsani Tatsawan Tawan Teerana Thabthim Thadsanee Thadsani Thadsawan Thaem Thamma Thanaphon Thangai Thanom Thantawan Thanya Thanyarat Thapthim Thara Thasanee Thasani Thasawan Thassanee Thassani Thassawan Thatsanee Thatsani Thatsawan Thawan Thawi Thawinan Thawon Thida Thidarat Thikhamphon Thippharat Thipphawan Thiraphon Thirawan Thitika Thitima Thitiphon Thofan Thongbai Thongchan Thongdi Thongkham Thongmuan Thongpan Thongsai Thongsuk Thongyot Thorani Tidarat Tipparat Tippawan Toptim Tueanchai Tui Tunlaya Ua Uaichai Ubol Ubolrat Ubolwan Ubonphan Ubonrat Ubonvan Ubonwan Udomphon Udomrat Umaphon Unruean Urai Urairat Uraiwan Usa Uthai Uthairat Uthaiwan Vanida Varanya Varin Vatcharin Vichitra Vilai Vilairat Vimol Vimolrat Vimon Vimonrat Visa Voranuch Voranut Vorawan Wachira Waen Wan Wandee Wandi Wanida Wanlapa Wanlapha Wannaphon Wannee Wanni Wanphen Wanrat Wansa Wanta Wanwisa Waralak Waralee Warali Waranya Wararat Waratthaya Warrarin Warun Warunee Waruni Wasana Wassana Watana Watcharaphon Watcharin Wathana Watsana Watthana Wichitra Wilai Wilaiphon Wilairat Wilaiwan Wilasini Wimol Wimolrat Wimolwan Wimon Wimonrat Wimonwan Wina Wipha Wirawan Wiriya Wisai Witchuda Wiwon Wongduean Wonnapa Woralak Woranuch Woranut Worawan Yada Yanin Yaowalak Yaowaluck Yaowaman Yaowapha Yaowarat Ying Yinglak Yiwa Yok Yupha Yuphin Yupin 
 		}
 		
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 
 		founder_named_dynasties = yes
 		
@@ -4186,7 +4186,7 @@ dravidian_group = { #Peninsular
 			Aek Ampho Angkea Arun Arunny Ary Bekang Boramey Bormey Chakroval Champei Chamroeun Chann Chantha Chanthan Chanthavy Chanthou Chantou Chanvatey Charanai Charya Cheata Chendamony Chenny Chhaom Chhaomchay Chhaya Chhet Chhorpunreangsey Chhorvin Chhoum Chhun Chhun Chhun Chivy Chomnan Chompei Chouk Choukrath Choum Chulsa Daevy Daneath Daneath Davy Duongchevan Duongchhann Duongdara Enthanou Hak Jorani Kagna Kakada Kalianne Kaliyan Kalliyan Kanika Kanleakhana Kannitha Karuna Kenorei Keo Keomony Keopunlok Kep Keriya Kesor Kolap Kolthida Kolthida Kong-Kea Kravann Ksatrey Kulab Kumpheak Kungkea Kunthear Leakena Leakhena Leap Leng Lom-Ang Mach Maletey Malis Malis Malislear Many Meakha Meas Measponloke Mek Mesa Metreypheap Minea Mitona Mony Nakry Naravy Nary Navy Neang Nearidei Nearidey Neary Netra Nich Niron Nuon Nuon Omreth Pagna Peang Peang Pekang Peou Phalla Phally Phanet Phary Pheakdei Pheakkley Pheup Phhoung Phuong Pidor Pisey Pkar Poeu Poeuv Ponloke Preaksa Preap Punthea Putrea Rachana Rachany Rachany Raksmei Rangsei Raskmey Rasmey Ratana Rath Rathana Rathana Rathanakrangsey Rathanakreasey Rattana Reaksmey Reasey Reathrey Rom Romchang Romduol Roumduol Roumjong Saart Sadeth Safein Saksi Samphy Sarika Saveth Savoeun Sawatdee Seang Seda Seng Serey Sereysophear Seyha Sgnuon Shannary Siang Siang Sieng Sikha Sinuon Sithik Soben Soboen Socheat Socheata Soda Sok Sokha Sokhanya Sokhom Sok Solikha Somaly Somdei Somethea Somphors Somreth Sonisay Sophal Sophan Sophear Sopheary Sophiny Sophon Sophorn Sopon Soportevy Sor Soriya Sorn Sorpheny Sorya Sotear Sothea Sotheara Sourkea Sovan Sovann Sovannara Sovanndary Sovannmealea Srey Srey Sreynuon Suon Suorkea Teaksen Tevvy Thavery Thear Theary Thida Thyda Toch Touch Trikah Vathana Vattey Veasanea Veata Vicheka Viely Vimean Viphearvy Virak Zu 
 		}
 		
-		dynasty_title_names = yes
+		#dynasty_title_names = yes
 
 		founder_named_dynasties = yes
 		

@@ -5256,7 +5256,7 @@ primary = no
 		d_friuli = {
 			color = { 160 255 220 }
 			color2 = { 255 255 255 }
-primary = no
+			primary = no
 			allow = { always = no }
 			capital = 358 # Aquileia
 
@@ -5473,7 +5473,7 @@ primary = no
 	k_germany = {
 		color={ 160 160 160 }
 		color2={ 220 220 20 }
-		
+		allow = { always = no }
 		dignity = 30 # Counted as having this many more counties than it does
 		
 		culture = german
@@ -5489,7 +5489,7 @@ primary = no
 		d_hesse = {
 			color={ 160 160 120 }
 			color2={ 255 255 255 }
-primary = no
+			primary = no
 			allow = { always = no }
 			capital = 1987 # Hesse
 
