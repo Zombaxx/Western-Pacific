@@ -152,6 +152,9 @@ From;To;Type;Through;-1;-1;-1;-1;Comment
 1620;1622;sea;1849;-1;-1;-1;-1;Province1620-Province1622
 1626;1627;sea;1850;-1;-1;-1;-1;Province1626-Province1627
 1628;1629;sea;1850;-1;-1;-1;-1;Province1628-Province1629
+1614;1613;sea;1847;-1;-1;-1;-1;Province1614 North Shore-Province1613 Kaua'i
+1611;1610;sea;1844;-1;-1;-1;-1;
+715;752;sea;1741;-1;-1;-1;-1;
 1631;1631;portage;1;-1;-1;-1;-1;It will stop working if you remove this
 1631;1631;portage;1;-1;-1;-1;-1;
 1693;1683;portage;1;-1;-1;-1;-1;
