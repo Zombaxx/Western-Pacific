@@ -1083,7 +1083,7 @@ PROV1082;Kicond;Kicond;Kicond;;Kicond;;;;;;;;;x
 PROV1083;Rusith;Rusith;Rusith;;Rusith;;;;;;;;;x
 PROV1084;Kunanka;Kunanka;Kunanka;;Kunanka;;;;;;;;;x
 PROV1085;Koumani;Koumani;Koumani;;Koumani;;;;;;;;;x
-PROV1086;Athirila;Athirila;Athirila;;Athirila;;;;;;;;;x
+PROV1086;Palau;Palau;Palau;;Palau;;;;;;;;;x
 PROV1087;Kicir;Kicir;Kicir;;Kicir;;;;;;;;;x
 PROV1088;Nadega;Nadega;Nadega;;Nadega;;;;;;;;;x
 PROV1089;Etomasna;Etomasna;Etomasna;;Etomasna;;;;;;;;;x
@@ -1147,7 +1147,7 @@ PROV1146;Erajena;Erajena;Erajena;;Erajena;;;;;;;;;x
 PROV1147;Rodais;Rodais;Rodais;;Rodais;;;;;;;;;x
 PROV1148;Ryyuns;Ryyuns;Ryyuns;;Ryyuns;;;;;;;;;x
 PROV1149;Abudary;Abudary;Abudary;;Abudary;;;;;;;;;x
-PROV1150;Nijela;Nijela;Nijela;;Nijela;;;;;;;;;x
+PROV1150;Colonia;Colonia;Colonia;;Colonia;;;;;;;;;x
 PROV1151;Tikulay;Tikulay;Tikulay;;Tikulay;;;;;;;;;x
 PROV1152;Qakokol;Qakokol;Qakokol;;Qakokol;;;;;;;;;x
 PROV1153;Kala;Kala;Kala;;Kala;;;;;;;;;x
@@ -1572,18 +1572,18 @@ PROV1571;Eposend;Eposend;Eposend;;Eposend;;;;;;;;;x
 PROV1572;Edrideva;Edrideva;Edrideva;;Edrideva;;;;;;;;;x
 PROV1573;Northland;Northland;Northland;;Northland;;;;;;;;;x
 PROV1574;Kehava;Kehava;Kehava;;Kehava;;;;;;;;;x
-PROV1575;Kaliala;Kaliala;Kaliala;;Kaliala;;;;;;;;;x
+PROV1575;Northern Gilberts;Northern Gilberts;Northern Gilberts;;Northern Gilberts;;;;;;;;;x
 PROV1576;Whangarei;Whangarei;Whangarei;;Whangarei;;;;;;;;;x
-PROV1577;Nimory;Nimory;Nimory;;Nimory;;;;;;;;;x
-PROV1578;Rucyla;Rucyla;Rucyla;;Rucyla;;;;;;;;;x
+PROV1577;Taranaki;Taranaki;Taranaki;;Taranaki;;;;;;;;;x
+PROV1578;Tarawa;Tarawa;Tarawa;;Tarawa;;;;;;;;;x
 PROV1579;Mangawhai;Mangawhai;Mangawhai;;Mangawhai;;;;;;;;;x
-PROV1580;Tidemba;Tidemba;Tidemba;;Tidemba;;;;;;;;;x
+PROV1580;Hawera;Hawera;Hawera;;Hawera;;;;;;;;;x
 PROV1581;Auckland;Auckland;Auckland;;Auckland;;;;;;;;;x
-PROV1582;Nehawma;Nehawma;Nehawma;;Nehawma;;;;;;;;;x
-PROV1583;Qesemba;Qesemba;Qesemba;;Qesemba;;;;;;;;;x
-PROV1584;Adobati;Adobati;Adobati;;Adobati;;;;;;;;;x
-PROV1585;Ahileka;Ahileka;Ahileka;;Ahileka;;;;;;;;;x
-PROV1586;Tibija;Tibija;Tibija;;Tibija;;;;;;;;;x
+PROV1582;North Waikato;North Waikato;North Waikato;;North Waikato;;;;;;;;;x
+PROV1583;South Waikato;South Waikato;South Waikato;;South Waikato;;;;;;;;;x
+PROV1584;Southern Gilbert;Southern Gilbert;Southern Gilbert;;Southern Gilbert;;;;;;;;;x
+PROV1585;Wanganui;Wanganui;Wanganui;;Wanganui;;;;;;;;;x
+PROV1586;Ruapehu;Ruapehu;Ruapehu;;Ruapehu;;;;;;;;;x
 PROV1587;Wyanila;Wyanila;Wyanila;;Wyanila;;;;;;;;;x
 PROV1588;Tehofia;Tehofia;Tehofia;;Tehofia;;;;;;;;;x
 PROV1589;Hamilton;Hamilton;Hamilton;;Hamilton;;;;;;;;;x
@@ -1604,16 +1604,16 @@ PROV1603;Wunim;Wunim;Wunim;;Wunim;;;;;;;;;x
 PROV1604;Fiji;Fiji;Fiji;;Fiji;;;;;;;;;x
 PROV1605;Rarayla;Rarayla;Rarayla;;Rarayla;;;;;;;;;x
 PROV1606;Kyayre;Kyayre;Kyayre;;Kyayre;;;;;;;;;x
-PROV1607;Wesovit;Wesovit;Wesovit;;Wesovit;;;;;;;;;x
-PROV1608;Ebelandi;Ebelandi;Ebelandi;;Ebelandi;;;;;;;;;x
-PROV1609;Leireth;Leireth;Leireth;;Leireth;;;;;;;;;x
-PROV1610;Ezoja;Ezoja;Ezoja;;Ezoja;;;;;;;;;x
-PROV1611;Tetozar;Tetozar;Tetozar;;Tetozar;;;;;;;;;x
+PROV1607;Tonga;Tonga;Tonga;;Tonga;;;;;;;;;x
+PROV1608;Savai'i;Savai'i;Savai'i;;Savai'i;;;;;;;;;x
+PROV1609;Upolu;Upolu;Upolu;;Upolu;;;;;;;;;x
+PROV1610;Midway Atoll;Midway Atoll;Midway Atoll;;Midway Atoll;;;;;;;;;x
+PROV1611;Nihoa;Nihoa;Nihoa;;Nihoa;;;;;;;;;x
 PROV1612;Ni'ihau;Ni'ihau;Ni'ihau;;Ni'ihau;;;;;;;;;x
 PROV1613;Kaua'i;Kaua'i;Kaua'i;;Kaua'i;;;;;;;;;x
 PROV1614;North Shore;North Shore;North Shore;;North Shore;;;;;;;;;x
 PROV1615;O'ahu;O'ahu;O'ahu;;O'ahu;;;;;;;;;x
-PROV1616;Denka;Denka;Denka;;Denka;;;;;;;;;x
+PROV1616;Kiribati;Kiribati;Kiribati;;Kiribati;;;;;;;;;x
 PROV1617;Moloka'i;Moloka'i;Moloka'i;;Moloka'i;;;;;;;;;x
 PROV1618;Lanai;Lanai;Lanai;;Lanai;;;;;;;;;x
 PROV1619;Maui;Maui;Maui;;Maui;;;;;;;;;x
@@ -1622,12 +1622,12 @@ PROV1621;Kona;Kona;Kona;;Kona;;;;;;;;;x
 PROV1622;Kohala;Kohala;Kohala;;Kohala;;;;;;;;;x
 PROV1623;Mauna Loa;Mauna Loa;Mauna Loa;;Mauna Loa;;;;;;;;;x
 PROV1624;Hilo;Hilo;Hilo;;Hilo;;;;;;;;;x
-PROV1625;Kakh;Kakh;Kakh;;Kakh;;;;;;;;;x
-PROV1626;Setuvje;Setuvje;Setuvje;;Setuvje;;;;;;;;;x
-PROV1627;Tunaham;Tunaham;Tunaham;;Tunaham;;;;;;;;;x
-PROV1628;Subolas;Subolas;Subolas;;Subolas;;;;;;;;;x
-PROV1629;Qarar;Qarar;Qarar;;Qarar;;;;;;;;;x
-PROV1630;Roran;Roran;Roran;;Roran;;;;;;;;;x
+PROV1625;Bora Bora;Bora Bora;Bora Bora;;Bora Bora;;;;;;;;;x
+PROV1626;Moorea-Maiao;Moorea-Maiao;Moorea-Maiao;;Moorea-Maiao;;;;;;;;;x
+PROV1627;Tahiti-Nui;Tahiti-Nui;Tahiti-Nui;;Tahiti-Nui;;;;;;;;;x
+PROV1628;Tahiti-Iti;Tahiti-Iti;Tahiti-Iti;;Tahiti-Iti;;;;;;;;;x
+PROV1629;Tubuai;Tubuai;Tubuai;;Tubuai;;;;;;;;;x
+PROV1630;Gambier;Gambier;Gambier;;Gambier;;;;;;;;;x
 PROV1631;Ekaluri;Ekaluri;Ekaluri;;Ekaluri;;;;;;;;;x
 PROV1632;Leraila;Leraila;Leraila;;Leraila;;;;;;;;;x
 PROV1633;Rict;Rict;Rict;;Rict;;;;;;;;;x
@@ -8287,7 +8287,7 @@ b_qelieli;Qelieli;Qelieli;Qelieli;;Qelieli;;;;;;;;;x
 b_tabeka;Tabeka;Tabeka;Tabeka;;Tabeka;;;;;;;;;x
 b_daberu;Daberu;Daberu;Daberu;;Daberu;;;;;;;;;x
 b_kabieli;Kabieli;Kabieli;Kabieli;;Kabieli;;;;;;;;;x
-b_tahaa;Tahaa;Tahaa;Tahaa;;Tahaa;;;;;;;;;x
+b_tahaa;Tahaan;Tahaan;Tahaan;;Tahaan;;;;;;;;;x
 b_ekunatok;Ekunatok;Ekunatok;Ekunatok;;Ekunatok;;;;;;;;;x
 b_qilomo;Qilomo;Qilomo;Qilomo;;Qilomo;;;;;;;;;x
 c_toderlo_adj;Toderlo;Toderlo;Toderlo;;Toderlo;;;;;;;;;x
@@ -12245,15 +12245,15 @@ b_qevi;Qevi;Qevi;Qevi;;Qevi;;;;;;;;;x
 b_exechai;Exechai;Exechai;Exechai;;Exechai;;;;;;;;;x
 b_reenuti;Reenuti;Reenuti;Reenuti;;Reenuti;;;;;;;;;x
 b_lezo;Lezo;Lezo;Lezo;;Lezo;;;;;;;;;x
-c_athirila_adj;Athirila;Athirila;Athirila;;Athirila;;;;;;;;;x
-b_athirila;Athirila;Athirila;Athirila;;Athirila;;;;;;;;;x
-b_tinil;Tinil;Tinil;Tinil;;Tinil;;;;;;;;;x
-b_qinahat;Qinahat;Qinahat;Qinahat;;Qinahat;;;;;;;;;x
-b_wabemir;Wabemir;Wabemir;Wabemir;;Wabemir;;;;;;;;;x
-b_lanuba;Lanuba;Lanuba;Lanuba;;Lanuba;;;;;;;;;x
-b_edehemir;Edehemir;Edehemir;Edehemir;;Edehemir;;;;;;;;;x
-b_nabuba;Nabuba;Nabuba;Nabuba;;Nabuba;;;;;;;;;x
-b_rermuba;Rermuba;Rermuba;Rermuba;;Rermuba;;;;;;;;;x
+c_athirila_adj;Palauan;Palauan;Palauan;;Palauan;;;;;;;;;x
+b_athirila;Palau;Palau;Palau;;Palau;;;;;;;;;x
+b_tinil;Koror;Koror;Koror;;Koror;;;;;;;;;x
+b_qinahat;Airai;Airai;Airai;;Airai;;;;;;;;;x
+b_wabemir;Ngriil;Ngriil;Ngriil;;Ngriil;;;;;;;;;x
+b_lanuba;Ngebuked;Ngebuked;Ngebuked;;Ngebuked;;;;;;;;;x
+b_edehemir;Koska;Koska;Koska;;Koska;;;;;;;;;x
+b_nabuba;Attalabul;Attalabul;Attalabul;;Attalabul;;;;;;;;;x
+b_rermuba;Angaur;Angaur;Angaur;;Angaur;;;;;;;;;x
 c_kicir_adj;Kicir;Kicir;Kicir;;Kicir;;;;;;;;;x
 b_kicir;Kicir;Kicir;Kicir;;Kicir;;;;;;;;;x
 b_neluwe;Neluwe;Neluwe;Neluwe;;Neluwe;;;;;;;;;x
@@ -14548,17 +14548,17 @@ b_sesiala;Sesiala;Sesiala;Sesiala;;Sesiala;;;;;;;;;x
 b_emika;Emika;Emika;Emika;;Emika;;;;;;;;;x
 b_deirank;Deirank;Deirank;Deirank;;Deirank;;;;;;;;;x
 b_larabas;Larabas;Larabas;Larabas;;Larabas;;;;;;;;;x
-d_neladay;Neladay;Neladay;Neladay;;Neladay;;;;;;;;;x
-d_neladay_adj;Neladay;Neladay;Neladay;;Neladay;;;;;;;;;x
-c_basivka_adj;Basivka;Basivka;Basivka;;Basivka;;;;;;;;;x
-b_basivka;Basivka;Basivka;Basivka;;Basivka;;;;;;;;;x
-b_sorugo;Sorugo;Sorugo;Sorugo;;Sorugo;;;;;;;;;x
-b_kinivit;Kinivit;Kinivit;Kinivit;;Kinivit;;;;;;;;;x
-b_tyigima;Tyigima;Tyigima;Tyigima;;Tyigima;;;;;;;;;x
-b_qenila;Qenila;Qenila;Qenila;;Qenila;;;;;;;;;x
-b_renil;Renil;Renil;Renil;;Renil;;;;;;;;;x
-b_bakil;Bakil;Bakil;Bakil;;Bakil;;;;;;;;;x
-b_qakelen;Qakelen;Qakelen;Qakelen;;Qakelen;;;;;;;;;x
+d_neladay;Mariana Islands;Mariana Islands;Mariana Islands;;Mariana Islands;;;;;;;;;x
+d_neladay_adj;Marianer;Marianer;Marianer;;Marianer;;;;;;;;;x
+c_basivka_adj;Rotan;Rotan;Rotan;;Rotan;;;;;;;;;x
+b_basivka;Rotan;Rotan;Rotan;;Rotan;;;;;;;;;x
+b_sorugo;Sinapalu;Sinapalu;Sinapalu;;Sinapalu;;;;;;;;;x
+b_kinivit;Songsong;Songsong;Songsong;;Songsong;;;;;;;;;x
+b_tyigima;Teteto;Teteto;Teteto;;Teteto;;;;;;;;;x
+b_qenila;Mochong;Mochong;Mochong;;Mochong;;;;;;;;;x
+b_renil;Pona Point;Pona Point;Pona Point;;Pona Point;;;;;;;;;x
+b_bakil;Teneto;Teneto;Teneto;;Teneto;;;;;;;;;x
+b_qakelen;As-Matmos;As-Matmos;As-Matmos;;As-Matmos;;;;;;;;;x
 c_asund_adj;Asund;Asund;Asund;;Asund;;;;;;;;;x
 b_asund;Asund;Asund;Asund;;Asund;;;;;;;;;x
 b_asalusha;Asalusha;Asalusha;Asalusha;;Asalusha;;;;;;;;;x
@@ -16881,35 +16881,35 @@ b_seraut;Seraut;Seraut;Seraut;;Seraut;;;;;;;;;x
 b_runila;Runila;Runila;Runila;;Runila;;;;;;;;;x
 b_enduo;Enduo;Enduo;Enduo;;Enduo;;;;;;;;;x
 b_tatid;Tatid;Tatid;Tatid;;Tatid;;;;;;;;;x
-c_dasakk_adj;Dasakk;Dasakk;Dasakk;;Dasakk;;;;;;;;;x
-b_dasakk;Dasakk;Dasakk;Dasakk;;Dasakk;;;;;;;;;x
-b_lakine;Lakine;Lakine;Lakine;;Lakine;;;;;;;;;x
-b_qacerlo;Qacerlo;Qacerlo;Qacerlo;;Qacerlo;;;;;;;;;x
-b_kozin;Kozin;Kozin;Kozin;;Kozin;;;;;;;;;x
-b_dinniek;Dinniek;Dinniek;Dinniek;;Dinniek;;;;;;;;;x
-b_rarahram;Rarahram;Rarahram;Rarahram;;Rarahram;;;;;;;;;x
-b_tetonto;Tetonto;Tetonto;Tetonto;;Tetonto;;;;;;;;;x
-b_wotoan;Wotoan;Wotoan;Wotoan;;Wotoan;;;;;;;;;x
-d_wudaim;Wudaim;Wudaim;Wudaim;;Wudaim;;;;;;;;;x
-d_wudaim_adj;Wudaim;Wudaim;Wudaim;;Wudaim;;;;;;;;;x
-c_sonani_adj;Sonani;Sonani;Sonani;;Sonani;;;;;;;;;x
-b_sonani;Sonani;Sonani;Sonani;;Sonani;;;;;;;;;x
-b_banias;Banias;Banias;Banias;;Banias;;;;;;;;;x
-b_bezarma;Bezarma;Bezarma;Bezarma;;Bezarma;;;;;;;;;x
-b_ririt;Ririt;Ririt;Ririt;;Ririt;;;;;;;;;x
-b_babarak;Babarak;Babarak;Babarak;;Babarak;;;;;;;;;x
-b_lanezo;Lanezo;Lanezo;Lanezo;;Lanezo;;;;;;;;;x
-b_denahra;Denahra;Denahra;Denahra;;Denahra;;;;;;;;;x
-b_nevan;Nevan;Nevan;Nevan;;Nevan;;;;;;;;;x
-c_awilibor_adj;Awilibor;Awilibor;Awilibor;;Awilibor;;;;;;;;;x
-b_awilibor;Awilibor;Awilibor;Awilibor;;Awilibor;;;;;;;;;x
-b_romiar;Romiar;Romiar;Romiar;;Romiar;;;;;;;;;x
-b_kisidda;Kisidda;Kisidda;Kisidda;;Kisidda;;;;;;;;;x
-b_silasa;Silasa;Silasa;Silasa;;Silasa;;;;;;;;;x
-b_qadazi;Qadazi;Qadazi;Qadazi;;Qadazi;;;;;;;;;x
-b_kacavan;Kacavan;Kacavan;Kacavan;;Kacavan;;;;;;;;;x
-b_wimhi;Wimhi;Wimhi;Wimhi;;Wimhi;;;;;;;;;x
-b_relius;Relius;Relius;Relius;;Relius;;;;;;;;;x
+c_dasakk_adj;Kwajaleinian;Kwajaleinian;Kwajaleinian;;Kwajaleinian;;;;;;;;;x
+b_dasakk;Kwajalein;Kwajalein;Kwajalein;;Kwajalein;;;;;;;;;x
+b_lakine;Bikini;Bikini;Bikini;;Bikini;;;;;;;;;x
+b_qacerlo;Emon;Emon;Emon;;Emon;;;;;;;;;x
+b_kozin;Namu;Namu;Namu;;Namu;;;;;;;;;x
+b_dinniek;Wotje;Wotje;Wotje;;Wotje;;;;;;;;;x
+b_rarahram;Rongelap;Rongelap;Rongelap;;Rongelap;;;;;;;;;x
+b_tetonto;Ujae;Ujae;Ujae;;Ujae;;;;;;;;;x
+b_wotoan;Lae;Lae;Lae;;Lae;;;;;;;;;x
+d_wudaim;Marshall Islands;Marshall Islands;Marshall Islands;;Marshall Islands;;;;;;;;;x
+d_wudaim_adj;Marshallian;Marshallian;Marshallian;;Marshallian;;;;;;;;;x
+c_sonani_adj;Majurin;Majurin;Majurin;;Majurin;;;;;;;;;x
+b_sonani;Majuro;Majuro;Majuro;;Majuro;;;;;;;;;x
+b_banias;Ajeltake;Ajeltake;Ajeltake;;Ajeltake;;;;;;;;;x
+b_bezarma;Delap-Uliga-Djarrit;Delap-Uliga-Djarrit;Delap-Uliga-Djarrit;;Delap-Uliga-Djarrit;;;;;;;;;x
+b_ririt;Jaluit;Jaluit;Jaluit;;Jaluit;;;;;;;;;x
+b_babarak;Ebon;Ebon;Ebon;;Ebon;;;;;;;;;x
+b_lanezo;Ailinglaplap;Ailinglaplap;Ailinglaplap;;Ailinglaplap;;;;;;;;;x
+b_denahra;Wotje;Wotje;Wotje;;Wotje;;;;;;;;;x
+b_nevan;Namorik;Namorik;Namorik;;Namorik;;;;;;;;;x
+c_awilibor_adj;Arnian;Arnian;Arnian;;Arnian;;;;;;;;;x
+b_awilibor;Arno;Arno;Arno;;Arno;;;;;;;;;x
+b_romiar;Ine;Ine;Ine;;Ine;;;;;;;;;x
+b_kisidda;Igoen;Igoen;Igoen;;Igoen;;;;;;;;;x
+b_silasa;Kilange;Kilange;Kilange;;Kilange;;;;;;;;;x
+b_qadazi;Rakaru;Rakaru;Rakaru;;Rakaru;;;;;;;;;x
+b_kacavan;Tinak;Tinak;Tinak;;Tinak;;;;;;;;;x
+b_wimhi;Bikarej;Bikarej;Bikarej;;Bikarej;;;;;;;;;x
+b_relius;Eniairik;Eniairik;Eniairik;;Eniairik;;;;;;;;;x
 c_eposend_adj;Eposend;Eposend;Eposend;;Eposend;;;;;;;;;x
 b_eposend;Eposend;Eposend;Eposend;;Eposend;;;;;;;;;x
 b_enyayre;Enyayre;Enyayre;Enyayre;;Enyayre;;;;;;;;;x
@@ -16968,26 +16968,26 @@ b_narisha;Omamari;Omamari;Omamari;;Omamari;;;;;;;;;x
 b_rafisa;Dargaville;Dargaville;Dargaville;;Dargaville;;;;;;;;;x
 b_kyecugh;Omapere;Omapere;Omapere;;Omapere;;;;;;;;;x
 b_lodisha;Matapouri;Matapouri;Matapouri;;Matapouri;;;;;;;;;x
-c_nimory_adj;Nimory;Nimory;Nimory;;Nimory;;;;;;;;;x
-b_nimory;Nimory;Nimory;Nimory;;Nimory;;;;;;;;;x
-b_edunatur;Edunatur;Edunatur;Edunatur;;Edunatur;;;;;;;;;x
-b_rela;Rela;Rela;Rela;;Rela;;;;;;;;;x
-b_asily;Asily;Asily;Asily;;Asily;;;;;;;;;x
-b_tasong;Tasong;Tasong;Tasong;;Tasong;;;;;;;;;x
-b_rahim;Rahim;Rahim;Rahim;;Rahim;;;;;;;;;x
-b_kodiel;Kodiel;Kodiel;Kodiel;;Kodiel;;;;;;;;;x
-b_dolomir;Dolomir;Dolomir;Dolomir;;Dolomir;;;;;;;;;x
-d_kalekre;Kalekre;Kalekre;Kalekre;;Kalekre;;;;;;;;;x
-d_kalekre_adj;Kalekre;Kalekre;Kalekre;;Kalekre;;;;;;;;;x
-c_rucyla_adj;Rucyla;Rucyla;Rucyla;;Rucyla;;;;;;;;;x
-b_rucyla;Rucyla;Rucyla;Rucyla;;Rucyla;;;;;;;;;x
-b_wuoxun;Wuoxun;Wuoxun;Wuoxun;;Wuoxun;;;;;;;;;x
-b_soleah;Soleah;Soleah;Soleah;;Soleah;;;;;;;;;x
-b_layyur;Layyur;Layyur;Layyur;;Layyur;;;;;;;;;x
-b_lapur;Lapur;Lapur;Lapur;;Lapur;;;;;;;;;x
-b_tilielu;Tilielu;Tilielu;Tilielu;;Tilielu;;;;;;;;;x
-b_kenovit;Kenovit;Kenovit;Kenovit;;Kenovit;;;;;;;;;x
-b_noivala;Noivala;Noivala;Noivala;;Noivala;;;;;;;;;x
+c_nimory_adj;Taranakian;Taranakian;Taranakian;;Taranakian;;;;;;;;;x
+b_nimory;Taranaki;Taranaki;Taranaki;;Taranaki;;;;;;;;;x
+b_edunatur;New Plymouth;New Plymouth;New Plymouth;;New Plymouth;;;;;;;;;x
+b_rela;Tongaporutu;Tongaporutu;Tongaporutu;;Tongaporutu;;;;;;;;;x
+b_asily;Inglewood;Inglewood;Inglewood;;Inglewood;;;;;;;;;x
+b_tasong;Stratford;Stratford;Stratford;;Stratford;;;;;;;;;x
+b_rahim;Opunake;Opunake;Opunake;;Opunake;;;;;;;;;x
+b_kodiel;Oakura;Oakura;Oakura;;Oakura;;;;;;;;;x
+b_dolomir;Egmont;Egmont;Egmont;;Egmont;;;;;;;;;x
+d_kalekre;Kiribati;Kiribati;Kiribati;;Kiribati;;;;;;;;;x
+d_kalekre_adj;Kiribatian;Kiribatian;Kiribatian;;Kiribatian;;;;;;;;;x
+c_rucyla_adj;Tarawian;Tarawian;Tarawian;;Tarawian;;;;;;;;;x
+b_rucyla;South Tarawa;South Tarawa;South Tarawa;;South Tarawa;;;;;;;;;x
+b_wuoxun;Betio;Betio;Betio;;Betio;;;;;;;;;x
+b_soleah;Bairiki;Bairiki;Bairiki;;Bairiki;;;;;;;;;x
+b_layyur;Banraeaba;Banraeaba;Banraeaba;;Banraeaba;;;;;;;;;x
+b_lapur;Bikenibeu;Bikenibeu;Bikenibeu;;Bikenibeu;;;;;;;;;x
+b_tilielu;Buota;Buota;Buota;;Buota;;;;;;;;;x
+b_kenovit;Noto;Noto;Noto;;Noto;;;;;;;;;x
+b_noivala;Buariki;Buariki;Buariki;;Buariki;;;;;;;;;x
 c_deheja_adj;Mangawhain;Mangawhain;Mangawhain;;Mangawhain;;;;;;;;;x
 b_deheja;Mangawhai;Mangawhai;Mangawhai;;Mangawhai;;;;;;;;;x
 b_abhion;One Tree Point;One Tree Point;One Tree Point;;One Tree Point;;;;;;;;;x
@@ -16997,15 +16997,15 @@ b_tikofia;Maungaturoto;Maungaturoto;Maungaturoto;;Maungaturoto;;;;;;;;;x
 b_wunard;Waipu;Waipu;Waipu;;Waipu;;;;;;;;;x
 b_tinewar;Ruawai;Ruawai;Ruawai;;Ruawai;;;;;;;;;x
 b_lujusha;Matakohe;Matakohe;Matakohe;;Matakohe;;;;;;;;;x
-c_tidemba_adj;Tidemba;Tidemba;Tidemba;;Tidemba;;;;;;;;;x
-b_tidemba;Tidemba;Tidemba;Tidemba;;Tidemba;;;;;;;;;x
-b_dilodos;Dilodos;Dilodos;Dilodos;;Dilodos;;;;;;;;;x
-b_abaomine;Abaomine;Abaomine;Abaomine;;Abaomine;;;;;;;;;x
-b_nodaria;Nodaria;Nodaria;Nodaria;;Nodaria;;;;;;;;;x
-b_teroto;Teroto;Teroto;Teroto;;Teroto;;;;;;;;;x
-b_avisa;Avisa;Avisa;Avisa;;Avisa;;;;;;;;;x
-b_basanka;Basanka;Basanka;Basanka;;Basanka;;;;;;;;;x
-b_acloto;Acloto;Acloto;Acloto;;Acloto;;;;;;;;;x
+c_tidemba_adj;Hawerian;Hawerian;Hawerian;;Hawerian;;;;;;;;;x
+b_tidemba;Hawera;Hawera;Hawera;;Hawera;;;;;;;;;x
+b_dilodos;Waverley;Waverley;Waverley;;Waverley;;;;;;;;;x
+b_abaomine;Manaia;Manaia;Manaia;;Manaia;;;;;;;;;x
+b_nodaria;Normanby;Normanby;Normanby;;Normanby;;;;;;;;;x
+b_teroto;Eltham;Eltham;Eltham;;Eltham;;;;;;;;;x
+b_avisa;Kaponga;Kaponga;Kaponga;;Kaponga;;;;;;;;;x
+b_basanka;Patea;Patea;Patea;;Patea;;;;;;;;;x
+b_acloto;Waitotara;Waitotara;Waitotara;;Waitotara;;;;;;;;;x
 k_aotearoa;Aotearoa;Aotearoa;Aotearoa;;Aotearoa;;;;;;;;;x
 k_aotearoa_adj;Aotearoa;Aotearoa;Aotearoa;;Aotearoa;;;;;;;;;x
 d_auckland;Auckland;Auckland;Auckland;;Auckland;;;;;;;;;x
@@ -17019,60 +17019,60 @@ b_nutobel;Whangaparaoa;Whangaparaoa;Whangaparaoa;;Whangaparaoa;;;;;;;;;x
 b_wiira;Kumeu;Kumeu;Kumeu;;Kumeu;;;;;;;;;x
 b_wiliku;Waiuku;Waiuku;Waiuku;;Waiuku;;;;;;;;;x
 b_wahono;Waiheke Island;Waiheke Island;Waiheke Island;;Waiheke Island;;;;;;;;;x
-c_nehawma_adj;Nehawma;Nehawma;Nehawma;;Nehawma;;;;;;;;;x
-b_nehawma;Nehawma;Nehawma;Nehawma;;Nehawma;;;;;;;;;x
-b_wikeig;Wikeig;Wikeig;Wikeig;;Wikeig;;;;;;;;;x
-b_naluna;Naluna;Naluna;Naluna;;Naluna;;;;;;;;;x
-b_ebuducha;Ebuducha;Ebuducha;Ebuducha;;Ebuducha;;;;;;;;;x
-b_kyagend;Kyagend;Kyagend;Kyagend;;Kyagend;;;;;;;;;x
-b_qayalku;Qayalku;Qayalku;Qayalku;;Qayalku;;;;;;;;;x
-b_benahat;Benahat;Benahat;Benahat;;Benahat;;;;;;;;;x
-b_lanacek;Lanacek;Lanacek;Lanacek;;Lanacek;;;;;;;;;x
-c_qesemba_adj;Qesemba;Qesemba;Qesemba;;Qesemba;;;;;;;;;x
-b_qesemba;Qesemba;Qesemba;Qesemba;;Qesemba;;;;;;;;;x
-b_ticith;Ticith;Ticith;Ticith;;Ticith;;;;;;;;;x
-b_tamuara;Tamuara;Tamuara;Tamuara;;Tamuara;;;;;;;;;x
-b_kanarna;Kanarna;Kanarna;Kanarna;;Kanarna;;;;;;;;;x
-b_teinawa;Teinawa;Teinawa;Teinawa;;Teinawa;;;;;;;;;x
-b_biruara;Biruara;Biruara;Biruara;;Biruara;;;;;;;;;x
-b_laweva;Laweva;Laweva;Laweva;;Laweva;;;;;;;;;x
-b_qanimha;Qanimha;Qanimha;Qanimha;;Qanimha;;;;;;;;;x
-c_adobati_adj;Adobati;Adobati;Adobati;;Adobati;;;;;;;;;x
-b_adobati;Adobati;Adobati;Adobati;;Adobati;;;;;;;;;x
-b_tugazik;Tugazik;Tugazik;Tugazik;;Tugazik;;;;;;;;;x
-b_rugiraz;Rugiraz;Rugiraz;Rugiraz;;Rugiraz;;;;;;;;;x
-b_kiinaj;Kiinaj;Kiinaj;Kiinaj;;Kiinaj;;;;;;;;;x
-b_kugeth;Kugeth;Kugeth;Kugeth;;Kugeth;;;;;;;;;x
-b_ejadwel;Ejadwel;Ejadwel;Ejadwel;;Ejadwel;;;;;;;;;x
-b_tugela;Tugela;Tugela;Tugela;;Tugela;;;;;;;;;x
-b_davujie;Davujie;Davujie;Davujie;;Davujie;;;;;;;;;x
-c_ahileka_adj;Ahileka;Ahileka;Ahileka;;Ahileka;;;;;;;;;x
-b_ahileka;Ahileka;Ahileka;Ahileka;;Ahileka;;;;;;;;;x
-b_wenarya;Wenarya;Wenarya;Wenarya;;Wenarya;;;;;;;;;x
-b_tiodos;Tiodos;Tiodos;Tiodos;;Tiodos;;;;;;;;;x
-b_ekumita;Ekumita;Ekumita;Ekumita;;Ekumita;;;;;;;;;x
-b_qava;Qava;Qava;Qava;;Qava;;;;;;;;;x
-b_radily;Radily;Radily;Radily;;Radily;;;;;;;;;x
-b_konuba;Konuba;Konuba;Konuba;;Konuba;;;;;;;;;x
-b_ramilai;Ramilai;Ramilai;Ramilai;;Ramilai;;;;;;;;;x
-c_tibija_adj;Tibija;Tibija;Tibija;;Tibija;;;;;;;;;x
-b_tibija;Tibija;Tibija;Tibija;;Tibija;;;;;;;;;x
-b_qiegohn;Qiegohn;Qiegohn;Qiegohn;;Qiegohn;;;;;;;;;x
-b_tyoukuis;Tyoukuis;Tyoukuis;Tyoukuis;;Tyoukuis;;;;;;;;;x
-b_rakeva;Rakeva;Rakeva;Rakeva;;Rakeva;;;;;;;;;x
-b_aksemn;Aksemn;Aksemn;Aksemn;;Aksemn;;;;;;;;;x
-b_sugivoj;Sugivoj;Sugivoj;Sugivoj;;Sugivoj;;;;;;;;;x
-b_bopalgi;Bopalgi;Bopalgi;Bopalgi;;Bopalgi;;;;;;;;;x
-b_tehela;Tehela;Tehela;Tehela;;Tehela;;;;;;;;;x
-c_wyanila_adj;Wyanila;Wyanila;Wyanila;;Wyanila;;;;;;;;;x
-b_wyanila;Wyanila;Wyanila;Wyanila;;Wyanila;;;;;;;;;x
-b_tenatli;Tenatli;Tenatli;Tenatli;;Tenatli;;;;;;;;;x
-b_wasatli;Wasatli;Wasatli;Wasatli;;Wasatli;;;;;;;;;x
-b_dyanil;Dyanil;Dyanil;Dyanil;;Dyanil;;;;;;;;;x
-b_amasivit;Amasivit;Amasivit;Amasivit;;Amasivit;;;;;;;;;x
-b_toruna;Toruna;Toruna;Toruna;;Toruna;;;;;;;;;x
-b_anyanila;Anyanila;Anyanila;Anyanila;;Anyanila;;;;;;;;;x
-b_linivit;Linivit;Linivit;Linivit;;Linivit;;;;;;;;;x
+c_nehawma_adj;Waikato;Waikato;Waikato;;Waikato;;;;;;;;;x
+b_nehawma;Waikatoan;Waikatoan;Waikatoan;;Waikatoan;;;;;;;;;x
+b_wikeig;Waikato;Waikato;Waikato;;Waikato;;;;;;;;;x
+b_naluna;Waiuku;Waiuku;Waiuku;;Waiuku;;;;;;;;;x
+b_ebuducha;Raglan;Raglan;Raglan;;Raglan;;;;;;;;;x
+b_kyagend;Pirongia;Pirongia;Pirongia;;Pirongia;;;;;;;;;x
+b_qayalku;Port Waikato;Port Waikato;Port Waikato;;Port Waikato;;;;;;;;;x
+b_benahat;Te Akau;Te Akau;Te Akau;;Te Akau;;;;;;;;;x
+b_lanacek;Kawhia;Kawhia;Kawhia;;Kawhia;;;;;;;;;x
+c_qesemba_adj;Waikatoan;Waikatoan;Waikatoan;;Waikatoan;;;;;;;;;x
+b_qesemba;Waitomo Caves;Waitomo Caves;Waitomo Caves;;Waitomo Caves;;;;;;;;;x
+b_ticith;Te Kuiti;Te Kuiti;Te Kuiti;;Te Kuiti;;;;;;;;;x
+b_tamuara;Te Anga;Te Anga;Te Anga;;Te Anga;;;;;;;;;x
+b_kanarna;Piopio;Piopio;Piopio;;Piopio;;;;;;;;;x
+b_teinawa;Mahoenui;Mahoenui;Mahoenui;;Mahoenui;;;;;;;;;x
+b_biruara;Marokopa;Marokopa;Marokopa;;Marokopa;;;;;;;;;x
+b_laweva;Taharoa;Taharoa;Taharoa;;Taharoa;;;;;;;;;x
+b_qanimha;Otorohanga;Otorohanga;Otorohanga;;Otorohanga;;;;;;;;;x
+c_adobati_adj;Gilbertian;Gilbertian;Gilbertian;;Gilbertian;;;;;;;;;x
+b_adobati;Tabiteuea;Tabiteuea;Tabiteuea;;Tabiteuea;;;;;;;;;x
+b_tugazik;Buriki;Buriki;Buriki;;Buriki;;;;;;;;;x
+b_rugiraz;Beru;Beru;Beru;;Beru;;;;;;;;;x
+b_kiinaj;Taubukinberu;Taubukinberu;Taubukinberu;;Taubukinberu;;;;;;;;;x
+b_kugeth;Nikunau;Nikunau;Nikunau;;Nikunau;;;;;;;;;x
+b_ejadwel;Onotoa;Onotoa;Onotoa;;Onotoa;;;;;;;;;x
+b_tugela;Arorae;Arorae;Arorae;;Arorae;;;;;;;;;x
+b_davujie;Tamana;Tamana;Tamana;;Tamana;;;;;;;;;x
+c_ahileka_adj;Wanganuin;Wanganuin;Wanganuin;;Wanganuin;;;;;;;;;x
+b_ahileka;Wanganui;Wanganui;Wanganui;;Wanganui;;;;;;;;;x
+b_wenarya;Westmere;Westmere;Westmere;;Westmere;;;;;;;;;x
+b_tiodos;Marton;Marton;Marton;;Marton;;;;;;;;;x
+b_ekumita;Levin;Levin;Levin;;Levin;;;;;;;;;x
+b_qava;Foxton;Foxton;Foxton;;Foxton;;;;;;;;;x
+b_radily;Kai Iwi;Kai Iwi;Kai Iwi;;Kai Iwi;;;;;;;;;x
+b_konuba;Bulls;Bulls;Bulls;;Bulls;;;;;;;;;x
+b_ramilai;Shannon;Shannon;Shannon;;Shannon;;;;;;;;;x
+c_tibija_adj;Ruapehuan;Ruapehuan;Ruapehuan;;Ruapehuan;;;;;;;;;x
+b_tibija;Ruapehu;Ruapehu;Ruapehu;;Ruapehu;;;;;;;;;x
+b_qiegohn;Taumarunu;Taumarunu;Taumarunu;;Taumarunu;;;;;;;;;x
+b_tyoukuis;Waiouru;Waiouru;Waiouru;;Waiouru;;;;;;;;;x
+b_rakeva;Raetihi;Raetihi;Raetihi;;Raetihi;;;;;;;;;x
+b_aksemn;Whakapapa;Whakapapa;Whakapapa;;Whakapapa;;;;;;;;;x
+b_sugivoj;National Park;National Park;National Park;;National Park;;;;;;;;;x
+b_bopalgi;Ohakune;Ohakune;Ohakune;;Ohakune;;;;;;;;;x
+b_tehela;Raurimu Spiral;Raurimu Spiral;Raurimu Spiral;;Raurimu Spiral;;;;;;;;;x
+c_wyanila_adj;Aotean;Aotean;Aotean;;Aotean;;;;;;;;;x
+b_wyanila;Aotea;Aotea;Aotea;;Aotea;;;;;;;;;x
+b_tenatli;Great Barrier;Great Barrier;Great Barrier;;Great Barrier;;;;;;;;;x
+b_wasatli;Tryphena;Tryphena;Tryphena;;Tryphena;;;;;;;;;x
+b_dyanil;Medlands;Medlands;Medlands;;Medlands;;;;;;;;;x
+b_amasivit;Heale;Heale;Heale;;Heale;;;;;;;;;x
+b_toruna;Windy CanyonWhangapoua;Windy CanyonWhangapoua;Windy CanyonWhangapoua;;Windy CanyonWhangapoua;;;;;;;;;x
+b_anyanila;Glenfern;Glenfern;Glenfern;;Glenfern;;;;;;;;;x
+b_linivit;Kaikoura;Kaikoura;Kaikoura;;Kaikoura;;;;;;;;;x
 c_tehofia_adj;Tehofia;Tehofia;Tehofia;;Tehofia;;;;;;;;;x
 b_tehofia;Tehofia;Tehofia;Tehofia;;Tehofia;;;;;;;;;x
 b_nomela;Nomela;Nomela;Nomela;;Nomela;;;;;;;;;x
@@ -17262,55 +17262,55 @@ b_tiruin;Tiruin;Tiruin;Tiruin;;Tiruin;;;;;;;;;x
 b_beracob;Beracob;Beracob;Beracob;;Beracob;;;;;;;;;x
 b_sadorz;Sadorz;Sadorz;Sadorz;;Sadorz;;;;;;;;;x
 b_kanakk;Kanakk;Kanakk;Kanakk;;Kanakk;;;;;;;;;x
-c_wesovit_adj;Wesovit;Wesovit;Wesovit;;Wesovit;;;;;;;;;x
-b_wesovit;Wesovit;Wesovit;Wesovit;;Wesovit;;;;;;;;;x
-b_delaka;Delaka;Delaka;Delaka;;Delaka;;;;;;;;;x
-b_tesyla;Tesyla;Tesyla;Tesyla;;Tesyla;;;;;;;;;x
-b_ekamihan;Ekamihan;Ekamihan;Ekamihan;;Ekamihan;;;;;;;;;x
-b_sajunes;Sajunes;Sajunes;Sajunes;;Sajunes;;;;;;;;;x
-b_eita;Eita;Eita;Eita;;Eita;;;;;;;;;x
-b_topaham;Topaham;Topaham;Topaham;;Topaham;;;;;;;;;x
-b_rohunli;Rohunli;Rohunli;Rohunli;;Rohunli;;;;;;;;;x
-c_ebelandi_adj;Ebelandi;Ebelandi;Ebelandi;;Ebelandi;;;;;;;;;x
-b_ebelandi;Ebelandi;Ebelandi;Ebelandi;;Ebelandi;;;;;;;;;x
-b_egrali;Egrali;Egrali;Egrali;;Egrali;;;;;;;;;x
-b_acomavid;Acomavid;Acomavid;Acomavid;;Acomavid;;;;;;;;;x
-b_anarandi;Anarandi;Anarandi;Anarandi;;Anarandi;;;;;;;;;x
-b_adriya;Adriya;Adriya;Adriya;;Adriya;;;;;;;;;x
-b_dirumna;Dirumna;Dirumna;Dirumna;;Dirumna;;;;;;;;;x
-b_rozare;Rozare;Rozare;Rozare;;Rozare;;;;;;;;;x
-b_kosavak;Kosavak;Kosavak;Kosavak;;Kosavak;;;;;;;;;x
-d_koiveir;Koiveir;Koiveir;Koiveir;;Koiveir;;;;;;;;;x
-d_koiveir_adj;Koiveir;Koiveir;Koiveir;;Koiveir;;;;;;;;;x
+c_wesovit_adj;Tongan;Tongan;Tongan;;Tongan;;;;;;;;;x
+b_wesovit;Tonga;Tonga;Tonga;;Tonga;;;;;;;;;x
+b_delaka;Mua;Mua;Mua;;Mua;;;;;;;;;x
+b_tesyla;Nuku'alofa;Nuku'alofa;Nuku'alofa;;Nuku'alofa;;;;;;;;;x
+b_ekamihan;Nukunuku;Nukunuku;Nukunuku;;Nukunuku;;;;;;;;;x
+b_sajunes;Fua'amotu;Fua'amotu;Fua'amotu;;Fua'amotu;;;;;;;;;x
+b_eita;Ohonua;Ohonua;Ohonua;;Ohonua;;;;;;;;;x
+b_topaham;Eua;Eua;Eua;;Eua;;;;;;;;;x
+b_rohunli;Vaini;Vaini;Vaini;;Vaini;;;;;;;;;x
+c_ebelandi_adj;Savaiian;Savaiian;Savaiian;;Savaiian;;;;;;;;;x
+b_ebelandi;Savai'i;Savai'i;Savai'i;;Savai'i;;;;;;;;;x
+b_egrali;Sato'alepai;Sato'alepai;Sato'alepai;;Sato'alepai;;;;;;;;;x
+b_acomavid;Lefagaoali'i;Lefagaoali'i;Lefagaoali'i;;Lefagaoali'i;;;;;;;;;x
+b_anarandi;Asau;Asau;Asau;;Asau;;;;;;;;;x
+b_adriya;Vaito'omuli;Vaito'omuli;Vaito'omuli;;Vaito'omuli;;;;;;;;;x
+b_dirumna;Sala'ilua;Sala'ilua;Sala'ilua;;Sala'ilua;;;;;;;;;x
+b_rozare;Falealupo;Falealupo;Falealupo;;Falealupo;;;;;;;;;x
+b_kosavak;Fagafau;Fagafau;Fagafau;;Fagafau;;;;;;;;;x
+d_koiveir;Samoa;Samoa;Samoa;;Samoa;;;;;;;;;x
+d_koiveir_adj;Samoan;Samoan;Samoan;;Samoan;;;;;;;;;x
 c_leireth_adj;Leireth;Leireth;Leireth;;Leireth;;;;;;;;;x
 b_leireth;Leireth;Leireth;Leireth;;Leireth;;;;;;;;;x
-b_wageth;Wageth;Wageth;Wageth;;Wageth;;;;;;;;;x
-b_nahita;Nahita;Nahita;Nahita;;Nahita;;;;;;;;;x
-b_duti;Duti;Duti;Duti;;Duti;;;;;;;;;x
-b_derahra;Derahra;Derahra;Derahra;;Derahra;;;;;;;;;x
-b_beluti;Beluti;Beluti;Beluti;;Beluti;;;;;;;;;x
-b_sacaga;Sacaga;Sacaga;Sacaga;;Sacaga;;;;;;;;;x
-b_lisuge;Lisuge;Lisuge;Lisuge;;Lisuge;;;;;;;;;x
-c_ezoja_adj;Ezoja;Ezoja;Ezoja;;Ezoja;;;;;;;;;x
-b_ezoja;Ezoja;Ezoja;Ezoja;;Ezoja;;;;;;;;;x
-b_niirija;Niirija;Niirija;Niirija;;Niirija;;;;;;;;;x
-b_lyacuzer;Lyacuzer;Lyacuzer;Lyacuzer;;Lyacuzer;;;;;;;;;x
-b_kayana;Kayana;Kayana;Kayana;;Kayana;;;;;;;;;x
-b_rozuddin;Rozuddin;Rozuddin;Rozuddin;;Rozuddin;;;;;;;;;x
-b_layoam;Layoam;Layoam;Layoam;;Layoam;;;;;;;;;x
-b_kayoham;Kayoham;Kayoham;Kayoham;;Kayoham;;;;;;;;;x
-b_kaicanu;Kaicanu;Kaicanu;Kaicanu;;Kaicanu;;;;;;;;;x
-d_ekugaun;Ekugaun;Ekugaun;Ekugaun;;Ekugaun;;;;;;;;;x
-d_ekugaun_adj;Ekugaun;Ekugaun;Ekugaun;;Ekugaun;;;;;;;;;x
-c_tetozar_adj;Tetozar;Tetozar;Tetozar;;Tetozar;;;;;;;;;x
-b_tetozar;Tetozar;Tetozar;Tetozar;;Tetozar;;;;;;;;;x
-b_tanisha;Tanisha;Tanisha;Tanisha;;Tanisha;;;;;;;;;x
-b_nemozar;Nemozar;Nemozar;Nemozar;;Nemozar;;;;;;;;;x
-b_kopajit;Kopajit;Kopajit;Kopajit;;Kopajit;;;;;;;;;x
-b_nopuvje;Nopuvje;Nopuvje;Nopuvje;;Nopuvje;;;;;;;;;x
-b_abhena;Abhena;Abhena;Abhena;;Abhena;;;;;;;;;x
-b_ekabba;Ekabba;Ekabba;Ekabba;;Ekabba;;;;;;;;;x
-b_wemeva;Wemeva;Wemeva;Wemeva;;Wemeva;;;;;;;;;x
+b_wageth;Apia;Apia;Apia;;Apia;;;;;;;;;x
+b_nahita;Satapuala;Satapuala;Satapuala;;Satapuala;;;;;;;;;x
+b_duti;Sataoa;Sataoa;Sataoa;;Sataoa;;;;;;;;;x
+b_derahra;Saleilua;Saleilua;Saleilua;;Saleilua;;;;;;;;;x
+b_beluti;Lepa;Lepa;Lepa;;Lepa;;;;;;;;;x
+b_sacaga;Fale'ula;Fale'ula;Fale'ula;;Fale'ula;;;;;;;;;x
+b_lisuge;Safa'atoa;Safa'atoa;Safa'atoa;;Safa'atoa;;;;;;;;;x
+c_ezoja_adj;Leeward;Leeward;Leeward;;Leeward;;;;;;;;;x
+b_ezoja;Sand Island;Sand Island;Sand Island;;Sand Island;;;;;;;;;x
+b_niirija;Eastern Island;Eastern Island;Eastern Island;;Eastern Island;;;;;;;;;x
+b_lyacuzer;Midway Atoll;Midway Atoll;Midway Atoll;;Midway Atoll;;;;;;;;;x
+b_kayana;Kure;Kure;Kure;;Kure;;;;;;;;;x
+b_rozuddin;Lisianski;Lisianski;Lisianski;;Lisianski;;;;;;;;;x
+b_layoam;Pearl Reef;Pearl Reef;Pearl Reef;;Pearl Reef;;;;;;;;;x
+b_kayoham;Hermes Reef;Hermes Reef;Hermes Reef;;Hermes Reef;;;;;;;;;x
+b_kaicanu;Old Hangar;Old Hangar;Old Hangar;;Old Hangar;;;;;;;;;x
+d_ekugaun;Leeward Islands;Leeward Islands;Leeward Islands;;Leeward Islands;;;;;;;;;x
+d_ekugaun_adj;Leewarder;Leewarder;Leewarder;;Leewarder;;;;;;;;;x
+c_tetozar_adj;Nihoan;Nihoan;Nihoan;;Nihoan;;;;;;;;;x
+b_tetozar;Nihoan;Nihoan;Nihoan;;Nihoan;;;;;;;;;x
+b_tanisha;Adams Bay;Adams Bay;Adams Bay;;Adams Bay;;;;;;;;;x
+b_nemozar;Necker;Necker;Necker;;Necker;;;;;;;;;x
+b_kopajit;Frigate Shoals;Frigate Shoals;Frigate Shoals;;Frigate Shoals;;;;;;;;;x
+b_nopuvje;Gardner;Gardner;Gardner;;Gardner;;;;;;;;;x
+b_abhena;Kauoa;Kauoa;Kauoa;;Kauoa;;;;;;;;;x
+b_ekabba;Millers Peak;Millers Peak;Millers Peak;;Millers Peak;;;;;;;;;x
+b_wemeva;Tanager Peak;Tanager Peak;Tanager Peak;;Tanager Peak;;;;;;;;;x
 c_dudeere_adj;Ni'ihauian;Ni'ihauian;Ni'ihauian;;Ni'ihauian;;;;;;;;;x
 b_dudeere;Ni'ihau;Ni'ihau;Ni'ihau;;Ni'ihau;;;;;;;;;x
 b_taracob;Puuwai;Puuwai;Puuwai;;Puuwai;;;;;;;;;x
@@ -17320,8 +17320,8 @@ b_savy;Keanahaki;Keanahaki;Keanahaki;;Keanahaki;;;;;;;;;x
 b_kiloul;Kalaoa;Kalaoa;Kalaoa;;Kalaoa;;;;;;;;;x
 b_aberge;Keamano;Keamano;Keamano;;Keamano;;;;;;;;;x
 b_egomeova;Paniau;Paniau;Paniau;;Paniau;;;;;;;;;x
-d_talomir;Talomir;Talomir;Talomir;;Talomir;;;;;;;;;x
-d_talomir_adj;Talomir;Talomir;Talomir;;Talomir;;;;;;;;;x
+d_talomir;Kaua'i;Kaua'i;Kaua'i;;Kaua'i;;;;;;;;;x
+d_talomir_adj;Kauaian;Kauaian;Kauaian;;Kauaian;;;;;;;;;x
 c_sarerdeg_adj;Kauaian;Kauaian;Kauaian;;Kauaian;;;;;;;;;x
 b_sarerdeg;Kaua'i;Kaua'i;Kaua'i;;Kaua'i;;;;;;;;;x
 b_elellet;Kapa'a;Kapa'a;Kapa'a;;Kapa'a;;;;;;;;;x
@@ -17339,11 +17339,11 @@ b_qolele;Waialua;Waialua;Waialua;;Waialua;;;;;;;;;x
 b_deraila;Kahuku;Kahuku;Kahuku;;Kahuku;;;;;;;;;x
 b_kegarak;Nanakuli;Nanakuli;Nanakuli;;Nanakuli;;;;;;;;;x
 b_echee;Makaha;Makaha;Makaha;;Makaha;;;;;;;;;x
-b_lict;Lict;Lict;Lict;;Lict;;;;;;;;;x
+b_lict;North Shore;North Shore;North Shore;;North Shore;;;;;;;;;x
 e_kaheka;Kaheka;Kaheka;Kaheka;;Kaheka;;;;;;;;;x
 e_kaheka_adj;Kaheka;Kaheka;Kaheka;;Kaheka;;;;;;;;;x
 k_hawaii;Hawaii;Hawaii;Hawaii;;Hawaii;;;;;;;;;x
-k_hawaii_adj;Hawaii;Hawaii;Hawaii;;Hawaii;;;;;;;;;x
+k_hawaii_adj;Hawaiian;Hawaiian;Hawaiian;;Hawaiian;;;;;;;;;x
 d_hawaii;Hawaii;Hawaii;Hawaii;;Hawaii;;;;;;;;;x
 d_hawaii_adj;Hawaiian;Hawaiian;Hawaiian;;Hawaiian;;;;;;;;;x
 c_honolulu_adj;Honoluian;Honoluian;Honoluian;;Honoluian;;;;;;;;;x
@@ -17355,15 +17355,15 @@ b_deralk;Kailua;Kailua;Kailua;;Kailua;;;;;;;;;x
 b_derayn;Waimanalo Beach;Waimanalo Beach;Waimanalo Beach;;Waimanalo Beach;;;;;;;;;x
 b_torgia;Aiea;Aiea;Aiea;;Aiea;;;;;;;;;x
 b_agamaj;Hawaii Kai;Hawaii Kai;Hawaii Kai;;Hawaii Kai;;;;;;;;;x
-c_denka_adj;Denka;Denka;Denka;;Denka;;;;;;;;;x
-b_denka;Denka;Denka;Denka;;Denka;;;;;;;;;x
-b_wisayla;Wisayla;Wisayla;Wisayla;;Wisayla;;;;;;;;;x
-b_qebasin;Qebasin;Qebasin;Qebasin;;Qebasin;;;;;;;;;x
-b_turail;Turail;Turail;Turail;;Turail;;;;;;;;;x
-b_waria;Waria;Waria;Waria;;Waria;;;;;;;;;x
-b_raralku;Raralku;Raralku;Raralku;;Raralku;;;;;;;;;x
-b_rarane;Rarane;Rarane;Rarane;;Rarane;;;;;;;;;x
-b_dayavje;Dayavje;Dayavje;Dayavje;;Dayavje;;;;;;;;;x
+c_denka_adj;Kiribatian;Kiribatian;Kiribatian;;Kiribatian;;;;;;;;;x
+b_denka;Kiribati;Kiribati;Kiribati;;Kiribati;;;;;;;;;x
+b_wisayla;London;London;London;;London;;;;;;;;;x
+b_qebasin;Banana;Banana;Banana;;Banana;;;;;;;;;x
+b_turail;Paris;Paris;Paris;;Paris;;;;;;;;;x
+b_waria;Poland;Poland;Poland;;Poland;;;;;;;;;x
+b_raralku;Tabwakea;Tabwakea;Tabwakea;;Tabwakea;;;;;;;;;x
+b_rarane;Kiritimati;Kiritimati;Kiritimati;;Kiritimati;;;;;;;;;x
+b_dayavje;Aeon;Aeon;Aeon;;Aeon;;;;;;;;;x
 c_qilija_adj;Molokain;Molokain;Molokain;;Molokain;;;;;;;;;x
 b_qilija;Moloka'i;Moloka'i;Moloka'i;;Moloka'i;;;;;;;;;x
 b_kagomas;Kaunakakai;Kaunakakai;Kaunakakai;;Kaunakakai;;;;;;;;;x
@@ -17382,26 +17382,26 @@ b_doharak;Kanepuu;Kanepuu;Kanepuu;;Kanepuu;;;;;;;;;x
 b_lorence;Polihua;Polihua;Polihua;;Polihua;;;;;;;;;x
 b_borarda;Shipwreck Beach;Shipwreck Beach;Shipwreck Beach;;Shipwreck Beach;;;;;;;;;x
 b_ekalarda;Sensei Lanai;Sensei Lanai;Sensei Lanai;;Sensei Lanai;;;;;;;;;x
-d_kalk;Kalk;Kalk;Kalk;;Kalk;;;;;;;;;x
-d_kalk_adj;Kalk;Kalk;Kalk;;Kalk;;;;;;;;;x
+d_kalk;Maui;Maui;Maui;;Maui;;;;;;;;;x
+d_kalk_adj;Mauian;Mauian;Mauian;;Mauian;;;;;;;;;x
 c_qeramaj_adj;Mauian;Mauian;Mauian;;Mauian;;;;;;;;;x
 b_qeramaj;Maui;Maui;Maui;;Maui;;;;;;;;;x
-b_balict;Kihei;Kihei;Kihei;;Kihei;;;;;;;;;x
-b_segern;Hana;Hana;Hana;;Hana;;;;;;;;;x
-b_turict;Lahaina;Lahaina;Lahaina;;Lahaina;;;;;;;;;x
+b_balict;Kahului;Kahului;Kahului;;Kahului;;;;;;;;;x
+b_segern;Kihei;Kihei;Kihei;;Kihei;;;;;;;;;x
+b_turict;Wailuku;Wailuku;Wailuku;;Wailuku;;;;;;;;;x
 b_kehre;Wailea-Makena;Wailea-Makena;Wailea-Makena;;Wailea-Makena;;;;;;;;;x
 b_rolaila;Kaanapali;Kaanapali;Kaanapali;;Kaanapali;;;;;;;;;x
 b_wohern;Kapalua;Kapalua;Kapalua;;Kapalua;;;;;;;;;x
 b_bourk;Paia;Paia;Paia;;Paia;;;;;;;;;x
-c_ealizo_adj;Hanan;Eálizo;Eálizo;;Eálizo;;;;;;;;;x
-b_ealizo;Hana;Eálizo;Eálizo;;Eálizo;;;;;;;;;x
-b_qoan;Qoan;Qoan;Qoan;;Qoan;;;;;;;;;x
-b_terarak;Terarak;Terarak;Terarak;;Terarak;;;;;;;;;x
-b_kalaide;Kalaide;Kalaide;Kalaide;;Kalaide;;;;;;;;;x
-b_loan;Loan;Loan;Loan;;Loan;;;;;;;;;x
-b_lizo;Lizo;Lizo;Lizo;;Lizo;;;;;;;;;x
-b_surara;Surara;Surara;Surara;;Surara;;;;;;;;;x
-b_ekalalk;Ekalalk;Ekalalk;Ekalalk;;Ekalalk;;;;;;;;;x
+c_ealizo_adj;Hanaian;Hanaian;Hanaian;;Hanaian;;;;;;;;;x
+b_ealizo;Hana;Hana;Hana;;Hana;;;;;;;;;x
+b_qoan;Ke'Anae;Ke'Anae;Ke'Anae;;Ke'Anae;;;;;;;;;x
+b_terarak;Kaupo;Kaupo;Kaupo;;Kaupo;;;;;;;;;x
+b_kalaide;Nahiku;Nahiku;Nahiku;;Nahiku;;;;;;;;;x
+b_loan;Wailua;Wailua;Wailua;;Wailua;;;;;;;;;x
+b_lizo;Haleakala;Haleakala;Haleakala;;Haleakala;;;;;;;;;x
+b_surara;Koolau;Koolau;Koolau;;Koolau;;;;;;;;;x
+b_ekalalk;Garden of Eden;Garden of Eden;Garden of Eden;;Garden of Eden;;;;;;;;;x
 c_noharda_adj;Konian;Konian;Konian;;Konian;;;;;;;;;x
 b_noharda;Kailua-Kona;Kailua-Kona;Kailua-Kona;;Kailua-Kona;;;;;;;;;x
 b_kict;Captian Cook;Captian Cook;Captian Cook;;Captian Cook;;;;;;;;;x
@@ -17420,8 +17420,8 @@ b_kolarda;Puukohola Heiau;Puukohola Heiau;Puukohola Heiau;;Puukohola Heiau;;;;;;
 b_sanuri;Hamakua;Hamakua;Hamakua;;Hamakua;;;;;;;;;x
 b_lurizo;Honokaa;Honokaa;Honokaa;;Honokaa;;;;;;;;;x
 b_salizo;Mauna Kea;Mauna Kea;Mauna Kea;;Mauna Kea;;;;;;;;;x
-d_sarak;Sarak;Sarak;Sarak;;Sarak;;;;;;;;;x
-d_sarak_adj;Sarak;Sarak;Sarak;;Sarak;;;;;;;;;x
+d_sarak;Big Island;Big Island;Big Island;;Big Island;;;;;;;;;x
+d_sarak_adj;Islander;Islander;Islander;;Islander;;;;;;;;;x
 c_rerarda_adj;Volcaner;Volcaner;Volcaner;;Volcaner;;;;;;;;;x
 b_rerarda;Mauna Loa;Mauna Loa;Mauna Loa;;Mauna Loa;;;;;;;;;x
 b_awalern;Volcano Village;Volcano Village;Volcano Village;;Volcano Village;;;;;;;;;x
@@ -17440,59 +17440,59 @@ b_rurizo;Honomu;Honomu;Honomu;;Honomu;;;;;;;;;x
 b_begarda;Laupahoehoe;Laupahoehoe;Laupahoehoe;;Laupahoehoe;;;;;;;;;x
 b_negarda;Kalapana;Kalapana;Kalapana;;Kalapana;;;;;;;;;x
 b_kence;Ninole;Ninole;Ninole;;Ninole;;;;;;;;;x
-c_kakh_adj;Kakh;Kakh;Kakh;;Kakh;;;;;;;;;x
-b_kakh;Kakh;Kakh;Kakh;;Kakh;;;;;;;;;x
-b_nohanu;Nohanu;Nohanu;Nohanu;;Nohanu;;;;;;;;;x
-b_tohad;Tohad;Tohad;Tohad;;Tohad;;;;;;;;;x
-b_bimakh;Bimakh;Bimakh;Bimakh;;Bimakh;;;;;;;;;x
-b_riunes;Riunes;Riunes;Riunes;;Riunes;;;;;;;;;x
-b_toruma;Toruma;Toruma;Toruma;;Toruma;;;;;;;;;x
-b_wit;Wit;Wit;Wit;;Wit;;;;;;;;;x
-b_nehebia;Nehebia;Nehebia;Nehebia;;Nehebia;;;;;;;;;x
-c_setuvje_adj;Setuvje;Setuvje;Setuvje;;Setuvje;;;;;;;;;x
-b_setuvje;Setuvje;Setuvje;Setuvje;;Setuvje;;;;;;;;;x
-b_rabas;Rabas;Rabas;Rabas;;Rabas;;;;;;;;;x
-b_terasia;Terasia;Terasia;Terasia;;Terasia;;;;;;;;;x
-b_raili;Raili;Raili;Raili;;Raili;;;;;;;;;x
-b_telar;Telar;Telar;Telar;;Telar;;;;;;;;;x
-b_bakenes;Bakenes;Bakenes;Bakenes;;Bakenes;;;;;;;;;x
-b_renita;Renita;Renita;Renita;;Renita;;;;;;;;;x
-b_areinim;Areinim;Areinim;Areinim;;Areinim;;;;;;;;;x
-d_nolana;Nolana;Nolana;Nolana;;Nolana;;;;;;;;;x
-d_nolana_adj;Nolana;Nolana;Nolana;;Nolana;;;;;;;;;x
-c_tunaham_adj;Tunaham;Tunaham;Tunaham;;Tunaham;;;;;;;;;x
-b_tunaham;Tunaham;Tunaham;Tunaham;;Tunaham;;;;;;;;;x
-b_saxozar;Saxozar;Saxozar;Saxozar;;Saxozar;;;;;;;;;x
-b_eljang;Eljang;Eljang;Eljang;;Eljang;;;;;;;;;x
-b_tananu;Tananu;Tananu;Tananu;;Tananu;;;;;;;;;x
-b_tumins;Tumins;Tumins;Tumins;;Tumins;;;;;;;;;x
-b_birafn;Birafn;Birafn;Birafn;;Birafn;;;;;;;;;x
-b_kalore;Kalore;Kalore;Kalore;;Kalore;;;;;;;;;x
-b_runai;Runai;Runai;Runai;;Runai;;;;;;;;;x
-c_subolas_adj;Subolas;Subolas;Subolas;;Subolas;;;;;;;;;x
-b_subolas;Subolas;Subolas;Subolas;;Subolas;;;;;;;;;x
-b_telyang;Telyang;Telyang;Telyang;;Telyang;;;;;;;;;x
-b_lita;Lita;Lita;Lita;;Lita;;;;;;;;;x
-b_timusbu;Timusbu;Timusbu;Timusbu;;Timusbu;;;;;;;;;x
-b_tabozar;Tabozar;Tabozar;Tabozar;;Tabozar;;;;;;;;;x
-b_kita;Kita;Kita;Kita;;Kita;;;;;;;;;x
-b_azhang;Azhang;Azhang;Azhang;;Azhang;;;;;;;;;x
-b_amelihan;Amelihan;Amelihan;Amelihan;;Amelihan;;;;;;;;;x
-c_qarar_adj;Qarar;Qarar;Qarar;;Qarar;;;;;;;;;x
-b_qarar;Qarar;Qarar;Qarar;;Qarar;;;;;;;;;x
-b_roth;Roth;Roth;Roth;;Roth;;;;;;;;;x
-b_berilia;Berilia;Berilia;Berilia;;Berilia;;;;;;;;;x
-b_duwarne;Duwarne;Duwarne;Duwarne;;Duwarne;;;;;;;;;x
-b_rovit;Rovit;Rovit;Rovit;;Rovit;;;;;;;;;x
-b_tyeveas;Tyeveas;Tyeveas;Tyeveas;;Tyeveas;;;;;;;;;x
-b_kelilios;Kelilios;Kelilios;Kelilios;;Kelilios;;;;;;;;;x
-b_tatorri;Tatorri;Tatorri;Tatorri;;Tatorri;;;;;;;;;x
-c_roran_adj;Roran;Roran;Roran;;Roran;;;;;;;;;x
-b_roran;Roran;Roran;Roran;;Roran;;;;;;;;;x
-b_loryuan;Loryuan;Loryuan;Loryuan;;Loryuan;;;;;;;;;x
-b_tapa;Tapa;Tapa;Tapa;;Tapa;;;;;;;;;x
-b_ryaca;Ryaca;Ryaca;Ryaca;;Ryaca;;;;;;;;;x
-b_kini;Kini;Kini;Kini;;Kini;;;;;;;;;x
-b_kumuko;Kumuko;Kumuko;Kumuko;;Kumuko;;;;;;;;;x
-b_etitya;Etitya;Etitya;Etitya;;Etitya;;;;;;;;;x
-b_nitya;Nitya;Nitya;Nitya;;Nitya;;;;;;;;;x
+c_kakh_adj;Borian;Borian;Borian;;Borian;;;;;;;;;x
+b_kakh;Bora-Bora;Bora-Bora;Bora-Bora;;Bora-Bora;;;;;;;;;x
+b_nohanu;Raiatea;Raiatea;Raiatea;;Raiatea;;;;;;;;;x
+b_tohad;Uturoa;Uturoa;Uturoa;;Uturoa;;;;;;;;;x
+b_bimakh;Taha'a;Taha'a;Taha'a;;Taha'a;;;;;;;;;x
+b_riunes;Tumaraa;Tumaraa;Tumaraa;;Tumaraa;;;;;;;;;x
+b_toruma;Huahine;Huahine;Huahine;;Huahine;;;;;;;;;x
+b_wit;Tupai;Tupai;Tupai;;Tupai;;;;;;;;;x
+b_nehebia;Taputapuapea;Taputapuapea;Taputapuapea;;Taputapuapea;;;;;;;;;x
+c_setuvje_adj;Moorean;Moorean;Moorean;;Moorean;;;;;;;;;x
+b_setuvje;Moorea;Moorea;Moorea;;Moorea;;;;;;;;;x
+b_rabas;Tetiaroa;Tetiaroa;Tetiaroa;;Tetiaroa;;;;;;;;;x
+b_terasia;Mai'ao;Mai'ao;Mai'ao;;Mai'ao;;;;;;;;;x
+b_raili;Tiki;Tiki;Tiki;;Tiki;;;;;;;;;x
+b_telar;Fare Aute;Fare Aute;Fare Aute;;Fare Aute;;;;;;;;;x
+b_bakenes;Manava;Manava;Manava;;Manava;;;;;;;;;x
+b_renita;Linareva;Linareva;Linareva;;Linareva;;;;;;;;;x
+b_areinim;Kahekaro;Kahekaro;Kahekaro;;Kahekaro;;;;;;;;;x
+d_nolana;Polynesia;Polynesia;Polynesia;;Polynesia;;;;;;;;;x
+d_nolana_adj;Polynesia;Polynesia;Polynesia;;Polynesia;;;;;;;;;x
+c_tunaham_adj;Tahitan;Tahitan;Tahitan;;Tahitan;;;;;;;;;x
+b_tunaham;Papeete;Papeete;Papeete;;Papeete;;;;;;;;;x
+b_saxozar;Papara;Papara;Papara;;Papara;;;;;;;;;x
+b_eljang;Puna'auia;Puna'auia;Puna'auia;;Puna'auia;;;;;;;;;x
+b_tananu;Pa'ea;Pa'ea;Pa'ea;;Pa'ea;;;;;;;;;x
+b_tumins;Teva I Uta;Teva I Uta;Teva I Uta;;Teva I Uta;;;;;;;;;x
+b_birafn;Hitiaa O Te Ra;Hitiaa O Te Ra;Hitiaa O Te Ra;;Hitiaa O Te Ra;;;;;;;;;x
+b_kalore;Fa'a'a;Fa'a'a;Fa'a'a;;Fa'a'a;;;;;;;;;x
+b_runai;Orohena;Orohena;Orohena;;Orohena;;;;;;;;;x
+c_subolas_adj;Tahitan;Tahitan;Tahitan;;Tahitan;;;;;;;;;x
+b_subolas;Tahiti-Iti;Tahiti-Iti;Tahiti-Iti;;Tahiti-Iti;;;;;;;;;x
+b_telyang;Taiarapu-Ouest;Taiarapu-Ouest;Taiarapu-Ouest;;Taiarapu-Ouest;;;;;;;;;x
+b_lita;Taiarapu-Est;Taiarapu-Est;Taiarapu-Est;;Taiarapu-Est;;;;;;;;;x
+b_timusbu;Afatauri;Afatauri;Afatauri;;Afatauri;;;;;;;;;x
+b_tabozar;Punatea;Punatea;Punatea;;Punatea;;;;;;;;;x
+b_kita;Mataorio;Mataorio;Mataorio;;Mataorio;;;;;;;;;x
+b_azhang;Tautira;Tautira;Tautira;;Tautira;;;;;;;;;x
+b_amelihan;Quai de Vairao;Quai de Vairao;Quai de Vairao;;Quai de Vairao;;;;;;;;;x
+c_qarar_adj;Tubuain;Tubuain;Tubuain;;Tubuain;;;;;;;;;x
+b_qarar;Tubuai;Tubuai;Tubuai;;Tubuai;;;;;;;;;x
+b_roth;Rurutu;Rurutu;Rurutu;;Rurutu;;;;;;;;;x
+b_berilia;Raivavae;Raivavae;Raivavae;;Raivavae;;;;;;;;;x
+b_duwarne;Rimatara;Rimatara;Rimatara;;Rimatara;;;;;;;;;x
+b_rovit;Rapa;Rapa;Rapa;;Rapa;;;;;;;;;x
+b_tyeveas;Iles Maria;Iles Maria;Iles Maria;;Iles Maria;;;;;;;;;x
+b_kelilios;Cook Islands;Cook Islands;Cook Islands;;Cook Islands;;;;;;;;;x
+b_tatorri;Marotiri;Marotiri;Marotiri;;Marotiri;;;;;;;;;x
+c_roran_adj;Gambien;Gambien;Gambien;;Gambien;;;;;;;;;x
+b_roran;Gambier;Gambier;Gambier;;Gambier;;;;;;;;;x
+b_loryuan;Mangareva;Mangareva;Mangareva;;Mangareva;;;;;;;;;x
+b_tapa;Kirimiro;Kirimiro;Kirimiro;;Kirimiro;;;;;;;;;x
+b_ryaca;Apeakava;Apeakava;Apeakava;;Apeakava;;;;;;;;;x
+b_kini;Taku;Taku;Taku;;Taku;;;;;;;;;x
+b_kumuko;Akaputu;Akaputu;Akaputu;;Akaputu;;;;;;;;;x
+b_etitya;Totegegie;Totegegie;Totegegie;;Totegegie;;;;;;;;;x
+b_nitya;Taravai;Taravai;Taravai;;Taravai;;;;;;;;;x

@@ -37,12 +37,12 @@ objectTypes = {
 		scale = 300.00f
 	}
 
-	pdxmesh = {
-		name = "tribalgfx_tribal_1"
-		file = "gfx\models\camp.mesh"
-		scale = 10.0f
-		cull_distance = 550.0f
-	}
+#	pdxmesh = {
+#		name = "tribalgfx_tribal_1"
+#		file = "gfx\models\camp.mesh"
+#		scale = 10.0f
+#		cull_distance = 550.0f
+#	}
 	EMFXActorType = {
 		name = "muslimgfx_count_shield"
 		actorfile = "gfx\models\Shields\norse_count_shield.xac"
