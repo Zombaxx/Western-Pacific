@@ -26597,12 +26597,12 @@ e_kaheka = {
 				b_borarda = { }
 				b_ekalarda = { }
 			}
-			c_eã¡lizo = {
+			c_ealizo = {
 				color={ 239 198 192 }
 				color2={ 255 255 255 }
 				
 				
-				b_eã¡lizo = { }
+				b_ealizo = { }
 				b_qoan = { }
 				b_terarak = { }
 				b_kalaide = { }

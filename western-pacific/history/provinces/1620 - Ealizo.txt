@@ -1,11 +1,11 @@
-# 1620 - EÃ¡lizo
+# 1620 - Ealizo
 
 # County Title
-title = c_eã¡lizo
+title = c_ealizo
 
 # Settlements
 max_settlements = 3
-b_eã¡lizo = tribal
+b_ealizo = tribal
 
 # Misc
 culture = nahuatl
