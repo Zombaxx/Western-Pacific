@@ -23,9 +23,9 @@ bm_wp = {
 		}
 	}
 	selectable_character = {
-		id = 116065 #
+		id = 116205 #
 		age = 19
-		name = ERA_CHAR_NAME_116065
+		name = ERA_CHAR_NAME_116205
 		title = c_province0003
 		title_name = c_province0003
 		dlc = "The Old Gods"		

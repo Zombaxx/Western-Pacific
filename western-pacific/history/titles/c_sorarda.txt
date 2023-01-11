@@ -11,5 +11,5 @@
 	holder = 116145
 }
 1066.1.1 = {
-	liege=d_fiji
+	liege=d_hawaii
 }

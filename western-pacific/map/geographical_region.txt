@@ -156,7 +156,7 @@ world_kaheka = {
 		# k_pacific
 		d_ralasa d_neladay d_kabaun d_rermugo d_kalg d_kupo d_saikict d_wudaim d_kalekre d_koiveir d_nolana d_fiji 
 		# k_hawaii
-		d_ekugaun d_talomir d_kalk d_sarak d_fiji 
+		d_ekugaun d_talomir d_kalk d_sarak d_hawaii 
 	}
 }
 trade_posts_on_northcenter_edge_cause_CTD = {

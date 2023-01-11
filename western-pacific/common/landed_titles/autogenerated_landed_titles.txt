@@ -26694,7 +26694,7 @@ e_kaheka = {
 				b_kalele = { }
 			}
 		}
-		d_fiji = {
+		d_hawaii = {
 			color={ 254 203 151 }
 			color2={ 255 255 255 }
 			
