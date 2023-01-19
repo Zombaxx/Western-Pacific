@@ -4464,7 +4464,7 @@ e_siam = {
 		
 		capital = 422
 		
-		culture = kannada
+		culture = uyghur
 		
 		d_tajeter = {
 			color={ 157 58 188 }
@@ -4904,6 +4904,83 @@ e_siam = {
 				b_egawama = { }
 				b_neitek = { }
 				b_buneek = { }
+			}
+		}
+		d_elassona = {
+			color={ 121 37 171 }
+			color2={ 255 255 255 }
+			
+			capital = 414
+			
+			c_qiesanca = {
+				color={ 160 17 180 }
+				color2={ 255 255 255 }
+				
+				
+				b_qiesanca = { }
+				b_kivalotl = { }
+				b_kadocic = { }
+				b_nenecol = { }
+				b_renanca = { }
+				b_tecato = { }
+				b_tutechun = { }
+				b_kacodia = { }
+			}
+			c_tobars = {
+				color={ 123 9 171 }
+				color2={ 255 255 255 }
+				
+				
+				b_tobars = { }
+				b_qugei = { }
+				b_bigabur = { }
+				b_elibeli = { }
+				b_sharonov = { }
+				b_sanegin = { }
+				b_kunahad = { }
+				b_riel = { }
+			}
+			c_kaulirek = {
+				color={ 128 30 198 }
+				color2={ 255 255 255 }
+				
+				
+				b_kaulirek = { }
+				b_etekint = { }
+				b_risiala = { }
+				b_weilaut = { }
+				b_wubelen = { }
+				b_qeratar = { }
+				b_kiam = { }
+				b_saiy = { }
+			}
+			c_sunuju = {
+				color={ 140 51 163 }
+				color2={ 255 255 255 }
+				
+				
+				b_sunuju = { }
+				b_noraria = { }
+				b_kared = { }
+				b_befegs = { }
+				b_dyalian = { }
+				b_qegoda = { }
+				b_weoda = { }
+				b_antoninus = { }
+			}
+			c_kaheran = {
+				color={ 121 37 171 }
+				color2={ 255 255 255 }
+				
+				
+				b_kaheran = { }
+				b_wisa = { }
+				b_abereba = { }
+				b_agroura = { }
+				b_ravam = { }
+				b_tateas = { }
+				b_risna = { }
+				b_naneba = { }
 			}
 		}
 	}
@@ -5760,110 +5837,89 @@ e_siam = {
 			}
 		}
 	}
-	k_thailand = {
-		color={ 164 7 163 }
+	k_viengpink = {
+		color={ 77 150 132 }
 		color2={ 255 255 255 }
 		
-		capital = 335
+		capital = 303
 		
-		culture = kannada
+		culture = laotian
 		
-		d_baumaug = {
-			color={ 112 45 202 }
+		d_bire = {
+			color={ 128 46 190 }
 			color2={ 255 255 255 }
 			
-			capital = 286
+			capital = 336
 			
-			c_wedald = {
-				color={ 142 64 167 }
+			c_tucaide = {
+				color={ 165 41 219 }
 				color2={ 255 255 255 }
 				
 				
-				b_wedald = { }
-				b_gordii_fossae = { }
-				b_koraria = { }
-				b_nisim = { }
-				b_retayan = { }
-				b_negokia = { }
-				b_elupim = { }
-				b_retilay = { }
+				b_tucaide = { }
+				b_asopalis = { }
+				b_luhalp = { }
+				b_aleilaut = { }
+				b_anuyaste = { }
+				b_dagajid = { }
+				b_rahapal = { }
+				b_leraksa = { }
 			}
-			c_claud = {
-				color={ 113 72 196 }
+			c_tadeba = {
+				color={ 126 45 216 }
 				color2={ 255 255 255 }
 				
 				
-				b_claud = { }
-				b_lelegs = { }
-				b_qatamas = { }
-				b_wiete = { }
-				b_sogali = { }
-				b_toyaar = { }
-				b_dusius = { }
-				b_taliana = { }
+				b_tadeba = { }
+				b_ebar = { }
+				b_tamius = { }
+				b_apuke = { }
+				b_neinaud = { }
+				b_talaril = { }
+				b_kifyula = { }
+				b_sibidia = { }
 			}
-			c_sakifa = {
-				color={ 153 69 158 }
+			c_tonast = {
+				color={ 128 53 166 }
 				color2={ 255 255 255 }
 				
 				
-				b_sakifa = { }
-				b_barita = { }
-				b_weoan = { }
-				b_rifoses = { }
-				b_tara = { }
-				b_qanenes = { }
-				b_kaluke = { }
-				b_etubirek = { }
+				b_tonast = { }
+				b_taesigo = { }
+				b_wepahra = { }
+				b_byad = { }
+				b_ryikya = { }
+				b_dafinat = { }
+				b_tesamas = { }
+				b_suzniq = { }
 			}
-			c_nalawma = {
-				color={ 112 45 202 }
+			c_tifaqar = {
+				color={ 163 75 178 }
 				color2={ 255 255 255 }
 				
 				
-				b_nalawma = { }
-				b_wifara = { }
-				b_lelozar = { }
-				b_kigenna = { }
-				b_bicutas = { }
-				b_ajaka = { }
-				b_deinya = { }
-				b_sukunge = { }
+				b_tifaqar = { }
+				b_suripaz = { }
+				b_qayti = { }
+				b_kahnou = { }
+				b_keneth = { }
+				b_evimadiq = { }
+				b_kevire = { }
+				b_lagoriy = { }
 			}
-		}
-		d_risius = {
-			color={ 123 41 215 }
-			color2={ 255 255 255 }
-			
-			capital = 287
-			
-			c_bobolad = {
-				color={ 164 34 180 }
+			c_licyi = {
+				color={ 128 46 190 }
 				color2={ 255 255 255 }
 				
 				
-				b_bobolad = { }
-				b_eboreth = { }
-				b_losinat = { }
-				b_rit = { }
-				b_karacob = { }
-				b_ezakeas = { }
-				b_styx = { }
-				b_qonain = { }
-			}
-			c_kinapal = {
-				color={ 123 41 215 }
-				color2={ 255 255 255 }
-				
-				
-				b_kinapal = { }
-				b_tindila = { }
-				b_byamyi = { }
-				b_leirohn = { }
-				b_nagipa = { }
-				b_sanoban = { }
-				b_bakaug = { }
-				b_sokeph = { }
+				b_licyi = { }
+				b_sokelet = { }
+				b_qisautas = { }
+				b_rasaca = { }
+				b_ronarti = { }
+				b_qaha = { }
+				b_simizhi = { }
+				b_qibizhi = { }
 			}
 		}
 		d_detagan = {
@@ -5919,7 +5975,7 @@ e_siam = {
 			color={ 150 40 213 }
 			color2={ 255 255 255 }
 			
-			capital = 295
+			capital = 303
 			
 			c_rifaqar = {
 				color={ 150 83 187 }
@@ -5964,132 +6020,17 @@ e_siam = {
 				b_lubele = { }
 			}
 		}
-		d_tyamilvi = {
-			color={ 155 71 183 }
-			color2={ 255 255 255 }
-			
-			capital = 299
-			
-			c_syuvodis = {
-				color={ 108 50 183 }
-				color2={ 255 255 255 }
-				
-				
-				b_syuvodis = { }
-				b_baatun = { }
-				b_qarais = { }
-				b_welaud = { }
-				b_raseinn = { }
-				b_saried = { }
-				b_lerujin = { }
-				b_ejhapa = { }
-			}
-			c_wisirai = {
-				color={ 136 46 163 }
-				color2={ 255 255 255 }
-				
-				
-				b_wisirai = { }
-				b_taravak = { }
-				b_roste = { }
-				b_rurard = { }
-				b_seaila = { }
-				b_ahareva = { }
-				b_kenughur = { }
-				b_lagedrik = { }
-			}
-			c_tubecca = {
-				color={ 138 58 160 }
-				color2={ 255 255 255 }
-				
-				
-				b_tubecca = { }
-				b_rahille = { }
-				b_derudrd = { }
-				b_wagaug = { }
-				b_kohiami = { }
-				b_esanaug = { }
-				b_kogeda = { }
-				b_tajyer = { }
-			}
-			c_kumaret = {
-				color={ 155 71 183 }
-				color2={ 255 255 255 }
-				
-				
-				b_kumaret = { }
-				b_kerasia = { }
-				b_rakoda = { }
-				b_teveka = { }
-				b_ceraunius = { }
-				b_asuducho = { }
-				b_nanodis = { }
-				b_nagija = { }
-			}
-		}
-		d_dajawit = {
-			color={ 154 38 177 }
-			color2={ 255 255 255 }
-			
-			capital = 300
-			
-			c_nyuning = {
-				color={ 126 31 213 }
-				color2={ 255 255 255 }
-				
-				
-				b_nyuning = { }
-				b_karyuk = { }
-				b_welovai = { }
-				b_etubyula = { }
-				b_emayorhi = { }
-				b_kosari = { }
-				b_lotuke = { }
-				b_karaud = { }
-			}
-			c_laud = {
-				color={ 115 75 188 }
-				color2={ 255 255 255 }
-				
-				
-				b_laud = { }
-				b_rinuda = { }
-				b_kitodia = { }
-				b_taranka = { }
-				b_taular = { }
-				b_rinara = { }
-				b_ranuna = { }
-				b_qina = { }
-			}
-			c_qisano = {
-				color={ 149 2 174 }
-				color2={ 255 255 255 }
-				
-				
-				b_qisano = { }
-				b_tekano = { }
-				b_saseph = { }
-				b_tekayan = { }
-				b_biseph = { }
-				b_nilokeras_scopulus = { }
-				b_wotolas = { }
-				b_ranna = { }
-			}
-			c_wavava = {
-				color={ 154 38 177 }
-				color2={ 255 255 255 }
-				
-				
-				b_wavava = { }
-				b_kolaya = { }
-				b_loter = { }
-				b_ejudolas = { }
-				b_ceraunius_fossae = { }
-				b_aligugei = { }
-				b_negius = { }
-				b_dalima = { }
-			}
-		}
+		
+		
+	}
+	k_sarakhan = {
+		color={ 0 129 0 }
+		color2={ 255 255 255 }
+		
+		capital = 328
+		
+		culture = kannada
+		
 		d_rauste = {
 			color={ 134 72 218 }
 			color2={ 255 255 255 }
@@ -6265,81 +6206,328 @@ e_siam = {
 				b_dualis = { }
 			}
 		}
-		d_bire = {
-			color={ 128 46 190 }
+		d_dubyula = {
+			color={ 148 4 180 }
 			color2={ 255 255 255 }
 			
-			capital = 336
+			capital = 372
 			
-			c_tucaide = {
-				color={ 165 41 219 }
+			c_rahadda = {
+				color={ 164 22 213 }
 				color2={ 255 255 255 }
 				
 				
-				b_tucaide = { }
-				b_asopalis = { }
-				b_luhalp = { }
-				b_aleilaut = { }
-				b_anuyaste = { }
-				b_dagajid = { }
-				b_rahapal = { }
-				b_leraksa = { }
+				b_rahadda = { }
+				b_namuo = { }
+				b_lumann = { }
+				b_qareuta = { }
+				b_lonimon = { }
+				b_lenaria = { }
+				b_tigo = { }
+				b_nyai = { }
 			}
-			c_tadeba = {
-				color={ 126 45 216 }
+			c_roratia = {
+				color={ 168 43 179 }
 				color2={ 255 255 255 }
 				
 				
-				b_tadeba = { }
-				b_ebar = { }
-				b_tamius = { }
-				b_apuke = { }
-				b_neinaud = { }
-				b_talaril = { }
-				b_kifyula = { }
-				b_sibidia = { }
+				b_roratia = { }
+				b_niloman = { }
+				b_barohn = { }
+				b_katiyel = { }
+				b_kiel = { }
+				b_ryarek = { }
+				b_kecoke = { }
+				b_ekanius = { }
 			}
-			c_tonast = {
-				color={ 128 53 166 }
+			c_kirine = {
+				color={ 111 54 178 }
 				color2={ 255 255 255 }
 				
 				
-				b_tonast = { }
-				b_taesigo = { }
-				b_wepahra = { }
-				b_byad = { }
-				b_ryikya = { }
-				b_dafinat = { }
-				b_tesamas = { }
-				b_suzniq = { }
+				b_kirine = { }
+				b_ralit = { }
+				b_birit = { }
+				b_rarins = { }
+				b_nahihan = { }
+				b_ehjeth = { }
+				b_emubork = { }
+				b_onyx = { }
 			}
-			c_tifaqar = {
-				color={ 163 75 178 }
+			c_damaye = {
+				color={ 138 13 159 }
 				color2={ 255 255 255 }
 				
 				
-				b_tifaqar = { }
-				b_suripaz = { }
-				b_qayti = { }
-				b_kahnou = { }
-				b_keneth = { }
-				b_evimadiq = { }
-				b_kevire = { }
-				b_lagoriy = { }
+				b_damaye = { }
+				b_tilew = { }
+				b_kodid = { }
+				b_kerman = { }
+				b_tahar = { }
+				b_ludius = { }
+				b_salire = { }
+				b_awagalim = { }
 			}
-			c_licyi = {
-				color={ 128 46 190 }
+			c_enaca = {
+				color={ 111 52 168 }
 				color2={ 255 255 255 }
 				
 				
-				b_licyi = { }
-				b_sokelet = { }
-				b_qisautas = { }
-				b_rasaca = { }
-				b_ronarti = { }
-				b_qaha = { }
-				b_simizhi = { }
-				b_qibizhi = { }
+				b_enaca = { }
+				b_badarti = { }
+				b_aseyfigo = { }
+				b_roratar = { }
+				b_saxom = { }
+				b_nagate = { }
+				b_kikisam = { }
+				b_rumim = { }
+			}
+			c_lainith = {
+				color={ 148 4 180 }
+				color2={ 255 255 255 }
+				
+				
+				b_lainith = { }
+				b_qarayah = { }
+				b_nuhaca = { }
+				b_ehakita = { }
+				b_tahuone = { }
+				b_rarory = { }
+				b_tamegin = { }
+				b_abhucho = { }
+			}
+		}
+	}
+	k_chaophraya = {
+		color={ 164 7 163 }
+		color2={ 255 255 255 }
+		
+		capital = 335
+		
+		culture = telugu
+		
+		d_baumaug = {
+			color={ 112 45 202 }
+			color2={ 255 255 255 }
+			
+			capital = 286
+			
+			c_wedald = {
+				color={ 142 64 167 }
+				color2={ 255 255 255 }
+				
+				
+				b_wedald = { }
+				b_gordii_fossae = { }
+				b_koraria = { }
+				b_nisim = { }
+				b_retayan = { }
+				b_negokia = { }
+				b_elupim = { }
+				b_retilay = { }
+			}
+			c_claud = {
+				color={ 113 72 196 }
+				color2={ 255 255 255 }
+				
+				
+				b_claud = { }
+				b_lelegs = { }
+				b_qatamas = { }
+				b_wiete = { }
+				b_sogali = { }
+				b_toyaar = { }
+				b_dusius = { }
+				b_taliana = { }
+			}
+			c_sakifa = {
+				color={ 153 69 158 }
+				color2={ 255 255 255 }
+				
+				
+				b_sakifa = { }
+				b_barita = { }
+				b_weoan = { }
+				b_rifoses = { }
+				b_tara = { }
+				b_qanenes = { }
+				b_kaluke = { }
+				b_etubirek = { }
+			}
+			c_nalawma = {
+				color={ 112 45 202 }
+				color2={ 255 255 255 }
+				
+				
+				b_nalawma = { }
+				b_wifara = { }
+				b_lelozar = { }
+				b_kigenna = { }
+				b_bicutas = { }
+				b_ajaka = { }
+				b_deinya = { }
+				b_sukunge = { }
+			}
+		}
+		d_risius = {
+			color={ 123 41 215 }
+			color2={ 255 255 255 }
+			
+			capital = 287
+			
+			c_bobolad = {
+				color={ 164 34 180 }
+				color2={ 255 255 255 }
+				
+				
+				b_bobolad = { }
+				b_eboreth = { }
+				b_losinat = { }
+				b_rit = { }
+				b_karacob = { }
+				b_ezakeas = { }
+				b_styx = { }
+				b_qonain = { }
+			}
+			c_kinapal = {
+				color={ 123 41 215 }
+				color2={ 255 255 255 }
+				
+				
+				b_kinapal = { }
+				b_tindila = { }
+				b_byamyi = { }
+				b_leirohn = { }
+				b_nagipa = { }
+				b_sanoban = { }
+				b_bakaug = { }
+				b_sokeph = { }
+			}
+		}
+		d_tyamilvi = {
+			color={ 155 71 183 }
+			color2={ 255 255 255 }
+			
+			capital = 299
+			
+			c_syuvodis = {
+				color={ 108 50 183 }
+				color2={ 255 255 255 }
+				
+				
+				b_syuvodis = { }
+				b_baatun = { }
+				b_qarais = { }
+				b_welaud = { }
+				b_raseinn = { }
+				b_saried = { }
+				b_lerujin = { }
+				b_ejhapa = { }
+			}
+			c_wisirai = {
+				color={ 136 46 163 }
+				color2={ 255 255 255 }
+				
+				
+				b_wisirai = { }
+				b_taravak = { }
+				b_roste = { }
+				b_rurard = { }
+				b_seaila = { }
+				b_ahareva = { }
+				b_kenughur = { }
+				b_lagedrik = { }
+			}
+			c_tubecca = {
+				color={ 138 58 160 }
+				color2={ 255 255 255 }
+				
+				
+				b_tubecca = { }
+				b_rahille = { }
+				b_derudrd = { }
+				b_wagaug = { }
+				b_kohiami = { }
+				b_esanaug = { }
+				b_kogeda = { }
+				b_tajyer = { }
+			}
+			c_kumaret = {
+				color={ 155 71 183 }
+				color2={ 255 255 255 }
+				
+				
+				b_kumaret = { }
+				b_kerasia = { }
+				b_rakoda = { }
+				b_teveka = { }
+				b_ceraunius = { }
+				b_asuducho = { }
+				b_nanodis = { }
+				b_nagija = { }
+			}
+		}
+		d_dajawit = {
+			color={ 154 38 177 }
+			color2={ 255 255 255 }
+			
+			capital = 300
+			
+			c_nyuning = {
+				color={ 126 31 213 }
+				color2={ 255 255 255 }
+				
+				
+				b_nyuning = { }
+				b_karyuk = { }
+				b_welovai = { }
+				b_etubyula = { }
+				b_emayorhi = { }
+				b_kosari = { }
+				b_lotuke = { }
+				b_karaud = { }
+			}
+			c_laud = {
+				color={ 115 75 188 }
+				color2={ 255 255 255 }
+				
+				
+				b_laud = { }
+				b_rinuda = { }
+				b_kitodia = { }
+				b_taranka = { }
+				b_taular = { }
+				b_rinara = { }
+				b_ranuna = { }
+				b_qina = { }
+			}
+			c_qisano = {
+				color={ 149 2 174 }
+				color2={ 255 255 255 }
+				
+				
+				b_qisano = { }
+				b_tekano = { }
+				b_saseph = { }
+				b_tekayan = { }
+				b_biseph = { }
+				b_nilokeras_scopulus = { }
+				b_wotolas = { }
+				b_ranna = { }
+			}
+			c_wavava = {
+				color={ 154 38 177 }
+				color2={ 255 255 255 }
+				
+				
+				b_wavava = { }
+				b_kolaya = { }
+				b_loter = { }
+				b_ejudolas = { }
+				b_ceraunius_fossae = { }
+				b_aligugei = { }
+				b_negius = { }
+				b_dalima = { }
 			}
 		}
 		d_asusisam = {
@@ -6531,97 +6719,6 @@ e_siam = {
 				b_teuin = { }
 			}
 		}
-		d_dubyula = {
-			color={ 148 4 180 }
-			color2={ 255 255 255 }
-			
-			capital = 372
-			
-			c_rahadda = {
-				color={ 164 22 213 }
-				color2={ 255 255 255 }
-				
-				
-				b_rahadda = { }
-				b_namuo = { }
-				b_lumann = { }
-				b_qareuta = { }
-				b_lonimon = { }
-				b_lenaria = { }
-				b_tigo = { }
-				b_nyai = { }
-			}
-			c_roratia = {
-				color={ 168 43 179 }
-				color2={ 255 255 255 }
-				
-				
-				b_roratia = { }
-				b_niloman = { }
-				b_barohn = { }
-				b_katiyel = { }
-				b_kiel = { }
-				b_ryarek = { }
-				b_kecoke = { }
-				b_ekanius = { }
-			}
-			c_kirine = {
-				color={ 111 54 178 }
-				color2={ 255 255 255 }
-				
-				
-				b_kirine = { }
-				b_ralit = { }
-				b_birit = { }
-				b_rarins = { }
-				b_nahihan = { }
-				b_ehjeth = { }
-				b_emubork = { }
-				b_onyx = { }
-			}
-			c_damaye = {
-				color={ 138 13 159 }
-				color2={ 255 255 255 }
-				
-				
-				b_damaye = { }
-				b_tilew = { }
-				b_kodid = { }
-				b_kerman = { }
-				b_tahar = { }
-				b_ludius = { }
-				b_salire = { }
-				b_awagalim = { }
-			}
-			c_enaca = {
-				color={ 111 52 168 }
-				color2={ 255 255 255 }
-				
-				
-				b_enaca = { }
-				b_badarti = { }
-				b_aseyfigo = { }
-				b_roratar = { }
-				b_saxom = { }
-				b_nagate = { }
-				b_kikisam = { }
-				b_rumim = { }
-			}
-			c_lainith = {
-				color={ 148 4 180 }
-				color2={ 255 255 255 }
-				
-				
-				b_lainith = { }
-				b_qarayah = { }
-				b_nuhaca = { }
-				b_ehakita = { }
-				b_tahuone = { }
-				b_rarory = { }
-				b_tamegin = { }
-				b_abhucho = { }
-			}
-		}
 		d_rivicha = {
 			color={ 148 53 163 }
 			color2={ 255 255 255 }
@@ -6669,83 +6766,6 @@ e_siam = {
 				b_sarund = { }
 				b_kanutar = { }
 				b_seetisa = { }
-			}
-		}
-		d_elassona = {
-			color={ 121 37 171 }
-			color2={ 255 255 255 }
-			
-			capital = 414
-			
-			c_qiesanca = {
-				color={ 160 17 180 }
-				color2={ 255 255 255 }
-				
-				
-				b_qiesanca = { }
-				b_kivalotl = { }
-				b_kadocic = { }
-				b_nenecol = { }
-				b_renanca = { }
-				b_tecato = { }
-				b_tutechun = { }
-				b_kacodia = { }
-			}
-			c_tobars = {
-				color={ 123 9 171 }
-				color2={ 255 255 255 }
-				
-				
-				b_tobars = { }
-				b_qugei = { }
-				b_bigabur = { }
-				b_elibeli = { }
-				b_sharonov = { }
-				b_sanegin = { }
-				b_kunahad = { }
-				b_riel = { }
-			}
-			c_kaulirek = {
-				color={ 128 30 198 }
-				color2={ 255 255 255 }
-				
-				
-				b_kaulirek = { }
-				b_etekint = { }
-				b_risiala = { }
-				b_weilaut = { }
-				b_wubelen = { }
-				b_qeratar = { }
-				b_kiam = { }
-				b_saiy = { }
-			}
-			c_sunuju = {
-				color={ 140 51 163 }
-				color2={ 255 255 255 }
-				
-				
-				b_sunuju = { }
-				b_noraria = { }
-				b_kared = { }
-				b_befegs = { }
-				b_dyalian = { }
-				b_qegoda = { }
-				b_weoda = { }
-				b_antoninus = { }
-			}
-			c_kaheran = {
-				color={ 121 37 171 }
-				color2={ 255 255 255 }
-				
-				
-				b_kaheran = { }
-				b_wisa = { }
-				b_abereba = { }
-				b_agroura = { }
-				b_ravam = { }
-				b_tateas = { }
-				b_risna = { }
-				b_naneba = { }
 			}
 		}
 		d_bangkok = {
