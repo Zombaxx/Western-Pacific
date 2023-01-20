@@ -10,7 +10,7 @@ b_qanasad = temple
 b_bolerhi = city
 
 # Misc
-culture = kannada
+culture = telegu
 religion = buddhist
 
 # History

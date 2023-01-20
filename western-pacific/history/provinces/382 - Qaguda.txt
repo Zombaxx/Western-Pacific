@@ -9,7 +9,7 @@ b_qaguda = castle
 b_ryevanna = temple
 
 # Misc
-culture = kannada
+culture = khitan
 religion = sunni
 
 # History

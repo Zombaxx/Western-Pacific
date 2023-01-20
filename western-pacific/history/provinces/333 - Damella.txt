@@ -10,7 +10,7 @@ b_elekyula = temple
 b_lokoda = city
 
 # Misc
-culture = kannada
-religion = buddhist
+culture = khitan
+religion = sunni
 
 # History

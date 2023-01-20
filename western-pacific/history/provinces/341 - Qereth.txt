@@ -10,7 +10,7 @@ b_rerefan = temple
 b_keulami = city
 
 # Misc
-culture = kannada
+culture = telegu
 religion = buddhist
 
 # History

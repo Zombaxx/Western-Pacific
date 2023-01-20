@@ -10,7 +10,7 @@ b_tekano = temple
 b_saseph = city
 
 # Misc
-culture = kannada
+culture = telegu
 religion = buddhist
 
 # History

@@ -8,7 +8,7 @@ max_settlements = 2
 b_solastu = castle
 
 # Misc
-culture = kannada
-religion = buddhist
+culture = khitan
+religion = sunni
 
 # History

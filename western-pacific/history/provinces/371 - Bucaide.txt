@@ -9,7 +9,7 @@ b_bucaide = castle
 b_ryla = temple
 
 # Misc
-culture = kannada
-religion = buddhist
+culture = khitan
+religion = sunni
 
 # History

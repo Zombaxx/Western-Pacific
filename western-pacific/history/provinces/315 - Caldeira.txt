@@ -10,7 +10,7 @@ b_ryaramm = temple
 b_resoise = city
 
 # Misc
-culture = kannada
+culture = telegu
 religion = buddhist
 
 # History
