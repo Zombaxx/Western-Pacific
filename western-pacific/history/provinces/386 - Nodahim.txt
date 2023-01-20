@@ -10,7 +10,7 @@ b_ryuvayla = temple
 b_dalio = city
 
 # Misc
-culture = khitan
-religion = sunni
+culture = kannada
+religion = buddhist
 
 # History
