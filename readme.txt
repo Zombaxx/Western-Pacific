@@ -1,10 +1,6 @@
 To install, place the Western-Pacific folder and western-pacific.mod file into Documents->Paradox Interactive->Crusader Kings II->mod. Now launch Crusader Kings 2, and select Western Pacific in the mod options.
 Trying to launch the mod without using the Random World setting or the provided save file will crash the game.
 
-Cyber Kings - Western Pacific currently only works with the provided save file, or with the Random World game mode available through the Holy Fury DLC (at the bookmark screen choose Custom Game Setup, and select the Randomize World button between the Year and the Merchant Republic list).
-
-If you would like to use the provided save file instead of Random World, take the random_657941809.ck2 and Byiga1089_01_21.ck2 files from within mod folder in Documents->Paradox Interactive->Crusader Kings II->mod->western-pacific and place it into Crusader Kings II->Western-Pacific->save games (so this is the Western-Pacific folder one level above the mod folder, not the one inside the mod folder).
-
 This version is not compatible with multiplayer, for the multiplayer compatible version that does not contain the extra events and decisions please view https://github.com/PerculiarJard/RandomWorld-WesternPacific
 
 Join us at this Discord link if you would like to discuss the mod.

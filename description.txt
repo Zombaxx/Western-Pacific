@@ -1,11 +1,7 @@
-Cyber Kings - Western Pacific currently only works with the provided save file, or with the Random World game mode available through the Holy Fury DLC (at the bookmark screen choose Custom Game Setup, and select the Randomize World button between the Year and the Merchant Republic list). Trying to launch the mod without using the Random World setting or the provided save file will crash the game. 
-
 Long ago, Earth went dark on the same day all existing electronics in the solar system stopped working. All ships not in orbit fell from the sky.
 Humanity quickly descended into chaos as society collapsed, bringing on a new Dark Age. Most of the population succumbed to famine as governments broke down and nations fractured.
 Around 1000 years later the Western Pacific is recovering and has entered a new Medieval Era, largely forgetting the accurate history of humanity and the disaster. 
 Knowledge of the off-world colonies has faded into myths and legends, until one day a derelict ship, carrying a strange elongated race that cannot survive in the gravity well of Earth, arrived in orbit.
-
-If you would like to use the provided save file instead of Random World, take Leonen1066_09_15.ck2 from the mod file in Documents->Paradox Interactive->Crusader Kings II->mod->western-pacific and place it into Crusader Kings II->Western-Pacific->save games (so this is the Western-Pacific folder one level above the mod folder, not the one inside the mod folder).
 
 This version is not compatible with multiplayer, for the multiplayer compatible version that does not contain the extra events and decisions please view https://github.com/PerculiarJard/RandomWorld-WesternPacific
 
