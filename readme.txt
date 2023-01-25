@@ -1,5 +1,4 @@
 To install, place the Western-Pacific folder and western-pacific.mod file into Documents->Paradox Interactive->Crusader Kings II->mod. Now launch Crusader Kings 2, and select Western Pacific in the mod options.
-Trying to launch the mod without using the Random World setting or the provided save file will crash the game.
 
 This version is not compatible with multiplayer, for the multiplayer compatible version that does not contain the extra events and decisions please view https://github.com/PerculiarJard/RandomWorld-WesternPacific
 
