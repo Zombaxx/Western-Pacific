@@ -258,7 +258,10 @@ succession_laws = {
 		potential = {
 			OR = {
 				holder_scope = {
-				culture_group = central_african
+					OR = {
+						culture_group = central_african
+						government = feudal_government
+					}
 				}
 				holder_scope = {
 					has_religion_feature = religion_beatification
@@ -918,7 +921,11 @@ succession_laws = {
 			holder_scope = {
 				OR = {
 					has_landed_title = e_aus
+					has_landed_title = k_aus
 					religion = taoist
+					religion = norse_pagan
+					government = tribal_government
+					
 				}
 				NOT = { religion_group = muslim }
 				is_nomadic = no
