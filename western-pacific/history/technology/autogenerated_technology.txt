@@ -728,7 +728,6 @@ technology = {
 		d_saikict
 		d_wudaim
 		d_kalekre
-		d_fiji
 		d_koiveir
 		d_ekugaun
 		d_talomir

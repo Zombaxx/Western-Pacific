@@ -24971,7 +24971,7 @@
 	}
 }
 101722 = {
-	name = ""Nar Singh""
+	name = "Nar Singh"
 	dynasty = 101720
 	culture = "bengali"
 	religion = "buddhist"
@@ -25030,7 +25030,7 @@
 	}
 }
 101726 = {
-	name = ""Bishwas Devi""
+	name = "Bishwas Devi"
 	female = yes
 	dynasty = 101720
 	culture = "bengali"
@@ -26127,7 +26127,7 @@
 	}
 }
 101802 = {
-	name = ""Kirti Singh""
+	name = "Kirti Singh"
 	dynasty = 101800
 	culture = "bengali"
 	religion = "hindu"
@@ -26260,7 +26260,7 @@
 	}
 }
 101811 = {
-	name = ""Apara Gangeya""
+	name = "Apara Gangeya"
 	dynasty = 101810
 	culture = "hindustani"
 	religion = "hindu"
@@ -26902,7 +26902,7 @@
 	}
 }
 101855 = {
-	name = ""Dev Singh""
+	name = "Dev Singh"
 	dynasty = 101850
 	culture = "bengali"
 	religion = "buddhist"
@@ -26916,7 +26916,7 @@
 	}
 }
 101856 = {
-	name = ""Bhogishwar""
+	name = "Bhogishwar"
 	dynasty = 101850
 	culture = "bengali"
 	religion = "buddhist"
@@ -27296,7 +27296,7 @@
 	}
 }
 101882 = {
-	name = ""Bhavesh""
+	name = "Bhavesh"
 	dynasty = 101880
 	culture = "bengali"
 	religion = "hindu"
@@ -27312,7 +27312,7 @@
 	}
 }
 101883 = {
-	name = ""Shiv Singh""
+	name = "Shiv Singh"
 	dynasty = 101880
 	culture = "bengali"
 	religion = "hindu"
@@ -27341,7 +27341,7 @@
 	}
 }
 101885 = {
-	name = ""Rambhadra Singh Dev""
+	name = "Rambhadra Singh Dev"
 	dynasty = 101880
 	culture = "bengali"
 	religion = "hindu"
@@ -27355,7 +27355,7 @@
 	}
 }
 101886 = {
-	name = ""Bishwas Devi""
+	name = "Bishwas Devi"
 	female = yes
 	dynasty = 101880
 	culture = "bengali"
@@ -27370,7 +27370,7 @@
 	}
 }
 101887 = {
-	name = ""Devi Ahiylya""
+	name = "Devi Ahiylya"
 	female = yes
 	dynasty = 101880
 	culture = "bengali"
@@ -27704,7 +27704,7 @@
 	}
 }
 101910 = {
-	name = ""Laxman Sen""
+	name = "Laxman Sen"
 	dynasty = 101910
 	culture = "bengali"
 	religion = "buddhist"
@@ -27795,7 +27795,7 @@
 	}
 }
 101916 = {
-	name = ""Devi Ahiylya""
+	name = "Devi Ahiylya"
 	female = yes
 	dynasty = 101910
 	culture = "bengali"
@@ -27911,7 +27911,7 @@
 	}
 }
 101924 = {
-	name = ""Devi Ahiylya""
+	name = "Devi Ahiylya"
 	female = yes
 	culture = "bengali"
 	religion = "hindu"
@@ -28163,7 +28163,7 @@
 	}
 }
 101941 = {
-	name = ""Gang Dev""
+	name = "Gang Dev"
 	dynasty = 101940
 	culture = "bengali"
 	religion = "hindu"
@@ -28412,7 +28412,7 @@
 	}
 }
 101958 = {
-	name = ""Devi Ahiylya""
+	name = "Devi Ahiylya"
 	female = yes
 	dynasty = 101950
 	culture = "bengali"
@@ -28516,7 +28516,7 @@
 	}
 }
 101965 = {
-	name = ""Nar Singh""
+	name = "Nar Singh"
 	dynasty = 101960
 	culture = "bengali"
 	religion = "hindu"
@@ -28998,7 +28998,7 @@
 	}
 }
 101998 = {
-	name = ""Gang Dev""
+	name = "Gang Dev"
 	dynasty = 101990
 	culture = "bengali"
 	religion = "hindu"
@@ -29378,7 +29378,7 @@
 	}
 }
 102025 = {
-	name = ""Hemant Sen""
+	name = "Hemant Sen"
 	dynasty = 102020
 	culture = "bengali"
 	religion = "sunni"
@@ -29448,7 +29448,7 @@
 	}
 }
 102030 = {
-	name = ""Dev Singh""
+	name = "Dev Singh"
 	dynasty = 102030
 	culture = "bengali"
 	religion = "hindu"
@@ -29508,7 +29508,7 @@
 	}
 }
 102034 = {
-	name = ""Bishwas Devi""
+	name = "Bishwas Devi"
 	female = yes
 	culture = "bengali"
 	religion = "hindu"
@@ -29611,7 +29611,7 @@
 	}
 }
 102041 = {
-	name = ""Bhavesh""
+	name = "Bhavesh"
 	dynasty = 102040
 	culture = "bengali"
 	religion = "hindu"
@@ -29873,7 +29873,7 @@
 	}
 }
 102059 = {
-	name = ""Bhairav Singh""
+	name = "Bhairav Singh"
 	dynasty = 102050
 	culture = "bengali"
 	religion = "sunni"
@@ -30471,7 +30471,7 @@
 	}
 }
 102100 = {
-	name = ""Ganeshwar Singh""
+	name = "Ganeshwar Singh"
 	dynasty = 102100
 	culture = "bengali"
 	religion = "sunni"
@@ -30574,7 +30574,7 @@
 	}
 }
 102107 = {
-	name = ""Gang Dev""
+	name = "Gang Dev"
 	dynasty = 102100
 	culture = "bengali"
 	religion = "sunni"
@@ -30794,7 +30794,7 @@
 	}
 }
 102122 = {
-	name = ""Shakrasingh Dev""
+	name = "Shakrasingh Dev"
 	dynasty = 102120
 	culture = "bengali"
 	religion = "sunni"
@@ -30907,7 +30907,7 @@
 	}
 }
 102130 = {
-	name = ""Kameshwar""
+	name = "Kameshwar"
 	dynasty = 102130
 	culture = "bengali"
 	religion = "shiite"
@@ -30955,7 +30955,7 @@
 	}
 }
 102133 = {
-	name = ""Samant Sen""
+	name = "Samant Sen"
 	dynasty = 102130
 	culture = "bengali"
 	religion = "shiite"
@@ -31303,7 +31303,7 @@
 	}
 }
 102157 = {
-	name = ""Devi Ahiylya""
+	name = "Devi Ahiylya"
 	female = yes
 	dynasty = 102150
 	culture = "bengali"
@@ -31465,7 +31465,7 @@
 	}
 }
 102168 = {
-	name = ""Bishwas Devi""
+	name = "Bishwas Devi"
 	female = yes
 	dynasty = 102160
 	culture = "bengali"
@@ -31655,7 +31655,7 @@
 	}
 }
 102181 = {
-	name = ""Samant Sen""
+	name = "Samant Sen"
 	dynasty = 102180
 	culture = "bengali"
 	religion = "catholic"
@@ -31668,7 +31668,7 @@
 	}
 }
 102182 = {
-	name = ""Rambhadra Singh Dev""
+	name = "Rambhadra Singh Dev"
 	dynasty = 102180
 	culture = "bengali"
 	religion = "catholic"
@@ -31684,7 +31684,7 @@
 	}
 }
 102183 = {
-	name = ""Bhairav Singh""
+	name = "Bhairav Singh"
 	dynasty = 102180
 	culture = "bengali"
 	religion = "catholic"
@@ -31697,7 +31697,7 @@
 	}
 }
 102184 = {
-	name = ""Bishwas Devi""
+	name = "Bishwas Devi"
 	female = yes
 	culture = "bengali"
 	religion = "catholic"
@@ -32251,7 +32251,7 @@
 	}
 }
 102222 = {
-	name = ""Nar Singh""
+	name = "Nar Singh"
 	dynasty = 102220
 	culture = "bengali"
 	religion = "catholic"
@@ -32267,7 +32267,7 @@
 	}
 }
 102223 = {
-	name = ""Hari Singh""
+	name = "Hari Singh"
 	dynasty = 102220
 	culture = "bengali"
 	religion = "catholic"
@@ -32514,7 +32514,7 @@
 	}
 }
 102240 = {
-	name = ""Laxminath Singh Dev""
+	name = "Laxminath Singh Dev"
 	dynasty = 102240
 	culture = "bengali"
 	religion = "hindu"
@@ -32590,7 +32590,7 @@
 	}
 }
 102245 = {
-	name = ""Vijay Sen""
+	name = "Vijay Sen"
 	dynasty = 102240
 	culture = "bengali"
 	religion = "hindu"
@@ -32660,7 +32660,7 @@
 	}
 }
 102250 = {
-	name = ""Samant Sen""
+	name = "Samant Sen"
 	dynasty = 102250
 	culture = "bengali"
 	religion = "catholic"
@@ -32721,7 +32721,7 @@
 	}
 }
 102254 = {
-	name = ""Bishwas Devi""
+	name = "Bishwas Devi"
 	female = yes
 	culture = "bengali"
 	religion = "catholic"
@@ -32781,7 +32781,7 @@
 	}
 }
 102258 = {
-	name = ""Vallal Sen""
+	name = "Vallal Sen"
 	dynasty = 102250
 	culture = "bengali"
 	religion = "catholic"
@@ -32866,7 +32866,7 @@
 	}
 }
 102264 = {
-	name = ""Bishwas Devi""
+	name = "Bishwas Devi"
 	female = yes
 	culture = "bengali"
 	religion = "sunni"
@@ -33071,7 +33071,7 @@
 	}
 }
 102278 = {
-	name = ""Nanya Dev""
+	name = "Nanya Dev"
 	dynasty = 102270
 	culture = "bengali"
 	religion = "hindu"
@@ -52694,7 +52694,7 @@
 	}
 }
 103624 = {
-	name = ""Nüjie""
+	name = "Nüjie"
 	female = yes
 	culture = "han"
 	religion = "bon"
@@ -59137,7 +59137,7 @@
 	}
 }
 104067 = {
-	name = ""Wan'er""
+	name = "Wan'er"
 	female = yes
 	dynasty = 104060
 	culture = "han"
@@ -63965,7 +63965,7 @@
 	}
 }
 208788 = {
-	name = ""Xian'e""
+	name = "Xian'e"
 	female = yes
 	dynasty = 104392
 	culture = "han"
@@ -69269,7 +69269,7 @@
 	}
 }
 104754 = {
-	name = ""Xiao'e""
+	name = "Xiao'e"
 	female = yes
 	culture = "han"
 	religion = "buddhist"
@@ -69854,7 +69854,7 @@
 	}
 }
 104794 = {
-	name = ""Xi'er""
+	name = "Xi'er"
 	female = yes
 	culture = "han"
 	religion = "buddhist"
@@ -70938,7 +70938,7 @@
 	}
 }
 104868 = {
-	name = ""A'man""
+	name = "A'man"
 	female = yes
 	dynasty = 104860
 	culture = "han"
@@ -71175,7 +71175,7 @@
 	}
 }
 104884 = {
-	name = ""Shi'er""
+	name = "Shi'er"
 	female = yes
 	culture = "han"
 	religion = "buddhist"
@@ -78463,7 +78463,7 @@
 	}
 }
 105384 = {
-	name = ""E'zi""
+	name = "E'zi"
 	female = yes
 	culture = "han"
 	religion = "taoist"
@@ -78609,7 +78609,7 @@
 	}
 }
 105394 = {
-	name = ""Xiao'e""
+	name = "Xiao'e"
 	female = yes
 	culture = "han"
 	religion = "sunni"
@@ -78757,7 +78757,7 @@
 	}
 }
 105404 = {
-	name = ""A'man""
+	name = "A'man"
 	female = yes
 	culture = "han"
 	religion = "taoist"
@@ -80694,7 +80694,7 @@
 	}
 }
 105537 = {
-	name = ""A'wu""
+	name = "A'wu"
 	female = yes
 	dynasty = 105530
 	culture = "han"
@@ -84047,7 +84047,7 @@
 	}
 }
 105767 = {
-	name = ""Yi'an""
+	name = "Yi'an"
 	female = yes
 	dynasty = 105760
 	culture = "han"
@@ -93328,7 +93328,7 @@
 	}
 }
 106414 = {
-	name = ""E'huang""
+	name = "E'huang"
 	female = yes
 	culture = "han"
 	religion = "orthodox"
@@ -97987,7 +97987,7 @@
 	}
 }
 106734 = {
-	name = ""Shi'er""
+	name = "Shi'er"
 	female = yes
 	culture = "han"
 	religion = "taoist"
@@ -111985,7 +111985,7 @@
 	}
 }
 107706 = {
-	name = ""Nüjie""
+	name = "Nüjie"
 	female = yes
 	dynasty = 107700
 	culture = "han"
@@ -113660,7 +113660,7 @@
 	}
 }
 215613 = {
-	name = ""Zu'e""
+	name = "Zu'e"
 	female = yes
 	dynasty = 107803
 	culture = "han"
@@ -117633,7 +117633,7 @@
 	}
 }
 108094 = {
-	name = ""E'huang""
+	name = "E'huang"
 	female = yes
 	culture = "han"
 	religion = "taoist"
@@ -161415,7 +161415,7 @@
 	}
 }
 111191 = {
-	name = ""Akha d'abuh'""
+	name = "Akha d'abuh'"
 	dynasty = 111190
 	culture = "assyrian"
 	religion = "orthodox"
@@ -207433,7 +207433,7 @@
 	}
 }
 114355 = {
-	name = ""Akha d'abuh'""
+	name = "Akha d'abuh'"
 	dynasty = 114350
 	culture = "assyrian"
 	religion = "orthodox"
