@@ -8,7 +8,7 @@ max_settlements = 2
 b_timirai = castle
 
 # Misc
-culture = telugu
+culture = uyghur
 religion = buddhist
 
 # History

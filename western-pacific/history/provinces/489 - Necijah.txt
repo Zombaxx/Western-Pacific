@@ -11,7 +11,7 @@ b_qeganca = city
 b_ahecam = castle
 
 # Misc
-culture = tamil
+culture = uyghur
 religion = bon
 
 # History

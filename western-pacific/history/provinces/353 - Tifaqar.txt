@@ -9,7 +9,7 @@ b_tifaqar = castle
 b_suripaz = temple
 
 # Misc
-culture = telugu
+culture = uyghur
 religion = bon
 
 # History

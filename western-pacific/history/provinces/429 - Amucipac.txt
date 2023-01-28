@@ -11,7 +11,7 @@ b_damapal = city
 b_duleda = castle
 
 # Misc
-culture = kannada
+culture = uyghur
 religion = buddhist
 
 # History

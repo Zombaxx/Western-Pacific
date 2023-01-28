@@ -9,7 +9,7 @@ b_kamaya = castle
 b_bilari = temple
 
 # Misc
-culture = han
+culture = tamil
 religion = bon
 
 # History

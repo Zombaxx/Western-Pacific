@@ -10,7 +10,7 @@ b_kumoras = temple
 b_rabdote = city
 
 # Misc
-culture = tamil
+culture = uyghur
 religion = bon
 
 # History

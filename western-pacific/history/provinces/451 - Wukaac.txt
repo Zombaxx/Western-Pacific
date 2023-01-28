@@ -8,7 +8,7 @@ max_settlements = 2
 b_wukaac = castle
 
 # Misc
-culture = han
+culture = tamil
 religion = bon
 
 # History

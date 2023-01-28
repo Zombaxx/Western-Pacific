@@ -11,7 +11,7 @@ b_kared = city
 b_befegs = castle
 
 # Misc
-culture = kannada
+culture = telegu
 religion = buddhist
 
 # History

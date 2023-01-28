@@ -9,7 +9,7 @@ b_kobara = castle
 b_ruzei = temple
 
 # Misc
-culture = telugu
+culture = khitan
 religion = sunni
 
 # History

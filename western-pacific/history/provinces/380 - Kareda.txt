@@ -10,7 +10,7 @@ b_alba_fossae = temple
 b_rijifa = city
 
 # Misc
-culture = kannada
+culture = uyghur
 religion = buddhist
 
 # History

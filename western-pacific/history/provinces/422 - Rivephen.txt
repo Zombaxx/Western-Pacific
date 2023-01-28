@@ -10,7 +10,7 @@ b_delila = temple
 b_dana = city
 
 # Misc
-culture = kannada
+culture = uyghur
 religion = buddhist
 
 # History

@@ -11,7 +11,7 @@ b_lomas = city
 b_kijotho = castle
 
 # Misc
-culture = telugu
-religion = buddhist
+culture = khitan
+religion = sunni
 
 # History

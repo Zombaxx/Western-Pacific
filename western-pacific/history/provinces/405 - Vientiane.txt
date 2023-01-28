@@ -10,7 +10,7 @@ b_tanele = temple
 b_tubyu = city
 
 # Misc
-culture = kannada
+culture = uyghur
 religion = buddhist
 
 # History

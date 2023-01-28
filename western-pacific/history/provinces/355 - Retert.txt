@@ -9,7 +9,7 @@ b_retert = castle
 b_wahine = temple
 
 # Misc
-culture = telugu
-religion = hindu
+culture = khitan
+religion = sunni
 
 # History

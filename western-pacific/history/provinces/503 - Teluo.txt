@@ -9,7 +9,7 @@ b_teluo = castle
 b_tasanna = temple
 
 # Misc
-culture = tamil
+culture = uyghur
 religion = bon
 
 # History

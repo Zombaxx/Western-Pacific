@@ -10,7 +10,7 @@ b_banali = temple
 b_letotha = city
 
 # Misc
-culture = kannada
-religion = hindu
+culture = khitan
+religion = sunni
 
 # History

@@ -9,7 +9,7 @@ b_tadeba = castle
 b_ebar = temple
 
 # Misc
-culture = telugu
+culture = uyghur
 religion = buddhist
 
 # History

@@ -12,7 +12,7 @@ b_nizaac = castle
 b_tarita = temple
 
 # Misc
-culture = han
+culture = tamil
 religion = catholic
 
 # History

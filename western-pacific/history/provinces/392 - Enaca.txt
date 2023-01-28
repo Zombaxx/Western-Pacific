@@ -10,7 +10,7 @@ b_badarti = temple
 b_aseyfigo = city
 
 # Misc
-culture = kannada
+culture = telegu
 religion = buddhist
 
 # History

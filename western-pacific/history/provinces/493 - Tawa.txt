@@ -10,7 +10,7 @@ b_tohins = temple
 b_abijesar = city
 
 # Misc
-culture = han
+culture = tamil
 religion = buddhist
 
 # History

@@ -10,7 +10,7 @@ b_taraya = temple
 b_barory = city
 
 # Misc
-culture = uyghur
+culture = tamil
 religion = catholic
 
 # History

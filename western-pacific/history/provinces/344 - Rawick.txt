@@ -10,7 +10,7 @@ b_tharsia = temple
 b_tharsian = city
 
 # Misc
-culture = kannada
-religion = hindu
+culture = khitan
+religion = sunni
 
 # History

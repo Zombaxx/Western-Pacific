@@ -10,7 +10,7 @@ b_ascuris = temple
 b_kasew = city
 
 # Misc
-culture = uyghur
+culture = tamil
 religion = catholic
 
 # History

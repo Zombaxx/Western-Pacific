@@ -9,7 +9,7 @@ b_adeludan = castle
 b_neleuta = temple
 
 # Misc
-culture = han
+culture = tamil
 religion = catholic
 
 # History

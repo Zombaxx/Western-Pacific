@@ -11,7 +11,7 @@ b_pavonis_mons = city
 b_tazahim = castle
 
 # Misc
-culture = telugu
+culture = khitan
 religion = sunni
 
 # History

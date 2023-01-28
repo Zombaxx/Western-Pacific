@@ -10,7 +10,7 @@ b_kard = temple
 b_ragory = city
 
 # Misc
-culture = kannada
+culture = telegu
 religion = buddhist
 
 # History

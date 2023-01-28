@@ -9,7 +9,7 @@ b_taiura = castle
 b_ber-ona = temple
 
 # Misc
-culture = telugu
+culture = uyghur
 religion = buddhist
 
 # History

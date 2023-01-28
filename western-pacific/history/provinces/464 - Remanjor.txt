@@ -10,7 +10,7 @@ b_sifegin = temple
 b_duzoja = city
 
 # Misc
-culture = han
+culture = tamil
 religion = buddhist
 
 # History

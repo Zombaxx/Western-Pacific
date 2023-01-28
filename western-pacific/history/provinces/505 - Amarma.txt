@@ -10,7 +10,7 @@ b_rarork = temple
 b_tukolad = city
 
 # Misc
-culture = han
+culture = tamil
 religion = buddhist
 
 # History
