@@ -233338,17 +233338,15 @@
 	}
 }
 116135 = {
-	name = "Acalan"
-	dynasty = 116130
-	culture = "nahuatl"
+	name = "Alex"
+	dynasty = 116400
+	culture = "breton"
 	religion = "norse_pagan"
-	father = 116132
-	mother = 116134
-	1035.1.1={
-		birth="1035.1.1"
+	1058.1.1={
+		birth="1058.1.1"
 	}
-	1108.1.1={
-		death="1108.1.1"
+	1111.1.1={
+		death="1111.1.1"
 	}
 }
 116136 = {
@@ -235618,14 +235616,15 @@
 	1089.1.1={
 		death="1089.1.1"
 	}
-116310 = {
-	name = "Alex"
-	dynasty = 116400
-	culture = "breton"
-	religion = "norse_pagan"
-	1058.1.1={
-		birth="1058.1.1"
-	}
-	1111.1.1={
-		death="1111.1.1"
-	}
+#116310 = {
+#	name = "Alex"
+#	dynasty = 116400
+#	culture = "breton"
+#	religion = "norse_pagan"
+#	1058.1.1={
+#		birth="1058.1.1"
+#	}
+#	1111.1.1={
+#		death="1111.1.1"
+#	}
+#}
