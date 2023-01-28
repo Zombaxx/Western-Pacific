@@ -26664,7 +26664,7 @@ e_kaheka = {
 				dynasty_title_names = no
 				}
 				b_kict = { }
-				b_ebã©artin = { }
+				b_ebaertin = { }
 				b_worayn = { }
 				b_nuri = { }
 				b_ralk = { }
@@ -26743,7 +26743,7 @@ e_kaheka = {
 				b_kagomas = { }
 				b_rikama = { }
 				b_bikama = { }
-				b_abã©aila = { }
+				b_abaeila = { }
 				b_narda = { }
 				b_dence = { }
 				b_rolern = { }
