@@ -8,7 +8,7 @@ max_settlements = 3
 b_noharda = temple
 
 # Misc
-culture = nahuatl
+culture = breton
 religion = catholic
 
 # History

@@ -1434,7 +1434,7 @@ celtic = {
 		mat_grm_name_chance = 15
 		mother_name_chance = 10
 	}
-	scottish = {
+	scottish = { #Kiwi
 		graphical_cultures = { celticgfx }
 		
 		color = { 0.3 0.7 0.7 }
@@ -1585,7 +1585,7 @@ celtic = {
 		mat_grm_name_chance = 50
 		mother_name_chance = 0
 	}
-	breton = {
+	breton = { #Haole, minority in Hawaii
 		graphical_cultures = { celticgfx }
 		
 		color = { 0.3 0.5 0.4 }
@@ -1615,7 +1615,7 @@ celtic = {
 			Huiarnviu_Harvey Hunfroi_Humphrey Iacob_Jacob Iarcun Iarnbud Iarncant Iarncar Iarndetguid Iarnegon_Jarnegon Iarnuallon Iarnuocon Iarnhitin
 			Iedechael Iehan_John Ilcarthon Ildut Iliud Inisian Iocilin_Joscelin Iodoc Ionas_Jonah Iosep_Joseph Iudcum Iuduallon_Idwallon Iudhael_Ithel
 			Iudicael_Judicael Iudnerth_Idnerth Iudnimet_Ednyfed Iustoc Iudoc Iudual_Idwal Iumael Iunceneu Iunuocon Iunmonoc Jord_George Leucum Loi
-			Lorens_Laurence Louenan Loumarch_Llywarch Louïs_Louis Maelcon_Maelgwn Maeldoï Maelhuedoc Maeloc Maelscoet Maelscuet Maenceneu Maenci
+			Lorens_Laurence Louenan Loumarch_Llywarch Louïs_Louis Mark Maelcon_Maelgwn Maeldoï Maelhuedoc Maeloc Maelscoet Maelscuet Maenceneu Maenci
 			March_Marcus Marthin_Martin Matheudoï Mathias_Matthew Matoc_Matad Matuid Maugan Mauric_Maurice Medrod_Mordred Meldroc Meriadoc_Meriadoc
 			Mermin_Merfyn Meugan_Mawgan Meven Michel_Michael Morcant_Morgan Morcondeleu Morgen_Morgen Morguethen Morhaetho Mormarch_Morfarch Morvan
 			Mortiern Neven Nicolas_Nicholas Nodethael Nodhoiarn Nominoë Nougui_Nowy Oliuer_Oliver Oswallt_Oswald Padric_Patrick Paol_Paul Pascueten_Pasquitan

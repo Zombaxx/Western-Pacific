@@ -9,7 +9,7 @@ b_sarerdeg = tribal
 b_elellet = temple
 
 # Misc
-culture = nahuatl
+culture = breton
 religion = norse_pagan
 
 # History

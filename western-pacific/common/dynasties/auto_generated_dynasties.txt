@@ -8153,3 +8153,17 @@
 	culture="nahuatl"
 	religion="norse_pagan"
 }
+116300={
+	name="Yaotlid"
+	culture="nahuatl"
+	religion="norse_pagan"
+}
+1051401={
+	name="Yuhuang"
+	culture="han"
+	religion="taoist"
+}
+116400={
+	name="Zuck"
+	culture="breton"
+	religion="norse_pagan"

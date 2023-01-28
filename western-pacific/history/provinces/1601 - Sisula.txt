@@ -8,7 +8,7 @@ max_settlements = 3
 b_sisula = tribal
 
 # Misc
-culture = nahuatl
+culture = sisula
 religion = norse_pagan
 
 # History

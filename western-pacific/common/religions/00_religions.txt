@@ -661,10 +661,9 @@ christian = {
 		crusade_name = CRUSADE
 		scripture_name = THE_ASCETICUS
 		
-		high_god_name = GOD_MOTHER_EARTH
 		
 		god_names = {
-			GOD_MOTHER_EARTH GOD_SURVIVORS GOD_HOMELAND
+			GOD_GOD THE_PANTOKRATOR GOD_JESUS LUCIFER
 		}
 		
 		evil_god_names = {

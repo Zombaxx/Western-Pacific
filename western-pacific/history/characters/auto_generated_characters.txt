@@ -74987,17 +74987,30 @@
 	}
 }
 105145 = {
-	name = "Heng"
-	dynasty = 105140
+	name = "Illuminious"
+	dynasty = 1051401
 	culture = "han"
 	religion = "taoist"
-	father = 105142
-	mother = 105144
-	1027.1.1={
-		birth="1027.1.1"
+	martial = 20
+	#father = 105142
+	#mother = 105144
+	trait = full_cybernetic_conversion
+	#trait = cybernetic_limb
+	#trait = cybernetic_leg
+	#trait = cybernetic_skeleton
+	trait = clone
+	trait = genius
+	trait = strong
+	trait = iaei_mk_ii
+	trait = odin_mk_iii
+	trait = pci_mk_ii
+	trait = pluto_mk_ii
+	trait = thoth_mk_iii
+	1.1.1={
+		birth="1.1.1"
 	}
-	1080.1.1={
-		death="1080.1.1"
+	1453.1.1={
+		death="1453.1.1"
 	}
 }
 105146 = {
@@ -232742,9 +232755,9 @@
 	}
 }
 116095 = {
-	name = "Coatl"
+	name = "Bati"
 	dynasty = 116090
-	culture = "nahuatl"
+	culture = "sinhala"
 	religion = "norse_pagan"
 	father = 116092
 	mother = 116094
@@ -233398,7 +233411,7 @@
 116140 = {
 	name = "Mazatl"
 	dynasty = 116140
-	culture = "nahuatl"
+	culture = "breton"
 	religion = "orthodox"
 	trait = midas_touched
 	stewardship = 10
@@ -233415,7 +233428,7 @@
 116141 = {
 	name = "Xochipilli"
 	dynasty = 116140
-	culture = "nahuatl"
+	culture = "breton"
 	religion = "orthodox"
 	father = 116140
 	991.1.1={
@@ -233428,7 +233441,7 @@
 116142 = {
 	name = "Nezahualcoyotl"
 	dynasty = 116140
-	culture = "nahuatl"
+	culture = "breton"
 	religion = "orthodox"
 	father = 116141
 	1013.1.1={
@@ -233444,7 +233457,7 @@
 116143 = {
 	name = "Yayauhqui"
 	dynasty = 116140
-	culture = "nahuatl"
+	culture = "breton"
 	religion = "orthodox"
 	father = 116141
 	1014.1.1={
@@ -233457,7 +233470,7 @@
 116144 = {
 	name = "Acxocueitl"
 	female = yes
-	culture = "nahuatl"
+	culture = "breton"
 	religion = "orthodox"
 	1023.1.1={
 		birth="1023.1.1"
@@ -233471,9 +233484,9 @@
 	}
 }
 116145 = {
-	name = "Yolotli"
+	name = "Jack"
 	dynasty = 116140
-	culture = "nahuatl"
+	culture = "breton"
 	religion = "orthodox"
 	father = 116142
 	mother = 116144
@@ -233488,7 +233501,7 @@
 	name = "Yaretzi"
 	female = yes
 	dynasty = 116140
-	culture = "nahuatl"
+	culture = "breton"
 	religion = "orthodox"
 	father = 116142
 	mother = 116144
@@ -233502,7 +233515,7 @@
 116147 = {
 	name = "Mazatl"
 	dynasty = 116140
-	culture = "nahuatl"
+	culture = "breton"
 	religion = "orthodox"
 	father = 116142
 	mother = 116144
@@ -233516,7 +233529,7 @@
 116148 = {
 	name = "Yaotl"
 	dynasty = 116140
-	culture = "nahuatl"
+	culture = "breton"
 	religion = "orthodox"
 	father = 116143
 	1041.1.1={
@@ -233530,7 +233543,7 @@
 	name = "Tonalnan"
 	female = yes
 	dynasty = 116140
-	culture = "nahuatl"
+	culture = "breton"
 	religion = "orthodox"
 	father = 116143
 	1043.1.1={
@@ -234067,7 +234080,7 @@
 	name = "Achcauhtli"
 	female = yes
 	dynasty = 116190
-	culture = "nahuatl"
+	culture = "english"
 	religion = "norse_pagan"
 	father = 116192
 	mother = 116194
@@ -234281,12 +234294,12 @@
 	}
 }
 116215 = {
-	name = "Itzli"
-	culture = "nahuatl"
+	name = "Mark"
+	culture = "breton"
 	religion = "catholic"
 	trait = scholarly_theologian
-	1031.1.1={
-		birth="1031.1.1"
+	1045.1.1={
+		birth="1045.1.1"
 	}
 	1098.1.1={
 		death="1098.1.1"
@@ -235605,4 +235618,14 @@
 	1089.1.1={
 		death="1089.1.1"
 	}
-}
+116310 = {
+	name = "Alex"
+	dynasty = 116400
+	culture = "breton"
+	religion = "norse_pagan"
+	1058.1.1={
+		birth="1058.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
