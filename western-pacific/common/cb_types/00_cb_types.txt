@@ -10404,10 +10404,10 @@ pagan_subjugation = {
 			}
 		}
 		
-		OR = {
-			NOT = { ROOT = { religion = aztec } }
-			FROM = { religion = aztec }
-		}
+		#OR = {
+		#	NOT = { ROOT = { religion = aztec } }
+		#	FROM = { religion = aztec }
+		#}
 		
 		FROM = {
 			in_revolt = no
@@ -12705,7 +12705,7 @@ pagan_county_conquest = {
 				location = {
 					port = yes
 				}
-				has_global_flag = viking_age_started
+				#has_global_flag = viking_age_started
 			}
 			location = {
 				any_neighbor_province = {
