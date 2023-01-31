@@ -74994,7 +74994,6 @@
 	martial = 20
 	#father = 105142
 	#mother = 105144
-	trait = full_cybernetic_conversion
 	#trait = cybernetic_limb
 	#trait = cybernetic_leg
 	#trait = cybernetic_skeleton
@@ -75009,6 +75008,7 @@
 	1.1.1={
 		birth="1.1.1"
 	}
+	30.1.1={add_trait=full_cybernetic_conversion}
 	1453.1.1={
 		death="1453.1.1"
 	}
