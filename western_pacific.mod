@@ -19,4 +19,4 @@ replace_path = "common/trade_routes"
 #replace_path = "events"
 #replace_path = "decisions"
 
-tags={ "Australia" "Asia" "Random World" "Map" "Hawaii" "Thailand" "New Zealand" "Papua" "New Guinea" "Indonesia" "Malysia" "Cambodia" "Vietnam" "Philippines"}
+tags={ "Australia" "Map" "Hawaii" "Thailand" "New Zealand" "Papua" "New Guinea" "Indonesia" "Malysia" "Cambodia" "Vietnam" "Philippines" "Asia"}
