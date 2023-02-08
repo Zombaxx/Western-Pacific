@@ -167134,12 +167134,19 @@
 	}
 }
 111585 = {
-	name = "Bermudo"
+	name = "Max"
 	dynasty = 111580
 	culture = "basque"
 	religion = "aztec"
 	father = 111582
 	mother = 111584
+	martial = 10
+	trait = brilliant_strategist
+	trait = lunatic
+	trait = brave
+	trait = berserker
+	trait = nice
+	trait = just
 	1047.1.1={
 		birth="1047.1.1"
 	}

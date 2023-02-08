@@ -1,14 +1,14 @@
-bm_wp = {
-	name = "BM_WP"
-	desc = "BM_WP_INFO"
+bm_aus = {
+	name = "BM_AUS"
+	desc = "BM_AUS_INFO"
 	date = 1066.9.15
 	
 	era = yes						## Will be shown on Era screen.
-	picture = GFX_pick_era_image_1
+	picture = GFX_pick_era_image_2
 	custom_start = yes				## Choosing "Custom Start" will open this bookmark
 
 	selectable_character = {
-		id = 114975 #
+		id = 114975 # Duke of Aus
 		age = 33
 		name = ERA_CHAR_NAME_114975
 		title = c_province0003
@@ -23,7 +23,99 @@ bm_wp = {
 		}
 	}
 	selectable_character = {
-		id = 116205 #
+		id = 226265 # Melbourne Masonic Patrician
+		age = 25
+		name = ERA_CHAR_NAME_226265
+		title = c_melbourne
+		title_name = c_melbourne
+		dlc = "The Republic"
+		dlc = "Holy Fury"
+		character = {
+			dna = ryyeciqfnxv
+			properties = ejockk
+			religion="hellenic_pagan"
+			culture="old_frankish"
+			government = merchant_republic
+			dynasty=100780
+		}
+	}
+	selectable_character = {
+		id = 111585 # Max of Adelaide
+		age = 19
+		name = ERA_CHAR_NAME_111585
+		title = c_adelaide
+		title_name = c_adelaide
+		dlc = "Sunset Invasion"		
+		character = {
+			dna = vekzbwluvsc
+			properties = cnuihi
+			religion="aztec"
+			culture="basque"
+			government = tribal_government
+			dynasty=100780
+		}
+	}
+	selectable_character = {
+		id = 110165 # Solarian of the Outback
+		age = 25
+		name = ERA_CHAR_NAME_110165
+		title = c_nubild
+		title_name = c_nubild
+		dlc = "The Old Gods"		
+		character = {
+			dna = vekzbwluvsc
+			properties = cnuihi
+			religion="zun_pagan"
+			culture="pictish"
+			government = tribal_government
+			dynasty=100780
+		}
+	}
+	selectable_character = {
+		id = 110965 # Animists of Alice Springs
+		age = 33
+		name = ERA_CHAR_NAME_110965
+		title = c_alice_springs
+		title_name = c_alice_springs
+		dlc = "Horse Lords"		
+		character = {
+			dna = xcsuheafzxg
+			properties = pg00ad
+			religion="west_african_pagan"
+			culture="kanuri"
+			government = nomadic_government
+			dynasty=100780
+		}
+	}
+}
+
+bm_wp = {
+	name = "BM_WP"
+	desc = "BM_WP_INFO"
+	date = 1066.9.15
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+	custom_start = yes				## Choosing "Custom Start" will open this bookmark
+
+	selectable_character = {
+		id = 107985 # Filipino Crusaders
+		age = 37
+		name = ERA_CHAR_NAME_107985
+		title = d_kelalaf
+		title_name = d_kelalaf
+		character = {
+			dna = yzrbxvjfngs
+			properties = cd0eld
+			religion="catholic"
+			culture="sumpa"
+			government = feudal_government
+			dynasty=100780
+		}
+	}
+
+	selectable_character = {
+		id = 116205 # Pirate of Hawaii
 		age = 19
 		name = ERA_CHAR_NAME_116205
 		title = c_province0003
@@ -35,6 +127,23 @@ bm_wp = {
 			religion="germanic"
 			culture="nahuatl"
 			government = tribal_government
+			dynasty=100780
+		}
+	}    
+	selectable_character = {
+		id = 105145 # The Cywizard Emperor of China
+		age = 1065
+		name = ERA_CHAR_NAME_105145
+		title = e_china_west_governor
+		title_name = e_china_west_governor
+		dlc = "Jade Dragon"
+		character = {
+			dna = jsyetkwqpxw
+			properties = ai0lil
+			religion="taoist"
+			culture="han"
+			trait = full_cybernetic_conversion
+			government = feudal_government
 			dynasty=100780
 		}
 	}
