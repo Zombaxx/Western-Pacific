@@ -97,6 +97,34 @@ grand_invasion_war = {
 		custom_tooltip = { 
 			text = other_invasion_succ_tip
 			hidden_tooltip = {
+				usurp_title_plus_barony_if_unlanded = { target = ROOT type = invasion }
+				FROM = { set_defacto_liege = ROOT }
+				if = {
+					limit = {
+						FROM = { is_liege_or_above = ROOT }
+					}
+					FROM = { imprison = ROOT }
+				}
+				if = {
+					limit = {
+						any_independent_ruler = {
+							has_character_flag = preserve_vassal_structure_@ROOT
+						}
+					}
+					any_independent_ruler = {
+						limit = {
+							has_character_flag = preserve_vassal_structure_@ROOT
+						}
+						set_defacto_liege = ROOT
+					}
+				}
+				ROOT = {
+					any_vassal = {
+						clr_character_flag = preserve_vassal_structure_@ROOT
+					}
+				}
+			}
+			hidden_tooltip = {
 				ROOT = {
 					occupy_minors_of_occupied_settlements = FROM
 					gain_all_occupied_titles = FROM	
