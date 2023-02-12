@@ -97,6 +97,24 @@ grand_invasion_war = {
 		custom_tooltip = { 
 			text = other_invasion_succ_tip
 			hidden_tooltip = {
+				ROOT = {
+					occupy_minors_of_occupied_settlements = FROM
+					gain_all_occupied_titles = { who = FROM type = invasion }
+					
+					if = {
+						limit = {
+							has_nickname = no
+						}
+						random_list = {
+							10 = { give_nickname = nick_the_great }
+							10 = { give_nickname = nick_the_victorious }
+							10 = { give_nickname = nick_the_conqueror }
+							10 = { give_nickname = nick_the_brave }
+							10 = { give_nickname = nick_the_dragon }
+							10 = { give_nickname = nick_the_terrible }
+						}
+					}
+				}
 				usurp_title_plus_barony_if_unlanded = { target = ROOT type = invasion }
 				FROM = { set_defacto_liege = ROOT }
 				if = {
@@ -124,23 +142,8 @@ grand_invasion_war = {
 					}
 				}
 			}
-			hidden_tooltip = {
-				ROOT = {
-					occupy_minors_of_occupied_settlements = FROM
-					gain_all_occupied_titles = FROM	
-					}
-					
-					if = {
-						limit = {
-							has_nickname = no
-						}
-						random_list = {
-							10 = { give_nickname = nick_the_conqueror }
-						}
-					}
-				}
-			}
 		}
+	}
 
 	on_fail = {
 		FROM = {
