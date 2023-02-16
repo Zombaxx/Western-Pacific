@@ -15,3 +15,11 @@ culture = crimean_gothic
 religion = orthodox
 
 # History
+1.1.1 = {
+	build_wonder = wonder_cathedral_hagia_sophia #skyscraper ruins
+	set_wonder_stage = 1
+}
+
+1.1.2 = { set_wonder_damaged = yes }
+
+#1066.1.1 = { set_wonder_damaged = no }
