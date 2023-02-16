@@ -168,7 +168,7 @@ christian = {
 		can_retire_to_monastery = yes
 		priests_can_inherit = no
 		
-		max_consorts = 1 # Can take concubines
+		#max_consorts = 1 # Can take concubines
 		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
