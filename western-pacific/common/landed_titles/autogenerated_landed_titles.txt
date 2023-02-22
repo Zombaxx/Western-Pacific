@@ -724,6 +724,9 @@ e_toisi = {
 				
 				holy_site = hindu
 				holy_site = jain
+				holy_site = Mazdaki
+				holy_site = Manichaean
+				holy_site = zoroastrian
 				
 				b_ahmedabad = {
 				dynasty_title_names = no
@@ -16972,9 +16975,12 @@ e_outback = {
 				color={ 173 49 91 }
 				color2={ 255 255 255 }
 				
-				holy_site = zun_pagan_reformed
-				holy_site = finnish_pagan
 				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed_reformed
+				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed
+				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed
 				
 				b_nubild = {
 				dynasty_title_names = no
@@ -18929,13 +18935,17 @@ e_outback = {
 				color2={ 255 255 255 }
 				
 				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
 				holy_site = aztec_reformed
-				holy_site = zun_pagan_reformed
+				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed_reformed
 				holy_site = west_african_pagan_reformed
 				holy_site = west_african_pagan
 				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed
 				holy_site = aztec
 				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed
 				
 				b_alice_springs = {
 				dynasty_title_names = no
@@ -19262,10 +19272,13 @@ e_outback = {
 				color={ 245 240 219 }
 				color2={ 255 255 255 }
 				
-				holy_site = zun_pagan_reformed
+				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed_reformed
 				holy_site = messalian
 				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed
 				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed
 				
 				b_dyud = {
 				dynasty_title_names = no
@@ -19752,6 +19765,7 @@ e_outback = {
 				color2={ 255 255 255 }
 				
 				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
 				holy_site = aztec_reformed
 				holy_site = messalian
 				holy_site = aztec
@@ -20607,6 +20621,7 @@ e_aus = {
 				color2={ 255 255 255 }
 				
 				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
 				holy_site = nestorian
 				holy_site = aztec_reformed
 				holy_site = messalian
@@ -21309,6 +21324,7 @@ e_aus = {
 				color2={ 255 255 255 }
 				
 				holy_site = baltic_pagan
+				holy_site = baltic_pagan_reformed
 				holy_site = hellenic_pagan_reformed
 				holy_site = hellenic_pagan
 				
@@ -21426,6 +21442,7 @@ e_aus = {
 				color2={ 255 255 255 }
 				
 				holy_site = baltic_pagan
+				holy_site = baltic_pagan_reformed
 				holy_site = hellenic_pagan_reformed
 				holy_site = hellenic_pagan
 				
@@ -21468,6 +21485,7 @@ e_aus = {
 				color2={ 255 255 255 }
 				
 				holy_site = baltic_pagan
+				holy_site = baltic_pagan_reformed
 				holy_site = hellenic_pagan_reformed
 				holy_site = hellenic_pagan
 				
@@ -21529,7 +21547,9 @@ e_aus = {
 				color2={ 255 255 255 }
 				
 				holy_site = tengri_pagan
+				holy_site = tengri_pagan_reformed
 				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
 				holy_site = nestorian
 				holy_site = cathar
 				holy_site = bogomilist
@@ -21540,7 +21560,8 @@ e_aus = {
 				holy_site = jewish
 				holy_site = orthodox
 				holy_site = aztec_reformed
-				holy_site = tengri_pagan_reformed
+				holy_site = tengri_pagan
+				holy_site = tengri_pagan_reformed_reformed
 				holy_site = aztec
 				holy_site = fraticelli
 				
@@ -21737,11 +21758,15 @@ e_aus = {
 				color2={ 255 255 255 }
 				
 				holy_site = baltic_pagan
-				holy_site = zun_pagan_reformed
+				holy_site = baltic_pagan_reformed
+				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed_reformed
 				holy_site = hellenic_pagan_reformed
 				holy_site = hellenic_pagan
 				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed
 				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed
 				
 				b_abelora = {
 				dynasty_title_names = no
@@ -21816,7 +21841,8 @@ e_aus = {
 				color={ 193 96 62 }
 				color2={ 255 255 255 }
 				
-				holy_site = zun_pagan_reformed
+				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed_reformed
 				
 				b_kenijah = {
 				dynasty_title_names = no
@@ -21849,8 +21875,12 @@ e_aus = {
 				
 				holy_site = tengri_pagan
 				holy_site = tengri_pagan_reformed
+				holy_site = tengri_pagan
+				holy_site = tengri_pagan_reformed_reformed
 				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed
 				holy_site = zun_pagan
+				holy_site = zun_pagan_reformed
 				
 				b_sibuwe = {
 				dynasty_title_names = no
@@ -23615,6 +23645,8 @@ e_aus = {
 				
 				holy_site = tengri_pagan
 				holy_site = tengri_pagan_reformed
+				holy_site = tengri_pagan
+				holy_site = tengri_pagan_reformed_reformed
 				
 				b_nerarne = {
 				dynasty_title_names = no
@@ -24316,9 +24348,12 @@ e_aus = {
 				color2={ 255 255 255 }
 				
 				holy_site = tengri_pagan
-				holy_site = baltic_pagan
-				holy_site = hellenic_pagan_reformed
 				holy_site = tengri_pagan_reformed
+				holy_site = baltic_pagan
+				holy_site = baltic_pagan_reformed
+				holy_site = hellenic_pagan_reformed
+				holy_site = tengri_pagan
+				holy_site = tengri_pagan_reformed_reformed
 				holy_site = hellenic_pagan
 				
 				b_laseka = {
@@ -24669,6 +24704,8 @@ e_aus = {
 				
 				holy_site = tengri_pagan
 				holy_site = tengri_pagan_reformed
+				holy_site = tengri_pagan
+				holy_site = tengri_pagan_reformed_reformed
 				
 				b_kaxaret = {
 				dynasty_title_names = no
@@ -25580,6 +25617,7 @@ e_zealandia = {
 				color2={ 255 255 255 }
 				
 				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
 				holy_site = monothelite
 				holy_site = aztec_reformed
 				holy_site = west_african_pagan_reformed
