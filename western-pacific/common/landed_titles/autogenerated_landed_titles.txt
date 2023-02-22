@@ -4589,6 +4589,7 @@ e_siam = {
 				color2={ 255 255 255 }
 				
 				holy_site = bon
+				holy_site = bon_reformed
 				
 				b_doratok = {
 				dynasty_title_names = no
@@ -4641,6 +4642,7 @@ e_siam = {
 				color2={ 255 255 255 }
 				
 				holy_site = bon
+				holy_site = bon_reformed
 				
 				b_north_alba = {
 				dynasty_title_names = no
@@ -5263,6 +5265,7 @@ e_siam = {
 				
 				holy_site = buddhist
 				holy_site = bon
+				holy_site = bon_reformed
 				
 				b_phnom_penh = {
 				dynasty_title_names = no
@@ -5693,7 +5696,8 @@ e_siam = {
 			c_qirula = {
 				color={ 123 107 169 }
 				color2={ 255 255 255 }
-				
+				holy_site = bon
+				holy_site = bon_reformed
 				
 				b_qirula = { }
 				b_waleka = { }
@@ -5822,6 +5826,7 @@ e_siam = {
 				
 				holy_site = buddhist
 				holy_site = bon
+				holy_site = bon_reformed
 				holy_site = taoist
 				
 				b_tesecol = {
@@ -18007,7 +18012,7 @@ e_outback = {
 				color={ 57 56 3 }
 				color2={ 255 255 255 }
 				
-				holy_site = african_pagan_reformed
+				holy_site = west_african_pagan_reformed
 				holy_site = west_african_pagan
 				
 				b_kazyula = {
@@ -18926,7 +18931,7 @@ e_outback = {
 				holy_site = slavic_pagan
 				holy_site = aztec_reformed
 				holy_site = zun_pagan_reformed
-				holy_site = african_pagan_reformed
+				holy_site = west_african_pagan_reformed
 				holy_site = west_african_pagan
 				holy_site = finnish_pagan
 				holy_site = aztec
@@ -20170,7 +20175,7 @@ e_aus = {
 				color2={ 255 255 255 }
 				
 				holy_site = nestorian
-				holy_site = african_pagan_reformed
+				holy_site = west_african_pagan_reformed
 				holy_site = west_african_pagan
 				
 				b_ryyuns = {
@@ -22792,7 +22797,7 @@ e_aus = {
 				color={ 99 80 125 }
 				color2={ 255 255 255 }
 				
-				holy_site = african_pagan_reformed
+				holy_site = west_african_pagan_reformed
 				holy_site = west_african_pagan
 				
 				b_ekarandi = {
@@ -25577,7 +25582,7 @@ e_zealandia = {
 				holy_site = slavic_pagan
 				holy_site = monothelite
 				holy_site = aztec_reformed
-				holy_site = african_pagan_reformed
+				holy_site = west_african_pagan_reformed
 				holy_site = west_african_pagan
 				holy_site = aztec
 				
