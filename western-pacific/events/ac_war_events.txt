@@ -379,7 +379,7 @@ narrative_event = {
 		}
 	}
 	mean_time_to_happen = {
-		years = 25
+		years = 250
 		modifier = {
 			factor = 0.75
 			realm_size = 250
