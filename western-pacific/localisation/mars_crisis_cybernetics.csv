@@ -17,18 +17,20 @@ EVTOPTA_MC_9003;This magnificant child will bring glory to your dynasty!;;;;;;;;
 chinese_cybernetic_leg;Request Cybernetic Leg;;;;;;;;;;;;;x
 chinese_cybernetic_limb;Request Cybernetic Hand;;;;;;;;;;;;;x
 chinese_cybernetic_skeleton;Request Cybernetic Skeleton;;;;;;;;;;;;;x
-chinese_hiver_implant;Request Hiver Implant;;;;;;;;;;;;;x
-chinese_cybernetic_iaei_mk;Request Iaei Mk Implant;;;;;;;;;;;;;x
-chinese_cybernetic_odin_mk;Request Odin Mk Implant;;;;;;;;;;;;;x
-chinese_cybernetic_pci_mk;Request Pci Mk Implant;;;;;;;;;;;;;x
-chinese_cybernetic_pluto_mk;Request Pluto Mk Implant;;;;;;;;;;;;;x
-chinese_cybernetic_thoth_mk;Request Thoth Mk Implant;;;;;;;;;;;;;x
-chinese_cybernetic_leg_desc;Request the permanent installation of a Cybernetic Leg from the Celestial Empire.;;;;;;;;;;;;;x
-chinese_cybernetic_limb_desc;Request the permanent installation of a Cybernetic Hand from the Celestial Empire.;;;;;;;;;;;;;x
-chinese_cybernetic_skeleton_desc;Request the permanent installation of a Cybernetic Skeleton from the Celestial Empire, curing incapable.;;;;;;;;;;;;;x
-chinese_hiver_implant_desc;Request the permanent installation of a Cybernetic Hiver Implant from the Celestial Empire, curing infirm.;;;;;;;;;;;;;x
-chinese_cybernetic_iaei_mk_desc;Request the permanent installation of a Cybernetic Iaei Mk Implant from the Celestial Empire. If you already have a variant of this implant it will be upgraded one level.;;;;;;;;;;;;;x
-chinese_cybernetic_odin_mk_desc;Request the permanent installation of a Cybernetic Odin Mk Implant from the Celestial Empire. If you already have a variant of this implant it will be upgraded one level.;;;;;;;;;;;;;x
-chinese_cybernetic_pci_mk_desc;Request the permanent installation of a Cybernetic Pci Mk Implant from the Celestial Empire. If you already have a variant of this implant it will be upgraded one level.;;;;;;;;;;;;;x
-chinese_cybernetic_pluto_mk_desc;Request the permanent installation of a Cybernetic Pluto Mk Implant from the Celestial Empire. If you already have a variant of this implant it will be upgraded one level.;;;;;;;;;;;;;x
-chinese_cybernetic_thoth_mk_desc;Request the permanent installation of a Cybernetic Thoth Mk Implant from the Celestial Empire. If you already have a variant of this implant it will be upgraded one level.;;;;;;;;;;;;;x
+chinese_hiver_implant;Request Health Implant;;;;;;;;;;;;;x
+chinese_cybernetic_iaei_mk;Request Diplomacy Implant;;;;;;;;;;;;;x
+chinese_cybernetic_odin_mk;Request Martial Eye Implant;;;;;;;;;;;;;x
+chinese_cybernetic_pci_mk;Request Stewardship Implant;;;;;;;;;;;;;x
+chinese_cybernetic_pluto_mk;Request Intrigue Implant;;;;;;;;;;;;;x
+chinese_cybernetic_thoth_mk;Request Learning Implant;;;;;;;;;;;;;x
+chinese_cybernetic_leg_desc;Request the permanent installation of a Cybernetic Leg from the Narrator.;;;;;;;;;;;;;x
+chinese_cybernetic_limb_desc;Request the permanent installation of a Cybernetic Hand from the Narrator.;;;;;;;;;;;;;x
+chinese_cybernetic_skeleton_desc;Request the permanent installation of a Cybernetic Skeleton from the Narrator, curing incapable.;;;;;;;;;;;;;x
+chinese_hiver_implant_desc;Request the permanent installation of a Cybernetic Hiver Implant from the Narrator, curing infirm and providing a substantial health bonus at the cost of seemingly becoming possessed.;;;;;;;;;;;;;x
+chinese_cybernetic_iaei_mk_desc;Request the permanent installation of a Cybernetic Iaei Mk Implant from the Narrator. If you already have a variant of this implant it will be upgraded one level.;;;;;;;;;;;;;x
+chinese_cybernetic_odin_mk_desc;Request the permanent installation of a Cybernetic Odin Mk Implant from the Narrator, which will also fix one-eyed. If you already have a variant of this implant it will be upgraded one level.;;;;;;;;;;;;;x
+chinese_cybernetic_pci_mk_desc;Request the permanent installation of a Cybernetic Pci Mk Implant from the Narrator. If you already have a variant of this implant it will be upgraded one level.;;;;;;;;;;;;;x
+chinese_cybernetic_pluto_mk_desc;Request the permanent installation of a Cybernetic Pluto Mk Implant from the Narrator. If you already have a variant of this implant it will be upgraded one level.;;;;;;;;;;;;;x
+chinese_cybernetic_thoth_mk_desc;Request the permanent installation of a Cybernetic Thoth Mk Implant from the Narrator. If you already have a variant of this implant it will be upgraded one level.;;;;;;;;;;;;;x
+chinese_cyborg;Become a Cyborg;;;;;;;;;;;;;x
+chinese_cyborg_desc;Become a Cyborg, replacing your organic body with robotic parts, becoming immune to old age at the cost of fertility.;;;;;;;;;;;;;x

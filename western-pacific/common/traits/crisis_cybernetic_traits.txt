@@ -330,16 +330,16 @@ full_cybernetic_conversion = {
 	#	scarred
 	#	ill
 	#	# Any disease traits we put in should go here
-		cancer
-		pneumonic
-		syphilitic
-		leper
-		has_tuberculosis
-		has_typhoid_fever
-		has_typhus
-		has_bubonic_plague
-		has_measles
-		has_small_pox
+	#	cancer
+	#	pneumonic
+	#	syphilitic
+	#	leper
+	#	has_tuberculosis
+	#	has_typhoid_fever
+	#	has_typhus
+	#	has_bubonic_plague
+	#	has_measles
+	#	has_small_pox
 	}
 	is_health = yes
 	health = 10
@@ -386,7 +386,7 @@ hiver_implant = {
 	general_opinion = -25 # Resistance is futile.
 	same_opinion = 50 # You will be assimilated.
 	infidel_opinion = -25
-	health = 1
+	health = 5
 	martial = 1
 	stewardship = 1
 	learning = 1

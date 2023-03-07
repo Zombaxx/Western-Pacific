@@ -9,7 +9,7 @@ heavy_worlder = {
 	random = no
 	
 	combat_rating = 30	
-	health = +1.5
+	health = 1.5
 	global_tax_modifier = 0.1
 	same_opinion = 15
 	catholic_opinion = 20

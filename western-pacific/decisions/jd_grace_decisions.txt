@@ -4755,7 +4755,10 @@ offmap_decisions = {
 				NOT = { trait = incapable }
 				is_inaccessible_trigger = no
 				OR = {
+					ai = no
 					trait = infirm
+					trait = mystic
+					prestige = 5000
 					AND = { 
 						trait = lunatic
 						NOT = { trait = hiver_implant }
