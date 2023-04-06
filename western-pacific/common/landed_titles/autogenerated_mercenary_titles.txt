@@ -166,7 +166,7 @@ d_renain_band = {
 	strength_growth_per_century = 1.0
 	mercenary_type = hindustani_band_composition
 }
-d_utkalaâ_band = {
+d_utkalay_band = {
 	color={ 149 33 147 }
 	color2={ 255 255 255 }
 	

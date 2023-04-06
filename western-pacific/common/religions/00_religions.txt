@@ -13,7 +13,7 @@ secret_religion_visibility_trigger = {
 # male_temple_holders = no # If set to no, men cannot hold temples. Defaults to "yes". You might need to update your law scripts for this to fully work (see trigger "religion_allows_male_temple_holders")
 
 christian = {
-	has_coa_on_barony_only = no
+	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
 	crusade_cb = crusade
 	playable = yes
@@ -1061,7 +1061,7 @@ muslim = {
 }
 
 pagan_group = {
-	has_coa_on_barony_only = no
+	has_coa_on_barony_only = yes
 	graphical_culture = norsegfx
 	playable = yes
 	hostile_within_group = yes
@@ -2294,7 +2294,7 @@ pagan_group = {
 }
 
 zoroastrian_group = {
-	has_coa_on_barony_only = no
+	has_coa_on_barony_only = yes
 	graphical_culture = muslimgfx
 	playable = yes
 	
@@ -2516,7 +2516,7 @@ zoroastrian_group = {
 
 jewish_group = {
 	
-	has_coa_on_barony_only = no
+	has_coa_on_barony_only = yes
 	graphical_culture = jewishgfx
 	crusade_cb = crusade
 	playable = yes
@@ -2699,7 +2699,7 @@ indian_group = {
 		
 	}
 	buddhist = {
-		has_coa_on_barony_only = no
+		has_coa_on_barony_only = yes
 		graphical_culture = buddhistgfx
 		secondary_event_pictures = sunni
 
@@ -2798,7 +2798,7 @@ indian_group = {
 	taoist = {
 		graphical_culture = chinesegfx
 		secondary_event_pictures = sunni
-		has_coa_on_barony_only = no
+		has_coa_on_barony_only = yes
 		#alternate_start = { has_alternate_start_parameter = { key = religion value = full_random } }
 
 		icon = 53

@@ -850,7 +850,7 @@ e_bharat = {
 			}
 		}
 	}
-	k_utkalaâ  = {
+	k_utkalay  = {
 		color={ 149 33 147 }
 		color2={ 255 255 255 }
 		
