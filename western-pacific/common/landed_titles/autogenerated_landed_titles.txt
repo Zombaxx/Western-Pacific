@@ -16979,8 +16979,6 @@ e_outback = {
 				holy_site = zun_pagan_reformed_reformed
 				holy_site = finnish_pagan
 				holy_site = finnish_pagan_reformed
-				holy_site = zun_pagan
-				holy_site = zun_pagan_reformed
 				
 				b_nubild = {
 				dynasty_title_names = no
@@ -18944,8 +18942,6 @@ e_outback = {
 				holy_site = finnish_pagan
 				holy_site = finnish_pagan_reformed
 				holy_site = aztec
-				holy_site = zun_pagan
-				holy_site = zun_pagan_reformed
 				
 				b_alice_springs = {
 				dynasty_title_names = no
@@ -19277,8 +19273,6 @@ e_outback = {
 				holy_site = messalian
 				holy_site = finnish_pagan
 				holy_site = finnish_pagan_reformed
-				holy_site = zun_pagan
-				holy_site = zun_pagan_reformed
 				
 				b_dyud = {
 				dynasty_title_names = no
@@ -21765,8 +21759,6 @@ e_aus = {
 				holy_site = hellenic_pagan
 				holy_site = finnish_pagan
 				holy_site = finnish_pagan_reformed
-				holy_site = zun_pagan
-				holy_site = zun_pagan_reformed
 				
 				b_abelora = {
 				dynasty_title_names = no
@@ -21841,8 +21833,6 @@ e_aus = {
 				color={ 193 96 62 }
 				color2={ 255 255 255 }
 				
-				holy_site = zun_pagan
-				holy_site = zun_pagan_reformed_reformed
 				
 				b_kenijah = {
 				dynasty_title_names = no
