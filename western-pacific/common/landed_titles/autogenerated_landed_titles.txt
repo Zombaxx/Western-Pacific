@@ -16976,7 +16976,7 @@ e_outback = {
 				color2={ 255 255 255 }
 				
 				holy_site = zun_pagan
-				holy_site = zun_pagan_reformed_reformed
+				holy_site = zun_pagan_reformed
 				holy_site = finnish_pagan
 				holy_site = finnish_pagan_reformed
 				
@@ -18936,7 +18936,7 @@ e_outback = {
 				holy_site = slavic_pagan_reformed
 				holy_site = aztec_reformed
 				holy_site = zun_pagan
-				holy_site = zun_pagan_reformed_reformed
+				holy_site = zun_pagan_reformed
 				holy_site = west_african_pagan_reformed
 				holy_site = west_african_pagan
 				holy_site = finnish_pagan
@@ -19269,7 +19269,7 @@ e_outback = {
 				color2={ 255 255 255 }
 				
 				holy_site = zun_pagan
-				holy_site = zun_pagan_reformed_reformed
+				holy_site = zun_pagan_reformed
 				holy_site = messalian
 				holy_site = finnish_pagan
 				holy_site = finnish_pagan_reformed
@@ -21554,8 +21554,6 @@ e_aus = {
 				holy_site = jewish
 				holy_site = orthodox
 				holy_site = aztec_reformed
-				holy_site = tengri_pagan
-				holy_site = tengri_pagan_reformed_reformed
 				holy_site = aztec
 				holy_site = fraticelli
 				
@@ -21754,7 +21752,7 @@ e_aus = {
 				holy_site = baltic_pagan
 				holy_site = baltic_pagan_reformed
 				holy_site = zun_pagan
-				holy_site = zun_pagan_reformed_reformed
+				holy_site = zun_pagan_reformed
 				holy_site = hellenic_pagan_reformed
 				holy_site = hellenic_pagan
 				holy_site = finnish_pagan
@@ -21865,8 +21863,6 @@ e_aus = {
 				
 				holy_site = tengri_pagan
 				holy_site = tengri_pagan_reformed
-				holy_site = tengri_pagan
-				holy_site = tengri_pagan_reformed_reformed
 				holy_site = finnish_pagan
 				holy_site = finnish_pagan_reformed
 				holy_site = zun_pagan
@@ -23635,8 +23631,6 @@ e_aus = {
 				
 				holy_site = tengri_pagan
 				holy_site = tengri_pagan_reformed
-				holy_site = tengri_pagan
-				holy_site = tengri_pagan_reformed_reformed
 				
 				b_nerarne = {
 				dynasty_title_names = no
@@ -24342,8 +24336,6 @@ e_aus = {
 				holy_site = baltic_pagan
 				holy_site = baltic_pagan_reformed
 				holy_site = hellenic_pagan_reformed
-				holy_site = tengri_pagan
-				holy_site = tengri_pagan_reformed_reformed
 				holy_site = hellenic_pagan
 				
 				b_laseka = {
@@ -24694,8 +24686,6 @@ e_aus = {
 				
 				holy_site = tengri_pagan
 				holy_site = tengri_pagan_reformed
-				holy_site = tengri_pagan
-				holy_site = tengri_pagan_reformed_reformed
 				
 				b_kaxaret = {
 				dynasty_title_names = no
