@@ -390,7 +390,27 @@ narrative_event = {
 		}
 		modifier = {
 			factor = 1.75
-			stewardship = 15
+			stewardship = 12
+		}
+		modifier = {
+			factor = 1.75
+			stewardship = 16
+		}
+		modifier = {
+			factor = 1.75
+			stewardship = 20
+		}
+		modifier = {
+			factor = 1.75
+			diplomacy = 15
+		}
+		modifier = {
+			factor = 1.75
+			diplomacy = 20
+		}
+		modifier = {
+			factor = 1.75
+			diplomacy = 25
 		}
 		modifier = {
 			factor = 1.25
@@ -419,6 +439,30 @@ narrative_event = {
 		modifier = {
 			factor = 1.25
 			trait = hajjaj
+		}
+		modifier = {
+			factor = 1.75
+			stewardship = 12
+		}
+		modifier = {
+			factor = 1.75
+			stewardship = 16
+		}
+		modifier = {
+			factor = 1.75
+			stewardship = 20
+		}
+		modifier = {
+			factor = 1.75
+			diplomacy = 15
+		}
+		modifier = {
+			factor = 1.75
+			diplomacy = 20
+		}
+		modifier = {
+			factor = 1.75
+			diplomacy = 25
 		}
 		modifier = {
 			factor = 0.5

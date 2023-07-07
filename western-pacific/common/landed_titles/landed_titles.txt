@@ -315,7 +315,6 @@ d_sunni = {
 	controls_religion = sunni
 	
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {}
 			religion = sunni
@@ -416,7 +415,6 @@ d_shiite = {
 	controls_religion = shiite
 	
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {}
 			religion = shiite
@@ -1522,7 +1520,6 @@ d_sunni_cuman_company = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1567,7 +1564,6 @@ d_sunni_berber_company = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1612,7 +1608,6 @@ d_sunni_bedouin_company = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1687,7 +1682,6 @@ d_shiite_cuman_company = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1732,7 +1726,6 @@ d_shiite_berber_company = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1777,7 +1770,6 @@ d_shiite_bedouin_company = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1822,7 +1814,6 @@ d_white_company = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1864,7 +1855,6 @@ d_great_company = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1905,7 +1895,6 @@ d_company_of_st_george = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1946,7 +1935,6 @@ d_star_company = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -1987,7 +1975,6 @@ d_little_hat_company = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2028,7 +2015,6 @@ d_rose_company = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2071,7 +2057,6 @@ d_catalan_company = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2117,7 +2102,6 @@ d_navarrese_company = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2154,7 +2138,6 @@ d_swiss_company = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2195,7 +2178,6 @@ d_breton_company = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2237,7 +2219,6 @@ d_sardinian_company = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2279,7 +2260,6 @@ d_sardinian_band = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2322,7 +2302,6 @@ d_victual_brothers = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2429,7 +2408,6 @@ d_rus_company = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2566,7 +2544,6 @@ d_lombard_band = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2607,7 +2584,6 @@ d_swiss_band = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2648,7 +2624,6 @@ d_breton_band = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2693,7 +2668,6 @@ d_catalan_band = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2737,7 +2711,6 @@ d_saxon_band = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2814,7 +2787,6 @@ d_rus_band = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2861,7 +2833,6 @@ d_finnish_band = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2907,7 +2878,6 @@ d_lappish_band = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2953,7 +2923,6 @@ d_lithuanian_band = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -2999,7 +2968,6 @@ d_abyssinian_band = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3045,7 +3013,6 @@ d_nubian_band = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3091,7 +3058,6 @@ d_scottish_band = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3296,7 +3262,6 @@ d_mamluks = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3336,7 +3301,6 @@ d_venetian_navy = { # Now "Adriatic Galleys"
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3378,7 +3342,6 @@ d_genoese_navy = { # Now "Ligurian Galleys"
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3420,7 +3383,6 @@ d_hanseatic_navy = { # Now "Baltic Cogs"
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3462,7 +3424,6 @@ d_frisian_navy = { # Now "North Sea Cogs"
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3504,7 +3465,6 @@ d_maghreb_corsairs = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3548,7 +3508,6 @@ d_ghilman = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -3586,7 +3545,6 @@ d_ghanan_band = {
 	
 	# Hire Trigger
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				NOT = {
@@ -4030,7 +3988,6 @@ d_swiss = {
 	capital = 246 # Schwyz
 
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				d_swiss = {
@@ -4334,7 +4291,6 @@ d_thessalia = {
 	color2={ 255 255 20 }
 
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				d_thessalia = {
@@ -4353,7 +4309,6 @@ d_peloponnese = {
 	color2={ 255 255 20 }
 
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {
 				d_peloponnese = {
@@ -4853,7 +4808,6 @@ d_ibadi = {
 	controls_religion = ibadi
 	
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {}
 			religion = ibadi
@@ -4934,7 +4888,6 @@ d_kharijite = {
 	controls_religion = kharijite
 	
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {}
 			religion = kharijite
@@ -5015,7 +4968,6 @@ d_hurufi = {
 	controls_religion = hurufi
 	
 	allow = {
-		allow = { always = no }
 		conditional_tooltip = {
 			trigger = {}
 			religion = hurufi

@@ -3202,6 +3202,7 @@ tribal_invasion = {
 			}
 			is_nomadic = no
 			OR = {
+				religion = taoist
 				AND = {
 					has_dlc = "Horse Lords"
 					higher_tier_than = COUNT
@@ -9556,10 +9557,10 @@ imperial_reconquest = {
 	can_use = {
 		ROOT = {
 			OR = {
-				has_landed_title = e_roman_empire
-				has_landed_title = e_valles_marineris
-				has_landed_title = e_alba_mons
-				has_landed_title = e_west_argyre
+				has_landed_title = k_rome
+				has_landed_title = e_united_states
+				has_landed_title = e_european_union
+				has_landed_title = e_eurasia
 			}
 			independent = yes
 			OR = { 
@@ -9576,33 +9577,27 @@ imperial_reconquest = {
 	}
 
 	can_use_title = {
-		OR = {
-			de_jure_liege_or_above = k_tharsis_tholus
-			de_jure_liege_or_above = k_tithonium
-			de_jure_liege_or_above = k_noctis_fossae
-			de_jure_liege_or_above = k_xanthe_terra
-			de_jure_liege_or_above = k_aurorae_planum
-			de_jure_liege_or_above = k_valles_marineris
-			de_jure_liege_or_above = k_oudemans
-			de_jure_liege_or_above = k_south_marineris
-			de_jure_liege_or_above = k_nereidum_montes
-			de_jure_liege_or_above = k_bosporos_planum
-		}
+			OR = {
+				has_landed_title = k_rome
+				has_landed_title = e_united_states
+				has_landed_title = e_european_union
+				has_landed_title = e_eurasia
+			}
 	}
 	
 	is_valid = {
 		ROOT = {
 			independent = yes
-			OR = { 
-				religion_group = christian
-				religion_group = jewish_group
-				religion = hellenic_pagan
-				religion = hellenic_pagan_reformed
-				religion = west_african_pagan
-				religion = west_african_pagan_reformed
-				religion = zun_pagan
-				religion = zun_pagan_reformed
-			}
+			#OR = { 
+			#	religion_group = christian
+			#	religion_group = jewish_group
+			#	religion = hellenic_pagan
+			#	religion = hellenic_pagan_reformed
+			#	religion = west_african_pagan
+			#	religion = west_african_pagan_reformed
+			#	religion = zun_pagan
+			#	religion = zun_pagan_reformed
+			#}
 			NOT = { same_realm = FROM }
 		}
 	}
